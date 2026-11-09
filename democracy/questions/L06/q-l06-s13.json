@@ -1,0 +1,118 @@
+{
+  "id": "q-l06-s13",
+  "type": "semantic-descriptive@1",
+  "answerMode": "text",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Grassroots institutions take Indian democracy beyond elections. Explain how, with reference to active Gram Sabhas and women's reservation in local bodies."
+  },
+  "rubric": [
+    {
+      "id": "gram-sabha-participation",
+      "label": {
+        "en": "Explains that active Gram Sabhas give villagers a direct part in decision-making between elections"
+      },
+      "level1": {
+        "en": "After an election is over, where in a village can ordinary citizens still take part in decisions?"
+      },
+      "clue": {
+        "en": "In an active Gram Sabha the villagers themselves meet with a proper quorum, keep records, and act on education, sanitation and welfare, so their part does not end after voting."
+      },
+      "level2Template": {
+        "en": "An active Gram Sabha keeps villagers directly involved in ___ between elections."
+      },
+      "accepted": [
+        "decision-making",
+        "deciding local matters",
+        "governance",
+        "local decisions"
+      ]
+    },
+    {
+      "id": "womens-reservation-seats",
+      "label": {
+        "en": "States that reservation gives women a set share of the seats in local bodies, so that they take part in decisions"
+      },
+      "level1": "What do the Constitution's rules provide for women in local bodies?",
+      "clue": {
+        "en": "Not less than one-third of the seats filled by direct election are reserved for women, and many States have raised this to 50%, so women take part in making the decisions."
+      },
+      "level2Template": {
+        "en": "Articles 243(d) and 243(t) reserve not less than ___ of the seats filled by direct election in local bodies for women."
+      },
+      "accepted": [
+        "one-third",
+        "one third",
+        "1/3"
+      ]
+    },
+    {
+      "id": "responsive-inclusive-effective",
+      "label": {
+        "en": "Concludes that such participation makes democracy more responsive, inclusive and effective at all levels"
+      },
+      "level1": {
+        "en": "What happens to decisions when the people affected by them help to make them?"
+      },
+      "clue": {
+        "en": "Jethipura's Gram Sabhas and South Manubankul's women-friendly panchayat show that when citizens take part at the grassroots, democracy becomes more responsive, inclusive and effective."
+      },
+      "level2Template": {
+        "en": "Wide participation at the grassroots makes Indian democracy more responsive and ___ at all levels."
+      },
+      "accepted": [
+        "inclusive",
+        "effective"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "Democracy goes further when citizens take part beyond voting, in the institutions closest to them."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "The Gram Sabha"
+      },
+      "text": {
+        "en": "An active Gram Sabha keeps villagers directly involved in decision-making between elections: it meets with a quorum, keeps records, and acts on education, sanitation and welfare."
+      },
+      "rubricId": "gram-sabha-participation"
+    },
+    {
+      "eyebrow": {
+        "en": "Reserved seats"
+      },
+      "text": {
+        "en": "Articles 243(d) and 243(t) reserve not less than one-third of the seats filled by direct election in local bodies for women, so women take part in making decisions."
+      },
+      "rubricId": "womens-reservation-seats"
+    },
+    {
+      "eyebrow": {
+        "en": "Combined effect"
+      },
+      "text": {
+        "en": "Together these make Indian democracy more responsive, inclusive and effective at all levels, as villages like Jethipura and South Manubankul show."
+      },
+      "rubricId": "responsive-inclusive-effective"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.523Z"
+  }
+}

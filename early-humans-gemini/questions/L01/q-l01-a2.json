@@ -1,0 +1,66 @@
+{
+  "id": "q-l01-a2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Archaeologists dig a site with no writing. They find a rich grave with gold beads, a hearth with charred grain, and the base of a wall. Which statement goes beyond what these objects can show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The people here cooked or burned grain on a fire."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A hearth with charred grain is direct evidence of this, so the statement stays close to the objects."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Gold beads were placed in this grave."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The beads were found in the grave, so this is what the ground shows."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The person in the grave was the ruler of this village."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Someone here built a wall on this spot."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The base of the wall is there in the trench, so this stays close to the evidence."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A rich grave shows that someone was buried with valuable things. It cannot show a title or a job, because nobody's name or rank is written in the soil. The person could have been a ruler, but objects alone cannot tell us that."
+  },
+  "hints": [
+    {
+      "en": "Which statement needs a name or a title that nobody wrote down?"
+    }
+  ],
+  "tags": [
+    "archaeology",
+    "evidence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

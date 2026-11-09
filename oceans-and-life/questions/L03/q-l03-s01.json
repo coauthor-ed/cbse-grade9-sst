@@ -1,0 +1,71 @@
+{
+  "id": "q-l03-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Why do spring tides come on both full moon days and new moon days?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The Moon is closest to the Earth on both days"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The Moon's distance is not what makes these two days the same."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The Sun's heat is strongest on both days"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The tide is a matter of pull, and heat does not raise it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sun, Earth and Moon lie in one straight line"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. In a line, the pulls of the Sun and the Moon combine."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The Moon is at its brightest on both days"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The new moon does not shine in our sky at all."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "On full moon and new moon days the Sun, the Earth and the Moon are in a straight line. The two pulls combine, so high tides are unusually high and low tides unusually low."
+  },
+  "hints": [
+    {
+      "en": "Think of where the Moon stands in the two positions."
+    }
+  ],
+  "tags": [
+    "tides",
+    "spring-tide",
+    "moon-phases"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:30.294Z",
+    "reviewedBy": "review-bar"
+  }
+}

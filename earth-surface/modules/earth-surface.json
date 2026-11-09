@@ -1,0 +1,86 @@
+{
+  "id": "earth-surface",
+  "moduleId": "earth-surface",
+  "type": "module",
+  "authorId": "earth-surface",
+  "title": {
+    "en": "Shaping of the Earth's Surface"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "earth-interior-and-heat-flow",
+      "plate-tectonics",
+      "earthquakes-and-volcanoes",
+      "weathering-and-erosion",
+      "running-water",
+      "waves-and-currents",
+      "glaciers",
+      "wind",
+      "groundwater-and-karst",
+      "landforms-and-disasters"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "What is inside the Earth, and why does the ground move?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "What are plates, and how do they meet?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "Where do earthquakes and volcanoes happen, and is India at risk?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "How do rocks break down and get carried away?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "What does a river make on its way to the sea?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "How do waves shape a coast?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "What do glaciers carve and leave behind?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08.json",
+      "title": {
+        "en": "What does wind do in a desert?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-09.json",
+      "title": {
+        "en": "What does underground water do to limestone?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-10.json",
+      "title": {
+        "en": "Which disasters come with which landforms, and how do we prepare?"
+      }
+    }
+  ]
+}

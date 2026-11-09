@@ -1,0 +1,15 @@
+{
+  "id": "blk-l03-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L03/TideWindowGameScene.js",
+  "objective": {
+    "en": "Bring all three ships over the bar: choose the moon and the hour so that the water is deeper than each ship's draught."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:30.294Z",
+    "reviewedBy": "review-bar"
+  }
+}

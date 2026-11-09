@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07/blk-l07-s01.md",
+  "simulation": {
+    "src": "simulations/L07/SizeVsStatusScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:24.206Z",
+    "reviewedBy": "review-bar"
+  }
+}

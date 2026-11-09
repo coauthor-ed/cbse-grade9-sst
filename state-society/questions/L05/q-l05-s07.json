@@ -1,0 +1,48 @@
+{
+  "id": "q-l05-s07",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "assertion": {
+    "en": "Pallava villages functioned relatively independently of the royal administration."
+  },
+  "reason": {
+    "en": "Their village assemblies had small committees, known as variyams, that managed tasks like irrigation, gardens and temple management."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both are true, but the reason does explain the assertion: the committees are how a village managed its own work."
+    },
+    "c": {
+      "en": "The assertion is true, and so is the reason: variyams are recorded as managing irrigation, gardens and temple management."
+    },
+    "d": {
+      "en": "The assertion is true. Villages did function relatively independently, so this option cannot be right."
+    }
+  },
+  "explanation": {
+    "en": "Pallava villages functioned relatively independently of the royal administration, and the reason is how: their assemblies had small committees, the variyams, for tasks like irrigation, gardens and temple management."
+  },
+  "hints": [
+    {
+      "en": "Check each statement on its own first."
+    },
+    {
+      "en": "Then ask whether the committees show how a village could run itself."
+    }
+  ],
+  "tags": [
+    "village-committees",
+    "village",
+    "autonomy",
+    "administration",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:24.273Z",
+    "reviewedBy": "review-bar"
+  }
+}

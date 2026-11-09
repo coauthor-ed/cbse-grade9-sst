@@ -1,0 +1,71 @@
+{
+  "id": "q-l06-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Seismic stations report an undersea earthquake. Which stage of the tsunami warning system comes next?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Tracking, with coastal tide gauges and radars"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Tracking comes third. First the system must find out whether there is a tsunami at all."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Confirmation, with recorders on the sea floor"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Not every undersea earthquake makes a tsunami, so OBPRs check for tsunami waves."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Warning Dissemination, by satellite and SMS"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Alerts go out in the last stage, after the threat is confirmed and tracked."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Detection, by a second set of seismic stations"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Detection has already happened. The next question is whether a tsunami wave is passing."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The four stages are Detection, Confirmation, Tracking and Warning Dissemination. Not every undersea earthquake makes a tsunami, so after detection the OBPRs on the sea floor check for tsunami waves."
+  },
+  "hints": [
+    {
+      "en": "Which stage asks whether there is really a wave?"
+    }
+  ],
+  "tags": [
+    "tsunami",
+    "warning-system",
+    "stages"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:43.334Z",
+    "reviewedBy": "review-bar"
+  }
+}

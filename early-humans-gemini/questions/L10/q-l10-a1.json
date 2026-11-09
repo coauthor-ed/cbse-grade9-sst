@@ -1,0 +1,67 @@
+{
+  "id": "q-l10-a1",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Imagine a stone with the same message in two scripts, and nobody today can read either of them. Would it help the way the Rosetta Stone did?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Yes, because any two scripts side by side are enough."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Two unknown scripts give nothing to start from. Scholars need one side they can already read."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No, because at least one of the scripts must already be readable."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Yes, if the stone is large enough."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "More text helps only if part of it can be read. Size cannot replace a known script."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No, because only Greek can ever work as a key."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Greek worked because people still read it. Any language people still read could do the same job."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The Rosetta Stone worked because Greek could still be read. The known script gives the meaning, and the lost script can then be matched to it."
+  },
+  "hints": [
+    {
+      "en": "What did the Greek part give scholars that the other parts could not?"
+    }
+  ],
+  "tags": [
+    "egypt",
+    "rosetta-stone",
+    "decipherment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "les-10",
+  "type": "lesson",
+  "title": {
+    "en": "Egypt's Lost Script"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L10/blk-l10-s00.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s01.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s02.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s03.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s03b.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-a1.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s04.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-a2.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s05.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s06.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s07.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s08.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s09.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-game.json"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

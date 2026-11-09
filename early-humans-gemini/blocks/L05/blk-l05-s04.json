@@ -1,0 +1,37 @@
+{
+  "id": "blk-l05-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05/blk-l05-s04.md",
+  "image": {
+    "src": "media/L05/L05S04.jpg",
+    "alt": "A drawing of four Neolithic stone tools on a flat surface: a polished celt, a ring stone, a saddle quern and a second ring stone, each with a small scale bar.",
+    "position": "right"
+  },
+  "simulation": {
+    "src": "simulations/L05/GrainToFlourScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "simulationStep": 4,
+  "reveal": {
+    "images": {
+      "ring": {
+        "src": "media/L05/L05S04-b2.jpg",
+        "alt": "A drawing of a perforated ring stone, of the kind that may have weighted a digging stick, with a scale bar."
+      },
+      "quern": {
+        "src": "media/L05/L05S04-b3.jpg",
+        "alt": "A Neolithic saddle quern: a large rough lower stone with a curved depression worn into its upper surface, beside a small hand-stone used to grind grain against it."
+      },
+      "pot": {
+        "src": "media/L05/L05S04-b4.jpg",
+        "alt": "A hand-built earthenware Neolithic storage pot, rounded body, narrow neck and a flat rim, fired in muted orange-brown clay."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

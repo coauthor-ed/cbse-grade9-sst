@@ -1,0 +1,61 @@
+{
+  "id": "q-l04-s11",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "tags": [
+    "atmosphere",
+    "land-breeze",
+    "sea-breeze"
+  ],
+  "stem": {
+    "en": "On a sunny afternoon the sand on a beach is much hotter than the sea beside it. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Sunlight falls only on the sand, not on the sea."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sunlight falls on both."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Heat stays near the surface of sand, but mixes deep into water."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Water shares the same heat through much more depth."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The sand is closer to the Sun than the water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They are at almost the same distance from the Sun."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Sunlight warms only a thin top layer of sand, so that layer gets hot quickly. In the sea, heat is mixed down through deep water, so the surface warms slowly."
+  },
+  "hints": [
+    {
+      "en": "Sunlight reaches both. What happens to the heat after that?"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T08:20:31.000Z",
+    "reviewedBy": "owner"
+  }
+}

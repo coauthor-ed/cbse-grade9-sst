@@ -1,0 +1,111 @@
+{
+  "id": "q-l01-s06",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Sort each description into the layer it belongs to."
+  },
+  "categories": [
+    {
+      "id": "lith",
+      "label": {
+        "en": "Lithosphere"
+      }
+    },
+    {
+      "id": "asth",
+      "label": {
+        "en": "Asthenosphere"
+      }
+    },
+    {
+      "id": "outer",
+      "label": {
+        "en": "Outer core"
+      }
+    },
+    {
+      "id": "inner",
+      "label": {
+        "en": "Inner core"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-0",
+      "text": {
+        "en": "Rigid outer shell"
+      },
+      "correctCategoryId": "lith"
+    },
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Includes the crust"
+      },
+      "correctCategoryId": "lith"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Semi-molten layer"
+      },
+      "correctCategoryId": "asth"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Lets the plates move"
+      },
+      "correctCategoryId": "asth"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Fluid iron and nickel"
+      },
+      "correctCategoryId": "outer"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "Lies just under the mantle"
+      },
+      "correctCategoryId": "outer"
+    },
+    {
+      "id": "chip-6",
+      "text": {
+        "en": "Solid, spinning metal ball"
+      },
+      "correctCategoryId": "inner"
+    },
+    {
+      "id": "chip-7",
+      "text": {
+        "en": "Densest part of the Earth"
+      },
+      "correctCategoryId": "inner"
+    }
+  ],
+  "explanation": {
+    "en": "The lithosphere is the rigid shell that includes the crust. The asthenosphere under it is semi-molten and lets the plates move. The outer core is fluid iron and nickel, just under the mantle. The inner core is a solid, spinning ball and the densest part of the Earth."
+  },
+  "hints": [
+    {
+      "en": "Start with the two layers near the surface. Which one is rigid?"
+    }
+  ],
+  "tags": [
+    "layers",
+    "interior"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedBy": "owner",
+    "reviewedAt": "2026-11-01T15:43:10.000Z"
+  }
+}

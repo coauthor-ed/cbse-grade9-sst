@@ -1,0 +1,74 @@
+{
+  "id": "q-l09-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Water drips from the roof of a limestone cave onto the floor. Why does new rock form in both places?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Rock breaks off the roof and piles up on the floor."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Stalagmites are not fallen rock. They are built from what the water carries."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cold cave air freezes the drops hard into stone."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing freezes here. A mineral is left behind as the water loses gas."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Drops lose carbon dioxide and leave calcite."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The drop then cannot hold all its dissolved rock, on the roof or on the floor."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The roof and the floor are made of different rocks."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both forms are the same mineral, carried by the same drops."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Water dissolves limestone on its way down. In the cave air each drop loses carbon dioxide, so it can no longer hold all that dissolved rock. Calcite is left on the roof, and more is left where the drop lands."
+  },
+  "hints": [
+    {
+      "en": "Think about what the water is carrying, and what changes when it meets the air."
+    }
+  ],
+  "tags": [
+    "karst",
+    "cave",
+    "stalactite",
+    "stalagmite",
+    "limestone",
+    "chemical-weathering"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:51.498Z",
+    "reviewedBy": "review-bar"
+  }
+}

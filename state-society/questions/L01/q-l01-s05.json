@@ -1,0 +1,47 @@
+{
+  "id": "q-l01-s05",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "assertion": {
+    "en": "In the sentence \"The Brāhmaṇas explain how rituals are performed\", the word Brāhmaṇas means a set of texts."
+  },
+  "reason": {
+    "en": "The Brāhmaṇas are written in prose and offer explanations for ritual performances."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both statements are true, and the second does explain the first: it says what the Brāhmaṇas are and what they do."
+    },
+    "c": {
+      "en": "The reason is true. The Brāhmaṇas are the prose part of each Veda."
+    },
+    "d": {
+      "en": "The assertion is true. A sentence about explaining rituals is about the texts, not about a group of people."
+    }
+  },
+  "explanation": {
+    "en": "Brāhman is a concept, the Ultimate Universal Being. The Brāhmaṇas are texts, the prose part of each Veda. Brāhmaṇas or Brahmins are a varṇa category. A sentence about explaining rituals points to the texts."
+  },
+  "hints": [
+    {
+      "en": "First decide if each statement is true by itself. Then ask if the second explains the first."
+    },
+    {
+      "en": "Ask what the sentence is about: an idea, a text, or a group of people."
+    }
+  ],
+  "tags": [
+    "vedas",
+    "brāhmaṇa",
+    "disambiguation",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:04.889Z",
+    "reviewedBy": "review-bar"
+  }
+}

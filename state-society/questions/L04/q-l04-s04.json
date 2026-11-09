@@ -1,0 +1,47 @@
+{
+  "id": "q-l04-s04",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "assertion": {
+    "en": "Historians think a council of ministers could act on its own in exceptional circumstances."
+  },
+  "reason": {
+    "en": "An Aśhokan inscription refers to decisions taken by the council during the emperor's absence."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both statements are true, and the second does explain the first: the inscription is the evidence for it."
+    },
+    "c": {
+      "en": "The reason is true. An Aśhokan inscription does refer to such decisions."
+    },
+    "d": {
+      "en": "The assertion is true. Historians do think the council could act on its own in exceptional circumstances."
+    }
+  },
+  "explanation": {
+    "en": "The council of ministers was a small body of elder statesmen whose main role was to advise and support the king. An Aśhokan inscription refers to decisions it took during the emperor's absence, so historians think it could act on its own in exceptional circumstances."
+  },
+  "hints": [
+    {
+      "en": "First decide if each statement is true by itself."
+    },
+    {
+      "en": "Does the inscription give historians a reason to think so?"
+    }
+  ],
+  "tags": [
+    "council-of-ministers",
+    "mantri-parishad",
+    "ashoka",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:19.089Z",
+    "reviewedBy": "review-bar"
+  }
+}

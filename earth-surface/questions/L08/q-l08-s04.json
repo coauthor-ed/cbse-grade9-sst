@@ -1,0 +1,103 @@
+{
+  "id": "q-l08-s04",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Sort each landform by what the wind did to make it."
+  },
+  "categories": [
+    {
+      "id": "cut",
+      "label": {
+        "en": "Wind took material away"
+      }
+    },
+    {
+      "id": "built",
+      "label": {
+        "en": "Wind put material down"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-yardang",
+      "text": {
+        "en": "Yardang"
+      },
+      "correctCategoryId": "cut"
+    },
+    {
+      "id": "chip-ventifact",
+      "text": {
+        "en": "Ventifact"
+      },
+      "correctCategoryId": "cut"
+    },
+    {
+      "id": "chip-hollow",
+      "text": {
+        "en": "Deflation hollow"
+      },
+      "correctCategoryId": "cut"
+    },
+    {
+      "id": "chip-pavement",
+      "text": {
+        "en": "Desert pavement"
+      },
+      "correctCategoryId": "cut"
+    },
+    {
+      "id": "chip-barchan",
+      "text": {
+        "en": "Barchan"
+      },
+      "correctCategoryId": "built"
+    },
+    {
+      "id": "chip-star",
+      "text": {
+        "en": "Star dune"
+      },
+      "correctCategoryId": "built"
+    },
+    {
+      "id": "chip-long",
+      "text": {
+        "en": "Longitudinal dune"
+      },
+      "correctCategoryId": "built"
+    },
+    {
+      "id": "chip-para",
+      "text": {
+        "en": "Parabolic dune"
+      },
+      "correctCategoryId": "built"
+    }
+  ],
+  "explanation": {
+    "en": "Yardangs and ventifacts are rock cut by sand. A deflation hollow and a desert pavement are left when loose grains are blown away. All dunes are sand put down by the wind."
+  },
+  "hints": [
+    {
+      "en": "Ask of each one: is it made of sand heaped up, or is it what remains after something was removed?"
+    }
+  ],
+  "tags": [
+    "wind",
+    "deflation-hollow",
+    "desert-pavement",
+    "yardang",
+    "barchan",
+    "wind-deposition"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:46.378Z",
+    "reviewedBy": "review-bar"
+  }
+}

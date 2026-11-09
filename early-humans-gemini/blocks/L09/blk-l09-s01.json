@@ -1,0 +1,31 @@
+{
+  "id": "blk-l09-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L09/blk-l09-s01.md",
+  "reveal": {
+    "images": {
+      "whole": {
+        "src": "media/L09/L09S01.jpg",
+        "alt": "A drawing of a baked clay tablet covered in rows of wedge-shaped marks"
+      },
+      "closeup": {
+        "src": "media/L09/L09S01-b2.jpg",
+        "alt": "A close drawing of the deep, sharp wedge marks in the clay"
+      },
+      "transcript": {
+        "src": "media/L09/L09S01-b4.jpg",
+        "alt": "A drawing of a tablet beside a modern copy of its rows: number strokes and small pictures of goods"
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  },
+  "image": {
+    "src": "media/L09/L09S01.jpg",
+    "alt": "A drawing of a baked clay tablet covered in wedge-shaped marks",
+    "position": "right"
+  }
+}

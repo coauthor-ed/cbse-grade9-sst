@@ -1,0 +1,63 @@
+{
+  "id": "q-l02-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In six States, the legislature has two houses. Which of these is NOT a way to become a member of the Vidhan Parishad?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Being elected by members of the Vidhan Sabha and local bodies."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Being elected by graduates and teachers in the State."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Being chosen by all voters of the State, as for the Vidhan Sabha."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Being nominated by the Governor from fields such as art and science."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Vidhan Parishad members are elected by members of the Vidhan Sabha and local bodies, and by graduates and teachers, and some are nominated by the Governor. All the voters of a State do not elect this house directly."
+  },
+  "hints": [
+    {
+      "en": "The question asks for the one that is NOT a route."
+    },
+    {
+      "en": "Which house do all the voters elect directly?"
+    }
+  ],
+  "tags": [
+    "vidhan-parishad",
+    "bicameral",
+    "proportional-representation",
+    "governor"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:02.694Z",
+    "reviewedBy": "review-bar"
+  }
+}

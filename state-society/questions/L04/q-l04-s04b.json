@@ -1,0 +1,63 @@
+{
+  "id": "q-l04-s04b",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "What was the main role of the mantri-pariṣhad?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "To advise and support the king."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "To replace the king as ruler of the state."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "To represent all the people of the villages."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "To collect the taxes in each village."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The mantri-pariṣhad was a small body of elder statesmen whose primary role was to advise and support the king. It generally included the treasurer, the chief tax collector, the chief legal advisor and the commander-in-chief of the army."
+  },
+  "hints": [
+    {
+      "en": "It was a small body of elder statesmen close to the king."
+    },
+    {
+      "en": "It could decide on its own only in exceptional circumstances."
+    }
+  ],
+  "tags": [
+    "council-of-ministers",
+    "posts",
+    "advice",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:19.089Z",
+    "reviewedBy": "review-bar"
+  }
+}

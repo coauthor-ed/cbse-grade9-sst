@@ -1,0 +1,73 @@
+{
+  "id": "q-l09-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A flat limestone plain has a large cavity under it, and the rock roof of the cavity is getting thinner. What is most likely to happen?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A river will cut a deep valley down from the surface."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "There may be no river on top. The change comes from the hollow below."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The roof will fall in, and a sinkhole will open."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A thin roof cannot hold the ground above, so it collapses."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The cavity will fill up, and the ground will rise."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Water is removing rock here, so the cavity grows larger."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Nothing will change, because limestone never breaks."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Limestone can dissolve and its roofs can fall."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Water dissolves rock and the cavity grows while the roof gets thinner. In the end the roof cannot hold the ground above it and collapses. The hole left at the surface is a sinkhole, also called a doline."
+  },
+  "hints": [
+    {
+      "en": "What holds up the ground above the cavity?"
+    }
+  ],
+  "tags": [
+    "karst",
+    "sinkhole",
+    "doline",
+    "limestone",
+    "cavity"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:51.498Z",
+    "reviewedBy": "review-bar"
+  }
+}

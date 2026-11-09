@@ -1,0 +1,71 @@
+{
+  "id": "q-l09-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Two ships meet head-on at night in open water. What should each ship do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Turn to its own left"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Turning left would bring them across each other's path. The rule is to turn right."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Turn to its own right"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Each ship turns to its own right, and they pass left side to left side."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Hold course until they pass"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Two ships holding course head-on will collide."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Stop and wait for daylight"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Stopping is not the rule, and it does not get either ship out of the way."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "When two ships meet head-on, both have to act. Each turns to its own right, so the two pass left side to left side, which sailors call port to port."
+  },
+  "hints": [
+    {
+      "en": "This is the one meeting where both ships do the same thing."
+    }
+  ],
+  "tags": [
+    "colregs",
+    "head-on",
+    "rules-of-the-road"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:57.623Z",
+    "reviewedBy": "review-bar"
+  }
+}

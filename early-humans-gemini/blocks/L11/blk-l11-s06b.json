@@ -1,0 +1,24 @@
+{
+  "id": "blk-l11-s06b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L11/blk-l11-s06b.md",
+  "image": {
+    "src": "media/L11/L11S06-3biim.jpg",
+    "alt": "A drawing of a statue of Hatshepsut as pharaoh, with crown, false beard and crossed arms",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "reveal": {
+    "images": {
+      "beard": {
+        "src": "media/L11/L11S06-b3-hcbml.jpg",
+        "alt": "A close drawing of the false ceremonial beard on a statue of a pharaoh"
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

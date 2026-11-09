@@ -1,0 +1,47 @@
+{
+  "id": "q-l04-s10",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "assertion": {
+    "en": "Wind at a place is the movement of air from a high-pressure area towards a low-pressure area."
+  },
+  "reason": {
+    "en": "Where warm air rises, less air presses on the ground, so the pressure there is lower."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both statements are true, and the Reason does explain the Assertion: it shows why pressure differs from place to place."
+    },
+    "c": {
+      "en": "The Reason is true. Warm rising air does leave lower pressure."
+    },
+    "d": {
+      "en": "The Assertion is true. Wind is air moving from high pressure to low pressure."
+    }
+  },
+  "explanation": {
+    "en": "Both statements are true. Rising warm air leaves low pressure, and air then moves towards it from higher pressure. So the Reason explains why wind blows from high to low."
+  },
+  "hints": [
+    {
+      "en": "Is each statement true on its own?"
+    },
+    {
+      "en": "Does the Reason explain how the pressure difference arises?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "wind",
+    "pressure",
+    "gradient"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:17.642Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "q-l04-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "The Arthaśhāstra says that \"one wheel does not move the carriage\". What idea does this line express?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A king should travel often by carriage to see his kingdom."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Good government needs cooperation and a well-organised administration."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A kingdom should be ruled by two kings at the same time."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A king should spend more of the treasury on roads."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The line captures the belief that effective governance requires cooperation and a well-organised administrative system. Sources from the period indicate that the king did not rule alone."
+  },
+  "hints": [
+    {
+      "en": "The line is a comparison. The king is one wheel."
+    },
+    {
+      "en": "What is the second wheel in a kingdom: a second king, or other people working with him?"
+    }
+  ],
+  "tags": [
+    "arthashastra",
+    "saptanga",
+    "governance",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:19.089Z",
+    "reviewedBy": "review-bar"
+  }
+}

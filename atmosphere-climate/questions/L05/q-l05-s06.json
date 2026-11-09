@@ -1,0 +1,73 @@
+{
+  "id": "q-l05-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The north-east monsoon is cold and dry, yet it brings rain to Tamil Nadu. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It picks up moisture from the Thar Desert."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A desert has little water to give."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It starts over the Indian Ocean as a wet wind."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This wind starts over the land, and it is dry."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It turns around and blows from the south-west."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is the summer monsoon, in other months."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It picks up moisture while crossing the Bay of Bengal."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The water it crosses gives it moisture."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The north-east monsoon starts over land, so it is cold and dry. When it passes over the Bay of Bengal it picks up moisture, and it brings rain to the eastern coast, especially Tamil Nadu, Andhra Pradesh and parts of Karnataka."
+  },
+  "hints": [
+    {
+      "en": "What lies between the land the wind leaves and the coast of Tamil Nadu?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "monsoon",
+    "north-east-monsoon",
+    "bay-of-bengal",
+    "rainfall"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:27.401Z",
+    "reviewedBy": "review-bar"
+  }
+}

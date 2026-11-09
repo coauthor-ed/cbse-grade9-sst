@@ -1,0 +1,59 @@
+{
+  "id": "q-l01-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Air is 78 per cent nitrogen and 21 per cent oxygen. What share is left for all the other gases together?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "About 0.04 per cent"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "About 0.93 per cent"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "About 1 per cent"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "About 10 per cent"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "78 + 21 = 99, so 1 per cent is left. Argon (0.93), carbon dioxide (0.04) and the others (0.03) add up to exactly 1.00. The option 0.93 is argon alone, and 0.04 is carbon dioxide alone."
+  },
+  "hints": [
+    {
+      "en": "Add nitrogen and oxygen, then take the total away from 100."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "composition",
+    "carbon-dioxide"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:06.382Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "q-l03-s02",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "statements": [
+    {
+      "id": "st1",
+      "text": {
+        "en": "Kingship was generally hereditary."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "st2",
+      "text": {
+        "en": "Succession was entirely hereditary in practice."
+      },
+      "isTrue": false
+    },
+    {
+      "id": "st3",
+      "text": {
+        "en": "There are references to kings being elected or even expelled."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "st4",
+      "text": {
+        "en": "Royal authority was always absolute."
+      },
+      "isTrue": false
+    }
+  ],
+  "explanation": {
+    "en": "Kingship was generally hereditary, but there are references to kings being elected or even expelled. This suggests that royal authority was not always absolute and that succession was not entirely hereditary in practice."
+  },
+  "hints": [
+    {
+      "en": "Watch for the words \"always\" and \"entirely\"."
+    },
+    {
+      "en": "What do elected and expelled kings tell us about the general rule?"
+    }
+  ],
+  "tags": [
+    "succession",
+    "hereditary",
+    "elective",
+    "statement-judgment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:14.624Z",
+    "reviewedBy": "review-bar"
+  }
+}

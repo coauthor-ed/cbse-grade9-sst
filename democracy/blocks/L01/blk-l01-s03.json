@@ -1,0 +1,17 @@
+{
+  "id": "blk-l01-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Where Does a Government's Power Come From?\n\n<!-- STEP id=\"power-by-birth\" -->\n## Power Not Chosen by the People\n\nThe Gir booth is not a mistake or a show: it exists because every vote counts the same. To see why, first picture a ruler whose power does not depend on the people's choice. His orders go down to the people.\n\n<!-- STEP id=\"power-from-people\" -->\n## Power Given by the People\n\nIn a democracy, the source of power and authority lies with the citizens. They elect their representatives through free and fair elections, so the government gets its power from the people.\n\n<!-- STEP id=\"popular-sovereignty\" -->\n## Popular Sovereignty\n\nThe name of this idea is **popular sovereignty**: the state gets its authority from the people. If power comes from the citizens, then no citizen can be left out, however far away that citizen lives.\n\n**A booth for one voter is popular sovereignty in practice.**"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L01/PowerSourceScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.500Z"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "q-l04-s11",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Match each democratic process to the main institution that carries it out."
+  },
+  "categories": [
+    {
+      "id": "legislative",
+      "label": {
+        "en": "Legislative Process"
+      }
+    },
+    {
+      "id": "electoral",
+      "label": {
+        "en": "Electoral Process"
+      }
+    },
+    {
+      "id": "judicial",
+      "label": {
+        "en": "Judicial Process"
+      }
+    },
+    {
+      "id": "participatory",
+      "label": {
+        "en": "Participatory Processes"
+      }
+    },
+    {
+      "id": "accountability",
+      "label": {
+        "en": "Accountability Mechanisms"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-parliament",
+      "text": {
+        "en": "Parliament and State legislatures"
+      },
+      "correctCategoryId": "legislative"
+    },
+    {
+      "id": "chip-eci",
+      "text": {
+        "en": "Election Commission of India"
+      },
+      "correctCategoryId": "electoral"
+    },
+    {
+      "id": "chip-courts",
+      "text": {
+        "en": "Courts"
+      },
+      "correctCategoryId": "judicial"
+    },
+    {
+      "id": "chip-media",
+      "text": {
+        "en": "Newspapers, news channels, social media platforms"
+      },
+      "correctCategoryId": "participatory"
+    },
+    {
+      "id": "chip-civil-society",
+      "text": {
+        "en": "Voluntary groups and community associations"
+      },
+      "correctCategoryId": "participatory"
+    },
+    {
+      "id": "chip-watchdogs",
+      "text": {
+        "en": "CAG, CIC, Lokpal, CVC"
+      },
+      "correctCategoryId": "accountability"
+    }
+  ],
+  "explanation": {
+    "en": "The legislature makes laws, the Election Commission of India runs elections, and courts settle disputes. Debate and discussion belong to the media and civil society together, which is why two cards go under Participatory Processes. The CAG, CIC, Lokpal and CVC support accountability."
+  },
+  "hints": [
+    {
+      "en": "Ask what each one actually does: makes laws, runs elections, settles disputes, speaks up in public, or checks the government."
+    }
+  ],
+  "tags": [
+    "democratic-institutions",
+    "accountability",
+    "participation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.516Z"
+  }
+}

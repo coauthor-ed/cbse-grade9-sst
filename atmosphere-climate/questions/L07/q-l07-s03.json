@@ -1,0 +1,64 @@
+{
+  "id": "q-l07-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "In the climograph builder, the June point on Delhi's temperature line is drawn from Table 3.3's value of 33.3 degrees Celsius, with a second hollow point at about 30.4 degrees marked where Fig. 3.14 plots the same month. Why does the lesson show both rather than choosing one?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Because the hollow point is Delhi's night-time minimum, and the filled point its daily maximum."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Because the chapter's own table and the chapter's own printed graph disagree for that month, and showing both is the honest way to report a disagreement instead of silently picking a winner."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Because 30.4 degrees is the long-run average and 33.3 degrees is last year's figure, which is why only one of them belongs on a climograph."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Because the graph's scale is in Fahrenheit at that point, so the two numbers are the same temperature written twice."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Table 3.3 prints Delhi's June temperature as 33.3 degrees Celsius, the same figure it gives for May, while Fig. 3.14 - the chapter's own printed climograph of Delhi - plots June at roughly 30.4 degrees, visibly below the May peak beside it. Both cannot be the value the chapter intends. Rather than pick one and present it as the chapter's single number, the lesson draws the table's figure as the line's point and marks the graph's figure as a second, hollow point on the same month, so a learner sees the disagreement itself. The same treatment is given to Jodhpur's September figure of 20.1 degrees Celsius, which sits between an August of 29.0 and an October of 27.0 and repeats November's value exactly - very likely a printing slip for about 30.1. It is left as printed and flagged, not corrected. The wrong options each invent a reason that would make the disagreement uninteresting: a daily range, a change of period, and a change of unit all explain the two numbers away, and all three are unsupported by anything the chapter states."
+  },
+  "hints": [
+    {
+      "en": "Look at the May value in each place. Does the table's May figure match the graph's May peak?"
+    },
+    {
+      "en": "The lesson never says one of the two is right. What is it doing instead?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "climate-data",
+    "climograph",
+    "data-quality",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:42.603Z",
+    "reviewedBy": "review-bar"
+  }
+}

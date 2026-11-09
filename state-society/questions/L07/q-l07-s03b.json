@@ -1,0 +1,64 @@
+{
+  "id": "q-l07-s03b",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "How does the Ṛig Veda describe ṛita?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "As a list of duties for students at a gurukula."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "As the name of the first king of the Vedic people."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "As an all-pervading cosmic order that stands for harmony and balance in nature and human society."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "As a tax paid by villages to the ruler."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The Ṛig Veda describes ṛita as an all-pervading cosmic order representing harmony and balance in nature and in human society. It regulates the forces of nature and upholds moral values."
+  },
+  "hints": [
+    {
+      "en": "Ṛita is about order."
+    },
+    {
+      "en": "It covers both nature and society."
+    }
+  ],
+  "tags": [
+    "satya",
+    "rita",
+    "samatva",
+    "vedas",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:34.561Z",
+    "reviewedBy": "review-bar"
+  }
+}

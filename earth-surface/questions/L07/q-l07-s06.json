@@ -1,0 +1,70 @@
+{
+  "id": "q-l07-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A valley has a wide floor and steep sides, and a wall of loose rock lies across it. What most likely made these features?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A glacier, now melted"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. A U-shape and a terminal moraine are signs of ice."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A river in its lower course"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A lower river makes floodplains and deltas, not a U-shape with a moraine."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Wind blowing across a desert"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Wind shapes sand and rock in deserts, not these valley forms."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Groundwater under limestone"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Groundwater dissolves limestone into caves and sinkholes."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ice widens a valley into a U and leaves till at its furthest reach. Together these two features show that a glacier once filled the valley."
+  },
+  "hints": [
+    {
+      "en": "Which agent carves a U?"
+    }
+  ],
+  "tags": [
+    "glacial-erosion",
+    "moraine"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:41.306Z",
+    "reviewedBy": "review-bar"
+  }
+}

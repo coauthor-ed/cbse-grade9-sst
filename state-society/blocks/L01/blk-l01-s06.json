@@ -1,0 +1,15 @@
+{
+  "id": "blk-l01-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L01/AssemblyDeskScene.js",
+  "objective": {
+    "en": "Send each matter to the assembly that dealt with it."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:04.889Z",
+    "reviewedBy": "review-bar"
+  }
+}

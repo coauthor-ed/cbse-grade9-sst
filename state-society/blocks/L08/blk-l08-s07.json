@@ -1,0 +1,15 @@
+{
+  "id": "blk-l08-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L08/OccupationSortGame.js",
+  "objective": {
+    "en": "Match each source to what it shows."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:40.217Z",
+    "reviewedBy": "review-bar"
+  }
+}

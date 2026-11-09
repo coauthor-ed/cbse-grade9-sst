@@ -1,0 +1,127 @@
+{
+  "id": "q-l11-s08",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "The book draws Egyptian society as a pyramid with four levels. Sort each person into the right level."
+  },
+  "image": {
+    "src": "media/L11/L11S08.jpg",
+    "alt": "A drawing of a four-level pyramid of Egyptian society, from one ruler at the top to many workers at the base",
+    "position": "right"
+  },
+  "categories": [
+    {
+      "id": "pharaoh",
+      "label": {
+        "en": "Pharaoh"
+      }
+    },
+    {
+      "id": "officials",
+      "label": {
+        "en": "Officials, Nobles and Priests"
+      }
+    },
+    {
+      "id": "crafts",
+      "label": {
+        "en": "Free Landholders, Artisans and Merchants"
+      }
+    },
+    {
+      "id": "labour",
+      "label": {
+        "en": "Serfs and Slaves"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-divine-ruler",
+      "text": {
+        "en": "Divine ruler"
+      },
+      "correctCategoryId": "pharaoh"
+    },
+    {
+      "id": "chip-vizier",
+      "text": {
+        "en": "High official"
+      },
+      "correctCategoryId": "officials"
+    },
+    {
+      "id": "chip-temple-priest",
+      "text": {
+        "en": "Temple priest"
+      },
+      "correctCategoryId": "officials"
+    },
+    {
+      "id": "chip-scribe",
+      "text": {
+        "en": "Scribe"
+      },
+      "correctCategoryId": "officials"
+    },
+    {
+      "id": "chip-potter",
+      "text": {
+        "en": "Potter"
+      },
+      "correctCategoryId": "crafts"
+    },
+    {
+      "id": "chip-merchant",
+      "text": {
+        "en": "Merchant"
+      },
+      "correctCategoryId": "crafts"
+    },
+    {
+      "id": "chip-independent-farmer",
+      "text": {
+        "en": "Free landholder"
+      },
+      "correctCategoryId": "crafts"
+    },
+    {
+      "id": "chip-field-labourer",
+      "text": {
+        "en": "Serf on the land"
+      },
+      "correctCategoryId": "labour"
+    },
+    {
+      "id": "chip-construction-worker",
+      "text": {
+        "en": "Stone hauler"
+      },
+      "correctCategoryId": "labour"
+    }
+  ],
+  "explanation": {
+    "en": "The pharaoh stood at the top. Officials, priests and scribes ran the government and temples. Free landholders, potters and merchants made and traded goods. Serfs and slaves were the largest group, and they did the farm work and the heaviest hauling."
+  },
+  "hints": [
+    {
+      "en": "Scribes kept records for the government, so they worked close to the officials."
+    },
+    {
+      "en": "The heaviest work came from the widest level of the pyramid."
+    }
+  ],
+  "tags": [
+    "egypt",
+    "social-hierarchy",
+    "pharaoh",
+    "ancient-civilisations"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

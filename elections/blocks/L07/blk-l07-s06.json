@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L07/RecognitionDeskScene.js",
+  "objective": {
+    "en": "Read five party records. Choose each party's class and the route that carries it."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:24.206Z",
+    "reviewedBy": "review-bar"
+  }
+}

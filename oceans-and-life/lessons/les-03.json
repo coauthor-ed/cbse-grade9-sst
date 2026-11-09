@@ -1,0 +1,71 @@
+{
+  "id": "les-03",
+  "lessonId": "les-03",
+  "type": "lesson",
+  "title": {
+    "en": "Why does the sea rise and fall twice a day?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03/blk-l03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s01b.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s09b.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s03.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s01.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s04.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s06.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s05.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s03.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s04.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s06.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s05.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s07.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s07b.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s08.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:30.294Z",
+    "reviewedBy": "review-bar"
+  }
+}

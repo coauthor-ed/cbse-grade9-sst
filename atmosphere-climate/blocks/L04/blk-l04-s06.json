@@ -1,0 +1,15 @@
+{
+  "id": "blk-l04-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s06.md",
+  "simulation": {
+    "src": "simulations/L04/BeaufortScaleScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:17.642Z",
+    "reviewedBy": "review-bar"
+  }
+}

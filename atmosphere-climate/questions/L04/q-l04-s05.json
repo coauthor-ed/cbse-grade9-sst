@@ -1,0 +1,84 @@
+{
+  "id": "q-l04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "North of the equator, one area of a weather map reads 1012 at its centre and another reads 984. Which describes the wind?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It blows out of the 984 area into the 1012 area, bending as the Earth turns."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Wind moves from high pressure to low, not low to high."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It blows in a dead straight line from the 1012 area to the 984 area."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The direction is right, but the Earth's rotation bends the path."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It stays where it is, because each area keeps its own air."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A pressure difference always sets air moving."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It blows out of the 1012 area into the 984 area, bending as the Earth turns."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Pressure sets the direction and rotation bends the path."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Air moves from high pressure to low pressure, so it flows out of the 1012 area into the 984 area. The Earth's rotation bends the path: clockwise out of a high and anticlockwise into a low, north of the equator."
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L04/exp-q-l04-s05.json"
+      }
+    ]
+  },
+  "hints": [
+    {
+      "en": "Which number is the high?"
+    },
+    {
+      "en": "What does the Earth's rotation do to moving air?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "pressure",
+    "wind",
+    "isobars",
+    "rotation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:17.642Z",
+    "reviewedBy": "review-bar"
+  }
+}

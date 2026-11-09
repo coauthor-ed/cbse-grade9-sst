@@ -1,0 +1,68 @@
+{
+  "id": "q-l10-s05",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "The ruins of Takṣhaśhilā show various types of housing, drainage and waste management. What can a historian fairly conclude from these remains?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Only the king and his officers ever lived in this place."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Students came here only from the nearest villages."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It was a large, well-organised place, planned for many people to live in."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The ruins show exactly which lessons were taught each day."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L10/exp-q-l10-s05.json"
+      }
+    ]
+  },
+  "explanation": {
+    "en": "Housing of various types, with drainage and waste management, shows careful planning for many people. Stones cannot show who taught which lesson, or by themselves show where each student came from. Written sources tell us that such institutions drew students from India and other regions."
+  },
+  "hints": [
+    {
+      "en": "Ask what stones and drains can show, and what they cannot show."
+    }
+  ],
+  "tags": [
+    "takshashila",
+    "continuity",
+    "archaeology",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:49.938Z",
+    "reviewedBy": "review-bar"
+  }
+}

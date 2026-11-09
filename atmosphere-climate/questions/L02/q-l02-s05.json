@@ -1,0 +1,47 @@
+{
+  "id": "q-l02-s05",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "assertion": {
+    "en": "Most meteors burn up in the mesosphere."
+  },
+  "reason": {
+    "en": "They are already very hot when they arrive from space."
+  },
+  "correctOptionId": "c",
+  "optionFeedback": {
+    "a": {
+      "en": "The Reason is false. Space is cold, so the rock is not hot when it arrives."
+    },
+    "b": {
+      "en": "The Reason is false, not just unrelated. A meteor is cold until it reaches the air."
+    },
+    "d": {
+      "en": "The Assertion is true. The mesosphere, 50 to 80 km high, is where most of them burn up."
+    }
+  },
+  "explanation": {
+    "en": "The Assertion is true and the Reason is false. A meteor arrives cold. It moves so fast that the air ahead of it is squeezed and becomes very hot, and this turns the rock to vapour."
+  },
+  "hints": [
+    {
+      "en": "Decide on each statement alone first."
+    },
+    {
+      "en": "Is space hot or cold?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "mesosphere",
+    "meteorites",
+    "layers"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:11.924Z",
+    "reviewedBy": "review-bar"
+  }
+}

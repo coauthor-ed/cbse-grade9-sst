@@ -1,0 +1,71 @@
+{
+  "id": "q-l02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Waves are cutting a cave into a headland. Which is the right match of process and job?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Hydraulic action: moving water loosens rock. Abrasion: carried rock grinds it."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. One is the force of the water, and the other is grinding by what the water carries."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Abrasion: moving water loosens rock. Hydraulic action: carried rock grinds it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The names are swapped. Hydraulic action is the force of moving water."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both of them: the sea drops its sand, and the sand hardens into new rock."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Dropping sand builds. Neither of these processes builds anything."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Both of them: wind blows dry salt into the rock over many thousands of years."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Both are the work of moving water, not wind."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Hydraulic action is erosion by the force of moving water, which loosens and removes material. Abrasion is the grinding of the rock by the sand and stones the waves carry."
+  },
+  "hints": [
+    {
+      "en": "\"Hydraulic\" has to do with water. The other one works by rubbing."
+    }
+  ],
+  "tags": [
+    "hydraulic-action",
+    "abrasion",
+    "coastal-erosion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:25.965Z",
+    "reviewedBy": "review-bar"
+  }
+}

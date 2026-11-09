@@ -1,0 +1,80 @@
+{
+  "id": "q-l04-s07",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Why is the sea off Norway largely free of ice, while the sea off Labrador, further south, carries icebergs?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Warm air from America blows over Norway, not over Labrador."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "For sea ice, it is the water that makes the difference."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both coasts lie at the same latitude, but Norway has less rain."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The two coasts are not at the same latitude: Norway is further north."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Norway gets a warm current, and Labrador a cold one."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The Gulf Stream brings warm water towards Norway, and the Labrador Current brings freezing water along Canada's coast."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Norway lies nearer the Equator, so its sea ice melts more quickly."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Norway is further from the Equator, which is why its open sea is so surprising."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The Gulf Stream, a warm current, flows from the Gulf of Mexico towards Norway. The Labrador Current, a cold current, carries freezing water along the east coast of Canada. So the coast further north has less ice, and latitude alone does not decide how cold a sea is."
+  },
+  "hints": [
+    {
+      "en": "Name the current on each side, and say whether it is warm or cold."
+    }
+  ],
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L04/exp-q-l04-s07.json"
+      }
+    ]
+  },
+  "tags": [
+    "ocean-currents",
+    "gulf-stream",
+    "labrador-current",
+    "latitude"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:34.781Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "q-l06-s02",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "On a map of normal monsoon dates, Mumbai lies between the 10 June and 15 June lines. Delhi lies between the 25 June and 30 June lines. What does this tell you?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Mumbai usually gets the monsoon about two weeks before Delhi"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Mid-June comes about two weeks before the end of June."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Delhi usually gets the monsoon about two weeks before Mumbai"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Delhi's dates are later in June than Mumbai's."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Mumbai and Delhi usually get the monsoon on the same day"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. They lie on different lines, so their dates differ."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Mumbai usually gets the monsoon about two months before Delhi"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Both dates are in June, so the gap is about two weeks."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A place between two lines gets the monsoon between those two dates. Mumbai's dates are around 10 to 15 June and Delhi's are around 25 to 30 June, so the gap is about two weeks."
+  },
+  "hints": [
+    {
+      "en": "Find the date range for each city."
+    },
+    {
+      "en": "Subtract: how far is 12 June from 27 June?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "monsoon",
+    "onset",
+    "isochrone",
+    "bay-of-bengal",
+    "north-east"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:36.866Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "blk-l08-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L08/blk-l08-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes, even a tiny share can do it"
+    },
+    {
+      "id": "b",
+      "text": "No, 0.04 per cent is too small to matter"
+    },
+    {
+      "id": "c",
+      "text": "Only once it reaches 1 per cent"
+    },
+    {
+      "id": "d",
+      "text": "Only if oxygen falls at the same time"
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L08/GasSmallShareScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:53.484Z",
+    "reviewedBy": "review-bar"
+  }
+}

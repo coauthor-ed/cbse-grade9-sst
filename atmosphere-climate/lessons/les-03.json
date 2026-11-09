@@ -1,0 +1,74 @@
+{
+  "id": "les-03",
+  "lessonId": "les-03",
+  "type": "lesson",
+  "title": {
+    "en": "Why are some places hot and others cold?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03/blk-l03-s00.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s00b.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s09.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s03.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s01.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s03.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s03b.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s06.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s03c.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s10.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s04.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s04.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s05.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s05.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s07.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-a01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s07.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s09.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "review-bar",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:22.666Z"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "les-04",
+  "lessonId": "les-04",
+  "type": "lesson",
+  "title": {
+    "en": "What makes the air move?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L04/blk-l04-s00.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s01.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s01.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s02.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s03.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s03.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s04.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s04.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s04b.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s05.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s05.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s06.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s06.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s07.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s07.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s11.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-a01.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s09.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s08.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s09.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s10.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s10.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "review-bar",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:17.642Z"
+  }
+}

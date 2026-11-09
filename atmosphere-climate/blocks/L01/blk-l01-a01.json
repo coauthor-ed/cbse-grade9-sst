@@ -1,0 +1,15 @@
+{
+  "id": "blk-l01-a01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01/blk-l01-a01.md",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:06.382Z",
+    "reviewedBy": "review-bar"
+  },
+  "simulation": {
+    "src": "simulations/L01/AirContentsSortScene.js",
+    "position": "below"
+  }
+}

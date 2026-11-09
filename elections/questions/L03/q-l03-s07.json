@@ -1,0 +1,128 @@
+{
+  "id": "q-l03-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "prompt": {
+    "en": "Three examples of electoral offences are: a gift or promise to make a person vote; an appeal on the basis of religion or caste; and help from government personnel for a candidate. Say what each one protects, and why such offences harm the whole election and not just a rival."
+  },
+  "rubric": [
+    {
+      "id": "voter-and-community",
+      "label": {
+        "en": "The first protects a voter's free choice, and the second stops people being asked to vote by religion, caste or community"
+      },
+      "level1": {
+        "en": "What does each of the first two examples protect?"
+      },
+      "clue": {
+        "en": "One keeps a person's choice free. The other stops a whole group being asked to vote as one."
+      },
+      "level2Template": {
+        "en": "The first protects the voter's free choice, and the second stops a community being asked to vote as one ___."
+      },
+      "accepted": [
+        "group",
+        "bloc",
+        "block",
+        "community"
+      ]
+    },
+    {
+      "id": "official-neutrality",
+      "label": {
+        "en": "The third keeps government personnel neutral, so that public officers do not help one candidate"
+      },
+      "level1": {
+        "en": "What does the third example protect?"
+      },
+      "clue": {
+        "en": "Think of police or judges, who serve everyone, helping only one candidate."
+      },
+      "level2Template": {
+        "en": "The third keeps the ___ of government personnel, who must not help one candidate."
+      },
+      "accepted": [
+        "neutrality",
+        "the neutrality of officials",
+        "official neutrality",
+        "impartiality",
+        "the neutrality of public officers",
+        "public officers"
+      ]
+    },
+    {
+      "id": "process-not-rival",
+      "label": {
+        "en": "These offences harm every voter's free choice, and not only one rival"
+      },
+      "level1": {
+        "en": "Who loses when a vote is bought or an officer helps one candidate?"
+      },
+      "clue": {
+        "en": "Think of every voter, and not just the other candidates."
+      },
+      "level2Template": {
+        "en": "These offences harm the free choice of every voter, and not only one ___."
+      },
+      "accepted": [
+        "opponent",
+        "rival",
+        "candidate",
+        "political opponent",
+        "other candidate",
+        "rival candidate",
+        "particular candidate"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The claim"
+      },
+      "text": {
+        "en": "Each example protects something that a free election needs, and the harm reaches every voter."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "The first two"
+      },
+      "text": {
+        "en": "The first keeps a voter's choice free from gifts, offers and promises. The second stops people being asked to vote on the basis of religion, caste, race, community or language."
+      },
+      "rubricId": "voter-and-community"
+    },
+    {
+      "eyebrow": {
+        "en": "The third"
+      },
+      "text": {
+        "en": "The third keeps government personnel, such as police and judges, neutral, so that they give no help to one candidate."
+      },
+      "rubricId": "official-neutrality"
+    },
+    {
+      "eyebrow": {
+        "en": "Why it harms everyone"
+      },
+      "text": {
+        "en": "A fair contest needs voters who choose freely and officers who treat all candidates alike. These offences damage that for every voter, and not only for one rival."
+      },
+      "rubricId": "process-not-rival"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:06.864Z",
+    "reviewedBy": "review-bar"
+  }
+}

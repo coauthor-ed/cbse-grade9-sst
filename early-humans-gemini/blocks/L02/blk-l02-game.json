@@ -1,0 +1,14 @@
+{
+  "id": "blk-l02-game",
+  "type": "mini-game@1",
+  "src": "simulations/L02/OpenCorridorGame.js",
+  "objective": {
+    "en": "Tap an ancestor, then tap when it left Africa. Look at the climate as well as the date."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

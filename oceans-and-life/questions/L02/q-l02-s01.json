@@ -1,0 +1,70 @@
+{
+  "id": "q-l02-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "What mainly causes the waves on the sea, and what do they carry over long distances?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The Earth turning, and they carry water"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The turning Earth does not make waves, and waves do not carry the water along."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Wind on the water, and they carry energy"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Waves are mainly caused by wind, and they carry energy across the oceans."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The Moon pulling, and they carry sand"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The pull of the Moon is about tides, which are a different movement."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Salty water sinking, and they carry heat"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Waves are mainly made by wind blowing across the water."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Waves are primarily caused by winds blowing across the water. They carry energy across the oceans over long distances."
+  },
+  "hints": [
+    {
+      "en": "Think of what you moved on the slider."
+    }
+  ],
+  "tags": [
+    "waves",
+    "wind"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:25.965Z",
+    "reviewedBy": "review-bar"
+  }
+}

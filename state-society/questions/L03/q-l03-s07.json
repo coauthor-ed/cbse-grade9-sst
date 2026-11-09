@@ -1,0 +1,126 @@
+{
+  "id": "q-l03-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "mode": "coach",
+  "prompt": {
+    "en": "What do early texts such as the Ṛigveda, the Arthaśhāstra and the Mahābhārata reveal about political life? Write about 100 words."
+  },
+  "rubric": [
+    {
+      "id": "rigveda",
+      "label": {
+        "en": "The Ṛigveda shows janas, a rājā as clan chief, and assemblies"
+      },
+      "level1": {
+        "en": "What does the Ṛigveda tell us about how early groups were led?"
+      },
+      "clue": {
+        "en": "The Ṛigveda shows janas led by a rājā who was mainly a clan chief, and the Vedic texts refer to the sabhā, the samiti and the vidhata."
+      },
+      "level2Template": {
+        "en": "The Vedic texts show a rājā as a clan ___, and three ___."
+      },
+      "accepted": [
+        "jana",
+        "janas",
+        "clan chief",
+        "assembly",
+        "assemblies",
+        "sabha",
+        "sabhā",
+        "samiti",
+        "vidhata"
+      ]
+    },
+    {
+      "id": "arthashastra",
+      "label": {
+        "en": "The Arthaśhāstra is about statecraft: an active king and the whole land as his field"
+      },
+      "level1": {
+        "en": "What does the Arthaśhāstra expect of a king, and how far does it think his field reaches?"
+      },
+      "clue": {
+        "en": "The Arthaśhāstra says officers follow a king who is energetically active, and it defines Prithivi as the land between the Himavat and the sea."
+      },
+      "level2Template": {
+        "en": "The Arthaśhāstra says officers follow an ___ king."
+      },
+      "accepted": [
+        "statecraft",
+        "energetically active",
+        "active",
+        "energetic",
+        "prithivi",
+        "himavat",
+        "treatise"
+      ]
+    },
+    {
+      "id": "shanti-parva",
+      "label": {
+        "en": "The Śhānti Parva of the Mahābhārata sets out duties: protection and justice"
+      },
+      "level1": {
+        "en": "What does the Śhānti Parva say a king must do?"
+      },
+      "clue": {
+        "en": "The Śhānti Parva guides rulers on ethical conduct and justice. A king must protect his subjects and administer justice."
+      },
+      "level2Template": {
+        "en": "The Śhānti Parva says a king must ___ his subjects and give ___."
+      },
+      "accepted": [
+        "protect",
+        "protection",
+        "justice",
+        "ethical",
+        "duties",
+        "responsibilities",
+        "shanti parva"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Ṛigveda"
+      },
+      "text": {
+        "en": "The Ṛigveda shows janas led by a clan chief, and the Vedic texts name three assemblies."
+      },
+      "rubricId": "rigveda"
+    },
+    {
+      "eyebrow": {
+        "en": "Arthaśhāstra"
+      },
+      "text": {
+        "en": "The Arthaśhāstra says officers follow an active king, and it treats the land from the Himalayas to the sea as one ruler's domain."
+      },
+      "rubricId": "arthashastra"
+    },
+    {
+      "eyebrow": {
+        "en": "Mahābhārata"
+      },
+      "text": {
+        "en": "The Śhānti Parva guides rulers on ethics and says a king must protect his subjects and give justice."
+      },
+      "rubricId": "shanti-parva"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:14.624Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "blk-l13-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L13/blk-l13-s01.md",
+  "image": {
+    "src": "media/L13/L13S01.jpg",
+    "alt": "The Great Wall of China winding across steep mountain ridges with crenellated stone parapets.",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "watchtower": {
+        "src": "media/L13/L13S01-b2.jpg",
+        "alt": "Multi-story square stone watchtower along the Great Wall with arched observation windows."
+      },
+      "rampart-road": {
+        "src": "media/L13/L13S01-b3.jpg",
+        "alt": "Paved rampart road on top of the Great Wall wide enough for marching troops and carts."
+      },
+      "ruined-section": {
+        "src": "media/L13/L13S01-b4.jpg",
+        "alt": "Ancient eroded rammed-earth section of frontier wall in a semi-arid mountain pass."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

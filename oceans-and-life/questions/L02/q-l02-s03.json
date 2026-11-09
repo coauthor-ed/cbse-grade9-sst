@@ -1,0 +1,71 @@
+{
+  "id": "q-l02-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A coconut floats beyond the breakers and ten waves pass under it. Where is it now, and what went on past it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Near its start; the wave's energy went on"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The coconut went round with the water while the energy moved on."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "On the beach; the water carried it in"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Water rushes up the beach only after a wave breaks, closer in."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Near its start; all the water went on"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The water stays too. It goes round a small circle."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Further out to sea; each wave pulled it back"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. It comes back about as far as it went forward."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Beyond the breakers the coconut rises and falls and goes round with the water, so it ends up about where it started. What moves on is the wave's energy."
+  },
+  "hints": [
+    {
+      "en": "What travels across the ocean: the water, or something else?"
+    }
+  ],
+  "tags": [
+    "waves",
+    "energy",
+    "coconut"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:25.965Z",
+    "reviewedBy": "review-bar"
+  }
+}

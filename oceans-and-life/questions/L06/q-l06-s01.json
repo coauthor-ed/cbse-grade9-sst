@@ -1,0 +1,71 @@
+{
+  "id": "q-l06-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "You are on a beach. The ground shakes hard, and then the sea pulls far back from the shore. What should you do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Walk out on the wet sand to see what is there"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Never go to look. The sea pulling back can mean a tsunami is close."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Stay on the beach, as a low sea means no danger"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A sea that pulls far back is a warning sign. The water is coming back."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Go to high ground at once, without waiting"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Strong shaking and a sea pulling back are warning signs. There may be only minutes."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Wait on the beach until a phone alert arrives"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Close to an earthquake, the water can arrive before any message does."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Strong shaking and a sea pulling far back are warning signs of a tsunami. Close to an earthquake the water can arrive in minutes, so go to high ground at once. Stay there until officials say it is safe, because a tsunami comes as a series of waves."
+  },
+  "hints": [
+    {
+      "en": "Think of the people of Simeulue and how little time they had."
+    }
+  ],
+  "tags": [
+    "tsunami",
+    "2004",
+    "simeulue"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:43.334Z",
+    "reviewedBy": "review-bar"
+  }
+}

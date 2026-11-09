@@ -1,0 +1,15 @@
+{
+  "id": "blk-l05-s09",
+  "type": "mini-game@1",
+  "src": "simulations/L05/MonsoonBoardGameScene.js",
+  "objective": {
+    "en": "For each month, choose where the wind comes from, then mark the regions that get rain."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:27.401Z",
+    "reviewedBy": "review-bar"
+  }
+}

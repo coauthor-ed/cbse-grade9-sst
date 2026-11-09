@@ -1,0 +1,30 @@
+{
+  "id": "blk-l03-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03/blk-l03-s05.md",
+  "poeRole": "explain",
+  "image": {
+    "src": "media/L03/L03S05.jpg",
+    "alt": "An unlabelled plate of Acheulean stone tools: broad cleavers with straight transverse cutting edges beside pear-shaped handaxes, drawn against a dark background.",
+    "position": "right"
+  },
+  "simulation": {
+    "src": "simulations/L03/ToolTaskMatchScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "simulationStep": 3,
+  "reveal": {
+    "images": {
+      "meal": {
+        "src": "media/L03/L03S05-b3.jpg",
+        "alt": "A close-up of an ancient animal long bone with a clean chop mark where a stone cleaver split it open, excavated beside stone tools in the same soil layer."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

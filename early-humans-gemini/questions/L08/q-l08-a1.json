@@ -1,0 +1,66 @@
+{
+  "id": "q-l08-a1",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which of these best fits the meaning of a city-state?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A large city with a big temple, ruled from another city"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A city-state rules itself. A city ruled from somewhere else is not sovereign, however large it is."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A sovereign state centred on a city that rules the land around it"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Many regions under one family of rulers"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That describes an empire, such as the Akkadian one. A city-state is centred on one city."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A large village that has grown rich through trade"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Size and trade are not enough. What makes a city-state is that it governs itself and the land around it."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A city-state has its own government, it is centred on one city, and it rules the territory around that city."
+  },
+  "hints": [
+    {
+      "en": "Look for the option that says who governs, and over what."
+    }
+  ],
+  "tags": [
+    "mesopotamia",
+    "city-state"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

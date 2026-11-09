@@ -1,0 +1,59 @@
+{
+  "id": "q-l01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "The word psephology comes from the Greek psēphos, meaning pebble, and logy, meaning systematic study. What does psephology mean?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The scientific study of elections"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The study of how pebbles form in rivers and on hills"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The study of voting machines and how they work"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The list of rules on who may vote in a country"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Psephology is the scientific study of elections. In ancient Greece, pebbles were used for voting, so the name of this study comes from the Greek word for a pebble."
+  },
+  "hints": [
+    {
+      "en": "The pebble in this word is linked to something people did with it in ancient Greece."
+    }
+  ],
+  "tags": [
+    "psephology",
+    "etymology",
+    "glossary"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:20:58.653Z",
+    "reviewedBy": "review-bar"
+  }
+}

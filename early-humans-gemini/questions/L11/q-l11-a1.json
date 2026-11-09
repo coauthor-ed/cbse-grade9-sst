@@ -1,0 +1,67 @@
+{
+  "id": "q-l11-a1",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "According to the book, why was it so important to Egyptians to preserve a body?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They believed the ka, a spiritual double, lived on only if the body was preserved."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They wanted to stop diseases from spreading to the living."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The book gives a belief as the reason, not health. Burying a body would stop disease without any embalming."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only pharaohs had souls, so only their bodies mattered."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The book says each person had a ka, not only the pharaoh."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Families wanted to be able to visit and see the dead."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Bodies were wrapped, placed in coffins and buried, so nobody was meant to see them again."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Egyptians believed each person had a ka that lived on after death if the body was preserved, so mummification was a way of caring for the dead."
+  },
+  "hints": [
+    {
+      "en": "What is a ka?"
+    }
+  ],
+  "tags": [
+    "egypt",
+    "ka",
+    "mummification"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

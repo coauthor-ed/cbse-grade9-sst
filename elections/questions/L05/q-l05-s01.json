@@ -1,0 +1,64 @@
+{
+  "id": "q-l05-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A voter who cannot see stands at the balloting unit. How can this voter find the right button without help?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "By asking the next voter in the queue to point to it"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "By feeling the Braille number beside each button"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "By listening while an officer reads out each row"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "By bringing a printed list of names to the booth"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Raised Braille numbers sit beside the buttons, so the voter can find a row by touch and press its button alone. Asking another person is help from someone else, and it also shows them the choice. A voter who cannot see cannot read a printed list."
+  },
+  "hints": [
+    {
+      "en": "The question says without help."
+    },
+    {
+      "en": "What can a finger find on the balloting unit?"
+    }
+  ],
+  "tags": [
+    "evm",
+    "braille",
+    "balloting-unit",
+    "accessibility",
+    "independent-voting"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:15.302Z",
+    "reviewedBy": "review-bar"
+  }
+}

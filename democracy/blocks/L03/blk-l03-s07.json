@@ -1,0 +1,26 @@
+{
+  "id": "blk-l03-s07",
+  "type": "poe-predict@1",
+  "prompt": "## Are Rights Without Limits?\n\nA speaker uses his freedom of speech to urge a crowd to threaten families who hold different views. He says that this is his right.\n\n**Predict:** Do Fundamental Rights have no limits at all?",
+  "options": [
+    {
+      "id": "a",
+      "text": "No limits. A Fundamental Right must apply fully, everywhere and always."
+    },
+    {
+      "id": "b",
+      "text": "Reasonable limits. Restrictions are allowed, but only in accordance with law."
+    },
+    {
+      "id": "c",
+      "text": "Limits only at election time. The rest of the time there are none."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.511Z"
+  }
+}

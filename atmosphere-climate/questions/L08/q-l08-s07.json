@@ -1,0 +1,75 @@
+{
+  "id": "q-l08-s07",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "A student writes: \"The ozone hole lets extra heat in, and this is the main cause of global warming.\" What is wrong with this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Ozone stops ultraviolet; greenhouse gases hold heat"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. They are two different problems."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "There is no ozone anywhere in the air"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Ozone is found in the stratosphere."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The ozone hole lies right over India"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The thinning is over Antarctica."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Ozone is the main gas of all in the air"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Nitrogen is the main gas."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ozone takes in ultraviolet rays, so a thinner layer lets more ultraviolet through. Warming comes mainly from greenhouse gases added by human activity, which hold heat rising from the ground."
+  },
+  "hints": [
+    {
+      "en": "What kind of ray does ozone take in?"
+    },
+    {
+      "en": "Which gases hold heat?"
+    }
+  ],
+  "tags": [
+    "insolation",
+    "atmosphere",
+    "glossary",
+    "recall"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:53.484Z",
+    "reviewedBy": "review-bar"
+  }
+}

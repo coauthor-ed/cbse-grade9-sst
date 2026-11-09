@@ -1,0 +1,48 @@
+{
+  "bundleId": "earth-surface",
+  "title": {
+    "en": "Shaping of the Earth's Surface"
+  },
+  "subject": "social-science",
+  "grade": 9,
+  "modules": [
+    "modules/earth-surface.json"
+  ],
+  "lessons": [
+    "lessons/les-01.json",
+    "lessons/les-02.json",
+    "lessons/les-03.json",
+    "lessons/les-04.json",
+    "lessons/les-05.json",
+    "lessons/les-06.json",
+    "lessons/les-07.json",
+    "lessons/les-08.json",
+    "lessons/les-09.json",
+    "lessons/les-10.json"
+  ],
+  "tests": [],
+  "banks": [],
+  "generatedAt": "2026-10-05T20:34:49.078Z",
+  "glossary": "glossary.json",
+  "schemaVersion": 1,
+  "audience": "school",
+  "board": "CBSE",
+  "subjects": [
+    "social-science"
+  ],
+  "languages": [
+    "en"
+  ],
+  "repository": {
+    "url": "https://github.com/coauthor-ed/cbse-grade9-sst",
+    "issues": "https://github.com/coauthor-ed/cbse-grade9-sst/issues"
+  },
+  "license": "CC-BY-4.0",
+  "version": "1.0.0",
+  "updatedAt": "2026-11-09",
+  "features": {
+    "story": false,
+    "games": true,
+    "practice": true
+  }
+}

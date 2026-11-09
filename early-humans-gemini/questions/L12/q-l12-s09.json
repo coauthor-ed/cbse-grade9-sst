@@ -1,0 +1,73 @@
+{
+  "id": "q-l12-s09",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In English, a letter stands for a sound. The Chinese script is logographic. What does a single Chinese character stand for?"
+  },
+  "image": {
+    "src": "media/L12/L12S09.jpg",
+    "alt": "Drawing of an old sign cut into bone beside the modern character.",
+    "position": "right"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A single sound, like a letter of the alphabet."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Letters work that way, but the book says Chinese characters do not stand for sounds. A character stands for a unit of meaning."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A sound that has no meaning of its own."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A sound with no meaning is what a letter gives you. A morpheme is a unit of language that has a meaning."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A whole word or a morpheme, the smallest unit of language with a meaning."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A complete sentence."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is too big. A character stands for one word or one morpheme, and a sentence needs several."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The Chinese script is logographic: each character stands for a whole word or a morpheme, and not for a sound."
+  },
+  "hints": [
+    {
+      "en": "The letter k means nothing by itself. Does the character for tree mean something by itself?"
+    }
+  ],
+  "tags": [
+    "china",
+    "oracle-bones",
+    "logographic",
+    "ancient-scripts"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l05-s08",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Two Top Jobs\n\n<!-- STEP id=\"britains-two-hats\" -->\n## Head of State, Head of Government\n\nMany countries have two top jobs: the **Head of State**, the formal head of the country, and the **Head of Government**, who leads the government.\n\nThe United Kingdom is a **constitutional monarchy**, with a Monarch as Head of State.\n\n<!-- STEP id=\"indias-two-hats\" -->\n## India and Canada\n\nIndia has no monarch: the President is Head of State and the Prime Minister is Head of Government.\n\nCanada also has the Monarch as Head of State, and the Prime Minister leads its government. A Governor-General is appointed by the Monarch on the advice of the Prime Minister.\n\nTap a country to compare."
+  },
+  "simulation": {
+    "src": "simulations/L05/TwoHatsScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.518Z"
+  }
+}

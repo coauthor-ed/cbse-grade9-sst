@@ -1,0 +1,16 @@
+{
+  "id": "blk-l01-s03",
+  "type": "content-block@1",
+  "poeRole": "explain",
+  "markdownRef": "blocks/L01/blk-l01-s03.md",
+  "simulation": {
+    "src": "simulations/L01/LayerProbeScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:14.297Z",
+    "reviewedBy": "review-bar"
+  }
+}

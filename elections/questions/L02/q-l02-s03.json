@@ -1,0 +1,381 @@
+{
+  "id": "q-l02-s03",
+  "type": "comprehension-set@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "passageTitle": {
+    "en": "Three imaginary countries"
+  },
+  "passage": {
+    "en": "Haritbhumi has 25 seats. The candidate with the most votes in a constituency wins, even with less than 50 per cent. Party A polled 40 per cent, Party B 35 and Party C 25, and Party A formed the government.\n\nRatnadweep also has 25 seats. To win, a candidate needs more than 50 per cent, or the top two compete again. Party X polled 45 per cent, Party Y 40 and Party Z 15. In Round 2, Party Y won with 55 per cent and formed the government.\n\nSwarnalok has 100 seats on a nationwide list, and voters vote for a party. Parties M, N, O and P polled 40, 35, 15 and 10 per cent, and received 40, 35, 15 and 10 seats."
+  },
+  "items": [
+    {
+      "id": "i1",
+      "weight": 1,
+      "question": {
+        "id": "q-l02-s03-i1",
+        "type": "mcq-single@2",
+        "difficulty": "medium",
+        "bloomLevel": "analyse",
+        "stem": {
+          "en": "In which country did a party form the government with less than half of the votes?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "text": {
+              "en": "Ratnadweep, where Party Y polled 55 per cent in Round 2"
+            },
+            "isCorrect": false
+          },
+          {
+            "id": "b",
+            "text": {
+              "en": "Haritbhumi, with Party A on 40 per cent"
+            },
+            "isCorrect": true
+          },
+          {
+            "id": "c",
+            "text": {
+              "en": "Swarnalok, where four parties shared power by votes"
+            },
+            "isCorrect": false
+          },
+          {
+            "id": "d",
+            "text": {
+              "en": "None, as every government there had over half of the votes"
+            },
+            "isCorrect": false
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "en": "Party A formed the government of Haritbhumi with 40 per cent of the votes. Party Y had 55 per cent in Round 2, and in Swarnalok no single party formed the government."
+        },
+        "hints": [
+          {
+            "en": "Look for a party that formed the government with a share below 50 per cent."
+          }
+        ],
+        "tags": [
+          "fptp",
+          "plurality",
+          "governments"
+        ],
+        "authoring": {
+          "status": "human-approved",
+          "flags": [],
+          "reviewedAt": "2026-11-01T07:40:00.000Z", "reviewedBy": "owner"
+        }
+      }
+    },
+    {
+      "id": "i2",
+      "weight": 1,
+      "question": {
+        "id": "q-l02-s03-i2",
+        "type": "mcq-single@2",
+        "difficulty": "medium",
+        "bloomLevel": "analyse",
+        "stem": {
+          "en": "Party X polled the most votes in Ratnadweep's first round. Why did it not form the government?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "text": {
+              "en": "It had not won more than half of the 25 seats in the country."
+            },
+            "isCorrect": false
+          },
+          {
+            "id": "b",
+            "text": {
+              "en": "Its votes were shared in proportion among the other parties."
+            },
+            "isCorrect": false
+          },
+          {
+            "id": "c",
+            "text": {
+              "en": "It had less than 50 per cent, so a second round was held."
+            },
+            "isCorrect": true
+          },
+          {
+            "id": "d",
+            "text": {
+              "en": "A third party on 15 per cent had to be added to its votes."
+            },
+            "isCorrect": false
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "en": "Ratnadweep's rule asks for more than 50 per cent of the votes. Party X had 45 per cent, so the top two competed again, and Party Y won that round with 55 per cent."
+        },
+        "hints": [
+          {
+            "en": "Is the rule 'most votes' or 'more than half'?"
+          }
+        ],
+        "tags": [
+          "majority-system",
+          "second-round",
+          "ratnadweep"
+        ],
+        "authoring": {
+          "status": "human-approved",
+          "flags": [],
+          "reviewedAt": "2026-11-01T07:40:00.000Z", "reviewedBy": "owner"
+        }
+      }
+    },
+    {
+      "id": "i3",
+      "weight": 1,
+      "question": {
+        "id": "q-l02-s03-i3",
+        "type": "mcq-single@2",
+        "difficulty": "medium",
+        "bloomLevel": "analyse",
+        "stem": {
+          "en": "In Swarnalok, Party O polled 15 per cent of the votes. How many seats did it receive?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "text": {
+              "en": "No seats, because it was not the largest party"
+            },
+            "isCorrect": false
+          },
+          {
+            "id": "b",
+            "text": {
+              "en": "25 seats, as in the other two countries"
+            },
+            "isCorrect": false
+          },
+          {
+            "id": "c",
+            "text": {
+              "en": "15 seats out of 100"
+            },
+            "isCorrect": true
+          },
+          {
+            "id": "d",
+            "text": {
+              "en": "One seat, because every party gets one seat"
+            },
+            "isCorrect": false
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "en": "Seats in Swarnalok are allotted in proportion to the votes, so 15 per cent of the votes becomes 15 of the 100 seats."
+        },
+        "hints": [
+          {
+            "en": "Find 15 per cent of 100."
+          }
+        ],
+        "tags": [
+          "proportional-representation",
+          "seats",
+          "swarnalok"
+        ],
+        "authoring": {
+          "status": "human-approved",
+          "flags": [],
+          "reviewedAt": "2026-11-01T07:40:00.000Z", "reviewedBy": "owner"
+        }
+      }
+    },
+    {
+      "id": "i4",
+      "weight": 2,
+      "question": {
+        "id": "q-l02-s03-i4",
+        "type": "semantic-descriptive@1",
+        "difficulty": "medium",
+        "bloomLevel": "analyse",
+        "prompt": {
+          "en": "Using the three countries, explain how a country's rule decides who wins. Name the rule each country uses."
+        },
+        "rubric": [
+          {
+            "id": "fptp-rule",
+            "label": {
+              "en": "Haritbhumi uses First Past The Post: the most votes in each constituency wins the seat"
+            },
+            "level1": {
+              "en": "How does Haritbhumi decide a single seat?"
+            },
+            "clue": {
+              "en": "Each of its 25 seats is decided on its own, in one constituency, by a vote for a person."
+            },
+            "level2Template": {
+              "en": "Haritbhumi uses ___, so the party leading in each constituency takes that seat even on under half the votes."
+            },
+            "accepted": [
+              "first past the post",
+              "fptp",
+              "plurality",
+              "most votes wins",
+              "the most votes in the constituency"
+            ]
+          },
+          {
+            "id": "majority-rule",
+            "label": {
+              "en": "Ratnadweep uses a majority system: more than 50%, or a second round between the top two"
+            },
+            "level1": {
+              "en": "What does Ratnadweep demand that Haritbhumi does not?"
+            },
+            "clue": {
+              "en": "Haritbhumi needs the most votes; Ratnadweep needs more than half, and runs a second round when nobody gets it."
+            },
+            "level2Template": {
+              "en": "Ratnadweep requires ___ of the votes, and if nobody reaches it the top two meet again."
+            },
+            "accepted": [
+              "majority",
+              "more than 50%",
+              "more than half",
+              "an absolute majority",
+              "over 50%"
+            ]
+          },
+          {
+            "id": "pr-rule",
+            "label": {
+              "en": "Swarnalok uses proportional representation: seats allotted in proportion to votes, from a nationwide list"
+            },
+            "level1": {
+              "en": "In Swarnalok, do voters choose a person or something else?"
+            },
+            "clue": {
+              "en": "Voters vote for a party, and that party's share of the votes becomes the same share of the 100 seats."
+            },
+            "level2Template": {
+              "en": "Swarnalok allots seats ___ to the total votes each party received."
+            },
+            "accepted": [
+              "proportional representation",
+              "pr",
+              "in proportion",
+              "in proportion to the votes",
+              "proportionately"
+            ]
+          },
+          {
+            "id": "same-votes-different-outcome",
+            "label": {
+              "en": "The rule a country uses decides how votes become seats"
+            },
+            "level1": {
+              "en": "What decides how votes turn into seats in each country?"
+            },
+            "clue": {
+              "en": "Each country counts in its own way: per constituency, in two rounds, or by share of all the votes."
+            },
+            "level2Template": {
+              "en": "Results differ because the ___ decides how votes become seats."
+            },
+            "accepted": [
+              "the rule",
+              "the electoral system",
+              "the system",
+              "the rule applied",
+              "the counting rule",
+              "how votes are converted into seats"
+            ]
+          }
+        ],
+        "level3": [
+          {
+            "eyebrow": {
+              "en": "The claim"
+            },
+            "text": {
+              "en": "A country's rule decides how votes become seats, so the rule shapes who wins."
+            },
+            "rubricId": null
+          },
+          {
+            "eyebrow": {
+              "en": "Haritbhumi"
+            },
+            "text": {
+              "en": "Haritbhumi uses First Past The Post: the candidate with the most votes in a constituency wins, even with less than half."
+            },
+            "rubricId": "fptp-rule"
+          },
+          {
+            "eyebrow": {
+              "en": "Ratnadweep"
+            },
+            "text": {
+              "en": "Ratnadweep uses the majority system: a candidate needs more than 50 per cent. If nobody has it, the top two compete again, so Party X led Round 1 and still lost."
+            },
+            "rubricId": "majority-rule"
+          },
+          {
+            "eyebrow": {
+              "en": "Swarnalok"
+            },
+            "text": {
+              "en": "Swarnalok uses proportional representation: voters vote for a party, and seats follow each party's share of the votes."
+            },
+            "rubricId": "pr-rule"
+          },
+          {
+            "eyebrow": {
+              "en": "Why it matters"
+            },
+            "text": {
+              "en": "So the rule matters as much as the votes, because it decides how votes turn into seats and government."
+            },
+            "rubricId": "same-votes-different-outcome"
+          }
+        ],
+        "thresholds": {
+          "high": 0.6,
+          "low": 0.4,
+          "blank": 0.78
+        },
+        "authoring": {
+          "status": "human-approved",
+          "flags": [],
+          "reviewedAt": "2026-11-01T07:40:00.000Z", "reviewedBy": "owner"
+        }
+      }
+    }
+  ],
+  "explanation": {
+    "en": "Haritbhumi counts each constituency and gives the seat to the leader. Ratnadweep asks for more than half of the votes, with a second round. Swarnalok shares seats in proportion to votes."
+  },
+  "hints": [
+    {
+      "en": "For each country, ask what a winner needs."
+    }
+  ],
+  "tags": [
+    "electoral-systems",
+    "fptp",
+    "majority-system",
+    "proportional-representation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:02.694Z",
+    "reviewedBy": "review-bar"
+  }
+}

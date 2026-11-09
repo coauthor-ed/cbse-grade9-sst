@@ -1,0 +1,15 @@
+{
+  "id": "blk-l04-s09",
+  "type": "mini-game@1",
+  "src": "simulations/L04/WindRaceGameScene.js",
+  "objective": {
+    "en": "Mark the high and the low, then show which way the wind will blow."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:17.642Z",
+    "reviewedBy": "review-bar"
+  }
+}

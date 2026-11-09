@@ -1,0 +1,64 @@
+{
+  "id": "q-l07-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The word dharma comes from the root dhri, also the root of dharati, the earth. Bhishma says dharma \"is that which upholds beings\". Which idea joins these facts?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Dharma is about farming the land."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Dharma is the name of a Vedic goddess of the earth."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Dharma is what holds up and sustains, as the earth holds up what stands on it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Dharma is a rule made by kings who owned the land."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Dharma and dharati share the root dhri. Bhishma says that dharma \"is that which upholds beings; whatever upholds all beings is dharma.\" The shared idea is upholding."
+  },
+  "hints": [
+    {
+      "en": "What does the earth do for everything on it?"
+    },
+    {
+      "en": "Look at the verb in Bhishma's line."
+    }
+  ],
+  "tags": [
+    "dharma",
+    "dhamma",
+    "word-roots",
+    "bhishma",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:34.561Z",
+    "reviewedBy": "review-bar"
+  }
+}

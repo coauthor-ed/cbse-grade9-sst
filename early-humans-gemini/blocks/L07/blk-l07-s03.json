@@ -1,0 +1,41 @@
+{
+  "id": "blk-l07-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07/blk-l07-s03.md",
+  "image": {
+    "src": "media/L07/L07S03.jpg",
+    "alt": "A drawing of Early Harappan painted pots with regional geometric bands, flowers and stylised animals.",
+    "position": "right"
+  },
+  "simulation": {
+    "src": "simulations/L07/CraftContinuityScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "simulationStep": 5,
+  "reveal": {
+    "images": {
+      "beads": {
+        "src": "media/L07/L07S03-b2.jpg",
+        "alt": "A drawing of semi-precious stone beads, long barrel shapes and small round ones."
+      },
+      "bangles": {
+        "src": "media/L07/L07S03-b3.jpg",
+        "alt": "A drawing of cut and polished shell bangles beside flat copper axes and a chisel."
+      },
+      "graffiti": {
+        "src": "media/L07/L07S03-b4.jpg",
+        "alt": "A drawing of broken pieces of pots with marks scratched into them."
+      },
+      "seal": {
+        "src": "media/L07/L07S03-b5.jpg",
+        "alt": "A drawing of an early square stamp seal with carved geometric lines and a simple animal."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

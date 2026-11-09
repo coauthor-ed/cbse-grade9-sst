@@ -1,0 +1,69 @@
+Media provenance - L01
+
+Per `docs/copyright-and-sourcing.md`: the textbook's own photographs are
+never extracted. Each photograph below is an openly-licensed photograph of
+Indian voting, sourced from Wikimedia Commons, standing in for the source's
+`Fig. 7.2` (p.3 / book p.163). All six are Election Commission of India
+photographs released under the Government Open Data Licence - India
+(GODL-India), which permits reuse with attribution.
+
+Downloaded as 520-960px wide JPEG renditions of the Commons originals.
+Thumbnails are served by Wikimedia's thumb host; the original file name and
+its Commons file page are recorded below so any of these can be replaced at
+full resolution without changing the block.
+
+All six are used by `blocks/L01/blk-l01-s06.json` -> `photoDiagram.nodes[]`.
+
+## young-voter-showing-ink-mark-kerala.jpg
+
+- Used by: `blocks/L01/blk-l01-s06.json` (`photoDiagram` node `young-kerala`).
+- Source: Wikimedia Commons,
+  `File:A young voter showing mark of indelible ink after casting her vote, at a polling booth during the 3rd Phase of General Elections-2014, in Thiruvananthapuram, Kerala on April 10, 2014.jpg`
+- File page: https://commons.wikimedia.org/wiki/File:A_young_voter_showing_mark_of_indelible_ink_after_casting_her_vote,_at_a_polling_booth_during_the_3rd_Phase_of_General_Elections-2014,_in_Thiruvananthapuram,_Kerala_on_April_10,_2014.jpg
+- Author / credited institution: Election Commission of India
+- Licence: GODL-India (Government Open Data Licence - India)
+
+## voters-showing-photo-identity-cards-delhi.jpg
+
+- Used by: `blocks/L01/blk-l01-s06.json` (`photoDiagram` node `cards-delhi`).
+- Source: Wikimedia Commons,
+  `File:The female voters displaying their voter identity card, at a polling booth in Sadar Bazar during the 3rd Phase of Lok Sabha General Elections-2014, in Delhi on April 10, 2014.jpg`
+- File page: https://commons.wikimedia.org/wiki/File:The_female_voters_displaying_their_voter_identity_card,_at_a_polling_booth_in_Sadar_Bazar_during_the_3rd_Phase_of_Lok_Sabha_General_Elections-2014,_in_Delhi_on_April_10,_2014.jpg
+- Author / credited institution: Election Commission of India
+- Licence: GODL-India
+
+## elderly-voter-at-village-booth-west-bengal.jpg
+
+- Used by: `blocks/L01/blk-l01-s06.json` (`photoDiagram` node `village-bengal`).
+- Source: Wikimedia Commons,
+  `File:A polling officer administering indelible ink to an old Saonthal (Tribal) voter before casting vote at a polling station, in Sialai village, Nanur, Birbhum district, during the Assembly Election in West Bengal.jpg`
+- File page: https://commons.wikimedia.org/wiki/File:A_polling_officer_administering_indelible_ink_to_an_old_Saonthal_(Tribal)_voter_before_casting_vote_at_a_polling_station,_in_Sialai_village,_Nanur,_Birbhum_district,_during_the_Assembly_Election_in_West_Bengal.jpg
+- Author / credited institution: Election Commission of India
+- Licence: GODL-India
+
+## official-checking-evm-delhi.jpg
+
+- Used by: `blocks/L01/blk-l01-s06.json` (`photoDiagram` node `evm-delhi`).
+- Source: Wikimedia Commons,
+  `File:The Election Official checking the Electronic Voting Machine for the Delhi Assembly Elections-2008, in New Delhi on November 28, 2008.jpg`
+- File page: https://commons.wikimedia.org/wiki/File:The_Election_Official_checking_the_Electronic_Voting_Machine_for_the_Delhi_Assembly_Elections-2008,_in_New_Delhi_on_November_28,_2008.jpg
+- Author / credited institution: Election Commission of India
+- Licence: GODL-India
+
+## voters-taking-a-selfie-west-bengal.jpg
+
+- Used by: `blocks/L01/blk-l01-s06.json` (`photoDiagram` node `selfie-bengal`).
+- Source: Wikimedia Commons,
+  `File:Two female voters taking selfie of the mark of indelible ink after casting their votes, at a polling booth, during the fifth phase of West Bengal Assembly Election, at Sonarpur (south), South 24 Pargana, West Bengal.jpg`
+- File page: https://commons.wikimedia.org/wiki/File:Two_female_voters_taking_selfie_of_the_mark_of_indelible_ink_after_casting_their_votes,_at_a_polling_booth,_during_the_fifth_phase_of_West_Bengal_Assembly_Election,_at_Sonarpur_(south),_South_24_Pargana,_West_Bengal.jpg
+- Author / credited institution: Election Commission of India
+- Licence: GODL-India
+
+## elderly-voter-in-wheelchair-chhattisgarh.jpg
+
+- Used by: `blocks/L01/blk-l01-s06.json` (`photoDiagram` node `wheelchair-chhattisgarh`).
+- Source: Wikimedia Commons,
+  `File:A wheel chair bound voter arrives for voting, at a polling booth, in Sukma, during the 1st phase of Chhattisgarh Assembly Election, on November 12, 2018.JPG`
+- File page: https://commons.wikimedia.org/wiki/File:A_wheel_chair_bound_voter_arrives_for_voting,_at_a_polling_booth,_in_Sukma,_during_the_1st_phase_of_Chhattisgarh_Assembly_Election,_on_November_12,_2018.JPG
+- Author / credited institution: Election Commission of India
+- Licence: GODL-India

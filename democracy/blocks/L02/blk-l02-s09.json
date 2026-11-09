@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s09",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A Constitution That Can Change\n\n<!-- STEP id=\"dynamic-not-rigid\" -->\n## Not a Rigid Code\n\nThe members of the Assembly believed that a constitution should not be a rigid legal code. It should be a dynamic document, able to change through lawful amendments without harming its fundamental values. An amendment is a formal change to the text.\n\n<!-- STEP id=\"article-368\" -->\n## Article 368\n\n**Article 368** provides for amendments, so the Constitution can respond to new needs. Press **Add an amendment**: the four values, liberty, equality, justice and fraternity, stay.\n\n**So was ancient India already democratic? Not fully, but its habit of consultation has deep roots.**"
+  },
+  "simulation": {
+    "src": "simulations/L02/LivingDocumentScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.505Z"
+  }
+}

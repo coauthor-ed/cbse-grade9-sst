@@ -1,0 +1,31 @@
+{
+  "id": "blk-l10-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L10/blk-l10-s02.md",
+  "deferVerdict": true,
+  "options": [
+    {
+      "id": "opt-1",
+      "text": "It was the only inscribed stone that had survived."
+    },
+    {
+      "id": "opt-2",
+      "text": "It had Greek, which people could still read, beside the same message in the lost script."
+    },
+    {
+      "id": "opt-3",
+      "text": "It explained the grammar of the Egyptian language in pictures."
+    }
+  ],
+  "correctOptionId": "opt-2",
+  "image": {
+    "src": "media/L10/L10S02.jpg",
+    "alt": "A drawing of the Rosetta Stone, a dark slab with lines of carved writing",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

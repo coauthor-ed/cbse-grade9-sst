@@ -1,0 +1,72 @@
+{
+  "id": "q-l08-s06",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Seven ruling houses of diverse backgrounds, the Mandsaur inscription on silk weavers with other skills, the Karitalai plates on brāhmaṇas as land managers, and two Sangam texts that list groups by occupation are all used as evidence. Which conclusion do they support best?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "There was considerable social mobility, and the Tamil texts suggest a society organised more on occupation than on a rigid varṇa classification."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Varṇa and jāti had no effect on anyone's life at any time."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Everyone in society could move freely to any occupation."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The four varṇas were never mentioned in any early text."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L08/exp-q-l08-s06.json"
+      }
+    ]
+  },
+  "explanation": {
+    "en": "The cases show considerable social mobility within and across the categories. They do not show that everyone could move, or that the categories had no effect. The four varṇas are mentioned as early as the Puruṣhasūkta."
+  },
+  "hints": [
+    {
+      "en": "Words like \"anyone\" and \"everyone\" make a claim very wide."
+    },
+    {
+      "en": "Which option matches what the evidence can support?"
+    }
+  ],
+  "tags": [
+    "social-mobility",
+    "gupta-period",
+    "karitalai",
+    "mandsaur",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:40.217Z",
+    "reviewedBy": "review-bar"
+  }
+}

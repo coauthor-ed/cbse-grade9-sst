@@ -1,0 +1,111 @@
+{
+  "id": "q-l07-s05b",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Sort each resource into its branch of marine resources."
+  },
+  "categories": [
+    {
+      "id": "living",
+      "label": {
+        "en": "Living"
+      }
+    },
+    {
+      "id": "minerals",
+      "label": {
+        "en": "Mineral"
+      }
+    },
+    {
+      "id": "energy",
+      "label": {
+        "en": "Energy"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-fish",
+      "text": {
+        "en": "A shoal of fish"
+      },
+      "correctCategoryId": "living"
+    },
+    {
+      "id": "chip-seaweed",
+      "text": {
+        "en": "Seagrass"
+      },
+      "correctCategoryId": "living"
+    },
+    {
+      "id": "chip-mussels",
+      "text": {
+        "en": "Mussels and plankton"
+      },
+      "correctCategoryId": "living"
+    },
+    {
+      "id": "chip-sand",
+      "text": {
+        "en": "Sand and gravel"
+      },
+      "correctCategoryId": "minerals"
+    },
+    {
+      "id": "chip-ores",
+      "text": {
+        "en": "Deep-sea minerals"
+      },
+      "correctCategoryId": "minerals"
+    },
+    {
+      "id": "chip-oil",
+      "text": {
+        "en": "Oil under the sea bed"
+      },
+      "correctCategoryId": "energy"
+    },
+    {
+      "id": "chip-tidal",
+      "text": {
+        "en": "Tidal energy"
+      },
+      "correctCategoryId": "energy"
+    },
+    {
+      "id": "chip-wind",
+      "text": {
+        "en": "Offshore wind"
+      },
+      "correctCategoryId": "energy"
+    }
+  ],
+  "explanation": {
+    "en": "The living branch holds fish, plants that grow under water, and other living things such as mussels and plankton. The minerals branch holds sand, gravel and deep-sea minerals. The energy branch holds oil, natural gas and non-conventional sources such as tidal energy and offshore wind."
+  },
+  "hints": [
+    {
+      "en": "Ask first whether the thing is alive."
+    },
+    {
+      "en": "Of the rest, ask whether it is a material or a source of power."
+    }
+  ],
+  "tags": [
+    "marine-resources",
+    "classification",
+    "living-resources",
+    "minerals",
+    "energy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:47.998Z",
+    "reviewedBy": "review-bar"
+  }
+}

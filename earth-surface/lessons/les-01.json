@@ -1,0 +1,53 @@
+{
+  "id": "les-01",
+  "lessonId": "les-01",
+  "type": "lesson",
+  "title": {
+    "en": "What is inside the Earth, and why does the ground move?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L01/blk-l01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s03.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s05.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s04.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s03.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s05.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s07.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s08.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:14.297Z",
+    "reviewedBy": "review-bar"
+  }
+}

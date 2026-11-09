@@ -1,0 +1,16 @@
+{
+  "id": "blk-l04-s09",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Processes, Institutions, Values\n\n<!-- STEP id=\"read-as-table\" -->\n## One Pattern\n\nEverything in this lesson fits one pattern: a democratic **process** is carried out by **institutions**, and it supports **values**. Tap a process to see this.\n\nStart with the first three: the Legislative, Electoral and Judicial Processes.\n\n<!-- STEP id=\"wider-than-government\" -->\n## Beyond the Government\n\nThe other four processes reach further. **Civil society** refers to the voluntary groups, NGOs and community associations that function interdependently within society.\n\n**The real strength of democracy lies in its citizens.**"
+  },
+  "simulation": {
+    "src": "simulations/L04/ProcessInstitutionScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.515Z"
+  }
+}

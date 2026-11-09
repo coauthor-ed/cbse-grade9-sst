@@ -1,0 +1,71 @@
+{
+  "id": "les-03",
+  "lessonId": "les-03",
+  "type": "lesson",
+  "title": {
+    "en": "Where do earthquakes and volcanoes happen, and is India at risk?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L03/blk-l03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s02.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s03.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s03b.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s07.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s05.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s03.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s05b.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s06.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s06.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s07.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s04.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s08.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s05.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s10.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s11.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:22.682Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l04-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s06.md",
+  "simulation": {
+    "src": "simulations/L04/ContourTrenchScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:27.289Z",
+    "reviewedBy": "review-bar"
+  }
+}

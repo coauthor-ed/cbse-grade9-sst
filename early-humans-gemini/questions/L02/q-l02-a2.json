@@ -1,0 +1,66 @@
+{
+  "id": "q-l02-a2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Nobody wrote down the journey out of Africa. What is the main evidence that Homo erectus spread into Asia and Europe?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Paintings in African caves show maps of the route."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No such maps exist. The evidence for this journey is stone tools, not pictures."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Handaxes and cleavers have been found in other parts of Asia and in Europe."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Skeletons lie one after another along the whole route."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fossils are rare, and nothing like an unbroken line of skeletons has been found."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neanderthals in Europe made flake tools, and that shows Homo erectus left Africa."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Those are Middle Palaeolithic tools made by a different species, so they say nothing about Homo erectus leaving Africa."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Homo erectus is linked with handaxes and cleavers. Finding such tools in Asia and Europe points to tools that began in Africa and spread beyond it, between about 2 and 0.5 million years ago."
+  },
+  "hints": [
+    {
+      "en": "What did these people leave behind that could last for two million years?"
+    }
+  ],
+  "tags": [
+    "homo-erectus",
+    "evidence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "q-l09-a1",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Why is the Sumerian script called cuneiform?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It is named after the Sumerian god of writing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The name has nothing to do with a god. It comes from a Latin word, not a Sumerian one."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It comes from the Latin word for wedge, the shape of its marks."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It is named after the clay the tablets were made of."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Clay was the surface, but the name describes the marks on it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It comes from the city where it was first found."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The name is not a place. It describes the shape of the marks."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Cuneus is Latin for wedge. A cut reed pressed into damp clay leaves a wedge-shaped mark, and the script is named after that shape."
+  },
+  "hints": [
+    {
+      "en": "Think about what a reed leaves behind when it is pressed into clay."
+    }
+  ],
+  "tags": [
+    "mesopotamia",
+    "cuneiform"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

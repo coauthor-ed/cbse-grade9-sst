@@ -1,0 +1,122 @@
+{
+  "id": "q-l01-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "mode": "coach",
+  "prompt": {
+    "en": "How might assemblies like the sabhā and the samiti have limited the power of the rājā? Which modern institutions perform similar functions today? Write about 80 words."
+  },
+  "rubric": [
+    {
+      "id": "raja-as-chief",
+      "label": {
+        "en": "The rājā was a clan chief who led in war and protected his people"
+      },
+      "level1": {
+        "en": "What was the rājā's main role in early Vedic times?"
+      },
+      "clue": {
+        "en": "The rājā functioned primarily as a clan chief who led the group in warfare and protected its members."
+      },
+      "level2Template": {
+        "en": "The rājā was primarily a clan ___ who led the group in war."
+      },
+      "accepted": [
+        "clan chief",
+        "chief",
+        "warfare",
+        "war",
+        "protected",
+        "protection"
+      ]
+    },
+    {
+      "id": "assemblies-had-work",
+      "label": {
+        "en": "The assemblies had their own work: the sabhā judged and the samiti dealt with policy"
+      },
+      "level1": {
+        "en": "Which matters did the sabhā and the samiti take up?"
+      },
+      "clue": {
+        "en": "The sabhā mainly served a judicial function. The samiti focused on policy decisions and political affairs. So these matters did not rest with the rājā alone."
+      },
+      "level2Template": {
+        "en": "The sabhā had a ___ function, and the samiti focused on ___."
+      },
+      "accepted": [
+        "judicial",
+        "judge",
+        "judgement",
+        "policy",
+        "political affairs",
+        "decisions"
+      ]
+    },
+    {
+      "id": "modern-institutions",
+      "label": {
+        "en": "Parliaments and constitutions bind leaders today"
+      },
+      "level1": {
+        "en": "What binds and checks heads of government in a modern democracy?"
+      },
+      "clue": {
+        "en": "In modern democracies, heads of government are bound by constitutions and parliaments, which are representative bodies that check the powers of elected leaders."
+      },
+      "level2Template": {
+        "en": "Today, heads of government are bound by ___ and ___."
+      },
+      "accepted": [
+        "parliament",
+        "parliaments",
+        "constitution",
+        "constitutions",
+        "representative",
+        "legislature",
+        "lok sabha"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The rājā"
+      },
+      "text": {
+        "en": "The rājā was mainly a clan chief, who led the group in war and protected its members."
+      },
+      "rubricId": "raja-as-chief"
+    },
+    {
+      "eyebrow": {
+        "en": "The assemblies"
+      },
+      "text": {
+        "en": "The sabhā heard cases and the samiti focused on policy and political affairs, so these matters did not rest with the rājā alone."
+      },
+      "rubricId": "assemblies-had-work"
+    },
+    {
+      "eyebrow": {
+        "en": "Today"
+      },
+      "text": {
+        "en": "Today, parliaments and constitutions do a similar job: they bind and check the powers of elected leaders."
+      },
+      "rubricId": "modern-institutions"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:04.889Z",
+    "reviewedBy": "review-bar"
+  }
+}

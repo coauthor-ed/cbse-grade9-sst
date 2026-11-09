@@ -1,0 +1,29 @@
+{
+  "id": "blk-l04-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s04.md",
+  "image": {
+    "src": "media/L04/L04S04.jpg",
+    "alt": "A receding ice margin at the edge of a valley giving way to open forest and a lake: pale blue ice on the left, green trees and calm water on the right.",
+    "position": "right"
+  },
+  "simulation": {
+    "src": "simulations/L04/CompositeToolYieldScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "simulationStep": 2,
+  "reveal": {
+    "images": {
+      "landscape": {
+        "src": "media/L04/L04S04-b2.jpg",
+        "alt": "A wide river-and-grassland landscape in warm light: a slow river winding through green meadows, scattered trees, birds and small animals near the water."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

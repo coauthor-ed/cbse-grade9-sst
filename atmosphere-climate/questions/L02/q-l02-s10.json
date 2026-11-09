@@ -1,0 +1,87 @@
+{
+  "id": "q-l02-s10",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each statement: is it true of the troposphere or the stratosphere?"
+  },
+  "categories": [
+    {
+      "id": "tropo",
+      "label": {
+        "en": "Troposphere"
+      }
+    },
+    {
+      "id": "strato",
+      "label": {
+        "en": "Stratosphere"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "c1",
+      "text": {
+        "en": "Rain, fog and hail occur here"
+      },
+      "correctCategoryId": "tropo"
+    },
+    {
+      "id": "c2",
+      "text": {
+        "en": "Temperature falls with altitude"
+      },
+      "correctCategoryId": "tropo"
+    },
+    {
+      "id": "c3",
+      "text": {
+        "en": "Most water vapour and clouds"
+      },
+      "correctCategoryId": "tropo"
+    },
+    {
+      "id": "c4",
+      "text": {
+        "en": "Temperature rises with altitude"
+      },
+      "correctCategoryId": "strato"
+    },
+    {
+      "id": "c5",
+      "text": {
+        "en": "Holds the ozone layer"
+      },
+      "correctCategoryId": "strato"
+    },
+    {
+      "id": "c6",
+      "text": {
+        "en": "Free of clouds and weather disturbances"
+      },
+      "correctCategoryId": "strato"
+    }
+  ],
+  "explanation": {
+    "en": "The troposphere, up to about 12 km, holds the air we breathe, the clouds and nearly all the weather, and it gets colder as you go up. The stratosphere, up to 50 km, holds the ozone layer, is clear of weather, and gets warmer as you go up."
+  },
+  "hints": [
+    {
+      "en": "Weather stays in the lowest layer."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "layers",
+    "troposphere",
+    "stratosphere"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T08:20:31.000Z",
+    "reviewedBy": "owner"
+  }
+}

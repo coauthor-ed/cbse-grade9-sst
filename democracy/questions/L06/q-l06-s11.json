@@ -1,0 +1,30 @@
+{
+  "id": "q-l06-s11",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Article 243(d) of the Constitution provides not less than one-third reservation for women out of the seats filled by direct election in every Panchayat. A Panchayat has 25 directly elected seats. What is the smallest number of these seats that can be reserved for women?"
+  },
+  "expectedValue": 9,
+  "tolerance": 0,
+  "unit": "seats",
+  "explanation": {
+    "en": "One-third of 25 is 25 ÷ 3, which is about 8.33. Reserving 8 seats would be less than one-third, and a seat cannot be divided, so the smallest allowed number is 9."
+  },
+  "hints": [
+    {
+      "en": "Work out one-third of 25. Is the answer a whole number? Remember that the rule says \"not less than\"."
+    }
+  ],
+  "tags": [
+    "womens-reservation",
+    "article-243d",
+    "panchayati-raj"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.522Z"
+  }
+}

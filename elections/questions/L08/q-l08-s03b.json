@@ -1,0 +1,60 @@
+{
+  "id": "q-l08-s03b",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A voter sees a candidate's helper handing out money near a polling station. What is the most useful step?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Report it on the cVIGIL app"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Stop the helper by force"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Say nothing until polling ends"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Wait a year, then write to the ECI"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "With the cVIGIL app, voters can report Model Code of Conduct violations and election misconduct within minutes. Flying squads then reach the spot. Force puts the voter at risk, and silence or a long wait lets the offence pass."
+  },
+  "hints": [
+    {
+      "en": "Which tool is made for reporting what a voter sees?"
+    }
+  ],
+  "tags": [
+    "free-and-fair",
+    "model-code-of-conduct",
+    "eci",
+    "chapter-scope"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:29.638Z",
+    "reviewedBy": "review-bar"
+  }
+}

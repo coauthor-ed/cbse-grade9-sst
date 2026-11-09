@@ -1,0 +1,39 @@
+{
+  "id": "blk-l11-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L11/blk-l11-s06.md",
+  "image": {
+    "src": "media/L11/L11S06.jpg",
+    "alt": "A drawing of a two-handled pottery jar painted with marsh birds and fish",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "sandals": {
+        "src": "media/L11/L11S06-b2.jpg",
+        "alt": "A drawing of a pair of sandals woven from reeds"
+      },
+      "box": {
+        "src": "media/L11/L11S06-b3.jpg",
+        "alt": "A drawing of a woven wicker box with a fitted lid"
+      },
+      "sistrum": {
+        "src": "media/L11/L11S06-b4.jpg",
+        "alt": "A drawing of a metal sistrum, a rattle with a Hathor head on its handle"
+      },
+      "cleopatra": {
+        "src": "media/L11/L11S06-b5.jpg",
+        "alt": "A drawing of a temple wall image of Cleopatra at the age of eighteen"
+      },
+      "jar": {
+        "src": "media/L11/L11S06.jpg",
+        "alt": "A drawing of a two-handled pottery jar painted with marsh birds and fish"
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

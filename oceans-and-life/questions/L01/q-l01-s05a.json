@@ -1,0 +1,71 @@
+{
+  "id": "q-l01-s05a",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A volcano rose from the sea floor and broke the surface. Waves wore its top flat over a very long time, and later it sank below the sea. What is it called now?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A guyot"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A guyot is a flat-topped underwater mountain whose top was worn down and later submerged."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A seamount"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A seamount has its volcanic peak and has not been worn flat."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A rift valley"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A rift valley is the valley along the top of a mid-ocean ridge."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "An abyssal hill"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. An abyssal hill is a low hill on the deep floor, not a worn-down island."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A guyot is a flat-topped underwater mountain. Its top was worn down by waves over a very long time, and it later sank. The flat top is the sign that it once reached the waves."
+  },
+  "hints": [
+    {
+      "en": "Two things happened: waves flattened the top, and then it sank."
+    }
+  ],
+  "tags": [
+    "ocean-relief",
+    "guyot",
+    "seamount"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:21.469Z",
+    "reviewedBy": "review-bar"
+  }
+}

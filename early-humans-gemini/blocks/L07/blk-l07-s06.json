@@ -1,0 +1,33 @@
+{
+  "id": "blk-l07-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07/blk-l07-s06.md",
+  "image": {
+    "src": "media/L07/L07S06.jpg",
+    "alt": "A drawing of a graded set of cubical stone weights, from small to large.",
+    "position": "right"
+  },
+  "simulation": {
+    "src": "simulations/L07/WaterHarvestChainScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "simulationStep": 3,
+  "reveal": {
+    "images": {
+      "dholavira": {
+        "src": "media/L07/L07S06-b2.jpg",
+        "alt": "A drawing of a deep stone-lined water tank at Dholavira with steps cut into its side."
+      },
+      "lothal": {
+        "src": "media/L07/L07S06-b3.jpg",
+        "alt": "A drawing of the rectangular burnt-brick dockyard at Lothal with its brick banks and water inlet."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

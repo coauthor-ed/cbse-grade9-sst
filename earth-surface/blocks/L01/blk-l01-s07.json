@@ -1,0 +1,15 @@
+{
+  "id": "blk-l01-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L01/LayerStackScene.js",
+  "objective": {
+    "en": "Put the layers in order from the surface to the centre, with the right thickness for each."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:14.297Z",
+    "reviewedBy": "review-bar"
+  }
+}

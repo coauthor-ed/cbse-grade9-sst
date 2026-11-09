@@ -1,0 +1,72 @@
+{
+  "id": "q-l01-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Mauna Kea in Hawai‘i is said to be taller than Mount Everest, yet Everest is called the highest mountain. How can both be true?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The Mauna Kea figure is simply a mistake"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Mauna Kea is about 10,000 m tall from its base on the sea floor."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The two are measured from different places"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Everest is measured from sea level, and Mauna Kea from its base on the sea floor."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The sea floor lies higher than the plains of Asia"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The sea floor near Hawai‘i lies far below sea level."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Mauna Kea stands nearer to the centre of the Earth"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. That has nothing to do with how a mountain is measured."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A height depends on where you measure from. Everest is 8,849 m above sea level. Mauna Kea is about 4,200 m above sea level, but about 10,000 m from its base on the sea floor."
+  },
+  "hints": [
+    {
+      "en": "Ask where the bottom of each mountain is."
+    }
+  ],
+  "tags": [
+    "ocean-relief",
+    "mauna-kea",
+    "mountains",
+    "measurement"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:21.469Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "q-l07-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "What started the flood in Chamoli district in February 2021?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A long spell of heavy monsoon rain"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "February is not the monsoon season, and rain was not the start of this flood."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Rock and ice breaking off a ridge"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. It fell and rushed down the valley with water and rock."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A moraine lake bursting its wall"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Studies found no glacial lake burst in this flood."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "An earthquake under the river"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The start was a fall of rock and ice from a high ridge."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A huge mass of rock and glacier ice broke off a high ridge above the Rishiganga valley. It fell and rushed downstream as a flood of ice, rock and water. Studies found no lake burst."
+  },
+  "hints": [
+    {
+      "en": "Think about what was high above the valley."
+    }
+  ],
+  "tags": [
+    "glacier",
+    "chamoli",
+    "disaster"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:41.306Z",
+    "reviewedBy": "review-bar"
+  }
+}

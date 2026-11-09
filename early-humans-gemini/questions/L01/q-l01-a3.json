@@ -1,0 +1,66 @@
+{
+  "id": "q-l01-a3",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Which new find would help most in deciphering the Sindhu lipi?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A seal older than any found so far."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "An older seal would still be short and still unread. Age does not give scholars anything to check a guess against."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A clearer, less worn copy of a seal we already have."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The signs we have are already clear enough to see. The difficulty is that nothing shows what they say."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A stone with the same message in the Sindhu lipi and in a script we can read."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A seal with a larger picture of a bull."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A picture shows what the seal shows, but it gives no sound or word for any sign."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Scholars deciphered other scripts with the help of a text that had a known script beside it. The same message appears twice, so a guess at one can be checked against the other. Nothing of this kind has been found for the Sindhu lipi."
+  },
+  "hints": [
+    {
+      "en": "What helped scholars read cuneiform and hieroglyphs?"
+    }
+  ],
+  "tags": [
+    "sindhu-lipi",
+    "writing"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

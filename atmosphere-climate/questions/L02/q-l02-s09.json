@@ -1,0 +1,59 @@
+{
+  "id": "q-l02-s09",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "What does the ozone in the stratosphere do for us?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It filters the Sun's ultraviolet radiation."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It gives us most of the oxygen we breathe."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It reflects radio waves back to the Earth."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It burns up most incoming meteors."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Ozone filters the Sun's harmful radiation, including ultraviolet. Radio waves are reflected in the thermosphere, and most meteors burn up in the mesosphere. Oxygen is about 21 per cent of the air, while ozone is a tiny share."
+  },
+  "hints": [
+    {
+      "en": "Think of what the ozone layer shields us from."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "stratosphere",
+    "ozone"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:11.924Z",
+    "reviewedBy": "review-bar"
+  }
+}

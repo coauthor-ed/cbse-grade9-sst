@@ -1,0 +1,104 @@
+{
+  "id": "q-l09-s04",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Sort each description under the Vedic group it describes."
+  },
+  "categories": [
+    {
+      "id": "kula",
+      "label": {
+        "en": "kula"
+      }
+    },
+    {
+      "id": "grama",
+      "label": {
+        "en": "grāma"
+      }
+    },
+    {
+      "id": "visha",
+      "label": {
+        "en": "viśha"
+      }
+    },
+    {
+      "id": "jana",
+      "label": {
+        "en": "jana"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "The smallest and most basic social unit"
+      },
+      "correctCategoryId": "kula"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "In the later Vedic period, a household of several members bound by kinship"
+      },
+      "correctCategoryId": "kula"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Made up of several families"
+      },
+      "correctCategoryId": "grama"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "A group of grāmas together"
+      },
+      "correctCategoryId": "visha"
+    },
+    {
+      "id": "chip-6",
+      "text": {
+        "en": "Headed by a viśhapati"
+      },
+      "correctCategoryId": "visha"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "The people, with the rājā as their chief protector"
+      },
+      "correctCategoryId": "jana"
+    }
+  ],
+  "explanation": {
+    "en": "The groups fit one inside the next: kula, grāma, viśha, jana. A kula was a family, and in the later Vedic period the word came to mean a household of kin. Several families made a grāma, and several grāmas made a viśha under a viśhapati. The jana was the whole people, with the rājā as chief protector."
+  },
+  "hints": [
+    {
+      "en": "Start with the smallest group, then ask which group is made of those."
+    },
+    {
+      "en": "Only one of the four groups has a head called a viśhapati."
+    }
+  ],
+  "tags": [
+    "kula",
+    "grama",
+    "visha",
+    "jana",
+    "family",
+    "match-categorize"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:45.482Z",
+    "reviewedBy": "review-bar"
+  }
+}

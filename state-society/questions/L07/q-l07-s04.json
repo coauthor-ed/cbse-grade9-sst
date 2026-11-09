@@ -1,0 +1,64 @@
+{
+  "id": "q-l07-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "The 10th century CE Uttaramerur inscription says candidates for the village assembly should have \"honest earnings\" and be \"pure\" of mind. What does this show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Ethical principles were applied to local government as well as to kings."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Only temple priests could stand in village elections."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Village assemblies were more powerful than the Chola king."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Assembly members were chosen by wealth alone."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Evidence of ethical principles in governance runs from Aśhoka's edicts to the Uttaramerur inscription. A moral condition for candidates shows ethics at work in a village election."
+  },
+  "hints": [
+    {
+      "en": "Is the condition about money, about morals, or about both?"
+    },
+    {
+      "en": "Which option is about ethics and government?"
+    }
+  ],
+  "tags": [
+    "dharma",
+    "uttaramerur",
+    "ashoka",
+    "governance",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:34.561Z",
+    "reviewedBy": "review-bar"
+  }
+}

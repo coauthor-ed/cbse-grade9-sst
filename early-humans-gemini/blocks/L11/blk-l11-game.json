@@ -1,0 +1,14 @@
+{
+  "id": "blk-l11-game",
+  "type": "mini-game@1",
+  "src": "simulations/L11/WeighTheHeartGame.js",
+  "objective": {
+    "en": "Four lives. Using what Egyptians believed, predict: would each heart pass the weighing, or fail it?"
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

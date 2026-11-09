@@ -1,0 +1,63 @@
+{
+  "id": "q-l04-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A registered party is recognised neither as a national party nor as a State party. What is true of its candidates?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They can contest, with no reserved party symbol."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They must stand on a national party's symbol."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They cannot contest until the party is recognised."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They must all share one symbol across the whole of India."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A registered party can contest elections even if it is not recognised. Election symbols are allotted to national and state parties, so this party has no reserved symbol. Its candidates choose a free symbol from a list."
+  },
+  "hints": [
+    {
+      "en": "Being registered and being recognised are two different things."
+    },
+    {
+      "en": "Which classes of party are allotted election symbols?"
+    }
+  ],
+  "tags": [
+    "party-registration",
+    "symbols",
+    "eci",
+    "registered-unrecognised-party"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:11.134Z",
+    "reviewedBy": "review-bar"
+  }
+}

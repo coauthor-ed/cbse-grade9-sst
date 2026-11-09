@@ -1,0 +1,15 @@
+{
+  "id": "blk-l08-s03c",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08/blk-l08-s03c.md",
+  "simulation": {
+    "src": "simulations/L08/CarbonFootprintScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T08:20:31.000Z",
+    "reviewedBy": "owner"
+  }
+}

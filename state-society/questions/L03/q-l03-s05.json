@@ -1,0 +1,47 @@
+{
+  "id": "q-l03-s05",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "assertion": {
+    "en": "Early Indian political thought could treat the whole subcontinent as the proper field of one ruler."
+  },
+  "reason": {
+    "en": "The Arthaśhāstra defines Prithivi as the area between the Himavat and the sea, and equates it with the domain of a universal paramount ruler."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both statements are true, and the second does explain the first: it shows a text treating the land from the Himalayas to the sea as one ruler's domain."
+    },
+    "c": {
+      "en": "The reason is true. The Arthaśhāstra gives this definition."
+    },
+    "d": {
+      "en": "The assertion is true. Terms such as Jambudvīpa and chakravarti kśhetra express this idea."
+    }
+  },
+  "explanation": {
+    "en": "The Arthaśhāstra defines Prithivi as the area between the Himavat and the sea and equates it with the chakravarti kśhetra, the domain of a universal paramount ruler. So a treatise on statecraft treats the whole subcontinent as one ruler's proper field."
+  },
+  "hints": [
+    {
+      "en": "First decide if each statement is true by itself."
+    },
+    {
+      "en": "What land lies between the Himalayas and the sea?"
+    }
+  ],
+  "tags": [
+    "chakravarti",
+    "jambudvipa",
+    "prithivi",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:14.624Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "q-l13-s08",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Explain three ways in which early Chinese rulers governed a large territory."
+  },
+  "rubric": [
+    {
+      "id": "conditional-mandate",
+      "label": {
+        "en": "Zhou rulers were believed to be appointed by heaven, but a ruler could be dismissed when his people did not prosper"
+      },
+      "level1": {
+        "en": "A Zhou king was believed to be appointed by heaven. What could happen to him if his people did not prosper?"
+      },
+      "clue": {
+        "en": "Zhou kings were believed to be appointees of heaven, and they could be dismissed when the people did not prosper."
+      },
+      "level2Template": {
+        "en": "Under the Mandate of Heaven, a ruler's right to rule was ___ on the people doing well."
+      },
+      "accepted": [
+        "conditional",
+        "dependent",
+                "temporary",
+        "non-absolute"
+      ]
+    },
+    {
+      "id": "merit-examination",
+      "label": {
+        "en": "Public officials were chosen after examination in defined skills such as writing and calculations"
+      },
+      "level1": {
+        "en": "How were public officials chosen, and in what were they tested?"
+      },
+      "clue": {
+        "en": "Officials were examined in archery, horsemanship, calculations, writing and music."
+      },
+      "level2Template": {
+        "en": "Officials were chosen through public ___ that tested skills like writing, calculations and archery."
+      },
+      "accepted": [
+        "examinations",
+        "exams",
+        "testing",
+        "tests",
+        "public examinations"
+      ]
+    },
+    {
+      "id": "monetary-system",
+      "label": {
+        "en": "A metal-based medium of exchange appeared under the Zhou, a money economy developed by the 5th century BCE, and China later introduced paper currency"
+      },
+      "level1": {
+        "en": "Trade and taxes across a large state need something everyone accepts. What did China develop for this?"
+      },
+      "clue": {
+        "en": "Metal money appeared under the Zhou, a money economy developed by the 5th century BCE, and China was the first to introduce paper currency."
+      },
+      "level2Template": {
+        "en": "A money economy grew up using metal money, and later China introduced paper ___."
+      },
+      "accepted": [
+        "currency",
+        "money",
+        "notes",
+        "paper currency",
+        "paper money"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "Ancient Chinese dynasties developed three key administrative innovations to govern their vast territories."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Conditional authority"
+      },
+      "text": {
+        "en": "Under the Mandate of Heaven, a ruler's right to rule was ___ on the people doing well."
+      },
+      "rubricId": "conditional-mandate"
+    },
+    {
+      "eyebrow": {
+        "en": "Merit-based administration"
+      },
+      "text": {
+        "en": "Officials were chosen through public ___ that tested skills like writing, calculations and archery."
+      },
+      "rubricId": "merit-examination"
+    },
+    {
+      "eyebrow": {
+        "en": "Standardised currency"
+      },
+      "text": {
+        "en": "A money economy grew up using metal money, and later China introduced paper ___."
+      },
+      "rubricId": "monetary-system"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "governance",
+    "mandate-of-heaven",
+    "civil-service",
+    "currency",
+    "ancient-china"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

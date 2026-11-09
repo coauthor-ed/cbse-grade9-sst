@@ -1,0 +1,15 @@
+{
+  "id": "blk-l04-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L04/SaptangaWheelGame.js",
+  "objective": {
+    "en": "Match each situation to the limb of the state that answers it."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:19.089Z",
+    "reviewedBy": "review-bar"
+  }
+}

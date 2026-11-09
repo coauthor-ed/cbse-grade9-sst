@@ -1,0 +1,120 @@
+{
+  "id": "q-l02-s10",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "mode": "coach",
+  "prompt": {
+    "en": "How did political organisation change from the early Vedic period to the rise of the Mauryan Empire? Write about 80 words."
+  },
+  "rubric": [
+    {
+      "id": "kin-based",
+      "label": {
+        "en": "Early groups were janas bound by kinship"
+      },
+      "level1": {
+        "en": "What held the earliest political groups together?"
+      },
+      "clue": {
+        "en": "Early Vedic society was organised into janas, groups bound by kinship, each led by a rājā who was mainly a clan chief."
+      },
+      "level2Template": {
+        "en": "Early Vedic society was organised into ___, bound by ___."
+      },
+      "accepted": [
+        "jana",
+        "janas",
+        "kin",
+        "kinship",
+        "clan",
+        "clans"
+      ]
+    },
+    {
+      "id": "territorial",
+      "label": {
+        "en": "Janapadas added a sense of belonging to a land"
+      },
+      "level1": {
+        "en": "What was added between about 1000 BCE and 600 BCE?"
+      },
+      "clue": {
+        "en": "Janapadas were territorial units. People were connected by kinship and also by a sense of belonging to a land."
+      },
+      "level2Template": {
+        "en": "Janapadas added a sense of belonging to a ___."
+      },
+      "accepted": [
+        "janapada",
+        "janapadas",
+        "land",
+        "territory",
+        "territorial"
+      ]
+    },
+    {
+      "id": "larger-units",
+      "label": {
+        "en": "Mahājanapadas were bigger units, and Magadha expanded to become the Mauryan Empire"
+      },
+      "level1": {
+        "en": "What came after the janapadas, and which one grew most?"
+      },
+      "clue": {
+        "en": "From about 600 BCE the sources speak of sixteen mahājanapadas. Magadha became the most powerful, and its expansion led to the Mauryan Empire."
+      },
+      "level2Template": {
+        "en": "The sources speak of sixteen ___, and ___ grew into the Mauryan Empire."
+      },
+      "accepted": [
+        "mahajanapada",
+        "mahājanapadas",
+        "sixteen",
+        "magadha",
+        "mauryan",
+        "empire"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "First"
+      },
+      "text": {
+        "en": "At first people lived in janas, clans bound by kinship and led by a rājā."
+      },
+      "rubricId": "kin-based"
+    },
+    {
+      "eyebrow": {
+        "en": "Then"
+      },
+      "text": {
+        "en": "Between about 1000 and 600 BCE, janapadas added a sense of belonging to a land."
+      },
+      "rubricId": "territorial"
+    },
+    {
+      "eyebrow": {
+        "en": "Later"
+      },
+      "text": {
+        "en": "The sixteen mahājanapadas were bigger units, and Magadha expanded until it led to the Mauryan Empire."
+      },
+      "rubricId": "larger-units"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:09.784Z",
+    "reviewedBy": "review-bar"
+  }
+}

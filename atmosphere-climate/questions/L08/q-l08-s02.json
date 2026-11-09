@@ -1,0 +1,76 @@
+{
+  "id": "q-l08-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Carbon dioxide is only about 0.04 per cent of the air. Why can it still change Earth's temperature?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It holds rising heat; nitrogen and oxygen do not"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. What matters is which gas holds heat."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It blocks sunlight from reaching the ground"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Sunlight passes through it. It acts on the heat going out."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It is the largest gas in the air"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Nitrogen is the largest, at about 78 per cent."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It makes the Sun shine more strongly"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A gas on Earth cannot change the Sun."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Nitrogen and oxygen make up about 99 per cent of the air, but they let rising heat pass. Carbon dioxide holds some of it. It was under 0.03 per cent in the 1800s and is about 0.04 per cent now, about one and a half times as much."
+  },
+  "hints": [
+    {
+      "en": "Think about what happens to the heat rising from the ground."
+    },
+    {
+      "en": "Which gases let that heat pass?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "greenhouse-gas",
+    "carbon-dioxide",
+    "climate-change",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:53.484Z",
+    "reviewedBy": "review-bar"
+  }
+}

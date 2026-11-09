@@ -1,0 +1,76 @@
+{
+  "id": "q-l06-s03",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The monsoon usually reaches Jodhpur around 5 July and leaves around 17 September. It reaches Kolkata in mid-June and leaves in mid-October. What does this show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The place reached last loses the monsoon first, so its stay is shorter"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Jodhpur is reached later than Kolkata and left a month earlier."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The place reached last keeps the monsoon the longest"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Jodhpur is reached later and still loses the monsoon sooner."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The monsoon leaves every place on the same day"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Jodhpur loses it about a month before Kolkata."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The monsoon leaves the east first and the west last"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Jodhpur in the west loses it first."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Jodhpur has the monsoon for about 11 weeks, from 5 July to 17 September. Kolkata has it for about 17 weeks, from mid-June to mid-October. The far north-west is last in and first out."
+  },
+  "hints": [
+    {
+      "en": "Compare the arrival dates first."
+    },
+    {
+      "en": "Now compare the dates when the monsoon leaves."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "monsoon",
+    "retreat",
+    "isochrone",
+    "reversal"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:36.866Z",
+    "reviewedBy": "review-bar"
+  }
+}

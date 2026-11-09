@@ -1,0 +1,65 @@
+{
+  "id": "q-l05-a2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "West Asia has the oldest traces of cultivation, yet historians think that rice farming on the Yangtze was a separate beginning. What is the best reason?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Rice is a different plant from wheat and barley, and it grew wild in that part of the world."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The Yangtze dates are thousands of years later than West Asia's, and a spread cannot take that long."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A slow spread can take thousands of years, so a gap in dates does not settle the question."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The people of south China and West Asia never met."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The chart does not tell us this. Whether people met is hard to know. The plants are the stronger clue."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Farming was impossible in West Asia, so it had to begin elsewhere."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "West Asia is on the chart as a farming region with wheat and barley."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Rice is a local plant of that region, not a copy of wheat. Different local plants make separate beginnings likely, though not certain: the idea of farming could still have travelled."
+  },
+  "hints": [
+    {
+      "en": "Think about what the farmers were growing, not when."
+    }
+  ],
+  "tags": [
+    "origins-of-farming"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

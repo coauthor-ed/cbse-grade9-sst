@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 980" role="img" font-family="Verdana, 'DejaVu Sans', sans-serif">
+  <title>Human digestive system</title>
+  <defs>
+    <linearGradient id="liverG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a34a3c"/><stop offset="1" stop-color="#7e362c"/>
+    </linearGradient>
+    <linearGradient id="stomachG" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e2766f"/><stop offset="1" stop-color="#c25551"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="980" fill="#fbf7ee"/>
+
+  <!-- torso outline -->
+  <path d="M 328 92 C 326 122 332 144 346 158 C 292 172 244 196 226 246 C 208 298 214 366 220 432 C 226 504 222 576 234 644 C 246 712 250 792 246 864 L 246 916 L 614 916 L 614 864 C 610 792 614 712 626 644 C 638 576 634 504 640 432 C 646 366 652 298 634 246 C 616 196 568 172 514 158 C 528 144 534 122 532 92" fill="#f2e9d8" stroke="#c9bda3" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- mouth, tongue, salivary glands -->
+  <ellipse cx="356" cy="120" rx="17" ry="24" fill="#f0c9a4" stroke="#cfa06c" stroke-width="2"/>
+  <ellipse cx="398" cy="152" rx="15" ry="11" fill="#f0c9a4" stroke="#cfa06c" stroke-width="2"/>
+  <ellipse cx="428" cy="158" rx="17" ry="8" fill="#f0c9a4" stroke="#cfa06c" stroke-width="2"/>
+  <ellipse cx="430" cy="118" rx="36" ry="15" fill="#d4788a" stroke="#b25a6e" stroke-width="2"/>
+
+  <!-- diaphragm -->
+  <path d="M 252 336 C 300 292 380 272 452 272 C 524 272 590 296 636 334" stroke="#9a8f78" stroke-width="2.5" fill="none" stroke-dasharray="8 7"/>
+
+  <!-- esophagus -->
+  <path d="M 428 142 C 424 180 416 220 412 258 C 408 296 416 336 436 366 L 448 384" stroke="#b5715f" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <path d="M 428 142 C 424 180 416 220 412 258 C 408 296 416 336 436 366 L 448 384" stroke="#e8a493" stroke-width="12" fill="none" stroke-linecap="round"/>
+
+  <!-- stomach -->
+  <path d="M 446 378 C 452 356 476 342 502 342 C 546 342 584 376 600 420 C 612 454 610 494 588 522 C 564 552 522 562 488 550 C 474 545 462 536 456 526 C 450 516 450 506 456 498 C 446 470 440 442 438 416 C 436 398 438 386 446 378 Z" fill="url(#stomachG)" stroke="#99423f" stroke-width="2.5"/>
+  <path d="M 470 400 C 492 394 516 400 534 414 M 462 440 C 488 434 516 442 540 458 M 466 480 C 492 474 518 482 542 498" stroke="#b05551" stroke-width="3" fill="none" opacity="0.6"/>
+  <circle cx="459" cy="512" r="7" fill="#99423f"/>
+
+  <!-- liver + gallbladder -->
+  <path d="M 260 376 C 262 340 296 318 346 312 C 408 305 464 320 490 346 C 502 358 500 374 482 382 C 446 398 398 410 350 416 C 314 420 284 416 270 404 C 262 396 259 386 260 376 Z" fill="url(#liverG)" stroke="#6d2c24" stroke-width="2"/>
+  <path d="M 378 314 C 376 330 374 348 374 364" stroke="#c97e6e" stroke-width="3" fill="none" opacity="0.8"/>
+  <path d="M 318 414 C 330 408 344 414 347 428 C 350 443 342 456 329 458 C 318 460 311 452 312 440 C 313 428 314 418 318 414 Z" fill="#7fae5e" stroke="#57843d" stroke-width="2"/>
+
+  <!-- duodenum, then pancreas over its C-loop -->
+  <path d="M 462 522 C 478 534 500 542 512 556 C 526 572 528 594 519 612 C 511 628 494 636 478 631 C 464 627 455 617 452 606" stroke="#bb7a64" stroke-width="19" fill="none" stroke-linecap="round"/>
+  <path d="M 462 522 C 478 534 500 542 512 556 C 526 572 528 594 519 612 C 511 628 494 636 478 631 C 464 627 455 617 452 606" stroke="#e8ab97" stroke-width="13" fill="none" stroke-linecap="round"/>
+  <path d="M 468 538 C 490 527 520 521 550 525 C 582 529 612 521 632 505 C 641 498 650 503 647 513 C 640 535 614 550 582 552 C 548 555 512 561 488 570 C 474 575 464 566 467 552 C 468 547 468 542 468 538 Z" fill="#e9c979" stroke="#c2a24e" stroke-width="2"/>
+
+  <!-- large intestine -->
+  <path d="M 318 806 C 312 760 310 716 313 676 C 316 636 318 600 316 576 C 314 556 320 540 338 534 C 360 527 388 538 416 548 C 448 559 484 562 514 554 C 546 545 568 532 576 514 C 582 500 588 494 598 498 C 610 504 608 522 602 550 C 596 592 594 636 596 678 C 598 716 594 750 588 772 C 582 794 570 808 556 816 C 542 822 534 832 538 844 C 542 854 554 856 560 848" stroke="#b97c4e" stroke-width="34" fill="none" stroke-linecap="round"/>
+  <path d="M 318 806 C 312 760 310 716 313 676 C 316 636 318 600 316 576 C 314 556 320 540 338 534 C 360 527 388 538 416 548 C 448 559 484 562 514 554 C 546 545 568 532 576 514 C 582 500 588 494 598 498 C 610 504 608 522 602 550 C 596 592 594 636 596 678 C 598 716 594 750 588 772 C 582 794 570 808 556 816 C 542 822 534 832 538 844 C 542 854 554 856 560 848" stroke="#d9a06b" stroke-width="26" fill="none" stroke-linecap="round"/>
+  <path d="M 318 806 C 312 760 310 716 313 676 C 316 636 318 600 316 576 C 314 556 320 540 338 534 C 360 527 388 538 416 548 C 448 559 484 562 514 554 C 546 545 568 532 576 514 C 582 500 588 494 598 498 C 610 504 608 522 602 550 C 596 592 594 636 596 678 C 598 716 594 750 588 772 C 582 794 570 808 556 816 C 542 822 534 832 538 844 C 542 854 554 856 560 848" stroke="#a5713f" stroke-width="26" fill="none" stroke-dasharray="3 28" opacity="0.35"/>
+  <!-- cecum + appendix + rectum -->
+  <path d="M 296 800 C 292 776 306 760 328 758 C 352 756 366 772 366 796 C 366 818 352 834 330 836 C 310 838 298 824 296 800 Z" fill="#d9a06b" stroke="#a5713f" stroke-width="2"/>
+  <path d="M 348 826 C 362 838 368 856 360 870" stroke="#b97c4e" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <path d="M 348 826 C 362 838 368 856 360 870" stroke="#d9a06b" stroke-width="9" fill="none" stroke-linecap="round"/>
+  <path d="M 556 848 C 552 868 550 886 547 902" stroke="#b97c4e" stroke-width="28" fill="none" stroke-linecap="round"/>
+  <path d="M 556 848 C 552 868 550 886 547 902" stroke="#d9a06b" stroke-width="20" fill="none" stroke-linecap="round"/>
+  <circle cx="546" cy="908" r="6" fill="#a5713f"/>
+
+  <!-- small intestine (coils in front) -->
+  <path d="M 452 612 C 505 614 548 630 550 656 C 552 678 516 690 480 684 C 448 678 414 670 388 678 C 362 686 358 708 382 720 C 410 734 468 728 506 740 C 538 750 542 774 514 784 C 486 794 434 792 398 782 C 366 773 348 760 352 746" stroke="#c67f6c" stroke-width="27" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 452 612 C 505 614 548 630 550 656 C 552 678 516 690 480 684 C 448 678 414 670 388 678 C 362 686 358 708 382 720 C 410 734 468 728 506 740 C 538 750 542 774 514 784 C 486 794 434 792 398 782 C 366 773 348 760 352 746" stroke="#eeb09e" stroke-width="19" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 452 612 C 505 614 548 630 550 656 C 552 678 516 690 480 684 C 448 678 414 670 388 678 C 362 686 358 708 382 720 C 410 734 468 728 506 740 C 538 750 542 774 514 784 C 486 794 434 792 398 782 C 366 773 348 760 352 746" stroke="#b96a58" stroke-width="19" fill="none" stroke-dasharray="2 26" opacity="0.3"/>
+  <g fill="#8a7c62">
+    <circle cx="396" cy="116" r="2.5"/><circle cx="382" cy="150" r="2.5"/><circle cx="406" cy="257" r="2.5"/><circle cx="304" cy="300" r="2.5"/>
+    <circle cx="296" cy="361" r="2.5"/><circle cx="322" cy="442" r="2.5"/><circle cx="424" cy="550" r="2.5"/><circle cx="302" cy="658" r="2.5"/>
+    <circle cx="296" cy="806" r="2.5"/><circle cx="354" cy="862" r="2.5"/><circle cx="562" cy="388" r="2.5"/><circle cx="640" cy="509" r="2.5"/>
+    <circle cx="520" cy="595" r="2.5"/><circle cx="596" cy="663" r="2.5"/><circle cx="560" cy="826" r="2.5"/><circle cx="549" cy="892" r="2.5"/>
+    <circle cx="550" cy="910" r="2.5"/><circle cx="438" cy="790" r="2.5"/>
+  </g>
+
+</svg>

@@ -1,0 +1,61 @@
+{
+  "id": "q-l11-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Why would a donor place money with a guild, rather than hand it all to the monks to spend?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Because a guild was bound by law to spend the money on temples."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Because a guild could hold the money and pay fixed interest, so the income went on for years."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Because monks were not allowed to receive any gifts from a donor."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Because guild courts ordered every rich person to make a deposit."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The Nāśhik inscription shows guilds obligated to pay a fixed rate of interest on deposits, and the interest went to the Saṁgha. The deposit itself stayed in place, so the income could continue. That is what a perpetual endowment means. Monks did receive gifts, since the same donor gave them the cave."
+  },
+  "hints": [
+    {
+      "en": "Think of what happens to money that is spent, and to money that earns interest."
+    }
+  ],
+  "tags": [
+    "guilds",
+    "endowment",
+    "banking",
+    "mini-game",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z",
+    "reviewedBy": "review-bar"
+  }
+}

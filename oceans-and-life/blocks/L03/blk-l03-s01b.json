@@ -1,0 +1,15 @@
+{
+  "id": "blk-l03-s01b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03/blk-l03-s01b.md",
+  "simulation": {
+    "src": "simulations/L03/TwoBulgesScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T15:43:10.000Z",
+    "reviewedBy": "owner"
+  }
+}

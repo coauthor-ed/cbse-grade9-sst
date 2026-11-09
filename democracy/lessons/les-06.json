@@ -1,0 +1,64 @@
+{
+  "id": "les-06",
+  "lessonId": "les-06",
+  "type": "lesson",
+  "title": {
+    "en": "How big is an Indian election?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L06/blk-l06-s01.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s02.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s03.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s04.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s05.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s06.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s07.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s08.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s08b.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s09.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s10.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-game.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s11.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s12.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s13.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s14.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.520Z"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l01-game",
+  "type": "mini-game@1",
+  "src": "simulations/L01/CaseFileGame.js",
+  "objective": {
+    "en": "Four invented scripts. For each one, decide: could scholars probably read it, or would it stay unread? Check all three things before you answer."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

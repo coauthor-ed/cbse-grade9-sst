@@ -1,0 +1,59 @@
+{
+  "id": "q-l07-s11",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "In June 1975 a National Emergency was imposed: a majority of Fundamental Rights were suspended and the press was censored. In 1977 general elections were held, and the ruling government was defeated. What does this sequence show most clearly about Indian democracy?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "People expressed their will through the ballot, which showed that the system could recover."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The Emergency caused no lasting concern, since elections were held again afterwards."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Its institutions cannot survive a crisis, since one Emergency put them under strain."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Its strength comes from the written text alone, whether or not citizens take part."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The period showed both vulnerability and resilience, and the defeat of the ruling government at the ballot showed the strength of Indian democracy. Holding elections afterwards does not make the suspension of rights a small matter. The institutions came under strain but recovered. And active citizen participation mattered along with constitutional safeguards, so the text alone is not enough."
+  },
+  "hints": [
+    {
+      "en": "Keep the two parts apart: what the Emergency showed, and what the 1977 elections showed."
+    }
+  ],
+  "tags": [
+    "emergency",
+    "1977-verdict",
+    "democratic-resilience",
+    "popular-sovereignty"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.526Z"
+  }
+}

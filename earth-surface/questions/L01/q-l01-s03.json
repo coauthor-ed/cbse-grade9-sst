@@ -1,0 +1,73 @@
+{
+  "id": "q-l01-s03",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The Earth's interior heat flow is split like this: crust 24, upper mantle 22, lower mantle 32 and core 22 per cent. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The core gives a bigger share than the crust"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The core gives 22 per cent and the crust gives 24."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The crust gives the biggest share of all"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The lower mantle gives 32 per cent, more than the crust's 24."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The two mantle parts give over half"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. 22 + 32 = 54 per cent, which is more than half."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "All four parts give about the same share"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The shares run from 22 to 32 per cent, so they differ."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Add the two parts of the mantle: 22 + 32 = 54 per cent. That is more than the crust and core together, which give 46 per cent. The lower mantle alone has the largest single share."
+  },
+  "hints": [
+    {
+      "en": "Which two shares belong to the mantle?"
+    },
+    {
+      "en": "Add them. Is the total more than 50?"
+    }
+  ],
+  "tags": [
+    "heat-flow",
+    "interior"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:14.297Z",
+    "reviewedBy": "review-bar"
+  }
+}

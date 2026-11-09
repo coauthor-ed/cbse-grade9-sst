@@ -1,0 +1,80 @@
+{
+  "id": "les-02",
+  "lessonId": "les-02",
+  "type": "lesson",
+  "title": {
+    "en": "What is a wave, and how do waves shape the coast?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L02/blk-l02-s01.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s02.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s03.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s03b.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s01.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s02.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s03.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s04.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s04.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s05.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s05.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s05b.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s06.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s06.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-a01.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s07.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s07.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s07b.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s08.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s09.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s09.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:25.965Z",
+    "reviewedBy": "review-bar"
+  }
+}

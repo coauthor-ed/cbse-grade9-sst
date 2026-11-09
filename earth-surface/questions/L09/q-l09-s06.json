@@ -1,0 +1,74 @@
+{
+  "id": "q-l09-s06",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "What made the caves, sinkholes and underground rivers of a limestone hill?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Water that dissolved the rock"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. All of them come from water dissolving limestone."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Sea waves that once beat against the hill"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Waves cut sea caves at the coast. These form far from any shore."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Wind carrying sand through the rock"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Wind cannot reach the inside of solid rock."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Glacier ice that pushed through the hill"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ice carves valleys on the surface, not passages inside limestone."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Rain becomes a weak acid and dissolves limestone along its cracks. This opens caves and passages, and roofs that fall in make sinkholes. Geologists call these landforms karst topography."
+  },
+  "hints": [
+    {
+      "en": "Which agent can reach inside solid rock?"
+    }
+  ],
+  "tags": [
+    "karst",
+    "limestone",
+    "sinkhole",
+    "cave",
+    "underground-river",
+    "dissolution"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:51.498Z",
+    "reviewedBy": "review-bar"
+  }
+}

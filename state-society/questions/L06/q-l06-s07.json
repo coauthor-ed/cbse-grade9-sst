@@ -1,0 +1,129 @@
+{
+  "id": "q-l06-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "mode": "coach",
+  "prompt": {
+    "en": "Why could village assemblies be called independent and self-reliant? Answer in about 100 words, using the Chola villages and the kudavolai."
+  },
+  "rubric": [
+    {
+      "id": "own-work",
+      "label": {
+        "en": "Assemblies did the local work themselves"
+      },
+      "level1": {
+        "en": "What work did a village assembly do?"
+      },
+      "clue": {
+        "en": "Village assemblies settled disputes and were responsible for all local administrative functions, including revenue collection, land management, irrigation, road construction and record maintenance."
+      },
+      "level2Template": {
+        "en": "Village assemblies were responsible for local work such as ___ and ___."
+      },
+      "accepted": [
+        "revenue",
+        "land management",
+        "irrigation",
+        "road",
+        "roads",
+        "record",
+        "records",
+        "disputes",
+        "local affairs"
+      ]
+    },
+    {
+      "id": "own-people",
+      "label": {
+        "en": "The village chose its own members and set up its own committees"
+      },
+      "level1": {
+        "en": "How did a village choose the people who did this work?"
+      },
+      "clue": {
+        "en": "Under the kudavolai, names of eligible candidates were drawn from a pot by a young child in full view of the community. Those chosen were divided into committees called variyams."
+      },
+      "level2Template": {
+        "en": "Names were drawn from a ___, and those chosen were divided into committees called ___."
+      },
+      "accepted": [
+        "kudavolai",
+        "pot",
+        "palm leaves",
+        "child",
+        "election",
+        "elections",
+        "variyams",
+        "variyam",
+        "committee",
+        "committees"
+      ]
+    },
+    {
+      "id": "no-patronage",
+      "label": {
+        "en": "They did not depend on the government for patronage"
+      },
+      "level1": {
+        "en": "Did the assemblies depend on support from the ruler?"
+      },
+      "clue": {
+        "en": "The village assemblies functioned as independent, self-reliant institutions and were not dependent on the government for patronage."
+      },
+      "level2Template": {
+        "en": "The assemblies did not depend on the government for ___."
+      },
+      "accepted": [
+        "patronage",
+        "not dependent",
+        "did not depend",
+        "self-reliant",
+        "independent",
+        "support",
+        "payment"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The work"
+      },
+      "text": {
+        "en": "Village assemblies settled ___ and managed local work such as ___ and irrigation."
+      },
+      "rubricId": "own-work"
+    },
+    {
+      "eyebrow": {
+        "en": "The people"
+      },
+      "text": {
+        "en": "A child drew names from a ___, and those chosen were divided into ___."
+      },
+      "rubricId": "own-people"
+    },
+    {
+      "eyebrow": {
+        "en": "The money"
+      },
+      "text": {
+        "en": "The assemblies were not dependent on the government for ___."
+      },
+      "rubricId": "no-patronage"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:28.849Z",
+    "reviewedBy": "review-bar"
+  }
+}

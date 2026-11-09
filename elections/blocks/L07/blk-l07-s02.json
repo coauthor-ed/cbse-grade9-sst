@@ -1,0 +1,36 @@
+{
+  "id": "blk-l07-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L07/blk-l07-s02.md",
+  "deferVerdict": true,
+  "options": [
+    {
+      "id": "a",
+      "text": "No, 2% of the votes is too small a share"
+    },
+    {
+      "id": "b",
+      "text": "Yes, it meets one rule on seats and States"
+    },
+    {
+      "id": "c",
+      "text": "No, a national party needs 50 seats or more"
+    },
+    {
+      "id": "d",
+      "text": "Only if the President signs the decision first"
+    }
+  ],
+  "correctOptionId": "b",
+  "simulation": {
+    "src": "simulations/L07/SizeVsStatusScene-setup.js",
+    "role": "setup",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:24.206Z",
+    "reviewedBy": "review-bar"
+  }
+}

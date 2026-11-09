@@ -1,0 +1,17 @@
+{
+  "id": "blk-l02-s08",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-s08.md",
+  "image": {
+    "src": "media/L02/aurora-abisko.jpg",
+    "alt": "A green aurora glowing in soft vertical bands across a star-filled night sky above a dark snowy ridge lined with bare trees.",
+    "caption": "Aurora borealis over Abisko, northern Sweden. Photo: Pavel.shyshkouski, CC BY-SA 4.0.",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:11.924Z",
+    "reviewedBy": "review-bar"
+  }
+}

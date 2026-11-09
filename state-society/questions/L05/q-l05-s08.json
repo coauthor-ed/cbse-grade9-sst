@@ -1,0 +1,132 @@
+{
+  "id": "q-l05-s08",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "mode": "coach",
+  "prompt": {
+    "en": "What might have been the advantages and challenges of ruling a large empire in the absence of modern communication systems? Answer in about 100 words, using the way kingdoms were divided and the work done at each level."
+  },
+  "rubric": [
+    {
+      "id": "dividing-the-land",
+      "label": {
+        "en": "Dividing the kingdom into levels with officers made a large area easier to manage"
+      },
+      "level1": {
+        "en": "How did rulers organise a large kingdom?"
+      },
+      "clue": {
+        "en": "Kingdoms were divided into provinces, divisions, districts, groups of villages and villages, for administrative convenience. Provincial governors and district officers worked at these levels, while the king stayed supreme."
+      },
+      "level2Template": {
+        "en": "The kingdom was divided into provinces and ___, and each level had its own ___."
+      },
+      "accepted": [
+        "districts",
+        "divisions",
+        "villages",
+        "officers",
+        "officials",
+        "governors",
+        "provinces",
+        "levels"
+      ]
+    },
+    {
+      "id": "local-decisions",
+      "label": {
+        "en": "Local officers and village bodies could act on matters close to them"
+      },
+      "level1": {
+        "en": "Who dealt with local matters?"
+      },
+      "clue": {
+        "en": "District officers often consulted important residents such as bankers, caravan leaders, artisans and scribes. Village assemblies had small committees, the variyams, and villages were largely self-reliant in practical work."
+      },
+      "level2Template": {
+        "en": "District officers consulted important ___, and villages had small ___ called variyams."
+      },
+      "accepted": [
+        "residents",
+        "bankers",
+        "artisans",
+        "committees",
+        "assemblies",
+        "consulted",
+        "consulting",
+        "self-reliant",
+        "independent",
+        "autonomous"
+      ]
+    },
+    {
+      "id": "challenge-of-distance",
+      "label": {
+        "en": "Without fast communication, orders travelled slowly and far places were hard to control"
+      },
+      "level1": {
+        "en": "What was difficult about ruling a large empire without modern communication?"
+      },
+      "clue": {
+        "en": "A message had to be carried by a person, so it took a long time to reach a far place. The ruler could not see what happened there, and had to depend on his officers and on the villages themselves."
+      },
+      "level2Template": {
+        "en": "Messages travelled ___, so the ruler had to depend on his ___."
+      },
+      "accepted": [
+        "slowly",
+        "slow",
+        "long time",
+        "messenger",
+        "distance",
+        "far",
+        "officers",
+        "officials",
+        "weeks",
+        "control",
+        "difficult"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Dividing the land"
+      },
+      "text": {
+        "en": "The kingdom was divided into provinces, divisions, ___ and villages, and each level had its own ___."
+      },
+      "rubricId": "dividing-the-land"
+    },
+    {
+      "eyebrow": {
+        "en": "Work done close by"
+      },
+      "text": {
+        "en": "District officers often consulted important ___, and villages had small ___ called variyams."
+      },
+      "rubricId": "local-decisions"
+    },
+    {
+      "eyebrow": {
+        "en": "The challenge"
+      },
+      "text": {
+        "en": "Messages travelled ___, so a ruler could not watch far places and had to depend on his ___."
+      },
+      "rubricId": "challenge-of-distance"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:24.273Z",
+    "reviewedBy": "review-bar"
+  }
+}

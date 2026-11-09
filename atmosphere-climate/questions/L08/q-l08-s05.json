@@ -1,0 +1,76 @@
+{
+  "id": "q-l08-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "During the 2025 floods in Punjab, what did murky standing water cause?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Health problems and waterborne diseases"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Standing water spread disease and raised sanitation concerns."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The heavy monsoon rains over Punjab"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Rain came first. Standing water came after it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The rise of the rivers before the rains"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The rivers were high before any standing water."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The western disturbances over Punjab"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. These are weather systems, not an effect of the flood."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Murky standing water caused health problems, including the spread of waterborne diseases and sanitation concerns."
+  },
+  "hints": [
+    {
+      "en": "Think about drinking water and clean surroundings."
+    },
+    {
+      "en": "This effect is about people's health."
+    }
+  ],
+  "tags": [
+    "floods",
+    "punjab",
+    "climate-change",
+    "public-health",
+    "human-impact"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:53.484Z",
+    "reviewedBy": "review-bar"
+  }
+}

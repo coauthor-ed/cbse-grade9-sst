@@ -1,0 +1,75 @@
+{
+  "id": "q-l04-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "About 100 kg of air presses on your palm, yet you do not feel it. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Skin cannot sense any pressure at all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Skin feels a push easily. This push is balanced from inside."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Air presses from all sides, and the pressure inside the body balances it."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The pushes from outside and inside cancel."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The air is too thin to press on anything."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Air does press: about 1 kg on every square centimetre."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The air only presses on the ground, not on people."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Air presses on everything it touches, including you."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Air presses on us from all sides, and our bodies exert a counter-pressure. The pressure inside the body equals the atmospheric pressure and cancels the pressure from outside, so we feel nothing."
+  },
+  "hints": [
+    {
+      "en": "Think about what is happening on both sides of your skin."
+    },
+    {
+      "en": "Pressure inside the body is about the same as outside it."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "pressure",
+    "counter-pressure",
+    "weight"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:17.642Z",
+    "reviewedBy": "review-bar"
+  }
+}

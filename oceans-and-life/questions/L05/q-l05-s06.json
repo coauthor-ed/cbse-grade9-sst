@@ -1,0 +1,71 @@
+{
+  "id": "q-l05-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A satellite picture of clouds can show a cyclone coming. Why could it not show the tsunami of 26 December 2004 starting?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It began at night, when no picture can be taken"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Time of day is not the reason. There was simply nothing in the clouds to see."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The sky was too cloudy for satellites to see the sea"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cloud is what a satellite uses to find a cyclone. A tsunami makes no such pattern."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It began with an earthquake, not with a storm"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The sea floor moved, and that left no spiral of cloud in the sky."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No satellites at all were over Asia in the year 2004"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Satellites were there. The trouble is that the event gave them nothing to see in the clouds."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A cyclone is a storm in the air, so its cloud can be seen and followed for days. The tsunami began with an earthquake under the sea, which left no pattern in the clouds. So a warning system must also watch the sea floor and the sea."
+  },
+  "hints": [
+    {
+      "en": "Ask where each danger begins: in the air, or below the water."
+    }
+  ],
+  "tags": [
+    "tsunami",
+    "warning",
+    "comparison"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:39.278Z",
+    "reviewedBy": "review-bar"
+  }
+}

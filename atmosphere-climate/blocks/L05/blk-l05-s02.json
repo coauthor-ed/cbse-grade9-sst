@@ -1,0 +1,32 @@
+{
+  "id": "blk-l05-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05/blk-l05-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "From the sea to the land, and wet"
+    },
+    {
+      "id": "b",
+      "text": "From the land to the sea, and dry"
+    },
+    {
+      "id": "c",
+      "text": "From the sea to the land, and dry"
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L05/MonsoonReversalScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:27.401Z",
+    "reviewedBy": "review-bar"
+  }
+}

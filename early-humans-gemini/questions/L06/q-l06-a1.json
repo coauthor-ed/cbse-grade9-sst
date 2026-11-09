@@ -1,0 +1,65 @@
+{
+  "id": "q-l06-a1",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Which statement about Mehrgarh agrees with the book?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Its people built sun-dried brick houses, grew wheat and barley, and raised sheep, goats and Indian cattle."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Its people lived only by hunting until a city was built there in 2500 BCE."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mehrgarh was a farming village from about 7000 BCE, and it did not become a city."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It lies on the Ganga, and its people grew rice from about 7000 BCE."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mehrgarh lies on the Bolan river, and its crops were wheat and barley."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Its people first made bronze tools around 7000 BCE."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "About 7000 BCE is the date of the village. Copper came by about 4000 BCE, and the Bronze Age came later."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The book says that the people of Mehrgarh built handmade sun-dried brick houses and granaries, cultivated wheat and barley, and raised sheep, goats and Indian cattle, especially the zebu."
+  },
+  "hints": [
+    {
+      "en": "Recall the river, the crops and the date of the village."
+    }
+  ],
+  "tags": [
+    "mehrgarh"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

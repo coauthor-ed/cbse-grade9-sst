@@ -1,0 +1,32 @@
+{
+  "id": "q-l01-s01",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Imagine a line going straight down from the surface. It passes through the whole lithosphere, 100 km thick, and then the whole asthenosphere, 200 km thick. At what depth, in km, does the line leave the asthenosphere?"
+  },
+  "expectedValue": 300,
+  "tolerance": 5,
+  "unit": "km",
+  "explanation": {
+    "en": "The two layers lie one above the other, so their thicknesses add: 100 km + 200 km = 300 km. A common wrong answer is 200, which is the thickness of the asthenosphere and not the depth of its lower edge."
+  },
+  "hints": [
+    {
+      "en": "The lithosphere lies on top of the asthenosphere. How deep is the lower edge of the asthenosphere?"
+    }
+  ],
+  "tags": [
+    "layers",
+    "lithosphere",
+    "asthenosphere",
+    "depth"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:14.297Z",
+    "reviewedBy": "review-bar"
+  }
+}

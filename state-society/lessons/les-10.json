@@ -1,0 +1,71 @@
+{
+  "id": "les-10",
+  "lessonId": "les-10",
+  "type": "lesson",
+  "title": {
+    "en": "The teacher's house"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L10/blk-l10-s01.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s01.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s02.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s03.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s02.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s03.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s03b.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s04.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s04.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s05.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s05.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s06.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s06.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s07b.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s08.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-a01.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s09.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s09.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "review-bar",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:49.938Z"
+  }
+}

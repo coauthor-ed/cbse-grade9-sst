@@ -1,0 +1,72 @@
+{
+  "id": "q-l05-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Why can a delta be a good place to farm and also a risky place to live?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Its soil is poor, but its land is high above the sea."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Delta soil is very fertile, and delta land is low."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It has no rivers, so crops must be watered by rain."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A delta is full of river channels."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Its rock is hard, so floods run off quickly."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A delta is made of soft sediment, not hard rock."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Its river sediment is fertile, but it can flood."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Both come from the river."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The same rivers that bring fertile sediment can also flood the low land. So deltas support crops such as rice and jute, but floods can affect people's lives and work."
+  },
+  "hints": [
+    {
+      "en": "What does the river bring, and what can it also do?"
+    }
+  ],
+  "tags": [
+    "delta",
+    "sundarbans",
+    "flooding",
+    "human-impact"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:31.657Z",
+    "reviewedBy": "review-bar"
+  }
+}

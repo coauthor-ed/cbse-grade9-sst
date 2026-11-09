@@ -1,0 +1,35 @@
+{
+  "id": "q-l04-s05b",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "In a made-up example, a polling station has 1,000 names on its roll. A revision adds 30 names and deletes 25. How many names are on the roll after the revision?"
+  },
+  "expectedValue": 1005,
+  "tolerance": 0,
+  "unit": "names",
+  "explanation": {
+    "en": "Additions raise the total and deletions lower it: 1,000 + 30 - 25 = 1,005 names."
+  },
+  "hints": [
+    {
+      "en": "Which way does each change move the total?"
+    },
+    {
+      "en": "Start from 1,000, add 30, then take away 25."
+    }
+  ],
+  "tags": [
+    "sir",
+    "electoral-roll",
+    "additions",
+    "deletions"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:11.134Z",
+    "reviewedBy": "review-bar"
+  }
+}

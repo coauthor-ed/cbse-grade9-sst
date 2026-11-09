@@ -1,0 +1,36 @@
+{
+  "id": "blk-l05-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05/blk-l05-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "It moves slowly upstream."
+    },
+    {
+      "id": "b",
+      "text": "It moves slowly downstream."
+    },
+    {
+      "id": "c",
+      "text": "It stays where it is."
+    },
+    {
+      "id": "d",
+      "text": "It sinks into the ground."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L05/WaterfallScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:31.657Z",
+    "reviewedBy": "review-bar"
+  }
+}

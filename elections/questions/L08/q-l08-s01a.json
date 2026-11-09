@@ -1,0 +1,60 @@
+{
+  "id": "q-l08-s01a",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Before polling day, a group of men tell people in a village that they will be punished if they go out to vote. Which challenge is this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Fake news"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Misinformation"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Intimidation"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "An accessibility issue"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Threatening people so that they stay away is intimidation. Misinformation and fake news spread false claims. An accessibility issue is a difficulty in reaching or using the polling station."
+  },
+  "hints": [
+    {
+      "en": "Is anyone being frightened here, or told something false?"
+    }
+  ],
+  "tags": [
+    "free-and-fair",
+    "challenges",
+    "potholes",
+    "chapter-task"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:29.638Z",
+    "reviewedBy": "review-bar"
+  }
+}

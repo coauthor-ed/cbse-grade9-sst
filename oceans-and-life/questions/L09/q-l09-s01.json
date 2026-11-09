@@ -1,0 +1,74 @@
+{
+  "id": "q-l09-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A cargo ship registered in Panama is 600 nautical miles from the nearest coast. A crew member is hurt on board. Whose law applies to the ship?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Panama's law, as the flag state"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. On the high seas the laws of the flag state apply, and Panama is where this ship is registered."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The law of the nearest coast"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "600 nautical miles is far beyond any EEZ, so this ship is on the high seas, where the flag state's law applies."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The law of the crew's countries"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "On the high seas it is the flag state's law that applies to the ship."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No law at all on the high seas"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The high seas do have law. The ship keeps the law of its flag state."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "On the high seas, the laws of the flag state apply. The flag state is the country in which a ship is registered. This ship is registered in Panama, so Panama's law applies."
+  },
+  "hints": [
+    {
+      "en": "Which country is linked to the ship itself?"
+    },
+    {
+      "en": "The flag state is the country in which a ship is registered."
+    }
+  ],
+  "tags": [
+    "flag-state",
+    "high-seas",
+    "maritime-law"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:57.623Z",
+    "reviewedBy": "review-bar"
+  }
+}

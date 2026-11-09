@@ -1,0 +1,35 @@
+{
+  "id": "blk-l05-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05/blk-l05-s02.md",
+  "simulation": {
+    "src": "simulations/L05/AgricultureOriginsMapScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "options": [
+    {
+      "id": "a",
+      "text": "Farming began once, in West Asia with wheat and barley, and spread from there to the other five regions."
+    },
+    {
+      "id": "b",
+      "text": "It began separately in several regions, using local wild plants, and then spread outward from each."
+    },
+    {
+      "id": "c",
+      "text": "It began in two places only, one in Asia and one in Africa, and spread from each."
+    },
+    {
+      "id": "d",
+      "text": "It began in all six regions at about the same time, because the climate changed everywhere at once."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

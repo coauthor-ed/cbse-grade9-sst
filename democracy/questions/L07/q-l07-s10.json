@@ -1,0 +1,179 @@
+{
+  "id": "q-l07-s10",
+  "type": "semantic-descriptive@1",
+  "answerMode": "text",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "The Emergency (1975-77) showed both the vulnerabilities and the resilience of democratic institutions in India. Explain this statement, referring to what was imposed in June 1975, what happened during the Emergency, and how the period ended."
+  },
+  "rubric": [
+    {
+      "id": "context-june-1975",
+      "label": {
+        "en": "Gives the context: dissatisfaction over unemployment, inflation and allegations of misgovernance led to widespread protests, and a National Emergency was imposed in June 1975 on the grounds of internal disturbance"
+      },
+      "level1": {
+        "en": "What was happening in the early 1970s, and on what grounds was the Emergency imposed?"
+      },
+      "clue": {
+        "en": "Rising unemployment, inflation and allegations of misgovernance led to widespread protests. In June 1975, a National Emergency was imposed on the grounds of internal disturbance."
+      },
+      "level2Template": {
+        "en": "In June 1975, a National Emergency was imposed on the grounds of ___."
+      },
+      "accepted": [
+        "internal disturbance",
+        "internal disturbances"
+      ]
+    },
+    {
+      "id": "vulnerability-rights-suspended",
+      "label": {
+        "en": "Explains the vulnerability: a majority of Fundamental Rights were suspended, the press was censored, and numerous political leaders and activists were arrested"
+      },
+      "level1": {
+        "en": "What happened to rights, the press, and political leaders and activists during the Emergency?"
+      },
+      "clue": {
+        "en": "A majority of Fundamental Rights were suspended, the press was censored, and numerous political leaders and activists were arrested. Democratic institutions came under severe strain."
+      },
+      "level2Template": {
+        "en": "During the Emergency, the press was censored and a majority of ___ were suspended."
+      },
+      "accepted": [
+        "Fundamental Rights",
+        "fundamental rights",
+        "citizens' fundamental rights"
+      ]
+    },
+    {
+      "id": "resilience-1977-ballot",
+      "label": {
+        "en": "Explains the resilience: the Emergency was lifted in 1977, general elections were held, and people expressed their will through the ballot, defeating the ruling government"
+      },
+      "level1": {
+        "en": "What happened in the general elections of 1977?"
+      },
+      "clue": {
+        "en": "The Emergency was lifted in 1977 and general elections were held. People expressed their will through the ballot, and the ruling government was defeated."
+      },
+      "level2Template": {
+        "en": "In the 1977 general elections, citizens used the ballot to ___ the ruling government."
+      },
+      "accepted": [
+        "vote out",
+        "reject",
+        "defeat",
+        "remove"
+      ]
+    },
+    {
+      "id": "protectors-named",
+      "label": {
+        "en": "Names what the period showed to be important: constitutional safeguards, civil liberties and active citizen participation"
+      },
+      "level1": {
+        "en": "Which three things did this period show to be important?"
+      },
+      "clue": {
+        "en": "The period highlighted the importance of constitutional safeguards, civil liberties and active citizen participation in protecting democratic values."
+      },
+      "level2Template": {
+        "en": "The episode highlighted the importance of constitutional safeguards, civil liberties, and ___."
+      },
+      "accepted": [
+        "active citizen participation",
+        "active participation by citizens",
+        "citizen participation"
+      ]
+    },
+    {
+      "id": "dual-conclusion",
+      "label": {
+        "en": "Concludes that the period showed both sides: institutions can be harmed, and they can recover through safeguards and active citizens"
+      },
+      "level1": {
+        "en": "Put the two parts together. What do the years 1975-77 show about democratic institutions in India?"
+      },
+      "clue": {
+        "en": "The same years showed that institutions can come under severe strain, and that people can restore their will through the ballot. Vulnerability and resilience are both part of this period."
+      },
+      "level2Template": {
+        "en": "The Emergency showed that democratic institutions can be harmed, yet they are resilient because ___."
+      },
+      "accepted": [
+        "citizens participate actively",
+        "its safeguards and citizens restore it",
+        "voters can remove misuse of power",
+        "people vote the government out"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "The years 1975 to 1977 were one of the major challenges to democracy in India, and they showed two things at once."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "How it began"
+      },
+      "text": {
+        "en": "In June 1975, a National Emergency was imposed on the grounds of internal disturbance, after unemployment, inflation and allegations of misgovernance had led to widespread protests."
+      },
+      "rubricId": "context-june-1975"
+    },
+    {
+      "eyebrow": {
+        "en": "The vulnerability"
+      },
+      "text": {
+        "en": "During the Emergency, a majority of Fundamental Rights were suspended, the press was censored, and numerous political leaders and activists were arrested. Democratic institutions came under severe strain."
+      },
+      "rubricId": "vulnerability-rights-suspended"
+    },
+    {
+      "eyebrow": {
+        "en": "The resilience"
+      },
+      "text": {
+        "en": "The Emergency was lifted in 1977, general elections were held, and people expressed their will through the ballot. The ruling government was defeated."
+      },
+      "rubricId": "resilience-1977-ballot"
+    },
+    {
+      "eyebrow": {
+        "en": "What mattered"
+      },
+      "text": {
+        "en": "The period highlighted the importance of constitutional safeguards, civil liberties and active citizen participation."
+      },
+      "rubricId": "protectors-named"
+    },
+    {
+      "eyebrow": {
+        "en": "Conclusion"
+      },
+      "text": {
+        "en": "The Emergency therefore showed both the vulnerabilities and the resilience of democratic institutions: they can be harmed, and they can recover through safeguards and active citizens."
+      },
+      "rubricId": "dual-conclusion"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.526Z"
+  }
+}

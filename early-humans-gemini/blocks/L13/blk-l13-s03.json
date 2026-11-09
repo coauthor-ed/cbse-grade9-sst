@@ -1,0 +1,21 @@
+{
+  "id": "blk-l13-s03",
+  "type": "content-block@1",
+  "poeRole": "observe",
+  "markdownRef": "blocks/L13/blk-l13-s03.md",
+  "simulation": {
+    "src": "simulations/L13/WallJoiningScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  },
+  "image": {
+    "src": "media/L13/L13S02.jpg",
+    "alt": "Drawing of short stretches of wall on separate hills, with gaps between them.",
+    "position": "right"
+  },
+  "simulationStep": 1
+}

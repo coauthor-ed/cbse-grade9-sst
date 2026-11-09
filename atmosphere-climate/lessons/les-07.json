@@ -1,0 +1,71 @@
+{
+  "id": "les-07",
+  "lessonId": "les-07",
+  "type": "lesson",
+  "title": {
+    "en": "Why do ten Indian stations have ten climates?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L07/blk-l07-s01.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s02.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s03.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s03b.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s02.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s04.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s09.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s05.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s04.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s08.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s05.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s06.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s08.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s07.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-a01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s07.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s09.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "review-bar",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:42.603Z"
+  }
+}

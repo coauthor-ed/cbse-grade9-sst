@@ -1,0 +1,58 @@
+{
+  "id": "les-04",
+  "lessonId": "les-04",
+  "type": "lesson",
+  "title": {
+    "en": "What if one office made, ran, and judged the laws?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L04/blk-l04-s01.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s02.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s03.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s04.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s05.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s06.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-game-coalition.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s07.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s08.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s10.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s09.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-game.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s11.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s12.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.513Z"
+  }
+}

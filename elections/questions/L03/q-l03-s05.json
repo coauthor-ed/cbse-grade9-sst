@@ -1,0 +1,60 @@
+{
+  "id": "q-l03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Article 82 of the Constitution mandates a Delimitation Commission. In which years was one set up?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "1947, 1952, 1963 and 1973"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "1952, 1963, 1982 and 2002"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "1950, 1960, 1970 and 2000"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "1952, 1963, 1973 and 2002"
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "India has had four Delimitation Commissions, in 1952, 1963, 1973 and 2002. There is a long gap between the last two."
+  },
+  "hints": [
+    {
+      "en": "The fourth Commission came after a gap of 29 years."
+    }
+  ],
+  "tags": [
+    "delimitation",
+    "delimitation-commission",
+    "article-82",
+    "chronology"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:06.864Z",
+    "reviewedBy": "review-bar"
+  }
+}

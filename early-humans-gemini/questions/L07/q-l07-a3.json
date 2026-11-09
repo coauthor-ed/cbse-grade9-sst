@@ -1,0 +1,66 @@
+{
+  "id": "q-l07-a3",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A Harappan trader has one each of the small weights 1, 2, 4, 8 and 16. Which weights together balance a load of exactly 13 units?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "8, 4 and 1"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "8 and 5"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These add up to 13, but the doubling set has no 5 weight."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "8, 2, 2 and 1"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These add up to 13, but the trader has only one 2 weight."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "16 and 1"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These add up to 17, which is more than the load."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "8 + 4 + 1 = 13. The small Harappan weights go up in doubling steps, and one of each is enough to make up any whole number up to their total."
+  },
+  "hints": [
+    {
+      "en": "Start with the biggest weight that is not more than 13, then see what is left."
+    }
+  ],
+  "tags": [
+    "harappan",
+    "weights"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

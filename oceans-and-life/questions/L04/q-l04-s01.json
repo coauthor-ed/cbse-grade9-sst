@@ -1,0 +1,71 @@
+{
+  "id": "q-l04-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Labrador lies further south than Norway, yet icebergs float off Labrador while the sea off Norway stays open. What explains the ice off Labrador?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The sea there is shallow, so ice lasts through summer."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Depth is not the reason. The ice forms because of the cold water that arrives along that coast."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A wind from Norway blows the ice across the ocean."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The ice does not come from Norway, whose sea stays largely free of ice. Look at the water along Canada's coast."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A current brings freezing water along that coast."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The Labrador Current flows along the east coast of Canada and carries freezing water."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Icebergs always gather at that one latitude."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Latitude does not decide it. Norway is further north and has less ice, so something else must be at work."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The Labrador Current is a cold current. It flows along the east coast of Canada and carries freezing water, so sea ice and icebergs form there even at a lower latitude. Latitude alone does not decide how cold a sea is."
+  },
+  "hints": [
+    {
+      "en": "Ask where the water along that coast comes from."
+    }
+  ],
+  "tags": [
+    "ocean-currents",
+    "labrador-current",
+    "gulf-stream"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:34.781Z",
+    "reviewedBy": "review-bar"
+  }
+}

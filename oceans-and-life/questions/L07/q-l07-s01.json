@@ -1,0 +1,73 @@
+{
+  "id": "q-l07-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A coral reef stays in the sea, and nobody carries it away. Why does it still count as a marine resource?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It can be broken up and sold as building stone."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Breaking up a reef destroys it. It counts while it stays where it is, so selling it as stone is not the reason."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is an ocean feature that has real value."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Marine resources are materials and features of the ocean with intrinsic or economic value, and a reef has both."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It was built by people to bring visitors."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A reef is not built by people. It is a natural feature, and that is part of why it counts."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is the only part of the sea that is alive."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The sea holds a great many living things, so a reef is not the only one."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Marine resources are the materials and features found in oceans that have intrinsic or economic value. A resource need not be carried out of the sea. A reef stays in place, and it is valuable for itself and because visitors come to see it."
+  },
+  "hints": [
+    {
+      "en": "Does a resource have to be taken out of the sea?"
+    },
+    {
+      "en": "Look at the two words in the meaning: materials and features."
+    }
+  ],
+  "tags": [
+    "marine-resources",
+    "definition"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:47.998Z",
+    "reviewedBy": "review-bar"
+  }
+}

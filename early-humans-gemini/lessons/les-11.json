@@ -1,0 +1,53 @@
+{
+  "id": "les-11",
+  "type": "lesson",
+  "title": {
+    "en": "Everything But the Heart"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L11/blk-l11-s01.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s02.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s03.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-a1.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s03b.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s04.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-a2.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s05.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s06.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s06b.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s07.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-s08.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-game.json"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

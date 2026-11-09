@@ -1,0 +1,37 @@
+{
+  "id": "blk-l09-s03",
+  "type": "content-block@1",
+  "poeRole": "observe",
+  "markdownRef": "blocks/L09/blk-l09-s03.md",
+  "reveal": {
+    "images": {
+      "tablet": {
+        "src": "media/L09/L09S03.jpg",
+        "alt": "A drawing of a clay tablet covered in cuneiform"
+      },
+      "impressions": {
+        "src": "media/L09/L09S03-b2.jpg",
+        "alt": "A close drawing of wedge marks, each with a triangular head and a thin tail"
+      },
+      "closeup": {
+        "src": "media/L09/L09S03-b3.jpg",
+        "alt": "A close drawing of one cuneiform sign made of several wedges"
+      }
+    }
+  },
+  "simulation": {
+    "src": "simulations/L09/CuneiformSignScene.js",
+    "position": "right"
+  },
+  "simulationStep": 3,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  },
+  "image": {
+    "src": "media/L09/L09S03.jpg",
+    "alt": "A drawing of a clay tablet covered in cuneiform",
+    "position": "right"
+  }
+}

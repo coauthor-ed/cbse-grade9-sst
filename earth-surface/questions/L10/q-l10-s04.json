@@ -1,0 +1,74 @@
+{
+  "id": "q-l10-s04",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Why can a glacial lake outburst flood reach a valley so suddenly?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A weak natural dam fails, and a whole lake empties."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Water that built up over years is released in a very short time."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "River water rises slowly over many weeks of steady rain."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That would give a slow flood. A GLOF comes from a dam giving way."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Snow across the whole valley melts in the same hour."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Snow does not melt like that. The water here was already stored in a lake."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Sea water is pushed up the mountain valley by the tide."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Tides do not reach high mountain valleys. The water comes from a glacial lake."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Melting glaciers fill lakes behind dams of ice or loose moraine. Such a dam can give way when something strikes the lake or weakens it. The stored water is then released all at once and floods the valley downstream."
+  },
+  "hints": [
+    {
+      "en": "Think about what was holding the water back."
+    }
+  ],
+  "tags": [
+    "GLOF",
+    "moraine",
+    "kedarnath",
+    "chamoli",
+    "uttarakhand",
+    "mitigation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:56.194Z",
+    "reviewedBy": "review-bar"
+  }
+}

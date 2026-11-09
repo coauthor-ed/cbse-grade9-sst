@@ -1,0 +1,69 @@
+{
+  "id": "q-l12-a2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "How were oracle bones used?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Priests wrote the history of each king on them after his death."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That would be a report on the past. Oracle bones hold questions, and they were often about what was still to come."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A bone was heated until it cracked, and the pattern of the cracks was read as an answer."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Traders used them to record the goods they sold."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That describes the oldest tablets of Sumer. Oracle bones hold questions and were read by their cracks."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They were hung up and struck to make music."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is a use of carved jade pieces in China. Oracle bones were heated and read."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Bones and shells were heated until they cracked, and people read the cracks. The book says these oracles were often used to foretell the future."
+  },
+  "hints": [
+    {
+      "en": "Think about what the heat did to the bone."
+    },
+    {
+      "en": "What did the diviner look at afterwards?"
+    }
+  ],
+  "tags": [
+    "china",
+    "oracle-bones"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

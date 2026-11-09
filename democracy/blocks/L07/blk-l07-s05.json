@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s05",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The Emergency, 1975-77\n\n<!-- STEP id=\"early-1970s\" -->\n## The Early 1970s\n\nOne of the major challenges to democracy in India came in 1975-77. In the early 1970s, public dissatisfaction with the government led by Indira Gandhi was growing. Rising unemployment, inflation and allegations of misgovernance led to widespread protests.\n\n<!-- STEP id=\"movements\" -->\n## Mass Movements\n\nIn these years, mass movements led by Jayaprakash Narayan mobilised students and citizens, especially in Bihar and Gujarat. He was a political leader and socialist thinker, popularly known as Lok Nayak.\n\n<!-- STEP id=\"june-1975\" -->\n## June 1975\n\nIn June 1975, a National Emergency was imposed by the government on the grounds of internal disturbance.\n\nArticles 352, 356 and 360 deal with National Emergency, President's Rule and Financial Emergency.\n\n<!-- STEP id=\"during\" -->\n## During This Period\n\nDuring this period, a majority of Fundamental Rights were suspended, the press was censored, and numerous political leaders and activists were arrested.\n\nDemocratic institutions came under severe strain, and citizens' freedom was restricted."
+  },
+  "simulation": {
+    "src": "simulations/L07/EmergencyTimelineScene.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.525Z"
+  }
+}

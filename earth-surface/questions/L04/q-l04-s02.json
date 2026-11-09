@@ -1,0 +1,70 @@
+{
+  "id": "q-l04-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which line matches an agent of gradation with its work?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Groundwater dissolves limestone into caves."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Groundwater works by dissolving rock."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Wind carves U-shaped valleys in high mountains."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "U-shaped valleys are carved by glaciers. Wind shapes deserts."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Glaciers dissolve rock and make sinkholes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Dissolving rock and making sinkholes is the work of groundwater."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Waves form the valleys and plains far inland."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Waves work along the coast. Running water forms valleys and plains."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Each agent has its own work: running water forms valleys and plains, glaciers carve U-shaped valleys, wind shapes deserts, waves shape coasts, and groundwater dissolves rocks such as limestone."
+  },
+  "hints": [
+    {
+      "en": "Think about where each agent works: mountain, desert, coast or underground."
+    }
+  ],
+  "tags": [
+    "agents-of-gradation",
+    "erosion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:27.289Z",
+    "reviewedBy": "review-bar"
+  }
+}

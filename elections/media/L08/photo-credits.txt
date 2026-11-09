@@ -1,0 +1,41 @@
+Media provenance - L08
+
+Per `docs/copyright-and-sourcing.md`: the textbook's own illustration is
+never extracted. The photograph below is an openly-licensed photograph of the
+Voters' Pledge being administered, standing in for the source's `Fig. 7.5`
+(p.9 / book p.169) - a framed certificate graphic the source carries with the
+official ECI pledge URL printed under it.
+
+Downloaded as a 960px-wide JPEG rendition of the Wikimedia Commons original
+(Commons `Special:FilePath` at width=960). The original file name and its
+Commons file page are recorded below so it can be replaced at full resolution
+without changing the block.
+
+## national-voters-day-pledge-administered-2012.jpg
+
+- Used by: `blocks/L08/blk-l08-s07.json` (`image.src`).
+- Source: Wikimedia Commons,
+  `File:The former President of India, Dr. A.P. J. Abdul Kalam administering the NVD Pledge, at the national function of National Voters' Day (NVD), in New Delhi on January 25, 2012.jpg`
+- File page: https://commons.wikimedia.org/wiki/File:The_former_President_of_India,_Dr._A.P._J._Abdul_Kalam_administering_the_NVD_Pledge,_at_the_national_function_of_National_Voters%E2%80%99_Day_(NVD),_in_New_Delhi_on_January_25,_2012.jpg
+- Original: 2126 x 1057 px JPEG.
+- Author / credited institution: Election Commission of India.
+- Licence: GODL-India (Government Open Data Licence - India), which permits
+  reuse with attribution.
+- Why this one: the source's `Fig. 7.5` is the framed pledge certificate with a
+  cartoon vignette. No openly-licensed photograph or scan of that certificate
+  graphic exists on Wikimedia Commons (searched `National Voters Day pledge
+  India`, `voters pledge certificate India`, `National Voters' Day`, and the
+  NVD category). This frame shows the pledge being administered at a national
+  function on the date itself, on a stage whose front panel reads
+  `NATIONAL VOTERS' DAY / January 25, 2012 / New Delhi`, and it carries the
+  Commission's own logo - so the date the slide is about is legible in the
+  image rather than only asserted beside it.
+- Note on the people in the frame: this is a photograph of a real public
+  function and real identifiable people, which is why it is an `image` and not
+  a scene. The block's `alt` names no individual, and the slide prose names
+  none either - the chapter names neither the President nor the event, so no
+  name appears anywhere in the lesson.
+- Note on the pledge's wording: the pledge is a public official text and the
+  slide **paraphrases** it rather than transcribing it
+  (`AGENTS.md` rule 4). The certificate's own official wording is not
+  reproduced in prose, in the caption, or in `alt`.

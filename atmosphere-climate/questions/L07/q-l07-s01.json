@@ -1,0 +1,75 @@
+{
+  "id": "q-l07-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Five stations have these latitudes: Kolkata 22°34' N, Leh 34° N, Thiruvananthapuram 8°29' N, Delhi 29° N, Chennai 13°4' N. Which order runs from nearest the equator to furthest from it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Thiruvananthapuram, Chennai, Kolkata, Delhi, Leh"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The latitudes rise from 8°29' N to 34° N."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Leh, Delhi, Kolkata, Chennai, Thiruvananthapuram"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. This runs from furthest to nearest."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Chennai, Thiruvananthapuram, Kolkata, Leh, Delhi"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Thiruvananthapuram has a smaller latitude than Chennai, and Delhi smaller than Leh."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Thiruvananthapuram, Kolkata, Chennai, Delhi, Leh"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Chennai, at 13°4' N, comes before Kolkata."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A smaller latitude means a place is nearer the equator. In order the latitudes are 8°29', 13°4', 22°34', 29° and 34° N."
+  },
+  "hints": [
+    {
+      "en": "A small latitude means close to the equator."
+    },
+    {
+      "en": "Which of the five numbers is smallest?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "climate-data",
+    "rainfall",
+    "table-reading"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:42.603Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "q-l05-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Why does a river deposit a delta at its mouth?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The sea pushes extra sand up the river to its source."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The sediment of a delta comes down the river from upstream."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The water slows down and cannot carry its load."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Slow water drops its sediment."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The river speeds up and throws its load forward."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The river slows at the mouth. It does not speed up."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The river bed turns to hard rock near the sea."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A delta is made of soft sediment that the river carried and dropped."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "When a river enters still water it slows and can no longer carry its load. Sediment settles, blocks the way, and the river splits into distributaries around new islands and bars."
+  },
+  "hints": [
+    {
+      "en": "What happens to the speed of the river when it enters the sea?"
+    }
+  ],
+  "tags": [
+    "delta",
+    "lower-course",
+    "distributary",
+    "deposition"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:31.657Z",
+    "reviewedBy": "review-bar"
+  }
+}

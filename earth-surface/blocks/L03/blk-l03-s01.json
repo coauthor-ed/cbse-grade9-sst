@@ -1,0 +1,36 @@
+{
+  "id": "blk-l03-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03/blk-l03-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Along long, narrow belts"
+    },
+    {
+      "id": "b",
+      "text": "Evenly over the whole Earth"
+    },
+    {
+      "id": "c",
+      "text": "Mostly along the equator"
+    },
+    {
+      "id": "d",
+      "text": "Only along the coasts"
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L03/EpicentreScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:22.682Z",
+    "reviewedBy": "review-bar"
+  }
+}

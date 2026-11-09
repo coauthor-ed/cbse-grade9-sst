@@ -1,0 +1,34 @@
+{
+  "id": "q-l08-s03",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "One nautical mile is exactly 1,852 metres. An Exclusive Economic Zone reaches 200 nautical miles from the baseline. How many kilometres is that?"
+  },
+  "expectedValue": 370.4,
+  "tolerance": 0.5,
+  "unit": "km",
+  "explanation": {
+    "en": "200 x 1,852 metres is 370,400 metres, which is 370.4 kilometres. The number in kilometres is larger than 200 because a nautical mile is longer than a kilometre."
+  },
+  "hints": [
+    {
+      "en": "Multiply first, then change metres to kilometres."
+    },
+    {
+      "en": "200 x 1,852 metres is how many metres? There are 1,000 metres in a kilometre."
+    }
+  ],
+  "tags": [
+    "nautical-mile",
+    "eez",
+    "conversion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:53.054Z",
+    "reviewedBy": "review-bar"
+  }
+}

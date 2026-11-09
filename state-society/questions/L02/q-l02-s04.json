@@ -1,0 +1,63 @@
+{
+  "id": "q-l02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Which statement about where the sixteen mahājanapadas lay is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They were spread evenly over the whole subcontinent, with about four in each region."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Most lay in the north-west and the Ganga plain, and only a few lay south of the Yamuna."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Most lay in the far south, with only a few on the Ganga plain."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They lay along the coast, because each one depended on the sea."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Most of the sixteen lay in the north-west and along the Ganga plain. Only Chedi, Avanti and Aśhmaka lay south of the Yamuna. The kingdoms of Tamilakam in the far south were not among the sixteen."
+  },
+  "hints": [
+    {
+      "en": "Think of Magadha, Kosala and Kāśhī, and of the river they lay near."
+    },
+    {
+      "en": "Aśhmaka was the farthest south of the sixteen, and it lay in the Deccan."
+    }
+  ],
+  "tags": [
+    "mahajanapada",
+    "map",
+    "spatial",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:09.784Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "q-l03-s11",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A well-connected builder occupies public land for months, and officials ignore every complaint. A poor vendor's cart is taken away within days over a missing permit. Which democratic principle does this most directly violate?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Popular sovereignty: the officials acted without a fresh election first."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Universal Adult Franchise: neither citizen was asked to vote on the action."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Rule of Law: the powerful man was treated as if he were above the law."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Equal outcomes: the law says that every two cases must end the same way."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The Rule of Law means that no one is above the law, and the same procedure applies to all. The officials protected the influential builder and acted fast against the vendor. Neither an election nor a vote is the issue here, and the law asks for equal treatment, not identical results."
+  },
+  "hints": [
+    {
+      "en": "Ask whether both people went through the same legal process, or whether influence protected one of them."
+    }
+  ],
+  "tags": [
+    "rule-of-law",
+    "equality"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.512Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "blk-l05-s02",
+  "type": "poe-predict@1",
+  "prompt": "## Too Many to Meet\n\n96.8 crore voters cannot meet in one place, and they cannot all discuss every decision.\n\n**Predict:** How can they still hold power?",
+  "options": [
+    {
+      "id": "a",
+      "text": "One wise leader decides for everyone, and the people accept it."
+    },
+    {
+      "id": "b",
+      "text": "They elect representatives, who answer to them at regular elections."
+    },
+    {
+      "id": "c",
+      "text": "Only the people who live near the capital vote on each decision."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.517Z"
+  }
+}

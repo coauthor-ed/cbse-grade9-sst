@@ -1,0 +1,32 @@
+{
+  "id": "q-l09-s07",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "How many rites of passage are in the ṣhoḍaśha saṁskāras?"
+  },
+  "expectedValue": 16,
+  "tolerance": 0,
+  "unit": "rites",
+  "explanation": {
+    "en": "There were sixteen: ṣhoḍaśha saṁskāras means the sixteen rites of passage. The rites are ceremonies that go with the stages of life. They are separate from the four āśhramas, which are the stages themselves."
+  },
+  "hints": [
+    {
+      "en": "Look back at the last step on the stages of life. The English meaning of the name has the number in it."
+    }
+  ],
+  "tags": [
+    "sanskara",
+    "sixteen",
+    "rituals",
+    "recall"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:45.482Z",
+    "reviewedBy": "review-bar"
+  }
+}

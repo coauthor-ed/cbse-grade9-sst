@@ -1,0 +1,71 @@
+{
+  "id": "q-l02-s06",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Waves have cut caves and arches from a headland. Which of these do they build, and from what?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A sea stack, from sand the waves drop"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A stack is rock left behind after the top of an arch falls."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A blow hole, from sand the waves drop"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A blow hole is cut, not built."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A beach, from sand the waves drop"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A beach is a depositional feature."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A stump, from sand the waves drop"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A stump is what remains of a worn-down stack."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A wave that slows down drops the sand and pebbles it was carrying, and the pile becomes a beach. Stacks, stumps and blow holes are what is left after the sea has cut rock away."
+  },
+  "hints": [
+    {
+      "en": "Which of these is made by adding material, not removing it?"
+    }
+  ],
+  "tags": [
+    "deposition",
+    "beach",
+    "coastal-erosion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:25.965Z",
+    "reviewedBy": "review-bar"
+  }
+}

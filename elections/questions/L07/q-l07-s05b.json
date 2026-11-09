@@ -1,0 +1,62 @@
+{
+  "id": "q-l07-s05b",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A party is a recognised State party in two States. It polled 9% of the valid votes in each and won 6 Lok Sabha seats. Is it a national party?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Yes, 9% is above every figure in the conditions"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "No, and it now becomes a registered unrecognised party"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No, it stays a State party in those two States"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No, as a party can be a State party in only one State"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The national routes need four States, about 11 seats, or State recognition in four States. This party has two States, 6 seats and two records. It does not lose its State recognition by failing them."
+  },
+  "hints": [
+    {
+      "en": "Check the three national routes. Then ask if failing them removes its State recognition."
+    }
+  ],
+  "tags": [
+    "recognition",
+    "state-party",
+    "national-party",
+    "rupp",
+    "criteria",
+    "classes"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:24.206Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l12-game",
+  "type": "mini-game@1",
+  "src": "simulations/L12/WhatKindOfSourceGame.js",
+  "objective": {
+    "en": "Six short records. Sort each one: was it written before the event, as a question, or after it, as a report?"
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

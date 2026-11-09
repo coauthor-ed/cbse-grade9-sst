@@ -1,0 +1,73 @@
+{
+  "id": "q-l08-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A parabolic dune stands in a steady wind from the west. Plants hold its two arms. Which description is right?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The bare nose moves east, and the arms trail to the west."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The arms are held, the nose moves on, so the arms point upwind."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The nose stays fixed, and the two arms move east past it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is backwards. Plants hold the arms, and the bare nose is what moves."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The nose faces west, and the arms point east like a barchan."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is how barchan horns run. Plants hold these arms back, so they point west."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The arms point north and south, straight across the wind."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The arms lie along the wind. They are stretched out as the nose moves away."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "On a parabolic dune, plants hold the two arms while the bare nose moves downwind. The arms are left behind, so they point upwind. A barchan is the reverse: its horns point downwind."
+  },
+  "hints": [
+    {
+      "en": "Which part of this dune is bare and free to move?"
+    }
+  ],
+  "tags": [
+    "wind",
+    "parabolic-dune",
+    "barchan",
+    "vegetation",
+    "wind-deposition"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:46.378Z",
+    "reviewedBy": "review-bar"
+  }
+}

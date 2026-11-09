@@ -1,0 +1,73 @@
+{
+  "id": "q-l03-s07",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "In an earthquake, rock breaks 15 km underground. What is the epicentre?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The place underground where the rock breaks"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. That place is the focus."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The whole line of the fault across the land"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The epicentre is one point, not a line."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The town with the worst damage, wherever it is"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The epicentre is fixed by position, not by damage."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The point on the surface straight above it"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The epicentre lies directly above the focus."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The focus is where the rock breaks underground. The epicentre is the point on the surface straight above the focus. Shaking is often strongest near it, but the word names a position."
+  },
+  "hints": [
+    {
+      "en": "Is the epicentre underground or on the surface?"
+    },
+    {
+      "en": "Which word names the place of the break itself?"
+    }
+  ],
+  "tags": [
+    "focus",
+    "epicentre"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedBy": "owner",
+    "reviewedAt": "2026-11-01T15:43:10.000Z"
+  }
+}

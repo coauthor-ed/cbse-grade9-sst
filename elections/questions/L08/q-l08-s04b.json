@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-s04b",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Voter X lives in a country with many parties. Voter Y lives in a country with one party. Both have voting rights. What is the main difference for them?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Only Voter X has the right to vote"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Voter X must vote more often than Voter Y"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Voter Y's one vote counts for more than X's vote"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Only Voter X can choose between parties"
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A vote is a real choice only when there is more than one option. With many parties, Voter X can choose between them. With one party, Voter Y holds the right to vote but has no choice of party."
+  },
+  "hints": [
+    {
+      "en": "What can a voter do with several parties that cannot be done with one?"
+    }
+  ],
+  "tags": [
+    "three-countries",
+    "multi-party",
+    "single-party",
+    "free-and-fair",
+    "question-9"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:29.638Z",
+    "reviewedBy": "review-bar"
+  }
+}

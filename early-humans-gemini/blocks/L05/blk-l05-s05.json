@@ -1,0 +1,16 @@
+{
+  "id": "blk-l05-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05/blk-l05-s05.md",
+  "simulation": {
+    "src": "simulations/L05/ConsequenceChainScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

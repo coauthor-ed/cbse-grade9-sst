@@ -1,0 +1,128 @@
+{
+  "id": "q-l08-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "mode": "coach",
+  "prompt": {
+    "en": "What do the terms varṇa and jāti refer to in early Indian society? How were they different, and what factors may have contributed to the formation of various jātis? Answer in about 100 words."
+  },
+  "rubric": [
+    {
+      "id": "varna-meaning",
+      "label": {
+        "en": "Varṇa refers to the four social categories, associated with roles and tasks"
+      },
+      "level1": {
+        "en": "What were the four varṇas?"
+      },
+      "clue": {
+        "en": "Varṇa refers to the four social categories: brāhmaṇas, kṣhatriyas, vaiśhyas and śhūdras. Over time they came to be associated with specific roles and tasks."
+      },
+      "level2Template": {
+        "en": "Varṇa refers to the ___ social categories, associated with specific ___."
+      },
+      "accepted": [
+        "four",
+        "roles",
+        "tasks",
+        "brahmanas",
+        "kshatriyas",
+        "vaishyas",
+        "shudras",
+        "categories",
+        "functional"
+      ]
+    },
+    {
+      "id": "jati-number",
+      "label": {
+        "en": "The number of varṇas was fixed at four, while jātis had no limit"
+      },
+      "level1": {
+        "en": "How do the numbers of varṇas and jātis differ?"
+      },
+      "clue": {
+        "en": "The number of varṇas was fixed at four. There was no restriction on the number of jātis, and it continued to grow as new social groups and occupations developed."
+      },
+      "level2Template": {
+        "en": "Varṇas were fixed at ___, while the number of jātis continued to ___."
+      },
+      "accepted": [
+        "four",
+        "fixed",
+        "no restriction",
+        "grow",
+        "grew",
+        "many",
+        "increase",
+        "no limit"
+      ]
+    },
+    {
+      "id": "jati-causes",
+      "label": {
+        "en": "Jātis formed through intermarriage, endogamy among migrants and territorial differences"
+      },
+      "level1": {
+        "en": "Name the factors behind the formation of jātis."
+      },
+      "clue": {
+        "en": "Jāti emerged due to various factors, including intermarriage among the varṇas, migrating communities becoming endogamous, and territorial differences."
+      },
+      "level2Template": {
+        "en": "Factors include intermarriage, ___ communities becoming endogamous, and ___ differences."
+      },
+      "accepted": [
+        "intermarriage",
+        "migrating",
+        "migration",
+        "endogamous",
+        "endogamy",
+        "territorial",
+        "region",
+        "new occupations"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Varṇa"
+      },
+      "text": {
+        "en": "Varṇa refers to the ___ social categories, which came to be associated with specific ___ and tasks."
+      },
+      "rubricId": "varna-meaning"
+    },
+    {
+      "eyebrow": {
+        "en": "The difference"
+      },
+      "text": {
+        "en": "The number of varṇas was fixed, while there was no ___ on the number of jātis."
+      },
+      "rubricId": "jati-number"
+    },
+    {
+      "eyebrow": {
+        "en": "The factors"
+      },
+      "text": {
+        "en": "Jāti emerged through intermarriage, ___ communities becoming endogamous, and ___ differences."
+      },
+      "rubricId": "jati-causes"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:40.217Z",
+    "reviewedBy": "review-bar"
+  }
+}

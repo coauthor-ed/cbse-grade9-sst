@@ -1,0 +1,15 @@
+{
+  "id": "blk-l03-s02",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03/blk-l03-s02.md",
+  "simulation": {
+    "src": "simulations/L03/AgesOfToolsFlowScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

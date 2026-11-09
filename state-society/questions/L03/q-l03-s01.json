@@ -1,0 +1,63 @@
+{
+  "id": "q-l03-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "According to the oath of coronation in the Yajurveda, what was a king advised to do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Favour the strong, because they can defend the kingdom."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Judge the strong and the weak fairly, protect the country from calamities, and do good to the people."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Leave all judgement to his officers and attend only to war."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Protect his own family first, and then the people."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The oath advises the king to judge the strong and the weak impartially and fairly, to protect the country from all calamities, and to do good to the people."
+  },
+  "hints": [
+    {
+      "en": "The oath has three parts."
+    },
+    {
+      "en": "The first part is about treating people of unequal power in the same way."
+    }
+  ],
+  "tags": [
+    "arthashastra",
+    "kingship",
+    "administration",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:14.624Z",
+    "reviewedBy": "review-bar"
+  }
+}

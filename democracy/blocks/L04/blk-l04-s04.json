@@ -1,0 +1,16 @@
+{
+  "id": "blk-l04-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Checks and Balances\n\n<!-- STEP id=\"separate-not-silent\" -->\n## Each Organ Can Be Questioned\n\nEach organ can be stopped from going too far. This is called **checks and balances**.\n\nFor example, Parliament can amend, or change, the Constitution, but the judiciary can review an amendment to see that it agrees with the spirit of the Constitution.\n\n<!-- STEP id=\"every-arm-answers\" -->\n## Two More Checks\n\nEnforcement agencies, such as the police, work under Parliament's rules, and courts can review them. A law that goes against the Constitution can be declared **unconstitutional**.\n\nTap each check to see it.\n\n<!-- STEP id=\"pil-doorway\" -->\n## A Citizen at the Court\n\nThe judiciary is impartial and independent. **Public Interest Litigation (PIL)** is a legal action started in a court for the enforcement of public interest, so a court can hear a problem that affects the public, not only one person's dispute.\n\n**PIL helps to ensure access to justice for all.**"
+  },
+  "simulation": {
+    "src": "simulations/L04/ChecksBalancesScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.514Z"
+  }
+}

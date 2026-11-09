@@ -1,0 +1,60 @@
+{
+  "id": "q-l07-s03a",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Party R polled more votes across the country than Party S, yet only Party S is a national party. How can that be?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The ECI prefers Party S and is free to pick it"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A party with more votes must always win fewer seats"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Votes never count towards a party's recognition"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Party S met one route, and Party R met none"
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Recognition uses fixed routes, and any one is enough. Party S can qualify on seats won across States, even with fewer votes. The ECI applies the same conditions to every party, and votes do count in some routes."
+  },
+  "hints": [
+    {
+      "en": "Think of the line at the top of the list of conditions."
+    }
+  ],
+  "tags": [
+    "recognition",
+    "national-party",
+    "criteria",
+    "election-commission"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:24.206Z",
+    "reviewedBy": "review-bar"
+  }
+}

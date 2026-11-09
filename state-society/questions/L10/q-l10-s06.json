@@ -1,0 +1,150 @@
+{
+  "id": "q-l10-s06",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each work onto the shelf it belongs on."
+  },
+  "categories": [
+    {
+      "id": "grammar",
+      "label": {
+        "en": "Sanskrit grammar"
+      }
+    },
+    {
+      "id": "smriti",
+      "label": {
+        "en": "Smṛiti: dharma, law and ethics"
+      }
+    },
+    {
+      "id": "medicine",
+      "label": {
+        "en": "Medicine"
+      }
+    },
+    {
+      "id": "kavya",
+      "label": {
+        "en": "Sanskrit poetry and kāvya"
+      }
+    },
+    {
+      "id": "tamil",
+      "label": {
+        "en": "Tamil literature"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-astadhyayi",
+      "text": {
+        "en": "Pāṇini's Aṣhṭādhyāyī"
+      },
+      "correctCategoryId": "grammar"
+    },
+    {
+      "id": "chip-chhandashastra",
+      "text": {
+        "en": "Piṅgala's Chhandaśhāstra"
+      },
+      "correctCategoryId": "grammar"
+    },
+    {
+      "id": "chip-manusmriti",
+      "text": {
+        "en": "The Manu-smṛiti"
+      },
+      "correctCategoryId": "smriti"
+    },
+    {
+      "id": "chip-yajnavalkya",
+      "text": {
+        "en": "The Yājñavalkya Smṛiti"
+      },
+      "correctCategoryId": "smriti"
+    },
+    {
+      "id": "chip-vishnu",
+      "text": {
+        "en": "The Viṣhṇu Smṛiti"
+      },
+      "correctCategoryId": "smriti"
+    },
+    {
+      "id": "chip-charaka",
+      "text": {
+        "en": "The Charakasamhitā"
+      },
+      "correctCategoryId": "medicine"
+    },
+    {
+      "id": "chip-sushruta",
+      "text": {
+        "en": "The Suśhrutasamhitā"
+      },
+      "correctCategoryId": "medicine"
+    },
+    {
+      "id": "chip-raghuvamsha",
+      "text": {
+        "en": "Kālidāsa's Raghuvaṃśha"
+      },
+      "correctCategoryId": "kavya"
+    },
+    {
+      "id": "chip-kumara",
+      "text": {
+        "en": "Kālidāsa's Kumārasambhava"
+      },
+      "correctCategoryId": "kavya"
+    },
+    {
+      "id": "chip-tirukkural",
+      "text": {
+        "en": "Tiruvalluvar's Tirukkural"
+      },
+      "correctCategoryId": "tamil"
+    },
+    {
+      "id": "chip-silappadikaram",
+      "text": {
+        "en": "The Silappadikāram"
+      },
+      "correctCategoryId": "tamil"
+    },
+    {
+      "id": "chip-manimekalai",
+      "text": {
+        "en": "The Maṇimēkalai"
+      },
+      "correctCategoryId": "tamil"
+    }
+  ],
+  "explanation": {
+    "en": "Grammar holds Pāṇini and Piṅgala. Smṛiti holds texts on dharma, law and ethics, such as the Manu-smṛiti. Medicine holds the Charakasamhitā and Suśhrutasamhitā. Kāvya holds Kālidāsa's two poems. Tamil literature holds the Tirukkural, the two epics and the Sangam texts."
+  },
+  "hints": [
+    {
+      "en": "Any work with Smṛiti in its name goes on one shelf."
+    },
+    {
+      "en": "The Charakasamhitā and Suśhrutasamhitā are medicine texts. Silappadikāram and Maṇimēkalai are the two Tamil epics."
+    }
+  ],
+  "tags": [
+    "literature",
+    "smriti",
+    "kavya",
+    "match-categorize"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:49.938Z",
+    "reviewedBy": "review-bar"
+  }
+}

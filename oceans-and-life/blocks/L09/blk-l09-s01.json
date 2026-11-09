@@ -1,0 +1,36 @@
+{
+  "id": "blk-l09-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L09/blk-l09-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The law of the country with the nearest coast"
+    },
+    {
+      "id": "b",
+      "text": "The law of the countries the crew come from"
+    },
+    {
+      "id": "c",
+      "text": "The law of the country the ship is registered in"
+    },
+    {
+      "id": "d",
+      "text": "No law at all, as no country owns that water"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L09/HighSeasScene-flagstate.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:57.623Z",
+    "reviewedBy": "review-bar"
+  }
+}

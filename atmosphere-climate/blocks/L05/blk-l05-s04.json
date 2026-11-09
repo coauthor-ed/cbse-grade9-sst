@@ -1,0 +1,15 @@
+{
+  "id": "blk-l05-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05/blk-l05-s04.md",
+  "simulation": {
+    "src": "simulations/L05/SeasonCalendarScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:27.401Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "q-l03-s10",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "tags": [
+    "atmosphere",
+    "seasons",
+    "insolation"
+  ],
+  "stem": {
+    "en": "The Earth is at its nearest to the Sun in early January. Why is January still cold in Delhi?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The Earth is really farthest from the Sun in January."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is nearest in January and farthest in July."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The northern half leans away, so the Sun stands low and days are short."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Tilt, not distance, makes the seasons."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The Sun gives out much less energy in January."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Sun's output stays almost the same all year."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Delhi moves further from the equator in winter."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Delhi's latitude never changes."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "In December and January the northern half of the Earth leans away from the Sun. The noon Sun stands low, so its light spreads over more ground, and the days are short. Distance from the Sun is not the cause of the seasons."
+  },
+  "hints": [
+    {
+      "en": "The stem has already ruled out distance."
+    },
+    {
+      "en": "Think about how high the noon Sun stands in January."
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T08:20:31.000Z",
+    "reviewedBy": "owner"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "q-l07-s09",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "February averages: Thiruvananthapuram 27.3 °C, Chennai 25.7 °C, Mumbai 24.4 °C, Delhi 16.7 °C. June averages: Jodhpur 33.9 °C, Delhi 33.3 °C, Chennai 32.5 °C, Thiruvananthapuram 26.6 °C. Which are the two hottest stations in each month?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "February: Thiruvananthapuram, Chennai. June: Jodhpur, Delhi"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The south is hottest in February and the north-west in June."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "February: Jodhpur, Delhi. June: Thiruvananthapuram, Chennai"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. This swaps the two months."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "February: Chennai, Mumbai. June: Delhi, Chennai"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Each of these skips the hottest station of the month."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "February: Thiruvananthapuram, Delhi. June: Jodhpur, Thiruvananthapuram"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Delhi is coolest in the February list, and Thiruvananthapuram in the June list."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "In February the Sun's heat is strongest near the equator, so Thiruvananthapuram (27.3) and Chennai (25.7) lead. By June the inland north-west is hottest: Jodhpur (33.9) and Delhi (33.3)."
+  },
+  "hints": [
+    {
+      "en": "Pick the two biggest numbers in the February list."
+    },
+    {
+      "en": "Do the same for the June list."
+    }
+  ],
+  "tags": [
+    "atmosphere"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T08:20:31.000Z",
+    "reviewedBy": "owner"
+  }
+}

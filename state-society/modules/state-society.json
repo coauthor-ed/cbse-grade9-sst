@@ -1,0 +1,93 @@
+{
+  "id": "state-society",
+  "moduleId": "state-society",
+  "type": "module",
+  "authorId": "state-society",
+  "title": {
+    "en": "State and Society up to 1000 CE"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "kinship-and-early-political-forms",
+      "janapada-and-territorial-expansion",
+      "kingship-and-justice",
+      "saptanga-and-the-council-of-ministers",
+      "administrative-ladder-to-the-village",
+      "village-self-government",
+      "dharma-and-the-ground-of-obligation",
+      "varna-and-jati",
+      "household-life-stages-and-purusartha",
+      "gurukula-and-texts",
+      "agriculture-irrigation-ports-and-guilds"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "A clan, a chief, and a fire"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "Where a people first set its feet"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "What a king owes, and how far he reaches"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "Seven limbs and a table of elders"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "The ladder from the capital to the village"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "The village that governs itself"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "What holds things up"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08.json",
+      "title": {
+        "en": "Who belongs where"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-09.json",
+      "title": {
+        "en": "The smallest unit and the whole life"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-10.json",
+      "title": {
+        "en": "The teacher's house"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-11.json",
+      "title": {
+        "en": "The ground under all of it"
+      }
+    }
+  ]
+}

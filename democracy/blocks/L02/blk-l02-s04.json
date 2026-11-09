@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A Verse About Thinking Together\n\n<!-- STEP id=\"the-verse\" -->\n## From the Ṛigveda\n\nThis verse of the **Aikyamatya Sūktam**, a hymn of the **Ṛigveda**, ends: \"I invoke for you this same guiding resolve; with a common offering, on your behalf, I make the oblation.\" An oblation is an offering in a ritual, here made for the whole group.\n\n<!-- STEP id=\"why-it-matters\" -->\n## Why It Matters\n\nThe verse stresses collective thinking, shared discussion and unity of purpose. These values show that consultation, consensus and shared responsibility have deep roots in India's traditions. Consensus means that a whole group agrees.\n\n**A verse is an ideal, not a rule of government, but it shows what people valued.**"
+  },
+  "simulation": {
+    "src": "simulations/L02/RigvedaVerseScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.503Z"
+  }
+}

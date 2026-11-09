@@ -1,0 +1,14 @@
+{
+  "id": "blk-l09-s07b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L09/blk-l09-s07b.md",
+  "simulation": {
+    "src": "simulations/L09/HammurabiClassScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

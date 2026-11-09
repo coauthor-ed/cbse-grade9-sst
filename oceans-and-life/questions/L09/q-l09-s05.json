@@ -1,0 +1,75 @@
+{
+  "id": "q-l09-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Two ships with engines are crossing at night in open water. The other ship is on your right. What should your ship do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Hold course and speed, as the stand-on vessel"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The stand-on vessel has the other ship on its left. Yours has it on the right."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Sound a signal and carry on as before"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A signal does not decide who gives way, and your ship must still act."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Wait until the other ship turns first"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Waiting is the danger here. The give-way vessel acts early."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Act early, as the give-way vessel"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. With the other ship on your right, you are the give-way vessel."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "In a crossing, the ship with the other on its right is the give-way vessel and acts early to keep clear. The other ship is the stand-on vessel and holds its course and speed."
+  },
+  "hints": [
+    {
+      "en": "Which side is the other ship on?"
+    },
+    {
+      "en": "Other ship on your right: you give way."
+    }
+  ],
+  "tags": [
+    "colregs",
+    "give-way-vessel",
+    "stand-on-vessel",
+    "rules-of-the-road"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:57.623Z",
+    "reviewedBy": "review-bar"
+  }
+}

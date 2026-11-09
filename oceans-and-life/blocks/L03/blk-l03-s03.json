@@ -1,0 +1,16 @@
+{
+  "id": "blk-l03-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03/blk-l03-s03.md",
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L03/SunMoonEarthScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:30.294Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l03-s08",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Reasonable Restrictions\n\n<!-- STEP id=\"reasonable-restrictions\" -->\n## Limits Made by Law\n\nFundamental Rights do have limits. The speaker is free to state his views, but he is not free to threaten families. The Constitution allows **reasonable restrictions**, so a limit must be reasonable and must also follow the procedure established by law.\n\n<!-- STEP id=\"rights-with-duties\" -->\n## Your Right and Mine\n\nRights come with duties. You use your freedom responsibly, and you respect the same rights in other people.\n\n**A limit protects the rights of others. It cannot be made simply because someone in power wishes it.**"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L03/RestrictionBalanceScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.512Z"
+  }
+}

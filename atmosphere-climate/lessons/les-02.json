@@ -1,0 +1,80 @@
+{
+  "id": "les-02",
+  "lessonId": "les-02",
+  "type": "lesson",
+  "title": {
+    "en": "How is the air layered, and what does each layer do?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L02/blk-l02-s02.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s03.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s01.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s04.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s03.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s05.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s09.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s04.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s06.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s05.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s08b.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s08.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s08.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s07.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s06.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s09.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s07.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s10.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-a01.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s11.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s13.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "review-bar",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:11.924Z"
+  }
+}

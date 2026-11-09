@@ -1,0 +1,31 @@
+{
+  "id": "q-l05-s05",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The storm surge forecast for a stretch of coast is 3.5 metres above sea level. A fishing hamlet there stands 1.2 metres above sea level. If the surge arrives as forecast, how deep will the water stand over the ground of the hamlet?"
+  },
+  "expectedValue": 2.3,
+  "tolerance": 0.05,
+  "unit": "m",
+  "explanation": {
+    "en": "The sea stands at 3.5 metres and the ground at 1.2 metres, both measured from sea level. So the water over the ground is 3.5 - 1.2 = 2.3 metres."
+  },
+  "hints": [
+    {
+      "en": "Both numbers are measured from the same level, sea level. Take the difference between them."
+    }
+  ],
+  "tags": [
+    "storm-surge",
+    "inundation",
+    "height"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:39.278Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "q-l07-s03",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A made-up stock of fish starts at 100 thousand. Each year it grows by 30%, and then the catch is taken out. If the catch is 30 thousand a year, what is the stock at the end of the first year, in thousands of fish?"
+  },
+  "expectedValue": 100,
+  "tolerance": 0.5,
+  "unit": "thousand fish",
+  "explanation": {
+    "en": "The stock grows first and the catch comes after. 100 thousand grows by 30% to 130 thousand, and taking out 30 thousand leaves 100 thousand again. Stopping at the growth gives 130, which is not the end of the year."
+  },
+  "hints": [
+    {
+      "en": "Work out the growth first, then take away the catch."
+    },
+    {
+      "en": "30% of 100 is 30, so the stock grows to 130 thousand before the catch."
+    }
+  ],
+  "tags": [
+    "fish-stock",
+    "model",
+    "regrowth"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:47.998Z",
+    "reviewedBy": "review-bar"
+  }
+}

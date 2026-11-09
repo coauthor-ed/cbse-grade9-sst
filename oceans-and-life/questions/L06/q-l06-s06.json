@@ -1,0 +1,71 @@
+{
+  "id": "q-l06-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Under whose initiative did the Government of India set up its real-time network of tsunami detection buoys?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "India Meteorological Department (IMD)"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "IMD works with INCOIS on storm surges."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "National Cyclone Risk Mitigation Project"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "NCRMP works on cyclone shelters and warnings, not on tsunami buoys."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Marine Weather Services"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These monitor storms along the coasts."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Indian Tsunami Early Warning Centre"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The buoys were set up under an initiative of ITEWC."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The real-time network of tsunami detection buoys was set up under an initiative of the Indian Tsunami Early Warning Centre (ITEWC). The buoys are designed to detect, measure and monitor tsunamis."
+  },
+  "hints": [
+    {
+      "en": "Look for the body with the word tsunami in its name."
+    }
+  ],
+  "tags": [
+    "tsunami",
+    "itewc",
+    "buoy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:43.334Z",
+    "reviewedBy": "review-bar"
+  }
+}

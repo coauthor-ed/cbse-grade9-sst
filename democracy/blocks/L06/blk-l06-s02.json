@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s02",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# One Seat, 25 Lakh People\n\n<!-- STEP id=\"one-member\" -->\n## One Member for One Area\n\nIndia is divided into areas called constituencies. Each one elects one **Member of Parliament (MP)** to the 543 elected seats of the Lok Sabha.\n\nOn average, an MP represents about **25 lakh people** (2019).\n\n<!-- STEP id=\"many-needs\" -->\n## Many People, One Seat\n\nThose people are farmers, shopkeepers, students and workers, with different needs. When the MP asks a question or votes, the MP does so for all of them.\n\n**This is representation: many people speak through one member.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/RepresentationGridScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.520Z"
+  }
+}

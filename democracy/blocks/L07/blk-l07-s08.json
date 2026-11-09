@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s08",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# What You Can Do Now\n\n<!-- STEP id=\"civic-responsibility\" -->\n## You Are Already a Citizen\n\nYou cannot vote until you are 18, but you can already practise **civic responsibility**: respecting others' rights, using social media responsibly, abiding by laws and rules, appreciating the country's diversity, and taking part in activities that strengthen unity.\n\nBeing well-informed is also a vital responsibility of a young citizen.\n\n<!-- STEP id=\"five-paths\" -->\n## Five Ways to Take Part\n\nYoung people can take part in five ways: understand the Constitution, follow fundamental duties, take leadership in school and community, be media literate, and join nation-building activities. Press Next path for an example of each.\n\nNSS and NCC teach this through community service and teamwork.\n\n**You can start today, before you are 18.**"
+  },
+  "simulation": {
+    "src": "simulations/L07/YouthParticipationScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.525Z"
+  }
+}

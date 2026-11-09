@@ -1,0 +1,140 @@
+{
+  "id": "q-l01-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "How do different features of the ocean floor affect human activities such as fishing, transport and underwater exploration? Give one example for each."
+  },
+  "rubric": [
+    {
+      "id": "fishing-point",
+      "label": {
+        "en": "The shallow continental shelf is rich in marine life, so fishing happens over it"
+      },
+      "level1": {
+        "en": "Which part of the sea floor is shallow and full of life?"
+      },
+      "clue": {
+        "en": "The continental shelf is shallow and rich in marine life, so fishing boats work over it."
+      },
+      "level2Template": {
+        "en": "Fishing boats work over the ___, because it is shallow and rich in marine life."
+      },
+      "accepted": [
+        "continental shelf",
+        "shelf",
+        "the continental shelf",
+        "the shelf"
+      ]
+    },
+    {
+      "id": "transport-point",
+      "label": {
+        "en": "The depth and shape of the floor decide where ships can go and where cables are laid"
+      },
+      "level1": {
+        "en": "A big ship needs water deeper than its hull. What does the sea floor decide for it?"
+      },
+      "clue": {
+        "en": "Shallow ground limits where big ships can go, and undersea cables have to be laid along the shape of the floor."
+      },
+      "level2Template": {
+        "en": "The ___ of the water over the sea floor decides where big ships can go."
+      },
+      "accepted": [
+        "depth",
+        "the depth",
+        "how deep",
+        "deepness"
+      ]
+    },
+    {
+      "id": "exploration-point",
+      "label": {
+        "en": "Deep features such as trenches are the hardest to explore, so people measure them with sonar"
+      },
+      "level1": {
+        "en": "Which features lie so deep that people must measure them from a ship?"
+      },
+      "clue": {
+        "en": "Trenches are the deepest parts of the ocean. People map such places with sonar, using echoes of sound."
+      },
+      "level2Template": {
+        "en": "Deep places such as a ___ are the hardest to explore, so ships map them with sonar."
+      },
+      "accepted": [
+        "trench",
+        "ocean trench",
+        "the trench",
+        "mariana trench",
+        "trenches"
+      ]
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "explanation": {
+    "en": "Fishing crowds over the shallow shelf, which is rich in marine life. Depth decides where big ships can go and where cables are laid. Trenches and other deep places are the hardest to explore, so they are mapped with sonar."
+  },
+  "hints": [
+    {
+      "en": "Take the three activities one at a time. For each, name one feature of the floor."
+    }
+  ],
+  "tags": [
+    "ocean-relief",
+    "continental-shelf",
+    "continental-slope",
+    "abyssal-plain",
+    "descriptive"
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "To begin"
+      },
+      "text": {
+        "en": "The shape of the sea floor is not only a matter for geographers. It decides where people fish, sail and explore."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Fishing"
+      },
+      "text": {
+        "en": "Fishing boats work over the ___, because it is shallow and rich in marine life."
+      },
+      "rubricId": "fishing-point"
+    },
+    {
+      "eyebrow": {
+        "en": "Transport"
+      },
+      "text": {
+        "en": "The ___ of the water over the sea floor decides where big ships can go."
+      },
+      "rubricId": "transport-point"
+    },
+    {
+      "eyebrow": {
+        "en": "Exploration"
+      },
+      "text": {
+        "en": "Deep places such as a ___ are the hardest to explore, so ships map them with sonar."
+      },
+      "rubricId": "exploration-point"
+    }
+  ],
+  "mode": "coach",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:21.469Z",
+    "reviewedBy": "review-bar"
+  }
+}

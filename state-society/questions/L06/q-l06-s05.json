@@ -1,0 +1,65 @@
+{
+  "id": "q-l06-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "The Gurjara-Pratihāras, the Pālas and the Rāṣhṭrakūṭas fought for control of Kannauj. What did their systems of administration have in common?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Each abolished its provinces during the fighting and ruled its villages from the capital."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Each copied the Chola system of drawing names from a pot."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Each gave all its power to the village assemblies and had no king."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "All three mixed monarchy with decentralised units, and in all three the village was the smallest, largely self-reliant unit."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The administrative systems of all three kingdoms followed the same pattern: a mix of monarchy and decentralised units of provinces, districts and villages. In all cases the village remained the smallest administrative unit and was largely self-reliant in infrastructure, social welfare and education."
+  },
+  "hints": [
+    {
+      "en": "Who won Kannauj does not matter for this question."
+    },
+    {
+      "en": "Look for what was true of the village in all three."
+    }
+  ],
+  "tags": [
+    "tripartite-struggle",
+    "kannauj",
+    "gurjara-pratihara",
+    "pala",
+    "rashtrakuta",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:28.849Z",
+    "reviewedBy": "review-bar"
+  }
+}

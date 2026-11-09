@@ -1,0 +1,15 @@
+{
+  "id": "blk-l09-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L09/ColregsCrossingGameScene.js",
+  "objective": {
+    "en": "Meet four ships in turn. Each time, choose what the rules of the road ask you to do."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:57.623Z",
+    "reviewedBy": "review-bar"
+  }
+}

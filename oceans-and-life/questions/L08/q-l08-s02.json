@@ -1,0 +1,71 @@
+{
+  "id": "q-l08-s02",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "How far from the baseline does a country's territorial sea reach?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "24 nautical miles"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "24 nautical miles is the outer edge of the contiguous zone."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "12 nautical miles"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The territorial sea reaches 12 nautical miles from the baseline."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "200 nautical miles"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "200 nautical miles is the outer edge of the EEZ."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "12 kilometres"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The number is right but the unit is wrong: sea distances here are in nautical miles, and 12 of them is 22.2 km."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The territorial sea reaches 12 nautical miles from the baseline. 24 nautical miles is the outer edge of the contiguous zone, and 200 nautical miles is the outer edge of the EEZ."
+  },
+  "hints": [
+    {
+      "en": "Three limits: 12, 24 and 200 nautical miles. Which band is closest to land?"
+    }
+  ],
+  "tags": [
+    "maritime-zones",
+    "territorial-sea",
+    "nautical-mile"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:53.054Z",
+    "reviewedBy": "review-bar"
+  }
+}

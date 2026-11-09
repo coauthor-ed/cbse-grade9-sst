@@ -1,0 +1,75 @@
+Media provenance - L05
+
+Per `docs/copyright-and-sourcing.md`: the textbook's own photographs are
+never extracted. Each photograph below is an openly-licensed photograph of
+Indian home voting, standing in for the source's `Fig. 7.8` (p.11 / book
+p.171).
+
+Both are from one set of photographs made by the same photographer at one
+home-voting visit in Bhopal, Madhya Pradesh, on 7 November 2023, and are
+licensed CC BY-SA 4.0, which permits reuse with attribution.
+
+Downloaded as 960px wide JPEG renditions of the Wikimedia Commons originals
+(Commons `Special:FilePath` at width=960). The original file name and its
+Commons file page are recorded below so either can be replaced at full
+resolution without changing the block.
+
+Used by `blocks/L05/blk-l05-s06.json` -> `image.src` and
+`reveal.images.compartment.src`.
+
+Note on eligibility: the source's eligibility criteria - senior citizens
+above 85 years of age, and persons with disabilities with a benchmark
+disability of 40% or higher - are NOT depicted or asserted by these
+photographs. Both photographer file names say "above 80", which is an older
+threshold than the chapter's and is a label on the file, not something the
+photograph shows. The slide prose therefore states no age for either voter;
+the criteria live on `blk-l05-s03`.
+
+## home-voting-voter-living-room-bhopal-2023.jpg
+
+- Used by: `blocks/L05/blk-l05-s06.json` (`image.src`, beat 0).
+- Source: Wikimedia Commons,
+  `File:A senior citizen above 80 is casting his vote from home in Bhopal -02.jpg`
+- File page: https://commons.wikimedia.org/wiki/File:A_senior_citizen_above_80_is_casting_his_vote_from_home_in_Bhopal_-02.jpg
+- Original: 3552 x 2662 px JPEG, 3,296,340 bytes.
+- Author / credited institution: Suyash Dwivedi (Wikimedia Commons user
+  Suyash.dwivedi), own work.
+- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
+- Rendition: 960 x 719 px, 137,990 bytes.
+- What it shows: an elderly man seated on a low seat in his own living room
+  beside a portable cardboard compartment printed with the Election
+  Commission of India logo and the words "VOTING COMPARTMENT", holding a
+  pink marked ballot paper in both hands; a sofa with cushions and pale
+  curtains behind him.
+- Why this one: the source's `Fig. 7.8` is an elderly person voting at home,
+  and this frame puts the *machine's absence of a booth* in the picture - the
+  compartment standing in a living room is the whole point of the measure.
+
+## home-voting-inside-compartment-bhopal-2023.jpg
+
+- Used by: `blocks/L05/blk-l05-s06.json` (`reveal.images.compartment.src`,
+  beat 1).
+- Source: Wikimedia Commons,
+  `File:Vote From Home Option For People Above 80 Or With Disabilities in India.jpg`
+- File page: https://commons.wikimedia.org/wiki/File:Vote_From_Home_Option_For_People_Above_80_Or_With_Disabilities_in_India.jpg
+- Original: 4000 x 3000 px JPEG, 2,594,691 bytes.
+- Author / credited institution: Suyash Dwivedi (Wikimedia Commons user
+  Suyash.dwivedi), own work.
+- Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
+- Rendition: 960 x 720 px, 138,727 bytes.
+- What it shows: the same home-voting set-up from inside - a voter seated
+  within the folding cardboard compartment, its side printed with the
+  Election Commission of India logo and a handwritten label reading "Name of
+  State/U.T.", "AC/PC Name", "AC/PC Number 153", "Date of Poll 07/11/2023"
+  and "Polling Station Name".
+- Why this one: it answers the question the first photograph raises - the
+  privacy the compartment is there to give, supplied inside somebody's house
+  rather than at a booth.
+
+Caveat recorded for the reviewer: the two frames come from one household on
+one morning, so this pair shows the measure in one setting. The source's own
+`Fig. 7.8` pairs an urban frame with a remote one; no openly-licensed
+photograph of remote or tribal-area home voting was located on Wikimedia
+Commons during this stage, so the second frame is a different view of the
+same visit rather than a different part of the country. This is logged as a
+deviation in `GENERATION-LOG.md`.

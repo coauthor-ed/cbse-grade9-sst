@@ -1,0 +1,62 @@
+{
+  "id": "q-l06-s05b",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A State Assembly member votes against her party's whip. She has not resigned or joined another party. What follows under the Anti-Defection Law?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Nothing, as she has not left her party"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "She can be disqualified; the Speaker decides"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "She loses her seat at once, with no one needing to decide"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Only her party can act, and the House has no say in it"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Voting against the whip is one of the two actions the law names, so leaving the party is not needed. The member can be disqualified from the House, and the Speaker or Chairman decides what needs to be done."
+  },
+  "hints": [
+    {
+      "en": "The law names two actions. Is voting against the whip one of them?"
+    }
+  ],
+  "tags": [
+    "defection",
+    "anti-defection-law",
+    "whip",
+    "disqualification",
+    "speaker",
+    "speaker-or-chairman"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:19.438Z",
+    "reviewedBy": "review-bar"
+  }
+}

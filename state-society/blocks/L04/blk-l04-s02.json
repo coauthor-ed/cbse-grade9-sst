@@ -1,0 +1,36 @@
+{
+  "id": "blk-l04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04/blk-l04-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The army, which carried out orders."
+    },
+    {
+      "id": "b",
+      "text": "The treasury, which paid for everything."
+    },
+    {
+      "id": "c",
+      "text": "A council of ministers."
+    },
+    {
+      "id": "d",
+      "text": "The village headmen, meeting together."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L04/SaptangaWheelScene.js",
+    "role": "setup",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:19.089Z",
+    "reviewedBy": "review-bar"
+  }
+}

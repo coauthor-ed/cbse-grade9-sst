@@ -1,0 +1,35 @@
+{
+  "id": "blk-l06-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s03.md",
+  "poeRole": "observe",
+  "image": {
+    "src": "media/L06/L06S03.jpg",
+    "alt": "A drawing of storage bins at Mehrgarh from above: two rows of square brick compartments divided by partition walls.",
+    "position": "right"
+  },
+  "simulation": {
+    "src": "simulations/L06/MehrgarhCompoundScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "simulationStep": 3,
+  "reveal": {
+    "images": {
+      "zebu": {
+        "src": "media/L06/L06S03-b2.jpg",
+        "alt": "A humped zebu bull, the Indian cattle breed raised at Neolithic Mehrgarh, standing in profile against dry scrubland."
+      },
+      "beads": {
+        "src": "media/L06/L06S03-b3.jpg",
+        "alt": "Small Neolithic ornaments laid on a neutral surface: deep-blue lapis lazuli beads, orange-red carnelian beads, and cut shell pieces, some drilled for stringing."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

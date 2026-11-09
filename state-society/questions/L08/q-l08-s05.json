@@ -1,0 +1,87 @@
+{
+  "id": "q-l08-s05",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Read this verse: \"I am a poet; my father is a physician, my mother is a grinder of corn; having various occupation, desiring riches we remain (in the world) like cattle (in the stalls).\" Sort each line by whether the verse tells us this."
+  },
+  "categories": [
+    {
+      "id": "supported",
+      "label": {
+        "en": "The verse tells us this"
+      }
+    },
+    {
+      "id": "not-settled",
+      "label": {
+        "en": "The verse does not tell us this"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-three-jobs",
+      "text": {
+        "en": "One family had three different occupations."
+      },
+      "correctCategoryId": "supported"
+    },
+    {
+      "id": "chip-cattle",
+      "text": {
+        "en": "The speaker's mother was a grinder of corn."
+      },
+      "correctCategoryId": "supported"
+    },
+    {
+      "id": "chip-flexible",
+      "text": {
+        "en": "The speaker says that they desired riches."
+      },
+      "correctCategoryId": "supported"
+    },
+    {
+      "id": "chip-how-common",
+      "text": {
+        "en": "How common such families were."
+      },
+      "correctCategoryId": "not-settled"
+    },
+    {
+      "id": "chip-ranking",
+      "text": {
+        "en": "How people ranked a physician against a poet."
+      },
+      "correctCategoryId": "not-settled"
+    },
+    {
+      "id": "chip-fourfold",
+      "text": {
+        "en": "Which varṇa this family belonged to."
+      },
+      "correctCategoryId": "not-settled"
+    }
+  ],
+  "explanation": {
+    "en": "The verse names three occupations in one family and says they desired riches. It does not say how common this was, how the occupations were ranked, or which varṇa the family belonged to. Asking what a source might not tell us is one of the historian's three questions."
+  },
+  "hints": [
+    {
+      "en": "Ask of each line: are these words in the verse, or would you be working it out yourself?"
+    }
+  ],
+  "tags": [
+    "source-analysis",
+    "rigveda-verse",
+    "limits-of-evidence",
+    "match-categorize"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:40.217Z",
+    "reviewedBy": "review-bar"
+  }
+}

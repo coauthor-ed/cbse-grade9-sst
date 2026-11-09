@@ -1,0 +1,67 @@
+{
+  "id": "q-l11-a2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A student says: \"The pyramid was a completely new idea with nothing before it.\" What does the book show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The student is right: pyramids had no earlier form."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The book says otherwise: mastabas came first, and they were placed one on top of the other to form a pyramid."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Pyramids came first, and mastabas were later, cheaper copies."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is the wrong way round. The mastaba came first."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Pyramids were copied from Sumerian ziggurats."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both are stepped, but a ziggurat was a temple and a pyramid was a tomb. The book links the pyramid to the mastaba."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Pyramids grew out of mastabas placed one on top of the other."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A mastaba was a rectangular structure over a burial chamber. Gradually mastabas were stacked to form a pyramid, as at Saqqara."
+  },
+  "hints": [
+    {
+      "en": "What was placed over a burial chamber before there were pyramids?"
+    }
+  ],
+  "tags": [
+    "egypt",
+    "mastaba",
+    "pyramid"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

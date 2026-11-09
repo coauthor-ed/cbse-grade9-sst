@@ -1,0 +1,20 @@
+{
+  "id": "blk-l04-game",
+  "type": "mini-game@1",
+  "subject": "social-studies",
+  "grade": 9,
+  "chapterId": "democracy",
+  "topicId": "separation-of-powers",
+  "board": "CBSE",
+  "src": "simulations/L04/ThreeArmsGame.js",
+  "objective": {
+    "en": "Give three jobs to three offices. Then run three cases, and see if your plan catches all of them."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

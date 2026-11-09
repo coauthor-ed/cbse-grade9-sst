@@ -1,0 +1,11 @@
+{
+  "id": "blk-l06-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s01.md",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:43.334Z",
+    "reviewedBy": "review-bar"
+  }
+}

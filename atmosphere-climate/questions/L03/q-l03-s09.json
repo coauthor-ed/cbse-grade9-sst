@@ -1,0 +1,87 @@
+{
+  "id": "q-l03-s09",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "tags": [
+    "atmosphere"
+  ],
+  "stem": {
+    "en": "Sort each sentence by what it describes."
+  },
+  "categories": [
+    {
+      "id": "weather",
+      "label": {
+        "en": "Weather"
+      }
+    },
+    {
+      "id": "climate",
+      "label": {
+        "en": "Climate"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "c1",
+      "text": {
+        "en": "It is drizzling in Pune this morning"
+      },
+      "correctCategoryId": "weather"
+    },
+    {
+      "id": "c2",
+      "text": {
+        "en": "Tomorrow will be windy in Chennai"
+      },
+      "correctCategoryId": "weather"
+    },
+    {
+      "id": "c3",
+      "text": {
+        "en": "Last week was unusually cool in Jaipur"
+      },
+      "correctCategoryId": "weather"
+    },
+    {
+      "id": "c4",
+      "text": {
+        "en": "Delhi has hot summers and cool winters"
+      },
+      "correctCategoryId": "climate"
+    },
+    {
+      "id": "c5",
+      "text": {
+        "en": "Mumbai gets most of its rain from June to September"
+      },
+      "correctCategoryId": "climate"
+    },
+    {
+      "id": "c6",
+      "text": {
+        "en": "Leh gets very little rain in any year"
+      },
+      "correctCategoryId": "climate"
+    }
+  ],
+  "explanation": {
+    "en": "Weather is the state of the air over hours and days, so today, tomorrow and last week are all weather. Climate is the average pattern over about thirty years or more, so a sentence about what usually happens each year is climate."
+  },
+  "hints": [
+    {
+      "en": "Ask whether the sentence is about one day or week, or about what happens year after year."
+    },
+    {
+      "en": "Words like 'usually', 'every year' and 'hot summers' point to a long pattern."
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T08:20:31.000Z",
+    "reviewedBy": "owner"
+  }
+}

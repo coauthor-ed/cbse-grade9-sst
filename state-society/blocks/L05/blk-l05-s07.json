@@ -1,0 +1,15 @@
+{
+  "id": "blk-l05-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L05/RouteTheOrderGame.js",
+  "objective": {
+    "en": "Send each matter to the level that dealt with it."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:24.273Z",
+    "reviewedBy": "review-bar"
+  }
+}

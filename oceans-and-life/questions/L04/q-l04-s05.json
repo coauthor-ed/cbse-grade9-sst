@@ -1,0 +1,71 @@
+{
+  "id": "q-l04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Why are the seas where warm and cold currents meet good fishing grounds?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The two currents trap the fish in a narrow band."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fish are not pushed there. They come because there is food."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The waters are rich in nutrients for sea life."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Nutrients feed plankton, and plankton feed a large variety of fish."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The warm current carries salt that the fish need."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Salt is in all sea water. The important thing here is the nutrients."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Cold water pushes the fish up on to the shore."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fish are not driven ashore. They gather in these waters to feed."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Where warm and cold currents meet, the waters are rich in nutrients. Scientists explain that the two waters mix and bring nutrients up from the deep, so plankton grow and fish come to eat them. Examples lie off Newfoundland and off Japan."
+  },
+  "hints": [
+    {
+      "en": "Think about what the fish come there to eat."
+    }
+  ],
+  "tags": [
+    "ocean-currents",
+    "fishing-grounds",
+    "plankton"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:34.781Z",
+    "reviewedBy": "review-bar"
+  }
+}

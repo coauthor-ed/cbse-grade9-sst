@@ -1,0 +1,16 @@
+{
+  "id": "blk-l03-s05",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Equal Before the Law\n\n<!-- STEP id=\"equality-before-law\" -->\n## Equality Before the Law\n\nAt a traffic stop, a big car and an auto-rickshaw follow the same signal and pay the same fine. This is **equality before the law**: \"Every individual irrespective of status, identity, or rank is treated equally by the law.\"\n\n<!-- STEP id=\"equal-protection\" -->\n## Equal Protection of the Law\n\nTwo neighbours break the same building rule, so both get the same notice. This is **equal protection of the law**: \"All persons in similar circumstances shall be treated equally by law without arbitrary discrimination.\" Arbitrary means without a fair reason.\n\n<!-- STEP id=\"article-21\" -->\n## Article 21\n\nArticle 21 of the Constitution states: \"no persons shall be deprived of life or personal liberty except according to procedure established by law.\"\n\n**Even the State must follow a valid law, step by step, before it can take away your life or liberty.**"
+  },
+  "simulation": {
+    "src": "simulations/L03/ProcedureGateScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.510Z"
+  }
+}

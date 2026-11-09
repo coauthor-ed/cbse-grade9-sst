@@ -1,0 +1,15 @@
+{
+  "id": "blk-l10-s09",
+  "type": "mini-game@1",
+  "src": "simulations/L10/MitigationPlannerScene.js",
+  "objective": {
+    "en": "Match each fix to the hazard it reduces in this imagined valley."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:56.194Z",
+    "reviewedBy": "review-bar"
+  }
+}

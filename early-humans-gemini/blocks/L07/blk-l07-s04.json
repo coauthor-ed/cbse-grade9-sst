@@ -1,0 +1,35 @@
+{
+  "id": "blk-l07-s04",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L07/blk-l07-s04.md",
+  "image": {
+    "src": "media/L07/L07S04.jpg",
+    "alt": "A drawing of the ploughed field at Kalibangan: widely spaced furrows crossed at right angles by closer furrows.",
+    "position": "right"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": "Two crops were grown in one field."
+    },
+    {
+      "id": "b",
+      "text": "They mark the property lines between families."
+    },
+    {
+      "id": "c",
+      "text": "They drain flood water away from the field."
+    },
+    {
+      "id": "d",
+      "text": "The ploughman made a mistake and ploughed again."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "q-l01-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Air is sampled at sea level and at 8 km on a high mountain on the same day. Which comparison is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The air at 8 km is denser, and it holds more water vapour."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The air at 8 km is thinner, and it holds much less water vapour."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The air at 8 km is thinner, and most of it is oxygen."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The air at 8 km is denser, and it has no nitrogen."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The density of air is highest near the surface, so the mountain air is thinner. Water vapour stays low, so far less of it reaches that height. Nitrogen and oxygen keep nearly the same shares, so the air up there is still mostly nitrogen."
+  },
+  "hints": [
+    {
+      "en": "Two things change as you go up: how much air there is, and how much water vapour it holds."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "composition",
+    "altitude",
+    "water-vapour"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:06.382Z",
+    "reviewedBy": "review-bar"
+  }
+}

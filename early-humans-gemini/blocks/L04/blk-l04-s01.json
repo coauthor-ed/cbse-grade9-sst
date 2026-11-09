@@ -1,0 +1,32 @@
+{
+  "id": "blk-l04-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s01.md",
+  "image": {
+    "src": "media/L04/L04S01.jpg",
+    "alt": "A plate of twelve small geometric stone microliths - trapezoid, crescent and triangle shapes, and slender backed blades, each one to three centimetres long - laid in a row against a printed centimetre scale.",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "reveal": {
+    "images": {
+      "bone": {
+        "src": "media/L04/L04S01-b2.jpg",
+        "alt": "Slender pointed bone tools incised with a repeating zigzag pattern cut into the shaft, lying on a dark surface."
+      },
+      "beads": {
+        "src": "media/L04/L04S01-b3.jpg",
+        "alt": "Round flat ostrich-eggshell disc beads, each pierced in the centre, drilled and polished, scattered together in a small group."
+      },
+      "shelter": {
+        "src": "media/L04/L04S01-b4.jpg",
+        "alt": "A fieldworker kneeling inside a shallow cave shelter, brushing the sediment floor gently with a trowel and brush, in a rural rock landscape."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

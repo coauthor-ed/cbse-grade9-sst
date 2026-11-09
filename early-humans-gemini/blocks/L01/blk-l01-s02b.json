@@ -1,0 +1,15 @@
+{
+  "id": "blk-l01-s02b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01/blk-l01-s02b.md",
+  "image": {
+    "src": "media/L01/L01S02-b3.png",
+    "alt": "A drawing of an experimental archaeologist shaping a replica stone tool by striking it with a hammerstone, with finished replicas and a cut section of wood laid out on a cloth beside them.",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

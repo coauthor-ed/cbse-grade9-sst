@@ -1,0 +1,36 @@
+{
+  "id": "blk-l10-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L10/blk-l10-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Slope A"
+    },
+    {
+      "id": "b",
+      "text": "Slope B"
+    },
+    {
+      "id": "c",
+      "text": "Slope C"
+    },
+    {
+      "id": "d",
+      "text": "All three at once"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L10/SlideTriggerScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:56.194Z",
+    "reviewedBy": "review-bar"
+  }
+}

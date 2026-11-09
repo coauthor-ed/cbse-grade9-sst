@@ -1,0 +1,63 @@
+{
+  "id": "q-l09-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The Manu-smṛiti says that where women are honoured the gods rejoice, and where they are not honoured all sacred rites prove fruitless. What is this verse best used as evidence of?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "An ideal held by the author of the text, about how women ought to be treated."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "How women were really treated in every place and period, since the verse is so strong."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A law enforced by the king, with a set punishment for anyone who broke it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A record of one woman's life, like a land grant issued in her own name."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A verse tells us what its author held to be right. It does not record what happened in a given place or time, and it names no king, punishment or person. Other evidence shows that the position and roles of women fluctuated, even declined, over time. So the verse shows an ideal, and historians must look elsewhere to learn about practice."
+  },
+  "hints": [
+    {
+      "en": "Does the verse say what ought to be, or what happened on a certain day?"
+    },
+    {
+      "en": "Compare a verse with a land grant. Which one records an act by a named person?"
+    }
+  ],
+  "tags": [
+    "manu-smriti",
+    "women",
+    "ideal-versus-practice",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:45.482Z",
+    "reviewedBy": "review-bar"
+  }
+}

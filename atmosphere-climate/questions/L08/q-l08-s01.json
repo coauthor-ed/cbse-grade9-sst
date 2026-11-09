@@ -1,0 +1,47 @@
+{
+  "id": "q-l08-s01",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "assertion": {
+    "en": "Greenhouse gases warm the Earth's surface by stopping sunlight from reaching it."
+  },
+  "reason": {
+    "en": "Greenhouse gases hold some of the heat rising from the warmed ground and send part of it back down."
+  },
+  "correctOptionId": "d",
+  "optionFeedback": {
+    "a": {
+      "en": "The Assertion is false: sunlight does reach the ground."
+    },
+    "b": {
+      "en": "The Assertion is false: sunlight does reach the ground."
+    },
+    "c": {
+      "en": "The Assertion is false, not true, and the Reason is true, not false."
+    }
+  },
+  "explanation": {
+    "en": "The Assertion is false, because sunlight passes through these gases and warms the ground. The Reason is true: the gases act on the heat rising from the ground and send part of it back down."
+  },
+  "hints": [
+    {
+      "en": "Check each statement on its own first."
+    },
+    {
+      "en": "Do these gases act on the sunlight coming in, or on the heat going out?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "greenhouse-gas",
+    "climate-change",
+    "mechanism"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:53.484Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "blk-l13-s05b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L13/blk-l13-s05b.md",
+  "image": {
+    "src": "media/L13/L13S05.jpg",
+    "alt": "A lone Buddhist monk in simple robes walking beside a merchant caravan on a dusty overland trade route, carrying only an alms bowl and a walking staff, no temple in sight.",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "reveal": {
+    "images": {
+      "monasteries": {
+        "src": "media/L13/L13S05-b3.jpg",
+        "alt": "A Buddhist cave monastery complex carved into a cliff face beside a Silk Route caravan halt, with merchant camels and traders resting near the entrance."
+      },
+      "both-ways": {
+        "src": "media/L13/L13S05-b4.jpg",
+        "alt": "The weathered brick ruins of the ancient Nalanda monastic university in India, rows of monastic cell walls and a stepped stupa among excavated courtyards."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

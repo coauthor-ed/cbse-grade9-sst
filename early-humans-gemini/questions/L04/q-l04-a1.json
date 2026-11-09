@@ -1,0 +1,66 @@
+{
+  "id": "q-l04-a1",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A hunter's tool has twelve microblades set in a groove along a bone handle. One blade breaks. Why is this design better than one large stone tool at this moment?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The other blades become sharper when one of them breaks."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Stone does not sharpen itself. A blade stays as sharp as it was when it was struck, and then it wears down."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Only the broken blade has to be replaced, and the rest of the tool keeps working."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Microblades cannot break, so the handle must have failed."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The question says that a blade broke. Thin stone breaks easily, and that is why spare blades matter."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Small stone blades cut more deeply than a large tool because they weigh less."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Weight is not the advantage here. The advantage is that one part can be changed without making a new tool."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The tool is built from parts. Taking out one blade and setting a fresh one in the groove repairs the tool. The handle and the other eleven blades are kept. A large stone tool that snaps cannot be repaired in this way."
+  },
+  "hints": [
+    {
+      "en": "Think about what the hunter has to throw away in each case."
+    }
+  ],
+  "tags": [
+    "microliths",
+    "composite-tools"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "blk-l04-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04/blk-l04-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "A stream of warm sea water reaches Norway."
+    },
+    {
+      "id": "b",
+      "text": "Norway lies closer to the Equator than Labrador."
+    },
+    {
+      "id": "c",
+      "text": "Norway gets much more sunshine than Labrador."
+    },
+    {
+      "id": "d",
+      "text": "Mountains shield Norway's coast from Arctic winds."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L04/TwoCoastsScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:34.781Z",
+    "reviewedBy": "review-bar"
+  }
+}

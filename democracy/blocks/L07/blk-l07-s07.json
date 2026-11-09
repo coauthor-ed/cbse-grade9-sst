@@ -1,0 +1,17 @@
+{
+  "id": "blk-l07-s07",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# 1977: The Ballot\n\n<!-- STEP id=\"result\" -->\n## The Government Was Defeated\n\nThe ruling government was defeated. The general elections allowed people to express their will through the ballot.\n\nThis defeat demonstrated the strength of Indian democracy.\n\n<!-- STEP id=\"what-it-showed\" -->\n## What the Period Showed\n\nThe period highlighted the importance of constitutional safeguards, civil liberties and active citizen participation.\n\n**It showed both the vulnerabilities and the resilience of democratic institutions in India.**"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L07/BallotVerdictScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.525Z"
+  }
+}

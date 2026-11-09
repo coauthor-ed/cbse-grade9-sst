@@ -1,0 +1,123 @@
+{
+  "id": "q-l07-s06",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "mode": "coach",
+  "prompt": {
+    "en": "Explain what dharma means in early Indian texts, and give two pieces of evidence that show ethics was connected with government. Answer in about 100 words."
+  },
+  "rubric": [
+    {
+      "id": "duty-not-religion",
+      "label": {
+        "en": "Dharma means duty, obligation, righteousness and moral conduct, and here it does not mean religion"
+      },
+      "level1": {
+        "en": "What English words explain dharma?"
+      },
+      "clue": {
+        "en": "Here dharma does not mean religion. It refers to duty, obligation, righteousness and moral conduct. Bhishma says that it \"is that which upholds beings\"."
+      },
+      "level2Template": {
+        "en": "Dharma means ___ and moral conduct."
+      },
+      "accepted": [
+        "duty",
+        "duties",
+        "obligation",
+        "righteousness",
+        "moral conduct",
+        "upholds",
+        "ethical"
+      ]
+    },
+    {
+      "id": "by-role",
+      "label": {
+        "en": "People are expected to perform duties according to their roles"
+      },
+      "level1": {
+        "en": "Do all people have the same duties?"
+      },
+      "clue": {
+        "en": "Individuals are expected to perform their duties according to their roles and responsibilities in society."
+      },
+      "level2Template": {
+        "en": "People perform duties according to their ___ in society."
+      },
+      "accepted": [
+        "role",
+        "roles",
+        "responsibilities",
+        "position"
+      ]
+    },
+    {
+      "id": "evidence",
+      "label": {
+        "en": "Records such as Asoka's edicts and the Uttaramerur inscription link ethics and government"
+      },
+      "level1": {
+        "en": "Name a record that links ethics with government."
+      },
+      "clue": {
+        "en": "Aśhoka's edicts promoted dhamma through moral conduct, non-violence and compassion. The Uttaramerur inscription asks candidates for \"honest earnings\". The Nītisāra and the Kādambarī contain advice on kingship."
+      },
+      "level2Template": {
+        "en": "For example, Aśhoka's ___ and the ___ inscription."
+      },
+      "accepted": [
+        "edict",
+        "edicts",
+        "Ashoka",
+        "Asoka",
+        "Uttaramerur",
+        "inscription",
+        "Nitisara",
+        "Kadambari",
+        "honest earnings"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "What it means"
+      },
+      "text": {
+        "en": "Dharma means ___, obligation and moral conduct, and here it does not mean ___."
+      },
+      "rubricId": "duty-not-religion"
+    },
+    {
+      "eyebrow": {
+        "en": "Who it binds"
+      },
+      "text": {
+        "en": "People are expected to perform duties according to their ___ in society."
+      },
+      "rubricId": "by-role"
+    },
+    {
+      "eyebrow": {
+        "en": "The evidence"
+      },
+      "text": {
+        "en": "Aśhoka's ___ promoted moral conduct, and the ___ inscription asks candidates for honest earnings."
+      },
+      "rubricId": "evidence"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:34.561Z",
+    "reviewedBy": "review-bar"
+  }
+}

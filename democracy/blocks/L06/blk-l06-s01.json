@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# How Big Can One Election Get?\n\n<!-- STEP id=\"every-kind-of-place\" -->\n## Voters in Every Kind of Place\n\nIndian voters live on mountains, in deserts, deep in forests, on islands and in crowded cities, and a polling team must reach them all.\n\nSo a general election runs over several weeks, in phases, and not on one day.\n\n<!-- STEP id=\"four-numbers\" -->\n## Four Numbers\n\nIndia has over 96.8 crore registered voters and over 10 lakh polling stations. India has over 2,800 registered political parties, and elections are conducted in 22 scheduled languages along with several others.\n\n**More people vote in Indian elections than the total population of many countries.**\n\n<!-- STEP id=\"why-living\" -->\n## Why It Is Called \"Living\"\n\nSize alone does not make a democracy living. India's is called living because of its diversity and the active part its citizens take.\n\nPeople of many languages, religions and incomes vote within one framework."
+  },
+  "simulation": {
+    "src": "simulations/L06/ElectionScaleScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.520Z"
+  }
+}

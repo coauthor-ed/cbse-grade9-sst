@@ -1,0 +1,63 @@
+{
+  "id": "q-l08-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "What is one difference between varṇa and jāti in early Indian society?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The number of varṇas was fixed at four, while there was no restriction on the number of jātis."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Varṇas were found only in the south, and jātis only in the north."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Jātis existed first, and the varṇas emerged from them much later."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The number of jātis was fixed at four, while the varṇas kept growing."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The number of varṇas was fixed at four. There was no restriction on the number of jātis, and as new social groups and occupations developed, the number of jātis continued to grow."
+  },
+  "hints": [
+    {
+      "en": "Which of the two has a fixed number?"
+    },
+    {
+      "en": "Which of the two grew with new occupations?"
+    }
+  ],
+  "tags": [
+    "jati",
+    "varna",
+    "endogamy",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:40.217Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "q-l03-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In the Bṛihatsaṁhitā, Varāhamihira noted changes in wind, rain and clouds, and attributed earthquakes to Vāyu, Agni, Indra and Varuṇa. How is his work best described?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A way to forecast the exact day of an earthquake"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. He noted signs, and no method today gives the day."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "An early blend of observation and reasoning"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. His work joined what he noted with a cosmological account."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The first statement of the theory of plates"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Plate tectonics came many centuries later."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A list of earthquakes with no reasons given"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. He gave reasons: the four elemental forces."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Varāhamihira recorded signs he connected with earthquakes and explained them through four elemental forces. This reflects an early attempt in India to blend observations with cosmological reasoning."
+  },
+  "hints": [
+    {
+      "en": "He did two things: noted signs and gave reasons."
+    },
+    {
+      "en": "Which option includes both?"
+    }
+  ],
+  "tags": [
+    "bhukampa",
+    "history"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:22.682Z",
+    "reviewedBy": "review-bar"
+  }
+}

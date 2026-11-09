@@ -1,0 +1,16 @@
+{
+  "id": "blk-l05-s10",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Four Questions for Any Country\n\n<!-- STEP id=\"four-questions\" -->\n## Ask Four Questions\n\nYou can now look at any country with four questions. They ask about its elections, who chooses the Head of the Government, its parties, and how freely citizens can criticise the government.\n\n<!-- STEP id=\"reading-the-dial\" -->\n## Try It on Country X\n\nAnswer for Country X, an imaginary country. One yes alone does not make a democracy.\n\nIn a group, choose two of India's neighbours (Afghanistan, Bangladesh, Bhutan, China, Maldives, Myanmar, Nepal, Pakistan or Sri Lanka), find the four answers using facts you can check, and describe each one as democratic, partially democratic or non-democratic, with reasons."
+  },
+  "simulation": {
+    "src": "simulations/L05/DemocracyTestDialScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.518Z"
+  }
+}

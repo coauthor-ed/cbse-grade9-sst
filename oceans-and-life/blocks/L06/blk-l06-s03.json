@@ -1,0 +1,17 @@
+{
+  "id": "blk-l06-s03",
+  "type": "content-block@1",
+  "poeRole": "explain",
+  "poeRecapStep": 0,
+  "markdownRef": "blocks/L06/blk-l06-s03.md",
+  "simulation": {
+    "src": "simulations/L06/TsunamiTravelScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:43.334Z",
+    "reviewedBy": "review-bar"
+  }
+}

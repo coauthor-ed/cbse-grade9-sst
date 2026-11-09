@@ -1,0 +1,29 @@
+{
+  "id": "q-l01-s08",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "In 2024, India had about 96.8 crore registered voters. Write 96.8 crore as an ordinary number in ones: digits only, no commas and no spaces."
+  },
+  "expectedValue": 968000000,
+  "tolerance": 0,
+  "unit": "voters",
+  "explanation": {
+    "en": "1 crore = 100 lakh = 1,00,00,000 = 10,000,000 (a 1 followed by seven zeros). So 96.8 crore = 96.8 × 10,000,000 = 968,000,000."
+  },
+  "hints": [
+    {
+      "en": "Count the zeros after the 1 in one crore: there are seven. Shift the decimal point in 96.8 that many places to the right."
+    }
+  ],
+  "tags": [
+    "indian-number-system",
+    "scale-of-democracy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.502Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l03-s06",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Six Fundamental Rights\n\n<!-- STEP id=\"the-six-rights\" -->\n## The Six Rights\n\nThe six rights protect the freedom and dignity of citizens: Equality, Freedom, Against Exploitation, Freedom of Religion, Cultural and Educational Rights, and Constitutional Remedies. Tap a name.\n\n<!-- STEP id=\"enforceable\" -->\n## Rights You Can Enforce\n\nIf one of these rights is violated, you can take legal action. Courts of law enforce these rights, and citizens can seek constitutional remedies under Articles 32 and 226.\n\n<!-- STEP id=\"indivisible-inalienable\" -->\n## Indivisible and Inalienable\n\nThe rights are **indivisible**: they work together, so you cannot keep some and drop others. They are **inalienable**: they cannot be taken away or given away. They are still subject to reasonable restrictions by law.\n\nRights also have limits, and we look at those next."
+  },
+  "simulation": {
+    "src": "simulations/L03/RightsWallScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.511Z"
+  }
+}

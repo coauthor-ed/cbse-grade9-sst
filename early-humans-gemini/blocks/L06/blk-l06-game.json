@@ -1,0 +1,14 @@
+{
+  "id": "blk-l06-game",
+  "type": "mini-game@1",
+  "src": "simulations/L06/BuildTheCaseGame.js",
+  "objective": {
+    "en": "Sort each find: does it point to farming, does it fit foragers too, or does it say nothing about food?"
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

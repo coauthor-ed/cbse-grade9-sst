@@ -1,0 +1,63 @@
+{
+  "id": "q-l07-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The epics present the ideal of a good person and ruler \"as one who works for the welfare of all beings\". A village tank is shared by rich and poor farmers. Which ruler fits this ideal?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A ruler who repairs the tank only for the farmers who pay him the most."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A ruler who sees that the tank serves all the farmers, rich and poor."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A ruler who lets the poor farmers' channels run dry, to please the rich."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A ruler who gives the tank to his own family."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The epics present goodness as non-discriminatory and hold up the good person and ruler \"as one who works for the welfare of all beings\". Only one of these rulers acts for all the farmers."
+  },
+  "hints": [
+    {
+      "en": "Look for the word \"all\"."
+    },
+    {
+      "en": "Which ruler treats no group of farmers as less important?"
+    }
+  ],
+  "tags": [
+    "dharma",
+    "impartiality",
+    "mini-game",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:34.561Z",
+    "reviewedBy": "review-bar"
+  }
+}

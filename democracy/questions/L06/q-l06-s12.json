@@ -1,0 +1,58 @@
+{
+  "id": "q-l06-s12",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Indian women could vote from 1950, when the Constitution came into force. Women in the USA got the vote in 1920, and women in Britain got full voting rights in 1928, after decades of protests. Yet social prejudices still affect women's representation in Indian politics. What does this best show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The right to vote does not automatically ensure equal participation."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "India's democracy is weaker because women there did not struggle for the vote."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Universal Adult Franchise failed, because representation is not yet equal."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A right has no value unless people have protested to win it."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A right in law and equal participation in practice are different things: women in India have had the vote since 1950, and social prejudices still act as barriers. Getting the vote without a struggle does not make a democracy weaker, the franchise itself did not fail, and a right does not need a protest behind it to have value."
+  },
+  "hints": [
+    {
+      "en": "Keep two things apart: the year a law changed, and what happens in society after that."
+    }
+  ],
+  "tags": [
+    "universal-adult-franchise",
+    "womens-participation",
+    "social-prejudice"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.523Z"
+  }
+}

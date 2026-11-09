@@ -1,0 +1,36 @@
+{
+  "id": "blk-l11-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L11/blk-l11-s04.md",
+  "image": {
+    "src": "media/L11/L11S04.jpg",
+    "alt": "A drawing of a flat rectangular mud-brick mastaba in the desert",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "step-pyramid": {
+        "src": "media/L11/L11S04-b2.jpg",
+        "alt": "A drawing of the Step Pyramid with a cut in the ground showing rooms below it"
+      },
+      "tier-detail": {
+        "src": "media/L11/L11S04-b3.jpg",
+        "alt": "A close drawing of the limestone blocks of the Step Pyramid"
+      },
+      "mastaba": {
+        "src": "media/L11/L11S04.jpg",
+        "alt": "A drawing of a flat rectangular mud-brick mastaba in the desert"
+      }
+    }
+  },
+  "simulationStep": 3,
+  "simulation": {
+    "src": "simulations/L11/MastabaToPyramidScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

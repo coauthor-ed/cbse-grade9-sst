@@ -1,0 +1,72 @@
+{
+  "id": "q-l07-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A river valley and a glacial valley are cut into the same kind of rock. Which line describes the glacial valley?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Narrow floor and sloping sides, shaped like a V"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is a river valley in its upper course."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Steep sides and a wide floor, shaped like a U"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Ice widens and deepens the valley."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Low sand ridges and no sides at all"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sand ridges are dunes, shaped by wind."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A fan of small channels and islands"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That describes a delta at a river mouth."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A river cuts mainly downward and leaves a V. A glacier fills the valley and scrapes its floor and sides, which widens and deepens it into a U."
+  },
+  "hints": [
+    {
+      "en": "What does the ice touch that a river does not?"
+    }
+  ],
+  "tags": [
+    "glaciers",
+    "u-shaped-valley",
+    "glacial-erosion",
+    "river-valley"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:41.306Z",
+    "reviewedBy": "review-bar"
+  }
+}

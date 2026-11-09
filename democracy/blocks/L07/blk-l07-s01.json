@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# One Forward, Many Phones\n\n<!-- STEP id=\"one-forward\" -->\n## One Message in the Morning\n\nAt 7 in the morning a phone buzzes. A message says that voting has moved to a later date. It looks like news, but it is false.\n\nPress Forward and see how far it goes by night.\n\n<!-- STEP id=\"readers-are-voters\" -->\n## Most Readers Are Voters\n\nMost of these phones belong to voters: farmers, shopkeepers, students and first-time voters.\n\n**What happens to a democracy when people choose while believing something false?**"
+  },
+  "simulation": {
+    "src": "simulations/L07/RumorSpreadScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.523Z"
+  }
+}

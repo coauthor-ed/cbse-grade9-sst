@@ -1,0 +1,15 @@
+{
+  "id": "blk-l05-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L05/AccessRouteScene.js",
+  "objective": {
+    "en": "Find the way to vote that is open to each of six voters."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:15.302Z",
+    "reviewedBy": "review-bar"
+  }
+}

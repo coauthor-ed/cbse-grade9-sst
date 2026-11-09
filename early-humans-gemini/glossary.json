@@ -1,0 +1,1347 @@
+{
+ "terms": [
+  {
+   "id": "harappan",
+   "term": "Harappan",
+   "plain": {
+    "en": "of the Sindhu-Sarasvati civilisation"
+   },
+   "means": {
+    "en": "Belonging to the Sindhu-Sarasvati civilisation, also called the Indus Valley Civilisation or the Harappan Civilisation."
+   },
+   "lesson": 1,
+   "group": "concept"
+  },
+  {
+   "id": "sindhu-lipi",
+   "term": "Sindhu lipi",
+   "plain": {
+    "en": "the Harappan script"
+   },
+   "means": {
+    "en": "The script on Harappan seals and pottery. It has not been deciphered, so nobody can read it yet."
+   },
+   "lesson": 1,
+   "group": "concept"
+  },
+  {
+   "id": "artefact",
+   "term": "artefact",
+   "match": [
+    "artefacts"
+   ],
+   "plain": {
+    "en": "an object made by people"
+   },
+   "means": {
+    "en": "A tool, pot, bead or other object made by humans. Artefacts are the main source for the time before writing."
+   },
+   "lesson": 1,
+   "group": "concept"
+  },
+  {
+   "id": "decipher",
+   "term": "decipher",
+   "match": [
+    "deciphered",
+    "deciphering",
+    "decipherment"
+   ],
+   "plain": {
+    "en": "work out how to read"
+   },
+   "means": {
+    "en": "To work out what an unknown script says. The script has then been deciphered."
+   },
+   "lesson": 1,
+   "group": "concept"
+  },
+  {
+   "id": "fossil",
+   "term": "fossil",
+   "match": [
+    "fossils"
+   ],
+   "plain": {
+    "en": "remains turned to stone"
+   },
+   "means": {
+    "en": "The preserved remains, traces or impressions of plants, animals or humans from the distant past."
+   },
+   "lesson": 1,
+   "group": "concept"
+  },
+  {
+   "id": "homo-erectus",
+   "term": "Homo erectus",
+   "match": [
+    "erectus"
+   ],
+   "plain": {
+    "en": "the upright human ancestor"
+   },
+   "roots": [
+    {
+     "part": "Homo",
+     "means": {
+      "en": "human"
+     }
+    },
+    {
+     "part": "erectus",
+     "means": {
+      "en": "upright"
+     }
+    }
+   ],
+   "means": {
+    "en": "An ancestor that walked on two legs, made handaxes and cleavers, and was the first hominin to leave Africa, around 2 million years ago."
+   },
+   "lesson": 2,
+   "group": "organism"
+  },
+  {
+   "id": "homo-habilis",
+   "term": "Homo habilis",
+   "match": [
+    "habilis"
+   ],
+   "plain": {
+    "en": "handy man"
+   },
+   "roots": [
+    {
+     "part": "Homo",
+     "means": {
+      "en": "human"
+     }
+    },
+    {
+     "part": "habilis",
+     "means": {
+      "en": "handy"
+     }
+    }
+   ],
+   "means": {
+    "en": "An early human ancestor of Africa, known from Olduvai Gorge. It made simple chopper tools."
+   },
+   "lesson": 2,
+   "group": "organism"
+  },
+  {
+   "id": "neanderthal",
+   "term": "Neanderthal",
+   "match": [
+    "Neanderthals",
+    "neanderthalensis"
+   ],
+   "plain": {
+    "en": "a close relative of ours"
+   },
+   "means": {
+    "en": "Homo neanderthalensis lived in Europe and southwest Asia until about 40,000 years ago and made Middle Palaeolithic flake tools."
+   },
+   "lesson": 2,
+   "group": "organism"
+  },
+  {
+   "id": "old-world",
+   "term": "Old World",
+   "plain": {
+    "en": "Africa, Asia and Europe"
+   },
+   "means": {
+    "en": "The area of the oldest human settlements: Africa, Asia and Europe together."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "australopithecine",
+   "term": "australopithecine",
+   "match": [
+    "australopithecines"
+   ],
+   "plain": {
+    "en": "southern primate"
+   },
+   "roots": [
+    {
+     "part": "australo",
+     "means": {
+      "en": "southern"
+     }
+    },
+    {
+     "part": "pithec",
+     "means": {
+      "en": "primate"
+     }
+    }
+   ],
+   "means": {
+    "en": "An early ancestor from before Homo habilis. The book calls these our early ancestors."
+   },
+   "lesson": 2,
+   "group": "organism"
+  },
+  {
+   "id": "hominin",
+   "term": "hominin",
+   "match": [
+    "hominins"
+   ],
+   "plain": {
+    "en": "humans and our early relatives"
+   },
+   "means": {
+    "en": "A group that includes modern humans and our early human-like ancestors, known as toolmakers."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "interglacial",
+   "term": "interglacial",
+   "match": [
+    "interglacials"
+   ],
+   "plain": {
+    "en": "a warmer time between ice ages"
+   },
+   "roots": [
+    {
+     "part": "inter",
+     "means": {
+      "en": "between"
+     }
+    },
+    {
+     "part": "glacial",
+     "means": {
+      "en": "of ice"
+     }
+    }
+   ],
+   "means": {
+    "en": "A warmer time when the ice drew back. In these times the Sahara and Arabia were wetter than they are now."
+   },
+   "lesson": 2,
+   "group": "concept"
+  },
+  {
+   "id": "chalcolithic",
+   "term": "Chalcolithic",
+   "plain": {
+    "en": "Copper and Stone Age"
+   },
+   "roots": [
+    {
+     "part": "chalco",
+     "means": {
+      "en": "copper"
+     }
+    },
+    {
+     "part": "lithic",
+     "means": {
+      "en": "stone"
+     }
+    }
+   ],
+   "means": {
+    "en": "The age when people used copper along with stone tools."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "mesolithic",
+   "term": "Mesolithic",
+   "plain": {
+    "en": "Middle Stone Age"
+   },
+   "roots": [
+    {
+     "part": "meso",
+     "means": {
+      "en": "middle"
+     }
+    },
+    {
+     "part": "lithic",
+     "means": {
+      "en": "stone"
+     }
+    }
+   ],
+   "means": {
+    "en": "The stage between hunting-gathering and farming, marked by tiny stone tools called microliths."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "neolithic",
+   "term": "Neolithic",
+   "plain": {
+    "en": "New Stone Age"
+   },
+   "roots": [
+    {
+     "part": "neo",
+     "means": {
+      "en": "new"
+     }
+    },
+    {
+     "part": "lithic",
+     "means": {
+      "en": "stone"
+     }
+    }
+   ],
+   "means": {
+    "en": "The stage when people began farming, settled in villages, kept animals and used polished stone tools."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "palaeolithic",
+   "term": "Palaeolithic",
+   "plain": {
+    "en": "Old Stone Age"
+   },
+   "roots": [
+    {
+     "part": "palaeo",
+     "means": {
+      "en": "old"
+     }
+    },
+    {
+     "part": "lithic",
+     "means": {
+      "en": "stone"
+     }
+    }
+   ],
+   "means": {
+    "en": "The first and longest stage of the Stone Age, when people lived by hunting and gathering and used simple stone tools."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "marrow",
+   "term": "marrow",
+   "plain": {
+    "en": "the soft food inside a bone"
+   },
+   "means": {
+    "en": "The soft, protein-rich food inside large animal bones."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "microlith",
+   "term": "microlith",
+   "match": [
+    "microliths",
+    "microlithic"
+   ],
+   "plain": {
+    "en": "a tiny stone tool"
+   },
+   "roots": [
+    {
+     "part": "micro",
+     "means": {
+      "en": "small"
+     }
+    },
+    {
+     "part": "lith",
+     "means": {
+      "en": "stone"
+     }
+    }
+   ],
+   "means": {
+    "en": "A very small stone tool, often fixed in a handle with others."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "projectile",
+   "term": "projectile",
+   "match": [
+    "projectiles"
+   ],
+   "plain": {
+    "en": "something thrown or shot"
+   },
+   "means": {
+    "en": "A weapon sent through the air, such as a spear or an arrow, often tipped with a sharp point."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "surplus",
+   "term": "surplus",
+   "plain": {
+    "en": "more than you need now"
+   },
+   "means": {
+    "en": "Food or goods beyond what people need at once. The book says surplus laid the foundation for civilisation."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "burin",
+   "term": "burin",
+   "match": [
+    "burins",
+    "engraver"
+   ],
+   "plain": {
+    "en": "a stone engraving tool"
+   },
+   "means": {
+    "en": "A pointed stone tool used to engrave marks on bones and shells."
+   },
+   "lesson": 4,
+   "group": "object"
+  },
+  {
+   "id": "pigment",
+   "term": "pigment",
+   "match": [
+    "pigments"
+   ],
+   "plain": {
+    "en": "a coloured powder"
+   },
+   "means": {
+    "en": "A powder that gives colour. Early people used it for paint and to decorate their bodies."
+   },
+   "lesson": 4,
+   "group": "object"
+  },
+  {
+   "id": "symbolic-communication",
+   "term": "symbolic communication",
+   "match": [],
+   "plain": {
+    "en": "passing on ideas through signs"
+   },
+   "means": {
+    "en": "Using signs, marks and pictures to pass on an idea to other people."
+   },
+   "lesson": 4,
+   "group": "concept"
+  },
+  {
+   "id": "celt",
+   "term": "celt",
+   "match": [
+    "celts"
+   ],
+   "plain": {
+    "en": "a polished stone axe head"
+   },
+   "means": {
+    "en": "A smooth, ground stone blade, used for work such as clearing trees."
+   },
+   "lesson": 5,
+   "group": "object"
+  },
+  {
+   "id": "domestication",
+   "term": "domestication",
+   "match": [
+    "domesticated",
+    "domesticate"
+   ],
+   "plain": {
+    "en": "bringing a plant or animal under human control"
+   },
+   "means": {
+    "en": "People choose which plants and animals to raise, and over time this produces new breeds."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "husbandry",
+   "term": "husbandry",
+   "match": [],
+   "plain": {
+    "en": "raising and breeding animals"
+   },
+   "means": {
+    "en": "The care and breeding of farm animals."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "saddle-quern",
+   "term": "saddle quern",
+   "match": [
+    "quern",
+    "querns"
+   ],
+   "plain": {
+    "en": "a grinding stone"
+   },
+   "means": {
+    "en": "A large stone with a hollow in its top. A smaller hand-stone is rubbed over grain on it to make flour."
+   },
+   "lesson": 5,
+   "group": "object"
+  },
+  {
+   "id": "sedentism",
+   "term": "sedentism",
+   "match": [],
+   "plain": {
+    "en": "settling in one place"
+   },
+   "means": {
+    "en": "Living in one place all year instead of moving from camp to camp."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "carnelian",
+   "term": "carnelian",
+   "match": [],
+   "plain": {
+    "en": "an orange-red stone"
+   },
+   "means": {
+    "en": "A red or orange semi-precious stone used for beads."
+   },
+   "lesson": 6,
+   "group": "object"
+  },
+  {
+   "id": "granary",
+   "term": "granary",
+   "match": [
+    "granaries"
+   ],
+   "plain": {
+    "en": "a store for grain"
+   },
+   "means": {
+    "en": "A building or set of bins for storing grain."
+   },
+   "lesson": 6,
+   "group": "object"
+  },
+  {
+   "id": "lapis-lazuli",
+   "term": "lapis lazuli",
+   "match": [],
+   "plain": {
+    "en": "a deep blue stone"
+   },
+   "means": {
+    "en": "A blue semi-precious stone used for beads."
+   },
+   "lesson": 6,
+   "group": "object"
+  },
+  {
+   "id": "zebu",
+   "term": "zebu",
+   "match": [],
+   "plain": {
+    "en": "humped Indian cattle"
+   },
+   "means": {
+    "en": "A kind of Indian cattle with a hump on its shoulders."
+   },
+   "lesson": 6,
+   "group": "object"
+  },
+  {
+   "id": "alluvial",
+   "term": "alluvial",
+   "match": [
+    "alluvium"
+   ],
+   "plain": {
+    "en": "laid down by a river"
+   },
+   "means": {
+    "en": "Alluvial soil is the fine soil a river leaves behind. It is good for farming."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "furrow",
+   "term": "furrow",
+   "match": [
+    "furrows"
+   ],
+   "plain": {
+    "en": "a line cut by a plough"
+   },
+   "means": {
+    "en": "The long, narrow line a plough leaves in the soil."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "gabarband",
+   "term": "gabarband",
+   "match": [
+    "gabarbands"
+   ],
+   "plain": {
+    "en": "a small check dam"
+   },
+   "means": {
+    "en": "A low dam across a small stream, built to hold water for fields. Early Harappans built them in the foothills of Baluchistan."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "radiocarbon-date",
+   "term": "radiocarbon date",
+   "match": [
+    "radiocarbon dates",
+    "radiocarbon dating"
+   ],
+   "plain": {
+    "en": "an age measured in a laboratory"
+   },
+   "means": {
+    "en": "A way of finding the age of old plant or bone material from the carbon left in it."
+   },
+   "lesson": 7,
+   "group": "concept"
+  },
+  {
+   "id": "fertile-crescent",
+   "term": "Fertile Crescent",
+   "match": [],
+   "plain": {
+    "en": "curved belt of good farmland in West Asia"
+   },
+   "means": {
+    "en": "The crescent-shaped foothills of the Zagros and Taurus, from the Mediterranean to the Persian Gulf."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "city-state",
+   "term": "city-state",
+   "match": [
+    "city-states"
+   ],
+   "plain": {
+    "en": "a city that rules itself and the land around it"
+   },
+   "means": {
+    "en": "A sovereign state centred on a city that rules the surrounding land."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "dynastic-empire",
+   "term": "dynastic empire",
+   "match": [],
+   "plain": {
+    "en": "many regions ruled by one family"
+   },
+   "means": {
+    "en": "A dynasty is a family of rulers. The book calls the Akkadian empire the first of these."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "irrigation",
+   "term": "irrigation",
+   "match": [],
+   "plain": {
+    "en": "bringing water to crops by human work"
+   },
+   "means": {
+    "en": "Leading water to fields through canals, instead of waiting for rain."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "sovereign",
+   "term": "sovereign",
+   "match": [],
+   "plain": {
+    "en": "answers to no higher ruler"
+   },
+   "means": {
+    "en": "A sovereign state makes its own decisions."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "treasury",
+   "term": "treasury",
+   "match": [],
+   "plain": {
+    "en": "the place where wealth is kept"
+   },
+   "means": {
+    "en": "The store of a city's or a ruler's wealth."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "ziggurat",
+   "term": "ziggurat",
+   "match": [
+    "ziggurats"
+   ],
+   "plain": {
+    "en": "a stepped temple tower"
+   },
+   "means": {
+    "en": "A tower-like stepped temple with several floors and the main temple at the top. It also served as the city's treasury."
+   },
+   "lesson": 8,
+   "group": "concept"
+  },
+  {
+   "id": "dilmun",
+   "term": "Dilmun",
+   "match": [],
+   "plain": {
+    "en": "today's Bahrain"
+   },
+   "means": {
+    "en": "A trading place in the Persian Gulf named in Sargon's tablets."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "hittites",
+   "term": "Hittites",
+   "match": [
+    "Hittite"
+   ],
+   "plain": {
+    "en": "a people of ancient Anatolia"
+   },
+   "means": {
+    "en": "They built a powerful empire in today's Turkey, around the second millennium BCE."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "magan",
+   "term": "Magan",
+   "match": [],
+   "plain": {
+    "en": "today's Oman peninsula"
+   },
+   "means": {
+    "en": "A trading place on the Persian Gulf named in Sargon's tablets."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "meluhha",
+   "term": "Meluhha",
+   "match": [],
+   "plain": {
+    "en": "a trading land named on Mesopotamian tablets"
+   },
+   "means": {
+    "en": "It is generally identified with the Sindhu-Sarasvati civilisation."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "cuneiform",
+   "term": "cuneiform",
+   "match": [],
+   "plain": {
+    "en": "wedge-shaped writing"
+   },
+   "means": {
+    "en": "cuneus is Latin for wedge. Sumerian scribes pressed a cut reed into damp clay to make these marks."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "scribe",
+   "term": "scribe",
+   "match": [
+    "scribes"
+   ],
+   "plain": {
+    "en": "a trained writer"
+   },
+   "means": {
+    "en": "Someone whose work was writing. Few people could write, so scribes had a high status."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "stele",
+   "term": "stele",
+   "match": [
+    "steles"
+   ],
+   "plain": {
+    "en": "a tall carved stone"
+   },
+   "means": {
+    "en": "An upright stone with carving or writing on it, set up for people to see."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "stylus",
+   "term": "stylus",
+   "match": [
+    "styluses"
+   ],
+   "plain": {
+    "en": "a pointed writing tool"
+   },
+   "means": {
+    "en": "The cut reed a scribe pressed into clay."
+   },
+   "lesson": 9,
+   "group": "concept"
+  },
+  {
+   "id": "kemet",
+   "term": "Kemet",
+   "match": [],
+   "plain": {
+    "en": "the black land"
+   },
+   "means": {
+    "en": "The Egyptians' own name for their land, after the black soil of the river valley."
+   },
+   "lesson": 10,
+   "group": "concept"
+  },
+  {
+   "id": "hieroglyphs",
+   "term": "hieroglyphs",
+   "match": [
+    "hieroglyph",
+    "hieroglyphic"
+   ],
+   "plain": {
+    "en": "the picture signs of Egyptian writing"
+   },
+   "means": {
+    "en": "hieros means holy and glyph means carving. Some signs stand for sounds, and some for whole words."
+   },
+   "lesson": 10,
+   "group": "concept"
+  },
+  {
+   "id": "inundation",
+   "term": "inundation",
+   "match": [],
+   "plain": {
+    "en": "the yearly flood"
+   },
+   "means": {
+    "en": "The rising of the Nile over its plain each year, and the season named after it."
+   },
+   "lesson": 10,
+   "group": "concept"
+  },
+  {
+   "id": "papyrus",
+   "term": "papyrus",
+   "match": [],
+   "plain": {
+    "en": "early paper made from a plant"
+   },
+   "means": {
+    "en": "Strips of the papyrus plant were laid criss-cross, pressed, dried and polished into sheets."
+   },
+   "lesson": 10,
+   "group": "concept"
+  },
+  {
+   "id": "pharaoh",
+   "term": "pharaoh",
+   "match": [
+    "pharaohs"
+   ],
+   "plain": {
+    "en": "a ruler of Egypt"
+   },
+   "means": {
+    "en": "The title of the rulers of ancient Egypt, who were treated as gods on earth."
+   },
+   "lesson": 10,
+   "group": "concept"
+  },
+  {
+   "id": "ka",
+   "term": "ka",
+   "match": [],
+   "plain": {
+    "en": "a spiritual double"
+   },
+   "means": {
+    "en": "Egyptians believed each person's ka lived on after death if the body was preserved."
+   },
+   "lesson": 11,
+   "group": "concept"
+  },
+  {
+   "id": "mastaba",
+   "term": "mastaba",
+   "match": [
+    "mastabas"
+   ],
+   "plain": {
+    "en": "a flat, bench-shaped tomb"
+   },
+   "means": {
+    "en": "Mastaba means bench in Arabic. It was a rectangular structure placed over a burial chamber."
+   },
+   "lesson": 11,
+   "group": "concept"
+  },
+  {
+   "id": "mummification",
+   "term": "mummification",
+   "match": [
+    "mummified",
+    "mummy"
+   ],
+   "plain": {
+    "en": "preserving a dead body"
+   },
+   "means": {
+    "en": "Organs were removed, the body was dried with natron, oiled and wrapped in linen."
+   },
+   "lesson": 11,
+   "group": "concept"
+  },
+  {
+   "id": "natron",
+   "term": "natron",
+   "match": [],
+   "plain": {
+    "en": "a natural drying salt"
+   },
+   "means": {
+    "en": "Embalmers used it to dry the body during mummification."
+   },
+   "lesson": 11,
+   "group": "concept"
+  },
+  {
+   "id": "serf",
+   "term": "serf",
+   "match": [
+    "serfs"
+   ],
+   "plain": {
+    "en": "a farm worker tied to the land"
+   },
+   "means": {
+    "en": "A worker who farms land owned by someone else and cannot freely leave it."
+   },
+   "lesson": 11,
+   "group": "concept"
+  },
+  {
+   "id": "sistrum",
+   "term": "sistrum",
+   "match": [],
+   "plain": {
+    "en": "a metal rattle"
+   },
+   "means": {
+    "en": "An instrument shaken at Egyptian festivals and ceremonies."
+   },
+   "lesson": 11,
+   "group": "concept"
+  },
+  {
+   "id": "diviner",
+   "term": "diviner",
+   "match": [
+    "diviners"
+   ],
+   "plain": {
+    "en": "a person who asks the spirits questions"
+   },
+   "means": {
+    "en": "In Shang China, diviners prepared the bones and read the cracks. Kings often read them too."
+   },
+   "lesson": 12,
+   "group": "concept"
+  },
+  {
+   "id": "dynasty",
+   "term": "dynasty",
+   "match": [
+    "dynasties"
+   ],
+   "plain": {
+    "en": "a line of rulers from one family"
+   },
+   "means": {
+    "en": "China's history is organised by dynasties: Shang, Zhou, Qin and Han in this chapter."
+   },
+   "lesson": 12,
+   "group": "concept"
+  },
+  {
+   "id": "loess",
+   "term": "loess",
+   "match": [],
+   "plain": {
+    "en": "fine yellow soil"
+   },
+   "means": {
+    "en": "Soil of very fine, wind-blown dust. It covers much of the land around the Huang He, which gives the Yellow River its colour."
+   },
+   "lesson": 12,
+   "group": "concept"
+  },
+  {
+   "id": "logograph",
+   "term": "logograph",
+   "match": [
+    "logographs",
+    "logographic"
+   ],
+   "plain": {
+    "en": "a sign for a whole word"
+   },
+   "means": {
+    "en": "logo means word and graph means writing. A logograph stands for a word or a morpheme, and not for a single sound."
+   },
+   "lesson": 12,
+   "group": "concept"
+  },
+  {
+   "id": "morpheme",
+   "term": "morpheme",
+   "match": [
+    "morphemes"
+   ],
+   "plain": {
+    "en": "the smallest piece of language with a meaning"
+   },
+   "means": {
+    "en": "The word unkind has two morphemes: un and kind."
+   },
+   "lesson": 12,
+   "group": "concept"
+  },
+  {
+   "id": "oracle-bone",
+   "term": "oracle bone",
+   "match": [
+    "oracle bones",
+    "oracles"
+   ],
+   "plain": {
+    "en": "a bone used to ask the spirits a question"
+   },
+   "means": {
+    "en": "An ox shoulder blade or tortoise shell, heated until it cracked. People read the cracks as an answer. An oracle is an answer believed to come from a god or a spirit."
+   },
+   "lesson": 12,
+   "group": "concept"
+  },
+  {
+   "id": "prestige",
+   "term": "prestige object",
+   "match": [
+    "prestige objects"
+   ],
+   "plain": {
+    "en": "a thing that shows high rank"
+   },
+   "means": {
+    "en": "An object people own to show who they are, such as carved jade in early China."
+   },
+   "lesson": 12,
+   "group": "concept"
+  },
+  {
+   "id": "mandate-of-heaven",
+   "term": "Mandate of Heaven",
+   "match": [],
+   "plain": {
+    "en": "the belief that heaven chooses a ruler"
+   },
+   "means": {
+    "en": "Zhou rulers were believed to be appointed by heaven, but a ruler could be dismissed when his people did not prosper."
+   },
+   "lesson": 13,
+   "group": "concept"
+  },
+  {
+   "id": "caravan",
+   "term": "caravan",
+   "match": [
+    "caravans"
+   ],
+   "plain": {
+    "en": "a group of traders travelling together"
+   },
+   "means": {
+    "en": "Traders crossed deserts in groups, with their animals and goods, for safety."
+   },
+   "lesson": 13,
+   "group": "concept"
+  },
+  {
+   "id": "nomadic",
+   "term": "nomadic",
+   "match": [
+    "nomad",
+    "nomads"
+   ],
+   "plain": {
+    "en": "moving from place to place with herds"
+   },
+   "means": {
+    "en": "Nomadic people have no fixed village. They move with their animals to find grass and water."
+   },
+   "lesson": 13,
+   "group": "concept"
+  },
+  {
+   "id": "rammed-earth",
+   "term": "rammed earth",
+   "match": [],
+   "plain": {
+    "en": "soil pressed hard between boards"
+   },
+   "means": {
+    "en": "A building material made by packing damp soil into a frame, layer by layer. Many older walls in China are built this way."
+   },
+   "lesson": 13,
+   "group": "concept"
+  },
+  {
+   "id": "tangible",
+   "term": "tangible",
+   "match": [],
+   "plain": {
+    "en": "real, something you can touch"
+   },
+   "means": {
+    "en": "Tangible evidence is a real object, such as a seal or a weight found in a dig."
+   },
+   "lesson": 14,
+   "group": "concept"
+  },
+  {
+   "id": "flake",
+   "term": "flake",
+   "match": [
+    "flakes"
+   ],
+   "plain": {
+    "en": "a thin chip of stone"
+   },
+   "means": {
+    "en": "A thin chip of stone struck off a larger stone. Some tools were made from flakes."
+   },
+   "lesson": 1,
+   "group": "object"
+  },
+  {
+   "id": "hearth",
+   "term": "hearth",
+   "match": [
+    "hearths"
+   ],
+   "plain": {
+    "en": "a fireplace"
+   },
+   "means": {
+    "en": "A place on the ground where people made a fire."
+   },
+   "lesson": 1,
+   "group": "object"
+  },
+  {
+   "id": "inscription",
+   "term": "inscription",
+   "match": [
+    "inscriptions"
+   ],
+   "plain": {
+    "en": "cut or pressed writing"
+   },
+   "means": {
+    "en": "Writing cut or pressed into a hard surface such as stone, clay or metal."
+   },
+   "lesson": 1,
+   "group": "concept"
+  },
+  {
+   "id": "handaxe",
+   "term": "handaxe",
+   "match": [
+    "handaxes"
+   ],
+   "plain": {
+    "en": "a pointed stone cutting tool"
+   },
+   "means": {
+    "en": "A stone tool shaped to a point on both faces, used for cutting."
+   },
+   "lesson": 2,
+   "group": "object"
+  },
+  {
+   "id": "cleaver",
+   "term": "cleaver",
+   "match": [
+    "cleavers"
+   ],
+   "plain": {
+    "en": "a broad-edged stone tool"
+   },
+   "means": {
+    "en": "A stone tool with a broad, straight edge, used for chopping and splitting."
+   },
+   "lesson": 2,
+   "group": "object"
+  },
+  {
+   "id": "chopper",
+   "term": "chopper",
+   "match": [
+    "choppers"
+   ],
+   "plain": {
+    "en": "a heavy stone tool"
+   },
+   "means": {
+    "en": "A heavy stone tool with one rough cutting edge."
+   },
+   "lesson": 2,
+   "group": "object"
+  },
+  {
+   "id": "tuber",
+   "term": "tuber",
+   "match": [
+    "tubers"
+   ],
+   "plain": {
+    "en": "food plant under the ground"
+   },
+   "means": {
+    "en": "A food plant that grows under the ground."
+   },
+   "lesson": 3,
+   "group": "concept"
+  },
+  {
+   "id": "harpoon",
+   "term": "harpoon",
+   "match": [
+    "harpoons"
+   ],
+   "plain": {
+    "en": "a barbed spear"
+   },
+   "means": {
+    "en": "A barbed spear used to catch fish."
+   },
+   "lesson": 4,
+   "group": "object"
+  },
+  {
+   "id": "sickle",
+   "term": "sickle",
+   "match": [
+    "sickles"
+   ],
+   "plain": {
+    "en": "a curved cutting blade"
+   },
+   "means": {
+    "en": "A curved blade used to cut grain and wild grass."
+   },
+   "lesson": 4,
+   "group": "object"
+  },
+  {
+   "id": "livestock",
+   "term": "livestock",
+   "plain": {
+    "en": "farm animals"
+   },
+   "means": {
+    "en": "Animals kept by people on farms, such as cattle, sheep and goats."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "cultivation",
+   "term": "cultivation",
+   "plain": {
+    "en": "growing plants on purpose"
+   },
+   "means": {
+    "en": "Growing plants on purpose, by preparing the soil and sowing seed."
+   },
+   "lesson": 5,
+   "group": "concept"
+  },
+  {
+   "id": "agricultural-landscape",
+   "term": "agricultural landscape",
+   "plain": {
+    "en": "land shaped by farming"
+   },
+   "means": {
+    "en": "Land changed by fields and farm work."
+   },
+   "lesson": 5,
+   "group": "concept"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "q-l09-s03",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A made-up stock of fish starts at 100 thousand. It grows by 30% a year, and then the catch is taken out. Three fleets each take 30 thousand a year. How many thousand fish are left at the end of the first year?"
+  },
+  "expectedValue": 40,
+  "tolerance": 0.5,
+  "unit": "thousand fish",
+  "explanation": {
+    "en": "The stock grows first and the catch comes after. 100 thousand grows to 130 thousand. Three fleets take 90 thousand between them, which leaves 40 thousand."
+  },
+  "hints": [
+    {
+      "en": "Work out the growth first, then take away the catch of all three fleets."
+    },
+    {
+      "en": "Together the three fleets take 3 x 30 thousand."
+    }
+  ],
+  "tags": [
+    "commons",
+    "overfishing",
+    "fish-stock",
+    "model"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:57.623Z",
+    "reviewedBy": "review-bar"
+  }
+}

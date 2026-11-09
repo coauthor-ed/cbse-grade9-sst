@@ -1,0 +1,108 @@
+{
+  "id": "q-l06-s04",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Each line below describes one of the four seasons named by the Indian Meteorological Department. Put each line under its season."
+  },
+  "categories": [
+    {
+      "id": "winter",
+      "label": {
+        "en": "Winter"
+      },
+      "tone": 1
+    },
+    {
+      "id": "summer",
+      "label": {
+        "en": "Summer or pre-monsoon"
+      },
+      "tone": 2
+    },
+    {
+      "id": "monsoon",
+      "label": {
+        "en": "Monsoon or rainy"
+      },
+      "tone": 3
+    },
+    {
+      "id": "post",
+      "label": {
+        "en": "Post-monsoon"
+      },
+      "tone": 4
+    }
+  ],
+  "chips": [
+    {
+      "id": "c1",
+      "text": {
+        "en": "December and January are the coldest months"
+      },
+      "correctCategoryId": "winter"
+    },
+    {
+      "id": "c2",
+      "text": {
+        "en": "Around 10-15 °C in the north-west"
+      },
+      "correctCategoryId": "winter"
+    },
+    {
+      "id": "c3",
+      "text": {
+        "en": "April is the hottest month in the west and south"
+      },
+      "correctCategoryId": "summer"
+    },
+    {
+      "id": "c4",
+      "text": {
+        "en": "Most of inland India averages 32-40 °C"
+      },
+      "correctCategoryId": "summer"
+    },
+    {
+      "id": "c5",
+      "text": {
+        "en": "Humid south-west winds sweep across the country"
+      },
+      "correctCategoryId": "monsoon"
+    },
+    {
+      "id": "c6",
+      "text": {
+        "en": "October and November are usually cloudless in the north-west"
+      },
+      "correctCategoryId": "post"
+    }
+  ],
+  "explanation": {
+    "en": "Winter runs from December to early April and summer from April to June. The monsoon season runs from June to September, and the post-monsoon from October to December."
+  },
+  "hints": [
+    {
+      "en": "Start with the lines that name a month."
+    },
+    {
+      "en": "Which season has humid winds from the south-west?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "seasons",
+    "monsoon",
+    "rtu",
+    "imd",
+    "himalaya"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:36.866Z",
+    "reviewedBy": "review-bar"
+  }
+}

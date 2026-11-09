@@ -1,0 +1,16 @@
+{
+  "id": "blk-l04-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s06.md",
+  "image": {
+    "src": "media/L04/officer-checking-voter-list-delhi-2008.jpg",
+    "alt": "At a polling station, voters hold out their slips and identity cards to officers seated at a table, while one officer checks an open electoral roll.",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:11.134Z",
+    "reviewedBy": "review-bar"
+  }
+}

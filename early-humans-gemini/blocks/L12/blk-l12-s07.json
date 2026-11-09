@@ -1,0 +1,14 @@
+{
+  "id": "blk-l12-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L12/blk-l12-s07.md",
+  "simulation": {
+    "src": "simulations/L12/LogographVsAlphabetScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "blk-l10-s03b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L10/blk-l10-s03b.md",
+  "image": {
+    "src": "media/L10/L10S03.jpg",
+    "alt": "A drawing of tall papyrus plants growing beside water",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "plant": {
+        "src": "media/L10/L10S03.jpg",
+        "alt": "A drawing of tall papyrus plants growing beside water"
+      },
+      "strip": {
+        "src": "media/L10/L10S03-b2.jpg",
+        "alt": "Six drawn stages of making papyrus: cutting, stripping, laying, pressing, drying and polishing"
+      },
+      "scroll": {
+        "src": "media/L10/L10S03-b3.jpg",
+        "alt": "A drawing of a finished papyrus scroll beside the Nile"
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

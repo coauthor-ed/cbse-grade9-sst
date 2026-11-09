@@ -1,0 +1,127 @@
+{
+  "id": "q-l11-s09",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "mode": "coach",
+  "prompt": {
+    "en": "Many ideas about governance come from texts composed by scholars and advisors of the king. What might be some limitations of relying only on such sources? Answer in about 100 words."
+  },
+  "rubric": [
+    {
+      "id": "author-viewpoint",
+      "label": {
+        "en": "The writers worked close to the king, so the texts show the view from the court"
+      },
+      "level1": {
+        "en": "Who wrote these texts, and whose side might they take?"
+      },
+      "clue": {
+        "en": "Scholars and advisors of the king wrote from close to the ruler. Their texts may show the ruler's view and leave out other views."
+      },
+      "level2Template": {
+        "en": "These texts may show mainly the view of the ___."
+      },
+      "accepted": [
+        "king",
+        "ruler",
+        "court",
+        "rulers",
+        "kings",
+        "advisors",
+        "state",
+        "royal court"
+      ]
+    },
+    {
+      "id": "ideal-practice",
+      "label": {
+        "en": "A text may describe what ought to happen, which can differ from what really happened"
+      },
+      "level1": {
+        "en": "Does a text on how a king should rule prove that kings ruled that way?"
+      },
+      "clue": {
+        "en": "A text such as the Arthaśhāstra sets out how a state should be run. An ideal may differ from what really happened in a village or a court."
+      },
+      "level2Template": {
+        "en": "A text may describe an ___, which can differ from what really happened."
+      },
+      "accepted": [
+        "ideal",
+        "ideals",
+        "aim",
+        "what should happen",
+        "what ought to happen",
+        "plan",
+        "theory"
+      ]
+    },
+    {
+      "id": "other-voices",
+      "label": {
+        "en": "Farmers, artisans, women and others are missing, so other evidence is needed"
+      },
+      "level1": {
+        "en": "Whose voices are missing, and where else could historians look?"
+      },
+      "clue": {
+        "en": "Court texts say little in the voices of farmers, artisans or women. Historians also use inscriptions, archaeological remains and literature such as Sangam poems to check and add to them."
+      },
+      "level2Template": {
+        "en": "To hear from other people, historians also use ___ and other evidence."
+      },
+      "accepted": [
+        "inscriptions",
+        "inscription",
+        "archaeology",
+        "archaeological evidence",
+        "archaeological remains",
+        "sangam poems",
+        "literature",
+        "coins",
+        "remains"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Who wrote"
+      },
+      "text": {
+        "en": "Writers close to the king may show mainly the ___ view."
+      },
+      "rubricId": "author-viewpoint"
+    },
+    {
+      "eyebrow": {
+        "en": "Ideal and practice"
+      },
+      "text": {
+        "en": "A text may describe an ___ that differs from what really happened."
+      },
+      "rubricId": "ideal-practice"
+    },
+    {
+      "eyebrow": {
+        "en": "Other voices"
+      },
+      "text": {
+        "en": "Historians also use ___ and other evidence to hear from other people."
+      },
+      "rubricId": "other-voices"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z",
+    "reviewedBy": "review-bar"
+  }
+}

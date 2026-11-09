@@ -1,0 +1,67 @@
+{
+  "id": "q-l07-a2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "At Kalibangan, excavators found a very old ploughed field with furrows crossing at right angles. Which statement is what the ground itself shows, and not an inference?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The farmers grew mustard and gram in this field."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The furrows do not name any crop. Mustard and gram come from comparing the field with farming in the area today."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The field was ploughed in two directions at right angles."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The farmers followed the Rabi and Kharif seasons."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is a comparison made later. A furrow cannot show which season it was cut in."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Two crops were grown in this field."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is the best reading of the furrows, but it is still an inference. The furrows do not show what was sown."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The crossing furrows can be seen in the ground. Two crops, the names of the crops and the link to Rabi and Kharif are all conclusions that historians draw from them."
+  },
+  "hints": [
+    {
+      "en": "Ask which statement you could check just by looking at the soil."
+    }
+  ],
+  "tags": [
+    "harappan",
+    "kalibangan",
+    "evidence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "q-l02-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A plate boundary crosses a region with no trench, no ridge and no volcano. The two plates slide past each other. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It stays quiet, as no crust is made or lost"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A boundary can shake even when no crust is made or lost."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The plates glide smoothly, so little shaking comes"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Along most of such a boundary rough rock locks the plates until they slip."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "New crust forms along the whole length of it"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A transform boundary does not make new crust."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The plates lock, then slip in earthquakes"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. This movement mainly causes earthquakes."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "This is a transform boundary. The plates slide past each other without making or destroying crust. The rock locks, strain builds up, and the plates slip in an earthquake, as along the San Andreas Fault."
+  },
+  "hints": [
+    {
+      "en": "Which boundary neither makes nor destroys crust?"
+    },
+    {
+      "en": "What happens when rough rock holds two moving plates?"
+    }
+  ],
+  "tags": [
+    "transform",
+    "earthquakes"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:18.497Z",
+    "reviewedBy": "review-bar"
+  }
+}

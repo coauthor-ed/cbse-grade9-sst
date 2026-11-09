@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s08",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Writing the Constitution\n\n<!-- STEP id=\"assembly-1946\" -->\n## 1946: The Assembly Forms\n\nBefore India attained independence in 1947, the **Constituent Assembly** was formed in 1946 to draft a constitution for the country.\n\n<!-- STEP id=\"the-clock\" -->\n## 2 Years, 11 Months, 18 Days\n\nThat is how long the Assembly took to draft the world's longest written Constitution. Dr B.R. Ambedkar was the Chairman of its Drafting Committee.\n\n<!-- STEP id=\"two-sources\" -->\n## Two Sources\n\nThe Assembly's debates drew on India's own democratic traditions, and also on the spread of democratic values across the world.\n\n**The Constitution brought old Indian traditions and global democratic values together.**"
+  },
+  "simulation": {
+    "src": "simulations/L02/DraftingClockScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.505Z"
+  }
+}

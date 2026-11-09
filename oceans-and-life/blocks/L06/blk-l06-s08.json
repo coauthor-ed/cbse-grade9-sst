@@ -1,0 +1,15 @@
+{
+  "id": "blk-l06-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L06/TsunamiWarningGameScene.js",
+  "objective": {
+    "en": "Run a warning centre through three made-up earthquakes. Check each stage, then decide: send an alert, or keep watching."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:43.334Z",
+    "reviewedBy": "review-bar"
+  }
+}

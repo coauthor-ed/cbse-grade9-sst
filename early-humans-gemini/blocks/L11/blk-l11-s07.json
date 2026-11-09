@@ -1,0 +1,35 @@
+{
+  "id": "blk-l11-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L11/blk-l11-s07.md",
+  "image": {
+    "src": "media/L11/L11S07.jpg",
+    "alt": "A drawing of a painted jar, reed sandals and a wicker box",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "material": {
+        "src": "media/L11/L11S07-b2.jpg",
+        "alt": "A close drawing of woven reeds in a sandal"
+      },
+      "wear": {
+        "src": "media/L11/L11S07-b3.jpg",
+        "alt": "A close drawing of worn and mended reed in an old sandal"
+      },
+      "context": {
+        "src": "media/L11/L11S07-b4.jpg",
+        "alt": "A drawing of a small tomb chamber with a coffin and grave goods"
+      },
+      "objects": {
+        "src": "media/L11/L11S07.jpg",
+        "alt": "A drawing of a painted jar, reed sandals and a wicker box"
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

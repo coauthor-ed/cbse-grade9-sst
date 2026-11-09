@@ -1,0 +1,36 @@
+{
+  "id": "blk-l08-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L08/blk-l08-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Nothing changes, because moving air cannot wear down solid rock."
+    },
+    {
+      "id": "b",
+      "text": "The hard bands wear away, and the soft bands stand up as ridges."
+    },
+    {
+      "id": "c",
+      "text": "The whole block wears down evenly and stays flat."
+    },
+    {
+      "id": "d",
+      "text": "The soft bands wear away, and the hard bands stand up as ridges."
+    }
+  ],
+  "correctOptionId": "d",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L08/YardangScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:46.378Z",
+    "reviewedBy": "review-bar"
+  }
+}

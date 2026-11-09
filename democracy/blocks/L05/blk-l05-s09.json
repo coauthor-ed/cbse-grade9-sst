@@ -1,0 +1,16 @@
+{
+  "id": "blk-l05-s09",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Union and State Governments\n\n<!-- STEP id=\"why-share\" -->\n## Union and States\n\nIndia is too large and varied for one government to do everything. In **federalism**, power and responsibilities are shared between the union and the state governments.\n\nBoth govern the same citizens. The Constitution shares out the subjects, and some are shared by both.\n\n<!-- STEP id=\"three-lists\" -->\n## The Three Lists\n\nThe Constitution puts subjects in three lists. Tap each one.\n\nA subject in no list is a **residual power**, which stays with the union government."
+  },
+  "simulation": {
+    "src": "simulations/L05/FederalLayersScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.518Z"
+  }
+}

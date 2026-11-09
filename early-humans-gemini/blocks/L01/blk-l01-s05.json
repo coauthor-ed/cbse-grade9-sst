@@ -1,0 +1,36 @@
+{
+  "id": "blk-l01-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01/blk-l01-s05.md",
+  "image": {
+    "src": "media/L01/L01S05.jpg",
+    "alt": "A small square steatite seal of the Sindhu-Sarasvati civilisation, showing a bull in profile with a vessel below its head and a row of five pictographic signs along the top edge.",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "reveal": {
+    "images": {
+      "signs": {
+        "src": "media/L01/L01S05-b2.png",
+        "alt": "Enlarged detail of the top edge of the same seal, showing just the five carved pictographic signs in a single row."
+      },
+      "brahmi": {
+        "src": "media/L01/L01S05-b3.png",
+        "alt": "A weathered sandstone railing crossbar from the stupa at Sanchi, carved with one crisp horizontal line of Brahmi characters."
+      },
+      "cuneiform": {
+        "src": "media/L01/L01S05-b4.png",
+        "alt": "A rectangular baked clay tablet from Mesopotamia, its surface covered in dense rows of wedge-shaped cuneiform characters pressed in with a reed stylus."
+      },
+      "bilingual": {
+        "src": "media/L01/L01S05-b5.png",
+        "alt": "A dark inscribed stone slab carrying the same passage of text three times over, in three visibly different scripts stacked in three horizontal bands."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

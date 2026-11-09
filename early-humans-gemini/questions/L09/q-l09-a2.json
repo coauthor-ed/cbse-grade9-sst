@@ -1,0 +1,66 @@
+{
+  "id": "q-l09-a2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A scribe must share 60 sacks of barley equally among some families, with no sack left over. Which number of families will NOT work?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "5 families"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This works: 60 shared by 5 gives 12 sacks each, with none left over."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "12 families"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This works: 60 shared by 12 gives 5 sacks each, with none left over."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "7 families"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "15 families"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This works: 60 shared by 15 gives 4 sacks each, with none left over."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "7 times 8 is 56, so 7 families get 8 sacks each and 4 sacks are left over. 5, 12 and 15 all divide 60 exactly."
+  },
+  "hints": [
+    {
+      "en": "Try each number: does it go into 60 exactly?"
+    }
+  ],
+  "tags": [
+    "mesopotamia",
+    "base-60"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

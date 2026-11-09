@@ -1,0 +1,35 @@
+{
+  "id": "blk-l02-s04",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02/blk-l02-s04.md",
+  "image": {
+    "src": "media/L02/L02S04.jpg",
+    "alt": "The four hominin skull casts from the lesson's opening, standing in a row, unlabelled, from the smallest-brained to the flat-faced modern skull.",
+    "position": "right"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": "Homo habilis. The earliest toolmaker must have moved first."
+    },
+    {
+      "id": "b",
+      "text": "Homo erectus. It walked upright and carried big stone tools."
+    },
+    {
+      "id": "c",
+      "text": "Homo sapiens. Our own species must have led the way."
+    },
+    {
+      "id": "d",
+      "text": "Homo neanderthalensis. It was the first to reach Europe."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l10-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L10/blk-l10-s07.md",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:56.194Z",
+    "reviewedBy": "review-bar"
+  },
+  "simulation": {
+    "src": "simulations/L10/PosterBoardScene.js",
+    "position": "right"
+  }
+}

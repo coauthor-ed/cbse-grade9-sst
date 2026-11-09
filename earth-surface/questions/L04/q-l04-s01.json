@@ -1,0 +1,71 @@
+{
+  "id": "q-l04-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A boulder on a hillside has a crack. Water freezes in the crack each night until the boulder falls into three pieces. All three pieces lie where they fell, next to each other. What has happened?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Erosion only, because the pieces came apart."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Coming apart is not erosion. Erosion needs the material to be carried away."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both, because the boulder is now smaller."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The rock broke, but nothing carried the pieces away, so erosion has not happened."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Weathering only, because nothing was carried away."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The rock broke down and the pieces stayed where they fell."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither, because the pieces are still on the hillside."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Weathering does not need movement. Breaking down in place is exactly what weathering is."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Frost broke the rock, which is physical weathering. Weathering does not involve movement of the broken material. Erosion would begin only if water, wind or ice carried the pieces away."
+  },
+  "hints": [
+    {
+      "en": "Ask one question: did anything carry the pieces away?"
+    }
+  ],
+  "tags": [
+    "weathering",
+    "physical-weathering",
+    "erosion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:27.289Z",
+    "reviewedBy": "review-bar"
+  }
+}

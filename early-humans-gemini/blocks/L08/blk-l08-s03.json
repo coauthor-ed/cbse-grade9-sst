@@ -1,0 +1,16 @@
+{
+  "id": "blk-l08-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08/blk-l08-s03.md",
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L08/CanalIrrigationScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

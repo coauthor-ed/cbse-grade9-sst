@@ -1,0 +1,59 @@
+{
+  "id": "q-l01-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Out of every 100 parts of air, about how many are nitrogen?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "About 78"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "About 21"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "About 1"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "About 0.04"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Nitrogen is about 78 per cent of the air. Oxygen, at about 21 per cent, is the gas people usually name first because we need it to breathe. Argon is close to 1 per cent and carbon dioxide is 0.04 per cent."
+  },
+  "hints": [
+    {
+      "en": "Oxygen is about 21 per cent, and nitrogen is a much larger share than that."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "composition",
+    "nitrogen"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:06.382Z",
+    "reviewedBy": "review-bar"
+  }
+}

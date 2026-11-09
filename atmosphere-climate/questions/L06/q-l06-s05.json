@@ -1,0 +1,76 @@
+{
+  "id": "q-l06-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "The sky along the Moon's path is divided into 27 equal parts. The Moon moves through about one part each day. What is one of these parts called?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A nakṣhatra"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Nakṣhatras are also called lunar mansions."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A Ṛtu"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A Ṛtu is a season of about two months."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A rāga"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A rāga belongs to music, not to the sky."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A mausim"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Mausim is the Arabic word for season."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A nakṣhatra is a fixed section of the sky. There are 27, and the Moon takes about 27 days to pass through them, so it moves through one each day. Varāhamihira used them to predict seasonal rainfall."
+  },
+  "hints": [
+    {
+      "en": "The answer is a part of the sky, not a part of the year."
+    },
+    {
+      "en": "Another name for it is a lunar mansion."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "nakshatra",
+    "monsoon",
+    "prediction",
+    "history"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:36.866Z",
+    "reviewedBy": "review-bar"
+  }
+}

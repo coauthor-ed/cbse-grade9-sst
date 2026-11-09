@@ -1,0 +1,65 @@
+{
+  "id": "q-l07-a01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Which statement about Aśhoka's dhamma is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It was a list of ceremonies that every family had to perform."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It emphasised moral conduct, respect within the family, non-violence and compassion."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It was a tax on trade, recorded in his edicts."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It was a plan for dividing the empire into provinces."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Aśhoka's edicts promoted dhamma by emphasising moral conduct, respect within the family, ethical behaviour in everyday life, non-violence and compassion. Dhamma is the Pāli equivalent of the Sanskrit word dharma."
+  },
+  "hints": [
+    {
+      "en": "Dhamma is about ethics."
+    },
+    {
+      "en": "Which option describes how people should behave?"
+    }
+  ],
+  "tags": [
+    "dharma",
+    "satya",
+    "rita",
+    "bhakti",
+    "arcade-recall",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:34.561Z",
+    "reviewedBy": "review-bar"
+  }
+}

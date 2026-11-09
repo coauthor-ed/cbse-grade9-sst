@@ -1,0 +1,74 @@
+{
+  "id": "q-l10-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Two neighbouring villages get the same strong wind. One loses its topsoil in a dust storm. The other has trees and ground cover, and keeps its soil. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The wind blows dust only where there are many houses."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Houses do not decide this. The state of the ground does."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Dust storms happen by chance, whatever the ground is like."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The ground matters a great deal. Dry, loose soil lifts most easily."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The village with trees also got more rain from the storm."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A dust storm brings no help of that kind. The cover on the ground made the difference."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Plant cover holds soil, while bare dry soil lifts easily."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Roots and cover protect the soil, and the bare field has nothing to hold it."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The wind was the same, so the ground made the difference. Drought and sparse plant cover leave soil loose and exposed. Trees slow the wind and ground cover holds the soil in place."
+  },
+  "hints": [
+    {
+      "en": "The wind is the same in both villages. What else could differ?"
+    }
+  ],
+  "tags": [
+    "dust-storm",
+    "drought",
+    "wind",
+    "vegetation",
+    "semi-arid",
+    "deforestation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:56.194Z",
+    "reviewedBy": "review-bar"
+  }
+}

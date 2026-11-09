@@ -1,0 +1,15 @@
+{
+  "id": "blk-l03-s00b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03/blk-l03-s00b.md",
+  "simulation": {
+    "src": "simulations/L03/ElementsScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T08:20:31.000Z",
+    "reviewedBy": "owner"
+  }
+}

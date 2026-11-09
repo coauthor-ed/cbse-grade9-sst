@@ -1,0 +1,94 @@
+{
+  "id": "q-l05-s07",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Sort each result by the kind of monsoon that brings it."
+  },
+  "categories": [
+    {
+      "id": "good",
+      "label": {
+        "en": "A good monsoon"
+      }
+    },
+    {
+      "id": "much",
+      "label": {
+        "en": "Excessive rainfall"
+      }
+    },
+    {
+      "id": "weak",
+      "label": {
+        "en": "A weak monsoon"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "c1",
+      "text": {
+        "en": "Enough food is grown"
+      },
+      "correctCategoryId": "good"
+    },
+    {
+      "id": "c2",
+      "text": {
+        "en": "Rivers, reservoirs and wells have water"
+      },
+      "correctCategoryId": "good"
+    },
+    {
+      "id": "c3",
+      "text": {
+        "en": "Floods"
+      },
+      "correctCategoryId": "much"
+    },
+    {
+      "id": "c4",
+      "text": {
+        "en": "Rivers overflow into fields"
+      },
+      "correctCategoryId": "much"
+    },
+    {
+      "id": "c5",
+      "text": {
+        "en": "Droughts"
+      },
+      "correctCategoryId": "weak"
+    },
+    {
+      "id": "c6",
+      "text": {
+        "en": "Crops get too little water"
+      },
+      "correctCategoryId": "weak"
+    }
+  ],
+  "explanation": {
+    "en": "A good monsoon ensures enough food and water in rivers, reservoirs and wells. Excessive rainfall can cause floods, and a weak monsoon can lead to droughts."
+  },
+  "hints": [
+    {
+      "en": "Ask whether the result comes from enough, too much or too little rain."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "monsoon",
+    "agriculture",
+    "flood",
+    "drought"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:27.401Z",
+    "reviewedBy": "review-bar"
+  }
+}

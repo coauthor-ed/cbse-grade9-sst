@@ -1,0 +1,16 @@
+{
+  "id": "blk-l04-s05",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Who Checks the Government?\n\n<!-- STEP id=\"loop-starts\" -->\n## Answering to Citizens\n\nA government must answer to citizens for how it uses power. This is called **accountability**.\n\nCitizens judge its actions through elections, public debates and civil society, and this builds trust.\n\n<!-- STEP id=\"question-hour-audit\" -->\n## Question Hour and the Audit\n\n**Question Hour** is the first hour of a parliamentary session, when members ask the government questions. This helps check the government's work.\n\nGovernment accounts are also audited, or checked, so spending can be examined.\n\n<!-- STEP id=\"transparency-tools\" -->\n## The Right to Know\n\n**Transparency** means that people can see how the government works. Citizens can seek information under the **RTI Act, 2005**.\n\nFour bodies also help: the Comptroller and Auditor General (CAG), the Central Information Commission (CIC), the Lokpal and the Central Vigilance Commission (CVC). Tap each name."
+  },
+  "simulation": {
+    "src": "simulations/L04/AccountabilityLoopScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.514Z"
+  }
+}

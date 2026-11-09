@@ -1,0 +1,74 @@
+{
+  "id": "q-l03-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Kachchh in Gujarat lies inside the Indian plate, far from its edge. Yet strong earthquakes happen there. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Old faults there can break under the push"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The plate pushes north, and old faults inside it can break."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Kachchh sits on a transform boundary"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Kachchh lies inside the plate, not on a boundary."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Volcanoes under Kachchh erupt very often"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Kachchh has no active volcano behind these earthquakes."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Earthquakes strike at random all over Earth"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Most lie along belts, and Kachchh has known old faults."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Most earthquakes lie along plate boundaries, but not all. Kachchh lies inside the Indian plate. As the plate pushes north, old faults there can still break, as in the major earthquake of 2001."
+  },
+  "hints": [
+    {
+      "en": "Is Kachchh on a plate edge?"
+    },
+    {
+      "en": "What can still break inside a plate that is being pushed?"
+    }
+  ],
+  "tags": [
+    "india",
+    "kachchh",
+    "earthquakes"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:22.682Z",
+    "reviewedBy": "review-bar"
+  }
+}

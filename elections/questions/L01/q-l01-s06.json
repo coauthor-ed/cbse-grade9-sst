@@ -1,0 +1,34 @@
+{
+  "id": "q-l01-s06",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "India had over 96.8 crore eligible voters in 2024. Write that same number of people in millions. Give the answer in millions."
+  },
+  "expectedValue": 968,
+  "tolerance": 0.5,
+  "unit": "million",
+  "explanation": {
+    "en": "One crore is ten million, so 96.8 crore is 96.8 x 10 = 968 million. It is the size of the group that figure counts - every person on the electoral roll, whether or not they ever reach a booth."
+  },
+  "hints": [
+    {
+      "en": "One crore is ten million. Multiply 96.8 by ten."
+    },
+    {
+      "en": "96.8 crore x 10 million per crore = the number in millions."
+    }
+  ],
+  "tags": [
+    "eligible-voters",
+    "crore",
+    "scale"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:20:58.653Z",
+    "reviewedBy": "review-bar"
+  }
+}

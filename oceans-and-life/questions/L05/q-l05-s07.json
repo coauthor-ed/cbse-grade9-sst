@@ -1,0 +1,157 @@
+{
+  "id": "q-l05-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "hard",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Explain how India protects people on the coast and fishers at sea from a cyclone. Name four parts of this work and say what each one does."
+  },
+  "rubric": [
+    {
+      "id": "watch-services",
+      "label": {
+        "en": "Cyclone Warning Services and Marine Weather Services monitor storms along both coasts, continuously."
+      },
+      "level1": {
+        "en": "Who monitors storms, and on which coasts?"
+      },
+      "clue": {
+        "en": "India has several Cyclone Warning Services and Marine Weather Services, and they cover the eastern and western coasts."
+      },
+      "level2Template": {
+        "en": "Storms along both the eastern and western coasts are monitored by ___."
+      },
+      "accepted": [
+        "Cyclone Warning Services",
+        "the Cyclone Warning Services",
+        "Cyclone Warning Services and Marine Weather Services",
+        "Marine Weather Services"
+      ]
+    },
+    {
+      "id": "ncrmp-shelters",
+      "label": {
+        "en": "The National Cyclone Risk Mitigation Project builds cyclone shelters, strengthens warning systems and improves emergency response."
+      },
+      "level1": {
+        "en": "Which project builds shelters?"
+      },
+      "clue": {
+        "en": "This project works in cyclone-prone States and Union Territories."
+      },
+      "level2Template": {
+        "en": "Cyclone shelters are built under ___."
+      },
+      "accepted": [
+        "NCRMP",
+        "the National Cyclone Risk Mitigation Project",
+        "the NCRMP"
+      ]
+    },
+    {
+      "id": "ssews-surge",
+      "label": {
+        "en": "INCOIS with IMD set up the Storm Surge Early Warning System, which forecasts storm surges and how far the water spreads."
+      },
+      "level1": {
+        "en": "Which system forecasts the water, and not the wind?"
+      },
+      "clue": {
+        "en": "This system was set up by INCOIS in collaboration with IMD."
+      },
+      "level2Template": {
+        "en": "Storm surges and how far the water spreads are forecast by ___."
+      },
+      "accepted": [
+        "SSEWS",
+        "the Storm Surge Early Warning System",
+        "the SSEWS"
+      ]
+    },
+    {
+      "id": "gemini-boats",
+      "label": {
+        "en": "GEMINI receives satellite data and passes it by Bluetooth to a phone, which shows alerts to fishers at sea."
+      },
+      "level1": {
+        "en": "How does a warning reach a boat at sea?"
+      },
+      "clue": {
+        "en": "A handheld device receives data from the GAGAN satellite and sends it to a mobile phone."
+      },
+      "level2Template": {
+        "en": "At sea, fishers receive alerts through a handheld device called ___."
+      },
+      "accepted": [
+        "GEMINI",
+        "the GEMINI device",
+        "GEMINI device"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The setting"
+      },
+      "text": {
+        "en": "India's protection from cyclones has several parts, and each part has its own task."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Watching"
+      },
+      "text": {
+        "en": "Storms along both the eastern and western coasts are monitored by ___."
+      },
+      "rubricId": "watch-services"
+    },
+    {
+      "eyebrow": {
+        "en": "Preparing"
+      },
+      "text": {
+        "en": "Cyclone shelters are built under ___."
+      },
+      "rubricId": "ncrmp-shelters"
+    },
+    {
+      "eyebrow": {
+        "en": "Forecasting the water"
+      },
+      "text": {
+        "en": "Storm surges and how far the water spreads are forecast by ___."
+      },
+      "rubricId": "ssews-surge"
+    },
+    {
+      "eyebrow": {
+        "en": "Reaching the boats"
+      },
+      "text": {
+        "en": "At sea, fishers receive alerts through a handheld device called ___."
+      },
+      "rubricId": "gemini-boats"
+    }
+  ],
+  "explanation": {
+    "en": "Warning services watch the storm, NCRMP builds shelters and strengthens warnings, SSEWS forecasts the surge, and GEMINI carries alerts to fishers at sea."
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L05/exp-q-l05-s07.json"
+      }
+    ]
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:39.278Z",
+    "reviewedBy": "review-bar"
+  },
+  "mode": "full-answer"
+}

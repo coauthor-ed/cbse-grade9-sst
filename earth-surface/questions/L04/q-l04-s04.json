@@ -1,0 +1,72 @@
+{
+  "id": "q-l04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A farmer's field loses a thin layer of topsoil every monsoon, and the crop gets a little smaller each year. There has been no flood or landslide. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "No erosion is happening, because there has been no flood."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Erosion does not need a flood. Ordinary rain on bare ground can carry soil away."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "This is weathering, because the rock is breaking down."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The soil is being carried away, so this is erosion, not weathering."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The subsoil is being lost, and crops grow in the subsoil."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is the dark topsoil that is lost, and crops depend on it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Erosion is happening, a little in each monsoon."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Rain carries off a little soil each year, and yields fall."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Erosion can be slow. Rain running over the ground carries off a little topsoil each monsoon. Topsoil is the fertile layer, so yields fall even when no great flood has happened."
+  },
+  "hints": [
+    {
+      "en": "Which layer is getting thinner, and where does it go?"
+    }
+  ],
+  "tags": [
+    "erosion",
+    "topsoil",
+    "livelihoods",
+    "soil-conservation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:27.289Z",
+    "reviewedBy": "review-bar"
+  }
+}

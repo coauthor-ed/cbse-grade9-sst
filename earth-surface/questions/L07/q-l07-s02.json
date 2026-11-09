@@ -1,0 +1,72 @@
+{
+  "id": "q-l07-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Ice has carved hollows on two sides of a mountain. What is the sharp ridge left between them?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A moraine"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A moraine is a heap of material dropped by ice, not carved rock."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A fjord"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A fjord is a sea inlet in a flooded glacial valley."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "An arete"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. It is the rock left between the hollows."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A plunge pool"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A plunge pool lies at the foot of a waterfall."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Ice carves bowl-shaped cirques into a mountain. The narrow rock left standing between two of them is a sharp ridge called an arete."
+  },
+  "hints": [
+    {
+      "en": "Was it built up, or left over after carving?"
+    }
+  ],
+  "tags": [
+    "glaciers",
+    "arete",
+    "cirque",
+    "glacial-erosion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:41.306Z",
+    "reviewedBy": "review-bar"
+  }
+}

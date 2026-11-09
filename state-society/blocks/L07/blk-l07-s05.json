@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s05",
+  "type": "mini-game@1",
+  "src": "simulations/L07/DharmaScaleGame.js",
+  "objective": {
+    "en": "In each situation, choose the action that works for the welfare of all."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:34.561Z",
+    "reviewedBy": "review-bar"
+  }
+}

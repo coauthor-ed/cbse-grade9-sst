@@ -1,0 +1,68 @@
+{
+  "id": "les-07",
+  "lessonId": "les-07",
+  "type": "lesson",
+  "title": {
+    "en": "What does the sea give us, and how do we keep it?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L07/blk-l07-s01.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s02.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s03.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s03.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s04.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s04.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s05.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s05.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s05b.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s06.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s06.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-a01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s07.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s07b.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s08.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:47.998Z",
+    "reviewedBy": "review-bar"
+  }
+}

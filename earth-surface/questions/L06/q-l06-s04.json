@@ -1,0 +1,70 @@
+{
+  "id": "q-l06-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A long ridge of sand is joined to the coast at one end. The other end lies in open water near a river mouth. What is this landform, and what is its loose end called?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A shore platform, with a free end"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A shore platform is flat rock left as a cliff retreats, not a ridge of sand."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A delta, with a distributary"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A delta is land built at a river mouth by river sediment, split by channels."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A sea stack, with a stump"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A stack is a pillar of rock, not a ridge of sand."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A sand bar, with a free end"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Waves and currents laid the sand down, and one end stays unattached."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Waves and currents carry sand along the coast and lay it down as a long ridge. One end stays joined to the land, and the other, the free end, lies in the water."
+  },
+  "hints": [
+    {
+      "en": "Is it made of rock or of sand? Is it joined at one end or both?"
+    }
+  ],
+  "tags": [
+    "sand-bar",
+    "deposition"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:36.458Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "blk-l05-game",
+  "type": "mini-game@1",
+  "subject": "social-studies",
+  "grade": 9,
+  "chapterId": "democracy",
+  "topicId": "forms-of-democracy",
+  "board": "CBSE",
+  "src": "simulations/L05/OneWordManyFormsGame.js",
+  "objective": {
+    "en": "Five features, five countries. Tap every country that has each feature."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

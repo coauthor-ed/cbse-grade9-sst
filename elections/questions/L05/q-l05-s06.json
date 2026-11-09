@@ -1,0 +1,71 @@
+{
+  "id": "q-l05-s06",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A voter aged 88 has chosen to vote from home. What happens when the polling team visits?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The team sets up a voting machine beside the voter"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The voter says the choice aloud to the team"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The voter marks a ballot paper behind a screen"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The voter signs a form so that a relative can vote later"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The polling team brings a ballot paper and a screen. The voter marks the paper in private, and it goes into a sealed cover. No voting machine is used, and the vote stays secret."
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L05/exp-q-l05-s06.json"
+      }
+    ]
+  },
+  "hints": [
+    {
+      "en": "Home voting uses paper, not a machine."
+    },
+    {
+      "en": "A vote must stay secret, even at home."
+    }
+  ],
+  "tags": [
+    "home-voting",
+    "source-analysis",
+    "eligibility",
+    "polling-compartment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:15.302Z",
+    "reviewedBy": "review-bar"
+  }
+}

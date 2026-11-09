@@ -1,0 +1,64 @@
+{
+  "id": "q-l10-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "How was Bhakti different from the elaborate rituals prescribed in the Vedas?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It was taught only to people outside the four varṇas."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It offered a direct connection with the gods and was accessible to all, regardless of class or gender."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It replaced the Vedas with one short set of hymns that everyone learned by heart."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It ended all worship, because it taught that no practice was needed."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Bhakti was a path of direct connection with the gods without the need for elaborate Vedic rituals, and it was accessible to all, regardless of class or gender. It did not end worship, because the Āḻvārs and Nāyanmārs composed hymns of praise. It was not limited to one group, and it did not replace the Vedas with one short set of hymns."
+  },
+  "hints": [
+    {
+      "en": "What did a person no longer need for Bhakti?"
+    },
+    {
+      "en": "Who could follow this path?"
+    }
+  ],
+  "tags": [
+    "bhakti",
+    "alvAr",
+    "nayanmar",
+    "devotion",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:49.938Z",
+    "reviewedBy": "review-bar"
+  }
+}

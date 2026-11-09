@@ -1,0 +1,63 @@
+{
+  "id": "q-l02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Magadha gradually became the most powerful of the sixteen mahājanapadas. Which set of reasons accounts for this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It was the first of the sixteen to be founded, so it had the longest time to grow."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It had fertile plains, and no other reason was needed."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It had a strategic location, fertile plains and strong rulers."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It lay in the far north-west, close to the early centres of Vedic culture."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Three reasons are given: strategic location, fertile plains and strong rulers. Together they let Magadha expand its control over neighbouring regions, which led in time to the Mauryan Empire."
+  },
+  "hints": [
+    {
+      "en": "One reason is about place, one about the soil, and one about people."
+    },
+    {
+      "en": "Magadha lay in present-day Bihar, far from the north-west."
+    }
+  ],
+  "tags": [
+    "magadha",
+    "mahajanapada",
+    "causation",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:09.784Z",
+    "reviewedBy": "review-bar"
+  }
+}

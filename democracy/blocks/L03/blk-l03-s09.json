@@ -1,0 +1,16 @@
+{
+  "id": "blk-l03-s09",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A Right Added Later\n\n<!-- STEP id=\"a-new-right\" -->\n## Article 21A\n\nThe list of rights can grow. **Article 21A** gives children aged 6 to 14 the right to free and compulsory education, so a child's schooling is a right and not a favour.\n\n<!-- STEP id=\"act-of-2009\" -->\n## From Right to School\n\nThe Right to Education Act, 2009, put this right to work in schools.\n\n**Talk about it: what changes for a child when going to school becomes a right?**"
+  },
+  "simulation": {
+    "src": "simulations/L03/RightAddedScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.512Z"
+  }
+}

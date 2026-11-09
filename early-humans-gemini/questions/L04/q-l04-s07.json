@@ -1,0 +1,42 @@
+{
+  "id": "q-l04-s07",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "assertion": {
+    "en": "People in Mesolithic times had a wider variety of food than people before them."
+  },
+  "reason": {
+    "en": "When the climate warmed, forests and grasslands spread onto land that had been under ice, and these new landscapes offered small game, fish and wild grains."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both statements are true, and the Reason does explain the Assertion: the new landscapes are where the extra kinds of food came from."
+    },
+    "c": {
+      "en": "The Reason is true. The book says forests and grasslands spread onto land that had been under ice sheets."
+    },
+    "d": {
+      "en": "The Assertion is true. The book says the new landscapes offered a wider variety of resources."
+    }
+  },
+  "explanation": {
+    "en": "The Reason explains the Assertion. A warmer climate spread forests and grasslands onto land once under ice, and these new landscapes supplied small game, fish and edible wild grains."
+  },
+  "hints": [
+    {
+      "en": "Judge each statement on its own first. Then ask whether the second explains the first."
+    }
+  ],
+  "tags": [
+    "mesolithic",
+    "diet",
+    "climate-warming"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-s04.md",
+  "simulation": {
+    "src": "simulations/L02/JanapadaMapScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31T19:37:07.000Z",
+    "reviewedBy": "owner"
+  }
+}

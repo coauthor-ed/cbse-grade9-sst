@@ -1,0 +1,15 @@
+{
+  "id": "blk-l11-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L11/GuildLedgerGame.js",
+  "objective": {
+    "en": "Split 3000 kāhāpaṇas between two weavers' guilds so that the year's interest matches what the cave needs."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z",
+    "reviewedBy": "review-bar"
+  }
+}

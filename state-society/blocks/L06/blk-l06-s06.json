@@ -1,0 +1,15 @@
+{
+  "id": "blk-l06-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L06/KudavolaiGame.js",
+  "objective": {
+    "en": "Put the steps of the draw in order, then fill all three committees from the pot."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:28.849Z",
+    "reviewedBy": "review-bar"
+  }
+}

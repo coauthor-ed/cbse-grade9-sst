@@ -1,0 +1,1087 @@
+{
+  "terms": [
+    {
+      "id": "lithosphere",
+      "term": "lithosphere",
+      "plain": {
+        "en": "the stone layer - the crust plus the rigid uppermost mantle"
+      },
+      "roots": [
+        {
+          "part": "litho",
+          "means": {
+            "en": "stone"
+          }
+        },
+        {
+          "part": "sphere",
+          "means": {
+            "en": "layer"
+          }
+        }
+      ],
+      "means": {
+        "en": "The rigid outer shell of the Earth, about 100 km thick. It includes the crust and the upper part of the mantle and is broken into plates."
+      },
+      "lesson": 1
+    },
+    {
+      "id": "asthenosphere",
+      "term": "asthenosphere",
+      "plain": {
+        "en": "the weak rock just below the lithosphere"
+      },
+      "roots": [
+        {
+          "part": "a",
+          "means": {
+            "en": "not"
+          }
+        },
+        {
+          "part": "stheno",
+          "means": {
+            "en": "strong"
+          }
+        },
+        {
+          "part": "sphere",
+          "means": {
+            "en": "layer"
+          }
+        }
+      ],
+      "means": {
+        "en": "A layer about 200 km thick under the lithosphere where rock is partly molten and flows very slowly, so the rigid shell above can slide on it."
+      },
+      "lesson": 1
+    },
+    {
+      "id": "convection",
+      "term": "convection",
+      "plain": {
+        "en": "circulating currents in hot rock"
+      },
+      "roots": [
+        {
+          "part": "con",
+          "means": {
+            "en": "together"
+          }
+        },
+        {
+          "part": "vectio",
+          "means": {
+            "en": "carrying"
+          }
+        }
+      ],
+      "means": {
+        "en": "The movement of hotter, lighter material upward and cooler, denser material downward in a loop. In the mantle it moves rock very slowly and carries heat with it."
+      },
+      "lesson": 1
+    },
+    {
+      "id": "convergent",
+      "term": "convergent",
+      "match": [
+        "convergence",
+        "converging"
+      ],
+      "plain": {
+        "en": "the plates move toward each other"
+      },
+      "means": {
+        "en": "A plate boundary where two plates move toward one another. Where one is oceanic it sinks beneath the other; where both are continental neither sinks and the crust folds upward instead."
+      },
+      "lesson": 2
+    },
+    {
+      "id": "divergent",
+      "term": "divergent",
+      "match": [
+        "divergence",
+        "diverging"
+      ],
+      "plain": {
+        "en": "the plates move apart"
+      },
+      "means": {
+        "en": "A plate boundary where two plates move away from one another. Magma rises into the gap, cools and hardens into new crust, which is how sea floor is made."
+      },
+      "lesson": 2
+    },
+    {
+      "id": "transform",
+      "term": "transform",
+      "match": [
+        "transform boundary"
+      ],
+      "plain": {
+        "en": "two sides sliding past each other"
+      },
+      "means": {
+        "en": "A plate boundary where the two sides grind horizontally past one another. Nothing is built and nothing is destroyed, but the shaking can be strong."
+      },
+      "lesson": 2
+    },
+    {
+      "id": "bhukampa",
+      "term": "bhūkampa",
+      "plain": {
+        "en": "the shaking of the Earth"
+      },
+      "means": {
+        "en": "A Sanskrit word for earthquake. Varahamihira wrote about signs he linked with earthquakes."
+      },
+      "lesson": 3
+    },
+    {
+      "id": "tephra",
+      "term": "tephra",
+      "plain": {
+        "en": "ash and rock pieces thrown out by a volcano"
+      },
+      "means": {
+        "en": "The rock fragments and ash thrown out of a volcano. The fine particles travel furthest and can settle hundreds of kilometres away."
+      },
+      "lesson": 3
+    },
+    {
+      "id": "weathering",
+      "term": "weathering",
+      "plain": {
+        "en": "rock breaking down where it stands"
+      },
+      "means": {
+        "en": "Rock breaks into smaller pieces by physical, chemical or biological means. The broken pieces do not move."
+      },
+      "lesson": 4
+    },
+    {
+      "id": "erosion",
+      "term": "erosion",
+      "plain": {
+        "en": "wearing away and carrying material"
+      },
+      "means": {
+        "en": "Soil, rock and other material worn away and carried from one place to another by agents such as water, wind, ice or waves."
+      },
+      "lesson": 4
+    },
+    {
+      "id": "agents-of-gradation",
+      "term": "agents of gradation",
+      "plain": {
+        "en": "running water, waves, ice, wind and groundwater"
+      },
+      "means": {
+        "en": "The five things that wear land down and build it up again. Each one carries material, and each one drops it somewhere different."
+      },
+      "lesson": 4
+    },
+    {
+      "id": "contour",
+      "term": "contour",
+      "plain": {
+        "en": "a line of equal height on a slope"
+      },
+      "means": {
+        "en": "A line joining points at the same height. A trench dug along one holds rainwater so that it soaks in."
+      },
+      "lesson": 4
+    },
+    {
+      "id": "bunding",
+      "term": "bunding",
+      "plain": {
+        "en": "an embankment built to hold water on a slope"
+      },
+      "means": {
+        "en": "A low ridge of earth across a slope that stops rainwater running straight off and lets it soak into the soil instead."
+      },
+      "lesson": 4
+    },
+    {
+      "id": "terracing",
+      "term": "terracing",
+      "plain": {
+        "en": "cutting flat steps into a hillside"
+      },
+      "means": {
+        "en": "Turning a slope into a staircase of flat treads. Each step slows the water and holds the soil."
+      },
+      "lesson": 4
+    },
+    {
+      "id": "zabo",
+      "term": "Zabo",
+      "plain": {
+        "en": "the Nagaland system of earthen bunds on hill slopes"
+      },
+      "means": {
+        "en": "An indigenous farming system that rings each field with earth banks, holding both soil and water on the slope through the monsoon."
+      },
+      "lesson": 4
+    },
+    {
+      "id": "gradient",
+      "term": "gradient",
+      "plain": {
+        "en": "how steeply the bed falls"
+      },
+      "means": {
+        "en": "The steepness of a river bed. A steep gradient gives the water enough energy to cut a waterfall; a gentle one lets it spread out and drop its load."
+      },
+      "lesson": 5
+    },
+    {
+      "id": "plunge-pool",
+      "term": "plunge pool",
+      "plain": {
+        "en": "the deep pool at the foot of a fall"
+      },
+      "means": {
+        "en": "A deep basin dug by falling water and tumbling stones."
+      },
+      "lesson": 5
+    },
+    {
+      "id": "meander",
+      "term": "meander",
+      "plain": {
+        "en": "the winding curve a river makes"
+      },
+      "means": {
+        "en": "A swing in a river's course. Water wears away the outside of each bend and drops sediment on the inside, so the swing grows wider and can be cut off."
+      },
+      "lesson": 5
+    },
+    {
+      "id": "oxbow-lake",
+      "term": "oxbow lake",
+      "match": [
+        "oxbow"
+      ],
+      "plain": {
+        "en": "the stranded crescent left behind"
+      },
+      "means": {
+        "en": "The old loop of a meander, sealed off when the river cut straight across the neck between two bends. It is a leftover, not a new kind of river."
+      },
+      "lesson": 5
+    },
+    {
+      "id": "delta",
+      "term": "delta",
+      "plain": {
+        "en": "the fan of new ground at a river mouth"
+      },
+      "means": {
+        "en": "Where a river drops its load at its mouth. If the sea cannot wash the sediment away fast enough, the land builds outward and the river splits into branches."
+      },
+      "lesson": 5
+    },
+    {
+      "id": "swash",
+      "term": "swash",
+      "plain": {
+        "en": "the water running up the beach"
+      },
+      "means": {
+        "en": "The sheet of water a wave throws up the shore. It runs up further than the backwash brings back, so sand is moved landward."
+      },
+      "lesson": 6
+    },
+    {
+      "id": "backwash",
+      "term": "backwash",
+      "plain": {
+        "en": "the water running back down"
+      },
+      "means": {
+        "en": "The thinner sheet of water draining back down the beach after the swash. It is slower and carries less, which is why sand piles up above it."
+      },
+      "lesson": 6
+    },
+    {
+      "id": "headland",
+      "term": "headland",
+      "plain": {
+        "en": "the rocky point standing out into the sea"
+      },
+      "means": {
+        "en": "A tongue of high land projecting into the sea. Waves cut hardest into its exposed sides, which is where caves, arches and stacks form."
+      },
+      "lesson": 6
+    },
+    {
+      "id": "sea-cave",
+      "term": "sea cave",
+      "plain": {
+        "en": "the hollow cut into the rock"
+      },
+      "means": {
+        "en": "A hollow worn into the rock of a headland where waves attack a weak line. It can deepen through the headland into an arch."
+      },
+      "lesson": 6
+    },
+    {
+      "id": "sea-arch",
+      "term": "sea arch",
+      "plain": {
+        "en": "a hole through a headland"
+      },
+      "means": {
+        "en": "Formed when caves on opposite sides of a headland meet. When its roof falls, the outer leg stands alone as a stack."
+      },
+      "lesson": 6
+    },
+    {
+      "id": "sea-stack",
+      "term": "sea stack",
+      "plain": {
+        "en": "the pillar left when an arch falls"
+      },
+      "means": {
+        "en": "The outer leg of a sea arch, left standing after the roof collapses. Waves finally wear it down to a stump."
+      },
+      "lesson": 6
+    },
+    {
+      "id": "stump",
+      "term": "stump",
+      "plain": {
+        "en": "the low block left at the end"
+      },
+      "means": {
+        "en": "What a sea stack becomes once the waves have worn most of it away - a low block on the wave-cut platform."
+      },
+      "lesson": 6
+    },
+    {
+      "id": "sea-cliff",
+      "term": "sea cliff",
+      "plain": {
+        "en": "the steep face the sea cuts into the land"
+      },
+      "means": {
+        "en": "A steep rock face where the sea has cut the land back. It is not the fallen rock at its foot - the debris is only what the cliff has already lost."
+      },
+      "lesson": 6
+    },
+    {
+      "id": "shore-platform",
+      "term": "shore platform",
+      "match": [
+        "wave-cut platform"
+      ],
+      "plain": {
+        "en": "the flat rock floor the cliff has retreated off"
+      },
+      "means": {
+        "en": "The flat bench of rock left where a sea cliff has cut back. It is the cliff's old floor, not a heap of the rubble it dropped."
+      },
+      "lesson": 6
+    },
+    {
+      "id": "spit",
+      "term": "spit",
+      "plain": {
+        "en": "a sand bar joined to the land at one end"
+      },
+      "means": {
+        "en": "A long ridge of sand joined to the land at one end, with the other end in the water."
+      },
+      "lesson": 6
+    },
+    {
+      "id": "sand-bar",
+      "term": "sand bar",
+      "plain": {
+        "en": "a ridge of sand along or out from a shore"
+      },
+      "means": {
+        "en": "Sand laid down by waves and currents along a shore. One end can stay joined to the land while the other, the free end, lies in the water."
+      },
+      "lesson": 6
+    },
+    {
+      "id": "cirque",
+      "term": "cirque",
+      "plain": {
+        "en": "the bowl-shaped hollow a glacier grinds at a mountain head"
+      },
+      "means": {
+        "en": "A bowl-shaped hollow with a steep headwall, cut where a glacier's head sits and grinds the floor flat while widening and deepening it."
+      },
+      "lesson": 7
+    },
+    {
+      "id": "arete",
+      "term": "arete",
+      "plain": {
+        "en": "a sharp ridge between valleys"
+      },
+      "means": {
+        "en": "A sharp ridge left between hollows and valleys cut by ice."
+      },
+      "lesson": 7
+    },
+    {
+      "id": "till",
+      "term": "till",
+      "plain": {
+        "en": "the broken rock and soil carried inside the ice"
+      },
+      "means": {
+        "en": "The load a glacier carries within itself and at its base. When the ice melts it drops the till, and what the ice carried is left behind."
+      },
+      "lesson": 7
+    },
+    {
+      "id": "moraine",
+      "term": "moraine",
+      "plain": {
+        "en": "the ridge of rubble the ice drops as it melts"
+      },
+      "means": {
+        "en": "A ridge of rock debris left where the ice carried it and then let it go. A moraine is a record of where the ice was, not a marker of where it is now."
+      },
+      "lesson": 7
+    },
+    {
+      "id": "terminal-moraine",
+      "term": "terminal moraine",
+      "plain": {
+        "en": "the ridge at the end of a glacier"
+      },
+      "means": {
+        "en": "Till at the end of a glacier, marking its furthest advance. It can hold back a lake."
+      },
+      "lesson": 7
+    },
+    {
+      "id": "lateral-moraine",
+      "term": "lateral moraine",
+      "plain": {
+        "en": "the ridge along the side of the ice"
+      },
+      "means": {
+        "en": "A ridge of debris running along the side of a valley glacier, dumped along its edge as the ice melts back."
+      },
+      "lesson": 7
+    },
+    {
+      "id": "medial-moraine",
+      "term": "medial moraine",
+      "plain": {
+        "en": "the stripe down the middle where two glaciers join"
+      },
+      "means": {
+        "en": "A ridge running down the middle of a joined glacier, formed where the two side moraines of the tributaries meet."
+      },
+      "lesson": 7
+    },
+    {
+      "id": "fjord",
+      "term": "fjord",
+      "plain": {
+        "en": "the sea flooded into a glacial valley"
+      },
+      "means": {
+        "en": "A flooded glacial valley. The glacier cut a flat-floored U-shaped valley, the sea later rose into it, and the water is far deeper than a river valley."
+      },
+      "lesson": 7
+    },
+    {
+      "id": "hanging-valley",
+      "term": "hanging valley",
+      "plain": {
+        "en": "the valley that stops in mid-air"
+      },
+      "means": {
+        "en": "A side valley left standing above a main glacial valley, because the main glacier cut its floor down much faster than the small glacier could."
+      },
+      "lesson": 7
+    },
+    {
+      "id": "u-shaped-valley",
+      "term": "U-shaped valley",
+      "plain": {
+        "en": "the valley with a wide flat floor and steep sides"
+      },
+      "means": {
+        "en": "A valley widened and deepened by a glacier, which grinds the floor flat and both walls at the same time, unlike a river's V."
+      },
+      "lesson": 7
+    },
+    {
+      "id": "yardang",
+      "term": "yardang",
+      "plain": {
+        "en": "the ridge the wind cut out of hard rock"
+      },
+      "means": {
+        "en": "An elongated ridge of hard rock left standing where wind carrying sand cut the softer rock away around it."
+      },
+      "lesson": 8
+    },
+    {
+      "id": "ventifact",
+      "term": "ventifact",
+      "plain": {
+        "en": "the polished stone"
+      },
+      "means": {
+        "en": "A loose stone whose surface has been cut and polished by sand carried in the wind. It is the same cutting as a yardang, at one-stone scale."
+      },
+      "lesson": 8
+    },
+    {
+      "id": "deflation-hollow",
+      "term": "deflation hollow",
+      "match": [
+        "blowout"
+      ],
+      "plain": {
+        "en": "the shallow bowl the wind scours out of the floor"
+      },
+      "means": {
+        "en": "A basin scoured out of desert floor by wind lifting away the finest material. Its floor can reach the water table, which is what makes an oasis."
+      },
+      "lesson": 8
+    },
+    {
+      "id": "desert-pavement",
+      "term": "desert pavement",
+      "plain": {
+        "en": "the flat stony floor the wind leaves"
+      },
+      "means": {
+        "en": "A flat lag of stones on desert floor. Once the wind has blown away everything finer, only the coarse pebbles are left behind."
+      },
+      "lesson": 8
+    },
+    {
+      "id": "oasis",
+      "term": "oasis",
+      "plain": {
+        "en": "a green place where water lies close to the surface"
+      },
+      "means": {
+        "en": "Water and plants in a desert, where wind has lowered the ground to the water table. Many oases also get water from springs and wells."
+      },
+      "lesson": 8
+    },
+    {
+      "id": "windward-slope",
+      "term": "windward slope",
+      "plain": {
+        "en": "the long slope the sand climbs"
+      },
+      "means": {
+        "en": "The side of a dune facing the wind, where sand arrives and climbs. It is long and gentle."
+      },
+      "lesson": 8
+    },
+    {
+      "id": "slip-face",
+      "term": "slip face",
+      "plain": {
+        "en": "the short face the sand slides off"
+      },
+      "means": {
+        "en": "The steep lee side of a dune, past the crest. Sand cannot climb it and falls off it grain by grain."
+      },
+      "lesson": 8
+    },
+    {
+      "id": "barchan",
+      "term": "barchan",
+      "plain": {
+        "en": "the crescent with horns pointing downwind"
+      },
+      "means": {
+        "en": "A crescent dune with its horns pointing downwind. It forms where the wind is steady and sand is scarce."
+      },
+      "lesson": 8
+    },
+    {
+      "id": "star-dune",
+      "term": "star dune",
+      "plain": {
+        "en": "the mound with arms in every direction"
+      },
+      "means": {
+        "en": "A dune with a ridge running out from it in several directions, formed where the wind direction changes."
+      },
+      "lesson": 8
+    },
+    {
+      "id": "parabolic-dune",
+      "term": "parabolic dune",
+      "plain": {
+        "en": "a U-shaped dune held by plants on its arms"
+      },
+      "means": {
+        "en": "A U-shaped dune. Plants hold its two arms while the bare nose moves downwind, so the arms trail behind and point upwind."
+      },
+      "lesson": 8
+    },
+    {
+      "id": "limestone",
+      "term": "limestone",
+      "plain": {
+        "en": "the rock made of old shells"
+      },
+      "means": {
+        "en": "A rock made from the compressed remains of shells dropped on an ancient sea bed. Slightly acid water can dissolve it, which is what karst needs."
+      },
+      "lesson": 9
+    },
+    {
+      "id": "soluble",
+      "term": "soluble",
+      "plain": {
+        "en": "a rock water can dissolve"
+      },
+      "means": {
+        "en": "Able to be dissolved in water. Only a soluble rock can be hollowed out from inside by water moving through it."
+      },
+      "lesson": 9
+    },
+    {
+      "id": "karst",
+      "term": "karst",
+      "plain": {
+        "en": "landforms made by water dissolving rock"
+      },
+      "means": {
+        "en": "The name for a whole landscape, not for any single hole - caves, sinkholes and underground rivers cut into one body of soluble rock."
+      },
+      "lesson": 9
+    },
+    {
+      "id": "cave-mouth",
+      "term": "cave mouth",
+      "plain": {
+        "en": "the opening where the passage reaches the surface"
+      },
+      "means": {
+        "en": "The point at which an underground passage opens onto the surface. It is where the water carried inside the rock goes back out into the open."
+      },
+      "lesson": 9
+    },
+    {
+      "id": "stalactite",
+      "term": "stalactite",
+      "plain": {
+        "en": "the one hanging from the roof"
+      },
+      "means": {
+        "en": "A mineral deposit hanging down from a cave roof, built up as dripping water leaves its load behind."
+      },
+      "lesson": 9
+    },
+    {
+      "id": "stalagmite",
+      "term": "stalagmite",
+      "plain": {
+        "en": "the one rising off the floor"
+      },
+      "means": {
+        "en": "A mineral deposit standing up from a cave floor, built up where the same dripping water lands."
+      },
+      "lesson": 9
+    },
+    {
+      "id": "pillar",
+      "term": "pillar",
+      "plain": {
+        "en": "the column where the two meet"
+      },
+      "means": {
+        "en": "The joined column left where a stalactite growing down and a stalagmite growing up meet."
+      },
+      "lesson": 9
+    },
+    {
+      "id": "cavity",
+      "term": "cavity",
+      "plain": {
+        "en": "the empty space hollowed inside the rock"
+      },
+      "means": {
+        "en": "A hollow inside the rock that has not yet broken through to the surface. Water still reaches it through the joints; daylight does not."
+      },
+      "lesson": 9
+    },
+    {
+      "id": "sinkhole",
+      "term": "sinkhole",
+      "match": [
+        "doline"
+      ],
+      "plain": {
+        "en": "the bowl-shaped hole left at the surface"
+      },
+      "means": {
+        "en": "A bowl-shaped hollow in the ground surface where the roof of a cavity has collapsed into the space below. Doline is the second name for the same shape."
+      },
+      "lesson": 9
+    },
+    {
+      "id": "underground-river",
+      "term": "underground river",
+      "plain": {
+        "en": "the water crossing the cave system under the ground"
+      },
+      "means": {
+        "en": "A stream flowing along a passage inside the rock rather than on the surface, fed by water that soaked down through the soil above."
+      },
+      "lesson": 9
+    },
+    {
+      "id": "fissure",
+      "term": "fissure",
+      "plain": {
+        "en": "the crack"
+      },
+      "means": {
+        "en": "A long narrow crack in the rock."
+      },
+      "lesson": 9
+    },
+    {
+      "id": "tracer",
+      "term": "tracer",
+      "plain": {
+        "en": "the dye"
+      },
+      "means": {
+        "en": "A substance added to water in quantity too small to see, used to show where the water goes. It has no effect on the rock or the shape."
+      },
+      "lesson": 9
+    },
+    {
+      "id": "glof",
+      "term": "GLOF",
+      "plain": {
+        "en": "a lake bursting out of its natural dam"
+      },
+      "means": {
+        "en": "Glacial lake outburst flood. A dam of ice or loose moraine gives way and the lake water is released at once."
+      },
+      "lesson": 10
+    },
+    {
+      "id": "landslide",
+      "term": "landslide",
+      "plain": {
+        "en": "rock and soil sliding down a slope"
+      },
+      "means": {
+        "en": "A mass of rock and soil moving down a slope in one go. Rain, a cut at the foot and the loss of roots often act together."
+      },
+      "lesson": 10
+    },
+    {
+      "id": "avalanche",
+      "term": "avalanche",
+      "plain": {
+        "en": "snow sliding suddenly down a steep slope"
+      },
+      "means": {
+        "en": "A mass of snow sliding off a slope. New snow loads the pack, a warm spell weakens the layer underneath, and wind piles snow unevenly."
+      },
+      "lesson": 10
+    },
+    {
+      "id": "dust-storm",
+      "term": "dust storm",
+      "plain": {
+        "en": "strong wind lifting dry soil and sand"
+      },
+      "means": {
+        "en": "Strong winds lifting large amounts of loose, dry soil and sand into the air."
+      },
+      "lesson": 10
+    },
+    {
+      "id": "landform",
+      "term": "landform",
+      "plain": {
+        "en": "a natural shape on the Earth's surface"
+      },
+      "means": {
+        "en": "A natural feature formed by weathering, erosion, deposition or the movement of the crust, such as a mountain, valley, plain or coast."
+      },
+      "lesson": 1
+    },
+    {
+      "id": "tectonic-plates",
+      "term": "tectonic plates",
+      "plain": {
+        "en": "large moving pieces of the Earth's outer shell"
+      },
+      "means": {
+        "en": "Massive slabs of solid rock that make up the lithosphere and move a few centimetres a year."
+      },
+      "lesson": 1
+    },
+    {
+      "id": "advection",
+      "term": "advection",
+      "plain": {
+        "en": "heat carried by moving material"
+      },
+      "means": {
+        "en": "Hot material such as magma moves upward and takes its heat with it."
+      },
+      "lesson": 1
+    },
+    {
+      "id": "conduction",
+      "term": "conduction",
+      "plain": {
+        "en": "heat passing through a solid"
+      },
+      "means": {
+        "en": "Heat passes through rock while the rock stays where it is."
+      },
+      "lesson": 1
+    },
+    {
+      "id": "fold-mountains",
+      "term": "fold mountains",
+      "plain": {
+        "en": "mountains made by bent rock"
+      },
+      "means": {
+        "en": "Mountains formed when continental plates collide and the rock folds upward, such as the Himalaya."
+      },
+      "lesson": 2
+    },
+    {
+      "id": "fault",
+      "term": "fault",
+      "plain": {
+        "en": "a crack where rock has moved"
+      },
+      "means": {
+        "en": "A break in rock along which the two sides move."
+      },
+      "lesson": 3
+    },
+    {
+      "id": "focus",
+      "term": "focus",
+      "plain": {
+        "en": "where an earthquake starts underground"
+      },
+      "means": {
+        "en": "The place underground where the rock breaks. Also called the earthquake origin."
+      },
+      "lesson": 3
+    },
+    {
+      "id": "epicentre",
+      "term": "epicentre",
+      "plain": {
+        "en": "the surface point above the focus"
+      },
+      "means": {
+        "en": "The point on the surface straight above the focus."
+      },
+      "lesson": 3
+    },
+    {
+      "id": "magnitude",
+      "term": "magnitude",
+      "plain": {
+        "en": "the size of an earthquake"
+      },
+      "means": {
+        "en": "Each step up on the scale means about 32 times more energy."
+      },
+      "lesson": 3
+    },
+    {
+      "id": "ring-of-fire",
+      "term": "Ring of Fire",
+      "plain": {
+        "en": "the belt round the Pacific"
+      },
+      "means": {
+        "en": "The area around the Pacific Ocean where many earthquakes and volcanoes occur."
+      },
+      "lesson": 3
+    },
+    {
+      "id": "topsoil",
+      "term": "topsoil",
+      "plain": {
+        "en": "the dark top layer of soil"
+      },
+      "means": {
+        "en": "The fertile layer crops get most of their food from."
+      },
+      "lesson": 4
+    },
+    {
+      "id": "transportation",
+      "term": "transportation",
+      "plain": {
+        "en": "carrying material along"
+      },
+      "means": {
+        "en": "A river or other agent moving what it has eroded."
+      },
+      "lesson": 4
+    },
+    {
+      "id": "deposition",
+      "term": "deposition",
+      "plain": {
+        "en": "putting material down"
+      },
+      "means": {
+        "en": "Material settling where the water, wind or ice can no longer carry it."
+      },
+      "lesson": 4
+    },
+    {
+      "id": "distributary",
+      "term": "distributary",
+      "plain": {
+        "en": "a smaller channel that splits off"
+      },
+      "means": {
+        "en": "A channel that leaves the main river near its mouth, as in a delta."
+      },
+      "lesson": 5
+    },
+    {
+      "id": "levee",
+      "term": "levee",
+      "plain": {
+        "en": "a low bank beside a river"
+      },
+      "means": {
+        "en": "A bank built by floods when the river slows at its edge."
+      },
+      "lesson": 5
+    },
+    {
+      "id": "floodplain",
+      "term": "floodplain",
+      "plain": {
+        "en": "flat land beside a river"
+      },
+      "means": {
+        "en": "Wide flat land built from sediment dropped by floods."
+      },
+      "lesson": 5
+    },
+    {
+      "id": "alluvial-fan",
+      "term": "alluvial fan",
+      "plain": {
+        "en": "a fan of river sediment"
+      },
+      "means": {
+        "en": "Sediment spread out, often where a steep stream reaches flat ground."
+      },
+      "lesson": 5
+    },
+    {
+      "id": "rapids",
+      "term": "rapids",
+      "plain": {
+        "en": "fast rough water over rocks"
+      },
+      "means": {
+        "en": "A stretch of a river in its upper course."
+      },
+      "lesson": 5
+    },
+    {
+      "id": "contour-trench",
+      "term": "contour trench",
+      "plain": {
+        "en": "a ditch dug along a hill at one height"
+      },
+      "means": {
+        "en": "It holds rainwater so that it soaks in and recharges groundwater."
+      },
+      "lesson": 4
+    },
+    {
+      "id": "check-dam",
+      "term": "check dam",
+      "plain": {
+        "en": "a small dam across a stream"
+      },
+      "means": {
+        "en": "It slows the water and lets sediment settle behind it."
+      },
+      "lesson": 4
+    },
+    {
+      "id": "free-end",
+      "term": "free end",
+      "plain": {
+        "en": "the loose tip of a sand bar"
+      },
+      "means": {
+        "en": "The end of a sand bar that is not joined to the land."
+      },
+      "lesson": 6
+    },
+    {
+      "id": "transverse-dune",
+      "term": "transverse dune",
+      "plain": {
+        "en": "long ridges across the wind"
+      },
+      "means": {
+        "en": "Long dune ridges that lie across the wind, formed with one wind direction and plenty of sand."
+      },
+      "lesson": 8
+    },
+    {
+      "id": "longitudinal-dune",
+      "term": "longitudinal dune",
+      "plain": {
+        "en": "long ridges along the wind"
+      },
+      "means": {
+        "en": "Long dune ridges that lie parallel to the prevailing wind."
+      },
+      "lesson": 8
+    },
+    {
+      "id": "water-table",
+      "term": "water table",
+      "plain": {
+        "en": "the top of the wet ground"
+      },
+      "means": {
+        "en": "The level below which the ground is soaked with water."
+      },
+      "lesson": 8
+    },
+    {
+      "id": "friction",
+      "term": "friction",
+      "plain": {
+        "en": "the grip between pieces"
+      },
+      "means": {
+        "en": "The grip that holds pieces of soil, rock or snow in place on a slope."
+      },
+      "lesson": 10
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l05-game",
+  "type": "mini-game@1",
+  "src": "simulations/L05/RaceTheWaveGame.js",
+  "objective": {
+    "en": "Spread or new start? Sort each event, and read the reason after every card."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

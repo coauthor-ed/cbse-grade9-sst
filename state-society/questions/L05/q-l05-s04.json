@@ -1,0 +1,64 @@
+{
+  "id": "q-l05-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The Damodarpur copper plates of Kumāragupta I record a district office of five members: the head district officer, the chief banker, the chief caravan trader, the chief artisan and the chief of revenue collection. What does this list show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Only officers sent from the capital could take part in district government."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The king himself sat in each district office and decided its cases."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Districts had no officers of their own and were run by traders."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Leading residents such as the banker, the trader and the artisan worked alongside the district officers."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The list has a head district officer and a chief of revenue collection, and also a banker, a caravan trader and an artisan. This fits the account that district officers often decided after consulting important residents such as bankers, caravan leaders, artisans and scribes."
+  },
+  "hints": [
+    {
+      "en": "Count how many of the five were trading or craft people."
+    },
+    {
+      "en": "The district still had a head officer, so option c cannot be right."
+    }
+  ],
+  "tags": [
+    "guptas",
+    "damodarpur",
+    "district-office",
+    "kumargupta",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:24.273Z",
+    "reviewedBy": "review-bar"
+  }
+}

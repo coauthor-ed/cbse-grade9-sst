@@ -1,0 +1,72 @@
+{
+  "id": "q-l07-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "About 90% of global trade by volume is carried by sea. What does \"by volume\" tell you?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Ships earn nine-tenths of all the money in the world."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Volume is an amount of goods, not money earned, so this does not follow."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nine in ten workers in the world depend on ships."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The figure is about goods carried, not about workers."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Nine-tenths of traded goods go by ship."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. By volume means measured by the amount of goods, not by what they are worth."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Ships cover nine-tenths of the world's ocean routes."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The figure is about goods carried, not about how much of the ocean is used."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Volume means amount. So about nine-tenths of the amount of goods traded across the world moves by sea. That is why harbours and the people who work in them matter so much to a country like India."
+  },
+  "hints": [
+    {
+      "en": "Is volume about amount or about money?"
+    }
+  ],
+  "tags": [
+    "marine-resources",
+    "trade",
+    "tourism",
+    "livelihoods"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:47.998Z",
+    "reviewedBy": "review-bar"
+  }
+}

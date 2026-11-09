@@ -1,0 +1,36 @@
+{
+  "id": "blk-l02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02/blk-l02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "It keeps falling"
+    },
+    {
+      "id": "b",
+      "text": "It starts to rise"
+    },
+    {
+      "id": "c",
+      "text": "It stays the same all the way up"
+    },
+    {
+      "id": "d",
+      "text": "There is no air above 12 km"
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L02/AltitudeClimbScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:11.924Z",
+    "reviewedBy": "review-bar"
+  }
+}

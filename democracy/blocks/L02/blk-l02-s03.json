@@ -1,0 +1,17 @@
+{
+  "id": "blk-l02-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The King Did Not Rule Alone\n\n<!-- STEP id=\"three-assemblies\" -->\n## Three Gatherings\n\nNo, he did not rule alone. The Vedic period had assemblies called the **Sabhā**, the **Samiti** and the **Vidhata**, where people took part in deciding together.\n\n<!-- STEP id=\"consulting-king\" -->\n## Working in Consultation\n\nFrom the earliest times, the king was not an independent ruler. He worked in consultation with assemblies, ministers and officers. Consultation means asking others and listening before you decide.\n\n<!-- STEP id=\"republics-too\" -->\n## Early Republican States\n\nSome early states, the **gaṇas** or **saṁghas**, were early republican states, where decisions were taken together.\n\n**The idea of deciding together has been part of India since early times.**"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L02/SabhaSamitiScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.503Z"
+  }
+}

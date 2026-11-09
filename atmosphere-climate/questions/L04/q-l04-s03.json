@@ -1,0 +1,75 @@
+{
+  "id": "q-l04-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A sealed packet of chips swells on the road from Delhi up to Leh. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Less air lies above Leh, so the air outside presses in less."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The air inside now pushes out harder than the air outside pushes in."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "More air lies above Leh, so the air outside presses in more."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Going up leaves less air above you, not more."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The chips give off gas on the journey."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The change comes from the air around the packet, and it reverses on the way down."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Outside air leaks into the sealed packet."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The packet is sealed, so the air in it stays the same."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Air pressure is the weight of the air above. Leh lies about 3,500 m up, so less air lies above it and pressure is lower. The air sealed inside the packet then pushes out harder than the outside air pushes in."
+  },
+  "hints": [
+    {
+      "en": "What changes on the outside of the packet?"
+    },
+    {
+      "en": "Is there more air above you in Delhi or at Leh?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "pressure",
+    "altitude",
+    "sea-level"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:17.642Z",
+    "reviewedBy": "review-bar"
+  }
+}

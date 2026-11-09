@@ -1,0 +1,60 @@
+{
+  "id": "q-l10-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A pupil in a gurukula learns medicine and also practises truth, patience and humility. What does this show about education in early India?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Practical subjects had little value, because moral teaching was the only aim."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Practical skills and inner values were taught together, as one preparation for life."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Moral teaching was a small extra, because the real aim was a career."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Each pupil chose either skills or values, because they were taught in separate places."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Education cultivated inner values such as truth, patience and humility, and it also imparted practical skills across many subjects. Together these made it a complete preparation for life, not just a path to a career. Neither side was dropped, which rules out options a and c."
+  },
+  "hints": [
+    {
+      "en": "The pupil does both in the same place. What does that suggest?"
+    }
+  ],
+  "tags": [
+    "gurukula",
+    "holistic",
+    "values",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:49.938Z",
+    "reviewedBy": "review-bar"
+  }
+}

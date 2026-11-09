@@ -1,0 +1,76 @@
+{
+  "id": "q-l03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Warm air full of water vapour rises from the ground. What makes cloud form?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The air stops moving, and the vapour falls out as rain."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Vapour is a gas. It has to condense into drops first."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The air cools as it rises, and the extra vapour condenses into drops."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Cooler air can hold less vapour, so some of it condenses."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The air warms as it rises, and the vapour turns into drops."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rising air expands and cools. It does not warm."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The air picks up dust, and the dust itself is the cloud."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Clouds are mostly tiny drops of water or ice, not dust."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Rising air expands and cools. Cool air can hold less water vapour, so at some height the air becomes saturated. The extra vapour condenses into tiny drops, which form cloud. When the drops grow heavy they fall as precipitation."
+  },
+  "hints": [
+    {
+      "en": "What happens to the temperature of air as it rises?"
+    },
+    {
+      "en": "Cold air can hold less vapour than warm air."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "precipitation",
+    "humidity",
+    "saturation",
+    "convection"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:22.666Z",
+    "reviewedBy": "review-bar"
+  }
+}

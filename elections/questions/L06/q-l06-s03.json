@@ -1,0 +1,114 @@
+{
+  "id": "q-l06-s03",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Sort each action of a party into the job it does."
+  },
+  "categories": [
+    {
+      "id": "organise",
+      "label": {
+        "en": "Organise public opinion"
+      }
+    },
+    {
+      "id": "campaign",
+      "label": {
+        "en": "Campaign on specific issues"
+      }
+    },
+    {
+      "id": "choices",
+      "label": {
+        "en": "Offer voters meaningful choices"
+      }
+    },
+    {
+      "id": "informed",
+      "label": {
+        "en": "Enable informed decisions"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-petitions",
+      "text": {
+        "en": "Party workers collect residents' signatures about a broken water pipe"
+      },
+      "correctCategoryId": "organise"
+    },
+    {
+      "id": "chip-meeting",
+      "text": {
+        "en": "A ward meeting turns what residents want into one demand"
+      },
+      "correctCategoryId": "organise"
+    },
+    {
+      "id": "chip-platform",
+      "text": {
+        "en": "A party speaks at every meeting about one hospital for the district"
+      },
+      "correctCategoryId": "campaign"
+    },
+    {
+      "id": "chip-single-issue",
+      "text": {
+        "en": "A party holds a rally for a new bridge"
+      },
+      "correctCategoryId": "campaign"
+    },
+    {
+      "id": "chip-two-candidates",
+      "text": {
+        "en": "Candidates of two rival parties offer different plans for one bus route"
+      },
+      "correctCategoryId": "choices"
+    },
+    {
+      "id": "chip-rivals",
+      "text": {
+        "en": "Party A and Party B put forward different plans for the same seat"
+      },
+      "correctCategoryId": "choices"
+    },
+    {
+      "id": "chip-manifesto",
+      "text": {
+        "en": "A party prints its promises so voters can read them before polling"
+      },
+      "correctCategoryId": "informed"
+    },
+    {
+      "id": "chip-debate",
+      "text": {
+        "en": "Two parties debate on radio, so listeners hear both sides"
+      },
+      "correctCategoryId": "informed"
+    }
+  ],
+  "explanation": {
+    "en": "Gathering what people want organises public opinion. Speaking up for one named issue is campaigning. Rival plans give voters a meaningful choice. Printed promises and open debates help voters decide with the facts in front of them."
+  },
+  "hints": [
+    {
+      "en": "Ask what the party is doing: gathering, speaking up, offering a difference, or giving facts?"
+    }
+  ],
+  "tags": [
+    "political-parties",
+    "grassroots",
+    "campaign",
+    "manifesto",
+    "informed-choice"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:19.438Z",
+    "reviewedBy": "review-bar"
+  }
+}

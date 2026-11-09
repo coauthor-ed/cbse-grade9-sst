@@ -1,0 +1,35 @@
+{
+  "id": "blk-l13-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L13/blk-l13-s02.md",
+  "deferVerdict": true,
+  "options": [
+    {
+      "id": "opt-a",
+      "text": "Many rulers built separate walls over many centuries, and these were later joined and repaired."
+    },
+    {
+      "id": "opt-b",
+      "text": "The first Qin emperor built all of it in one 15-year campaign."
+    },
+    {
+      "id": "opt-c",
+      "text": "The Han dynasty built it as a customs post along the Silk Route."
+    },
+    {
+      "id": "opt-d",
+      "text": "It was raised in one emergency effort in the 17th century CE."
+    }
+  ],
+  "correctOptionId": "opt-a",
+  "image": {
+    "src": "media/L13/L13S01-b2.jpg",
+    "alt": "Drawing of a square stone watchtower on the Great Wall.",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

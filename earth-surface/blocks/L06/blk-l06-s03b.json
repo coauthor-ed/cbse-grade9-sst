@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s03b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s03b.md",
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L06/HeadlandScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedBy": "owner",
+    "reviewedAt": "2026-11-01T15:43:10.000Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-l02-a1",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "assertion": {
+    "en": "Homo neanderthalensis and Homo sapiens were alive on earth at the same time."
+  },
+  "reason": {
+    "en": "Each human species ended at the moment the next species began."
+  },
+  "correctOptionId": "c",
+  "optionFeedback": {
+    "a": {
+      "en": "The Reason is false. If each species ended as the next began, no two would ever share the earth."
+    },
+    "b": {
+      "en": "The Reason is false, so it cannot be true alongside the Assertion. Species overlapped for long stretches."
+    },
+    "d": {
+      "en": "The Assertion is true. Homo sapiens goes back about 300,000 years, and Neanderthals lived until about 40,000 years ago."
+    }
+  },
+  "explanation": {
+    "en": "A is true and R is false. Homo sapiens evolved about 300,000 years ago, and Neanderthals lived until about 40,000 years ago, so the two overlapped. Evolution is not a relay race: different kinds of human ancestors lived at the same time."
+  },
+  "hints": [
+    {
+      "en": "Compare two dates: when Homo sapiens began, and when Neanderthals ended."
+    }
+  ],
+  "tags": [
+    "hominins",
+    "overlap"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

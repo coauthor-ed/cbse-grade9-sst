@@ -1,0 +1,73 @@
+{
+  "id": "elections",
+  "moduleId": "elections",
+  "type": "module",
+  "authorId": "elections",
+  "title": {
+    "en": "Elections"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "elections",
+      "democracy-and-representation",
+      "electoral-systems",
+      "voting-rights",
+      "election-commission",
+      "political-parties",
+      "delimitation",
+      "free-and-fair-elections",
+      "psephology"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "Why do elections have to happen again?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "How do votes become seats?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "What do the election laws say?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "Who runs an election?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "How does every voter get to vote?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "What do political parties do?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "How are parties recognised?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08.json",
+      "title": {
+        "en": "What makes an election free and fair?"
+      }
+    }
+  ]
+}

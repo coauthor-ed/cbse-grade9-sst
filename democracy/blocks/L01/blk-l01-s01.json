@@ -1,0 +1,16 @@
+{
+  "id": "blk-l01-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# One Booth, Deep in the Forest\n\n<!-- STEP id=\"gir-booth-story\" -->\n## A Polling Station for One Voter\n\nIn Gujarat's Gir forest lives one registered voter. At election time, officials set up a full polling station for him, so he can walk a short way from home and vote just as every other citizen does.\n\n<!-- STEP id=\"one-booth-among-millions\" -->\n## One Among Over 10 Lakh\n\nIndia sets up over **10 lakh polling stations** for an election, including some in mountains, forests, deserts and islands. In some cases, a polling station is created even for a single voter.\n\n**Why would a country go this far for one vote?**"
+  },
+  "simulation": {
+    "src": "simulations/L01/BoothMapScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.499Z"
+  }
+}

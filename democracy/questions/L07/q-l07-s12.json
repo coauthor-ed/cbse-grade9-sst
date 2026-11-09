@@ -1,0 +1,100 @@
+{
+  "id": "q-l07-s12",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Sort each item by what it does to democratic life."
+  },
+  "categories": [
+    {
+      "id": "strengthens",
+      "label": {
+        "en": "Strengthens democracy"
+      }
+    },
+    {
+      "id": "weakens",
+      "label": {
+        "en": "Weakens democracy"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-question-hour",
+      "text": {
+        "en": "Question Hour, when members ask the government questions"
+      },
+      "correctCategoryId": "strengthens"
+    },
+    {
+      "id": "chip-rti-act",
+      "text": {
+        "en": "The RTI Act, which lets citizens seek information"
+      },
+      "correctCategoryId": "strengthens"
+    },
+    {
+      "id": "chip-gram-sabha",
+      "text": {
+        "en": "Gram Sabhas that meet with a proper quorum"
+      },
+      "correctCategoryId": "strengthens"
+    },
+    {
+      "id": "chip-independent-courts",
+      "text": {
+        "en": "Courts that check laws against the Constitution"
+      },
+      "correctCategoryId": "strengthens"
+    },
+    {
+      "id": "chip-fake-news",
+      "text": {
+        "en": "Fake news spreading on social media"
+      },
+      "correctCategoryId": "weakens"
+    },
+    {
+      "id": "chip-damaged-property",
+      "text": {
+        "en": "Damaging public property"
+      },
+      "correctCategoryId": "weakens"
+    },
+    {
+      "id": "chip-approved-only",
+      "text": {
+        "en": "Allowing only selected candidates to contest"
+      },
+      "correctCategoryId": "weakens"
+    },
+    {
+      "id": "chip-press-censorship",
+      "text": {
+        "en": "Censoring the press"
+      },
+      "correctCategoryId": "weakens"
+    }
+  ],
+  "explanation": {
+    "en": "Question Hour and the RTI Act help citizens and their representatives check the government. Gram Sabhas let people take part in decisions, and courts keep laws within the Constitution. Fake news misleads citizens, damaging public property weakens democratic values, and allowing only selected candidates or censoring the press limits choice and voice."
+  },
+  "hints": [
+    {
+      "en": "Ask what each item does to a citizen's information, voice or equal standing."
+    }
+  ],
+  "tags": [
+    "chapter-recap",
+    "accountability",
+    "participation",
+    "misinformation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.526Z"
+  }
+}

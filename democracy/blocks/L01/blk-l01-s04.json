@@ -1,0 +1,16 @@
+{
+  "id": "blk-l01-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# How Big Is the Voter List?\n\n<!-- STEP id=\"voter-count\" -->\n## 96.8 Crore Voters\n\nIn 2024, India had over **96.8 crore registered voters**. These are the people on the voter list, so the number is smaller than the whole population.\n\n<!-- STEP id=\"population-compare\" -->\n## Out of Over 140 Crore People\n\nIndia's population is over 140 crore, so about two of every three people are registered to vote. India, that is, Bharat, is the world's largest democracy.\n\n<!-- STEP id=\"one-mp-many-people\" -->\n## One MP, About 25 Lakh People\n\nOn average, one Member of Parliament represents about 25 lakh people (2019).\n\n**A system built for crores of voters still goes to one voter in Gir.**"
+  },
+  "simulation": {
+    "src": "simulations/L01/VoterScaleScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.500Z"
+  }
+}

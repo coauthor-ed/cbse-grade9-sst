@@ -1,0 +1,16 @@
+{
+  "id": "blk-l04-s07",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Would One Party Decide Faster?\n\n<!-- STEP id=\"tempting-shortcut\" -->\n## A Fair Question\n\nYou may think one party alone would decide faster, because it has no partners to persuade and no opposition to answer. That is a fair thought, and some decisions might well come sooner.\n\n<!-- STEP id=\"speed-without-steering\" -->\n## What Would Be Lost\n\nLook at what goes when the other parties go. People lose the power to choose those they consider most suitable, and many voices and interests are no longer represented.\n\nThe largest opposing group is gone too, so no opposition is left in the House to question the government.\n\n**Parties represent the diversity of Indian society, and one party cannot speak for all of it.**"
+  },
+  "simulation": {
+    "src": "simulations/L04/OnePartyScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.515Z"
+  }
+}

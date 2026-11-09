@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L02/SeatRuleScene.js",
+  "objective": {
+    "en": "Apply each country's rule to five counts and tap the result."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:02.694Z",
+    "reviewedBy": "review-bar"
+  }
+}

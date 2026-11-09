@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s08b",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Democracy in Everyday Life\n\n<!-- STEP id=\"outside-government\" -->\n## Outside the Government Too\n\nCivil society organisations, socio-religious and community institutions, cooperatives and trade unions often decide in a democratic way too.\n\nA **cooperative** is a group formed to work for a common benefit. Its members share profits and responsibilities equally.\n\n<!-- STEP id=\"bridges\" -->\n## Bridges to the State\n\nThese groups act as bridges between citizens and the State. They work through Public Interest Litigation (PIL), campaigns and community organisations.\n\n**They help make democracy more inclusive and responsive.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/EverydayDemocracyScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-11-01T00:00:00.000Z",
+    "flags": []
+  }
+}

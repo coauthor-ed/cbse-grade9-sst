@@ -1,0 +1,58 @@
+{
+  "id": "blk-l05-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05/blk-l05-s01.md",
+  "mediaStep": 0,
+  "reveal": {
+    "focus": {
+      "wheat": {
+        "x": 0.014,
+        "y": 0.286,
+        "w": 0.171,
+        "h": 0.366
+      },
+      "yangtze": {
+        "x": 0.177,
+        "y": 0.244,
+        "w": 0.173,
+        "h": 0.425
+      },
+      "yellow": {
+        "x": 0.335,
+        "y": 0.253,
+        "w": 0.176,
+        "h": 0.437
+      },
+      "ganga": {
+        "x": 0.498,
+        "y": 0.265,
+        "w": 0.171,
+        "h": 0.4
+      },
+      "india": {
+        "x": 0.668,
+        "y": 0.282,
+        "w": 0.157,
+        "h": 0.395
+      },
+      "pearl": {
+        "x": 0.822,
+        "y": 0.269,
+        "w": 0.169,
+        "h": 0.404
+      }
+    },
+    "focusSource": "author",
+    "opaque": true
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  },
+  "image": {
+    "src": "media/L05/L05S01.jpg",
+    "alt": "Six bowls of grain in a row: wheat and barley, brownish rice, yellow millet, reddish rice, dark millet and pale pearl millet.",
+    "position": "right"
+  }
+}

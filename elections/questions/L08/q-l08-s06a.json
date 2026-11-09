@@ -1,0 +1,61 @@
+{
+  "id": "q-l08-s06a",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A voter has checked the VVPAT slip. What happens to the slip next?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The voter takes it home"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It drops into a sealed box"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "An officer reads it out to the room"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is posted to the voter's address"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The slip stays behind a small window for a few seconds, so the voter can check that the vote went to the right candidate. It then drops into a sealed box. No voter carries it away."
+  },
+  "hints": [
+    {
+      "en": "The voter sees the slip through a small window, and never touches it."
+    }
+  ],
+  "tags": [
+    "continuity",
+    "pebble",
+    "vvpat",
+    "eci",
+    "elections"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:29.638Z",
+    "reviewedBy": "review-bar"
+  }
+}

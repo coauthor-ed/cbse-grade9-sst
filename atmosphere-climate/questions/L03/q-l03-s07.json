@@ -1,0 +1,73 @@
+{
+  "id": "q-l03-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Which three are the main factors that affect precipitation?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Prevailing winds, ozone and meteors"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ozone and meteors are high in the atmosphere, far above the rain."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Mountains, satellites and the Moon"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mountains are one factor, but satellites and the Moon are not."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Prevailing winds, mountains and seasons"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. These are the three main factors."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Distance from the Sun, tides and seasons"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Tides and distance from the Sun do not decide where rain falls."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Prevailing winds carry water vapour, mountains force air to rise and cool, and the seasons change which winds blow. Together these three explain much of why some places are wet and others are dry."
+  },
+  "hints": [
+    {
+      "en": "Think about what moves wet air, what lifts it, and when."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "precipitation",
+    "prevailing-winds",
+    "mountains",
+    "seasons"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:22.666Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "q-l07-s04",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Each line below gives a fact about one station. Sort each fact by what mainly explains it."
+  },
+  "categories": [
+    {
+      "id": "sea",
+      "label": {
+        "en": "The sea close by"
+      },
+      "tone": 1
+    },
+    {
+      "id": "far",
+      "label": {
+        "en": "Far from the sea"
+      },
+      "tone": 2
+    },
+    {
+      "id": "hills",
+      "label": {
+        "en": "Hills and mountains"
+      },
+      "tone": 3
+    }
+  ],
+  "chips": [
+    {
+      "id": "c1",
+      "text": {
+        "en": "Thiruvananthapuram stays between 26.2 and 28.7 °C all year"
+      },
+      "correctCategoryId": "sea"
+    },
+    {
+      "id": "c2",
+      "text": {
+        "en": "Mumbai stays between 24.4 and 30.0 °C all year"
+      },
+      "correctCategoryId": "sea"
+    },
+    {
+      "id": "c3",
+      "text": {
+        "en": "Nagpur swings from 20.7 to 35.5 °C"
+      },
+      "correctCategoryId": "far"
+    },
+    {
+      "id": "c4",
+      "text": {
+        "en": "Delhi swings from 14.4 to 33.3 °C"
+      },
+      "correctCategoryId": "far"
+    },
+    {
+      "id": "c5",
+      "text": {
+        "en": "Shillong gets 225.3 cm of rain in a year"
+      },
+      "correctCategoryId": "hills"
+    },
+    {
+      "id": "c6",
+      "text": {
+        "en": "Leh gets only 8.5 cm of rain in a year"
+      },
+      "correctCategoryId": "hills"
+    }
+  ],
+  "explanation": {
+    "en": "The sea warms and cools slowly, so places beside it stay steady. Places far from it swing widely. Hills lift wet air at Shillong, and the Himalaya keep most monsoon rain from Leh."
+  },
+  "hints": [
+    {
+      "en": "A small temperature swing suggests the sea is close."
+    },
+    {
+      "en": "Hills can make a place very wet, or keep rain away from it."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "climate-data",
+    "rainfall",
+    "temperature",
+    "classification"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:42.603Z",
+    "reviewedBy": "review-bar"
+  }
+}

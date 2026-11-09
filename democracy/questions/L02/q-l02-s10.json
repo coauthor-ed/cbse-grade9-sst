@@ -1,0 +1,58 @@
+{
+  "id": "q-l02-s10",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In the Bauddha Saṁgha established by Gautama Buddha, how were leaders chosen and decisions made?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Leadership passed down through families, and elders confirmed each new leader."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Members discussed matters, chose their leader, and decided through voting."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Gautama Buddha ruled the Saṁgha as its king, and members followed his orders."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Debate was discouraged, because silence and obedience were the highest values."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The Saṁgha encouraged debate and discussion, and its members could choose their leader and make decisions through voting. This is collective decision-making in daily practice."
+  },
+  "hints": [
+    {
+      "en": "Ask who held the power to decide in the Saṁgha: one ruler, one family, or the members together."
+    }
+  ],
+  "tags": [
+    "bauddha-sangha",
+    "collective-decision-making",
+    "democracy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.505Z"
+  }
+}

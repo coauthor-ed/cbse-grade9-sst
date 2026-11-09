@@ -1,0 +1,38 @@
+{
+  "id": "blk-l11-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L11/blk-l11-s03.md",
+  "poeRole": "observe",
+  "poeRecapStep": 1,
+  "image": {
+    "src": "media/L11/L11S03.jpg",
+    "alt": "A drawing in the style of the Papyrus of Ani: the weighing of the heart",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "balance-detail": {
+        "src": "media/L11/L11S03-b2.jpg",
+        "alt": "A drawing of the jackal-headed god Anubis checking the balance scale"
+      },
+      "scribe": {
+        "src": "media/L11/L11S03-b3.jpg",
+        "alt": "A drawing of the ibis-headed god Thoth writing, with the beast waiting beside him"
+      },
+      "ka": {
+        "src": "media/L11/L11S03.jpg",
+        "alt": "A drawing in the style of the Papyrus of Ani: the weighing of the heart"
+      }
+    }
+  },
+  "simulationStep": 3,
+  "simulation": {
+    "src": "simulations/L11/HeartFeatherBalanceScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

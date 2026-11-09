@@ -1,0 +1,31 @@
+{
+  "id": "q-l01-s06",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "How many hymns (sūktas) does the Ṛigveda contain?"
+  },
+  "expectedValue": 1028,
+  "tolerance": 0,
+  "unit": "hymns",
+  "explanation": {
+    "en": "The Ṛigveda, the earliest of the four Vedas, consists of 1,028 hymns. Some praise deities, and others reflect on creation and cessation, birth and death."
+  },
+  "hints": [
+    {
+      "en": "It is just over a thousand."
+    }
+  ],
+  "tags": [
+    "vedas",
+    "rigveda",
+    "recall"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:04.889Z",
+    "reviewedBy": "review-bar"
+  }
+}

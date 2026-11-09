@@ -1,0 +1,36 @@
+{
+  "id": "blk-l06-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06/blk-l06-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "A high sea wall built along the island's shore"
+    },
+    {
+      "id": "b",
+      "text": "Old stories that taught the signs of a tsunami"
+    },
+    {
+      "id": "c",
+      "text": "Sirens and buoys that sounded an alarm in time"
+    },
+    {
+      "id": "d",
+      "text": "The wave turned away and never reached the island"
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L06/TsunamiTravelScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:43.334Z",
+    "reviewedBy": "review-bar"
+  }
+}

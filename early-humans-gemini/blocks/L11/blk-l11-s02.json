@@ -1,0 +1,35 @@
+{
+  "id": "blk-l11-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L11/blk-l11-s02.md",
+  "deferVerdict": true,
+  "options": [
+    {
+      "id": "opt-a",
+      "text": "Egyptians believed it held the record of a life and would be tested after death."
+    },
+    {
+      "id": "opt-b",
+      "text": "Embalmers had no tools sharp enough to take it out without breaking the ribs."
+    },
+    {
+      "id": "opt-c",
+      "text": "The heart was needed to pump blood when the body woke up in the tomb."
+    },
+    {
+      "id": "opt-d",
+      "text": "It was a cheaper ritual for poor families who could not afford a fifth jar."
+    }
+  ],
+  "correctOptionId": "opt-a",
+  "image": {
+    "src": "media/L11/L11S02.jpg",
+    "alt": "A drawn papyrus painting of a balance scale with a heart on one pan and a feather on the other",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

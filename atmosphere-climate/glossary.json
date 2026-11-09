@@ -1,0 +1,1203 @@
+{
+  "terms": [
+    {
+      "id": "atmosphere",
+      "term": "atmosphere",
+      "match": [
+        "Atmosphere"
+      ],
+      "plain": {
+        "en": "the blanket of air"
+      },
+      "means": {
+        "en": "The layer of air around the Earth, held by gravity."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "altitude",
+      "term": "altitude",
+      "match": [
+        "Altitude"
+      ],
+      "plain": {
+        "en": "height above sea level"
+      },
+      "means": {
+        "en": "The height of a place above mean sea level."
+      },
+      "face": {
+        "art": "pine",
+        "tone": 4
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "troposphere",
+      "term": "troposphere",
+      "match": [
+        "Troposphere"
+      ],
+      "plain": {
+        "en": "the turning-over layer"
+      },
+      "roots": [
+        {
+          "part": "tropo",
+          "means": {
+            "en": "turning"
+          }
+        },
+        {
+          "part": "sphere",
+          "means": {
+            "en": "the whole round of it"
+          }
+        }
+      ],
+      "means": {
+        "en": "The lowest layer of air, about 12 km high, where nearly all the weather happens."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 1
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "stratosphere",
+      "term": "stratosphere",
+      "match": [
+        "Stratosphere"
+      ],
+      "plain": {
+        "en": "the flat, spread-out layer"
+      },
+      "roots": [
+        {
+          "part": "strato",
+          "means": {
+            "en": "spread out in layers"
+          }
+        },
+        {
+          "part": "sphere",
+          "means": {
+            "en": "the whole round of it"
+          }
+        }
+      ],
+      "means": {
+        "en": "The layer above the tropopause, up to 50 km, which holds the ozone layer."
+      },
+      "face": {
+        "art": "pond",
+        "tone": 2
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "mesosphere",
+      "term": "mesosphere",
+      "match": [
+        "Mesosphere"
+      ],
+      "plain": {
+        "en": "the middle layer"
+      },
+      "roots": [
+        {
+          "part": "meso",
+          "means": {
+            "en": "middle"
+          }
+        },
+        {
+          "part": "sphere",
+          "means": {
+            "en": "the whole round of it"
+          }
+        }
+      ],
+      "means": {
+        "en": "The middle layer, up to 80 km, where most meteors burn up."
+      },
+      "face": {
+        "art": "moss",
+        "tone": 3
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "thermosphere",
+      "term": "thermosphere",
+      "match": [
+        "Thermosphere"
+      ],
+      "plain": {
+        "en": "the hot layer"
+      },
+      "roots": [
+        {
+          "part": "thermo",
+          "means": {
+            "en": "heat"
+          }
+        },
+        {
+          "part": "sphere",
+          "means": {
+            "en": "the whole round of it"
+          }
+        }
+      ],
+      "means": {
+        "en": "The layer from 80 km to 700 km, where temperature rises very rapidly and auroras occur."
+      },
+      "face": {
+        "art": "spirogyra",
+        "tone": 4
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "exosphere",
+      "term": "exosphere",
+      "match": [
+        "Exosphere"
+      ],
+      "plain": {
+        "en": "the outside layer"
+      },
+      "roots": [
+        {
+          "part": "exo",
+          "means": {
+            "en": "outside"
+          }
+        },
+        {
+          "part": "sphere",
+          "means": {
+            "en": "the whole round of it"
+          }
+        }
+      ],
+      "means": {
+        "en": "The uppermost layer, with very thin air that fades into space."
+      },
+      "face": {
+        "art": "cyano",
+        "tone": 5
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "tropopause",
+      "term": "tropopause",
+      "match": [
+        "Tropopause"
+      ],
+      "plain": {
+        "en": "the top of the troposphere"
+      },
+      "roots": [
+        {
+          "part": "tropo",
+          "means": {
+            "en": "turning"
+          }
+        },
+        {
+          "part": "pause",
+          "means": {
+            "en": "a stopping"
+          }
+        }
+      ],
+      "means": {
+        "en": "The thin transition zone at the top of the troposphere."
+      },
+      "face": {
+        "art": "fern",
+        "tone": 8
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "stratopause",
+      "term": "stratopause",
+      "match": [
+        "Stratopause"
+      ],
+      "plain": {
+        "en": "the top of the stratosphere"
+      },
+      "roots": [
+        {
+          "part": "strato",
+          "means": {
+            "en": "spread out in layers"
+          }
+        },
+        {
+          "part": "pause",
+          "means": {
+            "en": "a stopping"
+          }
+        }
+      ],
+      "means": {
+        "en": "The boundary above the stratosphere."
+      },
+      "face": {
+        "art": "sprout",
+        "tone": 1
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "mesopause",
+      "term": "mesopause",
+      "match": [
+        "Mesopause"
+      ],
+      "plain": {
+        "en": "the top of the mesosphere"
+      },
+      "roots": [
+        {
+          "part": "meso",
+          "means": {
+            "en": "middle"
+          }
+        },
+        {
+          "part": "pause",
+          "means": {
+            "en": "a stopping"
+          }
+        }
+      ],
+      "means": {
+        "en": "The boundary above the mesosphere."
+      },
+      "face": {
+        "art": "pine",
+        "tone": 2
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "ozone",
+      "term": "ozone",
+      "match": [
+        "Ozone"
+      ],
+      "plain": {
+        "en": "a gas high in the air"
+      },
+      "roots": [
+        {
+          "part": "ozo",
+          "means": {
+            "en": "smell"
+          }
+        }
+      ],
+      "means": {
+        "en": "A gas in the stratosphere that filters much of the Sun's harmful ultraviolet radiation."
+      },
+      "face": {
+        "art": "bacterium",
+        "tone": 7
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "aurora",
+      "term": "aurora",
+      "match": [
+        "Aurora",
+        "aurora borealis",
+        "aurora australis",
+        "Northern Lights",
+        "Southern Lights"
+      ],
+      "plain": {
+        "en": "dawn"
+      },
+      "roots": [
+        {
+          "part": "aur",
+          "means": {
+            "en": "dawn"
+          }
+        }
+      ],
+      "means": {
+        "en": "Latin for dawn, after the Roman goddess of dawn. The light display happens high in the thermosphere."
+      },
+      "face": {
+        "art": "protist",
+        "tone": 6
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "ionosphere",
+      "term": "ionosphere",
+      "match": [
+        "Ionosphere"
+      ],
+      "plain": {
+        "en": "the radio mirror"
+      },
+      "means": {
+        "en": "The part of the thermosphere that reflects radio waves back towards the Earth."
+      },
+      "face": {
+        "art": "cyano",
+        "tone": 6
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "meteor",
+      "term": "meteor",
+      "match": [
+        "Meteor",
+        "meteors",
+        "Meteors"
+      ],
+      "plain": {
+        "en": "a rock burning in the air"
+      },
+      "means": {
+        "en": "A rock from space while it burns up as it falls through the air."
+      },
+      "face": {
+        "art": "moss",
+        "tone": 4
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "meteorite",
+      "term": "meteorite",
+      "match": [
+        "Meteorite",
+        "meteorites",
+        "Meteorites"
+      ],
+      "plain": {
+        "en": "a piece that reached the ground"
+      },
+      "means": {
+        "en": "The piece of a meteor that reaches the ground."
+      },
+      "face": {
+        "art": "moss",
+        "tone": 5
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "solar wind",
+      "term": "solar wind",
+      "match": [
+        "Solar wind"
+      ],
+      "plain": {
+        "en": "charged particles from the Sun"
+      },
+      "means": {
+        "en": "The stream of charged particles sent out by the Sun."
+      },
+      "face": {
+        "art": "protist",
+        "tone": 4
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "insolation",
+      "term": "insolation",
+      "match": [
+        "Insolation"
+      ],
+      "plain": {
+        "en": "incoming solar energy"
+      },
+      "roots": [
+        {
+          "part": "in",
+          "means": {
+            "en": "into"
+          }
+        },
+        {
+          "part": "sol",
+          "means": {
+            "en": "the Sun"
+          }
+        }
+      ],
+      "means": {
+        "en": "The incoming solar energy intercepted by the Earth."
+      },
+      "face": {
+        "art": "cyano",
+        "tone": 4
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "weather",
+      "term": "weather",
+      "match": [
+        "Weather"
+      ],
+      "plain": {
+        "en": "the air today"
+      },
+      "means": {
+        "en": "The conditions of the atmosphere from hour to hour and day to day."
+      },
+      "face": {
+        "art": "pond",
+        "tone": 1
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "climate",
+      "term": "climate",
+      "match": [
+        "Climate"
+      ],
+      "plain": {
+        "en": "the usual weather"
+      },
+      "means": {
+        "en": "The average weather of a place over a long time, usually thirty years or more."
+      },
+      "face": {
+        "art": "pond",
+        "tone": 2
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "humidity",
+      "term": "humidity",
+      "match": [
+        "Humidity"
+      ],
+      "plain": {
+        "en": "water vapour in the air"
+      },
+      "means": {
+        "en": "The presence of water vapour in the air. More vapour means more humid air."
+      },
+      "face": {
+        "art": "frog",
+        "tone": 3
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "precipitation",
+      "term": "precipitation",
+      "match": [
+        "Precipitation"
+      ],
+      "plain": {
+        "en": "water falling from the sky"
+      },
+      "means": {
+        "en": "Water that falls to the Earth as drizzle, rain, snow, sleet or hail."
+      },
+      "face": {
+        "art": "frog",
+        "tone": 5
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "saturated",
+      "term": "saturated",
+      "match": [
+        "Saturated"
+      ],
+      "plain": {
+        "en": "full of vapour"
+      },
+      "means": {
+        "en": "Air that cannot hold any more water vapour at its temperature."
+      },
+      "face": {
+        "art": "frog",
+        "tone": 6
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "torrid zone",
+      "term": "Torrid Zone",
+      "match": [
+        "Torrid Zone"
+      ],
+      "plain": {
+        "en": "the hot belt"
+      },
+      "means": {
+        "en": "The belt between the Tropic of Cancer and the Tropic of Capricorn, where sunlight strikes most directly."
+      },
+      "face": {
+        "art": "lizard",
+        "tone": 4
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "temperate zone",
+      "term": "Temperate Zone",
+      "match": [
+        "Temperate Zones"
+      ],
+      "plain": {
+        "en": "the middle belts"
+      },
+      "means": {
+        "en": "The belts between each tropic and its polar circle."
+      },
+      "face": {
+        "art": "sprout",
+        "tone": 3
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "frigid zone",
+      "term": "Frigid Zone",
+      "match": [
+        "Frigid Zones"
+      ],
+      "plain": {
+        "en": "the frozen belts"
+      },
+      "means": {
+        "en": "The areas beyond the Arctic and Antarctic Circles, where sunlight comes in at a low angle."
+      },
+      "face": {
+        "art": "snail",
+        "tone": 4
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "prevailing wind",
+      "term": "prevailing wind",
+      "match": [
+        "Prevailing wind",
+        "prevailing winds",
+        "Prevailing winds"
+      ],
+      "plain": {
+        "en": "the usual wind"
+      },
+      "means": {
+        "en": "The wind that usually blows at a place."
+      },
+      "face": {
+        "art": "sparrow",
+        "tone": 5
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "isobar",
+      "term": "isobar",
+      "match": [
+        "Isobar",
+        "isobars"
+      ],
+      "plain": {
+        "en": "a line of equal air pressure"
+      },
+      "roots": [
+        {
+          "part": "iso",
+          "means": {
+            "en": "equal"
+          }
+        },
+        {
+          "part": "bar",
+          "means": {
+            "en": "pressure"
+          }
+        }
+      ],
+      "means": {
+        "en": "A line on a map joining places of equal air pressure."
+      },
+      "face": {
+        "art": "fern",
+        "tone": 8
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "air pressure",
+      "term": "air pressure",
+      "match": [
+        "Air pressure",
+        "atmospheric pressure",
+        "Atmospheric pressure"
+      ],
+      "plain": {
+        "en": "the weight of the air"
+      },
+      "means": {
+        "en": "The pressure exerted by the weight of air on the Earth's surface. Also called atmospheric pressure."
+      },
+      "face": {
+        "art": "fern",
+        "tone": 2
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "sea breeze",
+      "term": "sea breeze",
+      "match": [
+        "Sea breeze"
+      ],
+      "plain": {
+        "en": "wind from the sea"
+      },
+      "means": {
+        "en": "A local wind that blows from sea to land, especially in the afternoon."
+      },
+      "face": {
+        "art": "sparrow",
+        "tone": 2
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "land breeze",
+      "term": "land breeze",
+      "match": [
+        "Land breeze"
+      ],
+      "plain": {
+        "en": "wind from the land"
+      },
+      "means": {
+        "en": "A local wind that blows from land to sea at night."
+      },
+      "face": {
+        "art": "sparrow",
+        "tone": 3
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "monsoon",
+      "term": "monsoon",
+      "match": [
+        "Monsoon",
+        "monsoons"
+      ],
+      "plain": {
+        "en": "seasonal reversal of the wind"
+      },
+      "roots": [
+        {
+          "part": "mausim",
+          "means": {
+            "en": "season"
+          }
+        }
+      ],
+      "means": {
+        "en": "From the Arabic mausim, meaning season. The seasonal reversal in wind direction during a year."
+      },
+      "face": {
+        "art": "pond",
+        "tone": 3
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "south-west-monsoon",
+      "term": "south-west monsoon",
+      "match": [
+        "south-west monsoon",
+        "south west monsoon",
+        "South-West Monsoon"
+      ],
+      "plain": {
+        "en": "the sea-to-land wind of June to September"
+      },
+      "roots": [],
+      "means": {
+        "en": "The summer monsoon: wind from the sea to the land, June to September."
+      },
+      "face": {
+        "art": "sparrow",
+        "tone": 1
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "north-east-monsoon",
+      "term": "north-east monsoon",
+      "match": [
+        "north-east monsoon",
+        "north east monsoon",
+        "North-East Monsoon"
+      ],
+      "plain": {
+        "en": "the land-to-sea wind of October to February"
+      },
+      "roots": [],
+      "means": {
+        "en": "The winter monsoon: wind from the land to the sea, October to February."
+      },
+      "face": {
+        "art": "moss",
+        "tone": 2
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "vasanta",
+      "term": "Vasanta",
+      "match": [
+        "Vasanta"
+      ],
+      "plain": {
+        "en": "spring, March and April"
+      },
+      "roots": [
+        {
+          "part": "vas",
+          "means": {
+            "en": "to dwell, to stay"
+          }
+        }
+      ],
+      "means": {
+        "en": "Spring in the traditional calendar: the months Chaitra and Vaiśhākha."
+      },
+      "face": {
+        "art": "flower",
+        "tone": 1
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "grishma",
+      "term": "Grīṣhma",
+      "match": [
+        "Grishma",
+        "Grīṣhma"
+      ],
+      "plain": {
+        "en": "summer, May and June"
+      },
+      "roots": [
+        {
+          "part": "grish",
+          "means": {
+            "en": "dry, hot, scorched"
+          }
+        }
+      ],
+      "means": {
+        "en": "Summer in the traditional calendar: the months Jyeṣhṭha and Āṣhāḍha."
+      },
+      "face": {
+        "art": "lizard",
+        "tone": 2
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "varsha",
+      "term": "Varṣhā",
+      "match": [
+        "Varsha",
+        "Varṣhā",
+        "Varṣā"
+      ],
+      "plain": {
+        "en": "the rains, July and August"
+      },
+      "roots": [
+        {
+          "part": "var",
+          "means": {
+            "en": "to rain"
+          }
+        }
+      ],
+      "means": {
+        "en": "The rainy season in the traditional calendar: the months Śhrāvaṇa and Bhādrapada."
+      },
+      "face": {
+        "art": "frog",
+        "tone": 5
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "sharad",
+      "term": "Śharad",
+      "match": [
+        "Sharad",
+        "Śharad"
+      ],
+      "plain": {
+        "en": "early autumn, September and October"
+      },
+      "roots": [
+        {
+          "part": "shar",
+          "means": {
+            "en": "to fall, to wither"
+          }
+        }
+      ],
+      "means": {
+        "en": "Early autumn in the traditional calendar: the months Āśhvina and Kārtika."
+      },
+      "face": {
+        "art": "beetle",
+        "tone": 7
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "hemanta",
+      "term": "Hemanta",
+      "match": [
+        "Hemanta"
+      ],
+      "plain": {
+        "en": "late autumn, November and December"
+      },
+      "roots": [
+        {
+          "part": "hema",
+          "means": {
+            "en": "snow, gold"
+          }
+        }
+      ],
+      "means": {
+        "en": "Late autumn in the traditional calendar: the months Mārgaśhīrṣha and Pauṣha."
+      },
+      "face": {
+        "art": "deer",
+        "tone": 8
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "shishira",
+      "term": "Śhiśhira",
+      "match": [
+        "Shishira",
+        "Śhiśhira",
+        "Śhiśira"
+      ],
+      "plain": {
+        "en": "winter, January and February"
+      },
+      "roots": [
+        {
+          "part": "shis",
+          "means": {
+            "en": "cold, frosty, dewy"
+          }
+        }
+      ],
+      "means": {
+        "en": "Winter in the traditional calendar: the months Māgha and Phālguna."
+      },
+      "face": {
+        "art": "snail",
+        "tone": 2
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "isochrone",
+      "term": "isochrone",
+      "match": [
+        "Isochrone",
+        "isochrones"
+      ],
+      "plain": {
+        "en": "same-time line"
+      },
+      "roots": [
+        {
+          "part": "iso",
+          "means": {
+            "en": "same"
+          }
+        },
+        {
+          "part": "chronos",
+          "means": {
+            "en": "time"
+          }
+        }
+      ],
+      "means": {
+        "en": "A line on a map joining places that share one date, such as the date the monsoon arrives."
+      },
+      "face": {
+        "art": "fern",
+        "tone": 4
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "nakshatra",
+      "term": "nakṣhatra",
+      "match": [
+        "nakṣhatras",
+        "Nakṣhatra",
+        "Nakṣhatras"
+      ],
+      "plain": {
+        "en": "one of 27 parts of the sky"
+      },
+      "means": {
+        "en": "One of 27 equal parts of the sky along the Moon's path, also called a lunar mansion."
+      },
+      "face": {
+        "art": "beetle",
+        "tone": 3
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "rtu",
+      "term": "Ṛtu",
+      "match": [
+        "Ṛtus"
+      ],
+      "plain": {
+        "en": "a season in the traditional calendar"
+      },
+      "means": {
+        "en": "One of the six traditional Indian seasons, each about two months long."
+      },
+      "face": {
+        "art": "flower",
+        "tone": 2
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "equable",
+      "term": "equable",
+      "match": [
+        "Equable",
+        "equability"
+      ],
+      "plain": {
+        "en": "even all the way through the year"
+      },
+      "roots": [
+        {
+          "part": "equa",
+          "means": {
+            "en": "equal, even"
+          }
+        }
+      ],
+      "means": {
+        "en": "Describing a place whose temperature changes very little across the year."
+      },
+      "face": {
+        "art": "sponge",
+        "tone": 1
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "greenhouse gas",
+      "term": "greenhouse gas",
+      "match": [
+        "greenhouse gases",
+        "Greenhouse gas"
+      ],
+      "plain": {
+        "en": "a gas that holds heat rising from the ground"
+      },
+      "roots": [],
+      "means": {
+        "en": "A gas that holds some of the heat rising from the warmed ground and sends part of it back down: carbon dioxide, methane, nitrous oxide, water vapour."
+      },
+      "face": {
+        "art": "spirogyra",
+        "tone": 5
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "carbon footprint",
+      "term": "carbon footprint",
+      "match": [
+        "Carbon footprint",
+        "carbon footprints"
+      ],
+      "plain": {
+        "en": "the total greenhouse gases from human activities"
+      },
+      "roots": [],
+      "means": {
+        "en": "The total amount of greenhouse gases released as a result of human activities such as energy use, transport or making goods."
+      },
+      "face": {
+        "art": "moss",
+        "tone": 6
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "greenhouse effect",
+      "term": "greenhouse effect",
+      "match": [
+        "Greenhouse effect"
+      ],
+      "plain": {
+        "en": "air holding some of the ground's heat"
+      },
+      "means": {
+        "en": "The way some gases hold heat rising from the ground. It keeps Earth's average near 15 °C."
+      },
+      "face": {
+        "art": "spirogyra",
+        "tone": 4
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "ozone hole",
+      "term": "ozone hole",
+      "match": [
+        "Ozone hole"
+      ],
+      "plain": {
+        "en": "thinning of ozone over Antarctica"
+      },
+      "means": {
+        "en": "A thinning of the ozone layer over Antarctica caused by CFCs. It lets more ultraviolet reach the ground."
+      },
+      "face": {
+        "art": "bacterium",
+        "tone": 3
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "climate change",
+      "term": "climate change",
+      "match": [
+        "Climate change"
+      ],
+      "plain": {
+        "en": "long-term change in weather patterns"
+      },
+      "means": {
+        "en": "Long-term changes in temperature, rainfall and wind, caused mainly by human activities."
+      },
+      "face": {
+        "art": "pine",
+        "tone": 5
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "dhusi bandh",
+      "term": "dhūsī bāndh",
+      "match": [
+        "Dhūsī bāndh"
+      ],
+      "plain": {
+        "en": "river embankments in Punjab"
+      },
+      "means": {
+        "en": "Earth embankments along rivers in Punjab."
+      },
+      "face": {
+        "art": "sponge",
+        "tone": 3
+      },
+      "lesson": 8,
+      "group": "concept"
+    }
+  ]
+}

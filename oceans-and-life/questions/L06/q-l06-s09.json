@@ -1,0 +1,31 @@
+{
+  "id": "q-l06-s09",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "The chapter gives the length of India's coastline as an exact figure. How long is India's coastline, in kilometres?"
+  },
+  "expectedValue": 11098.81,
+  "tolerance": 100,
+  "unit": "km",
+  "explanation": {
+    "en": "The coastline of India is 11,098.81 kilometres long. That length is one of the reasons the country needs an early warning system, a cyclone shelter network and rescue teams all along the coast, and one of the reasons the question of what the sea gives back is worth asking."
+  },
+  "hints": [
+    {
+      "en": "It is a little over eleven thousand kilometres. The chapter gives the figure to two decimal places."
+    }
+  ],
+  "tags": [
+    "coastline",
+    "india",
+    "ocean-resources"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:43.334Z",
+    "reviewedBy": "review-bar"
+  }
+}

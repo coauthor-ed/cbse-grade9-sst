@@ -1,0 +1,97 @@
+{
+  "id": "q-l03-s07",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Between the Lower and Middle Palaeolithic, the toolkit changed. Sort each item into the period it characterises."
+  },
+  "image": {
+    "src": "media/L03/L03S07.jpg",
+    "alt": "Two plates of stone tools side by side: on the left, large pear-shaped handaxes, broad cleavers and heavy choppers; on the right, much smaller thin flake tools - steep scrapers, pointed borers and slim points.",
+    "position": "right"
+  },
+  "categories": [
+    {
+      "id": "lower",
+      "label": {
+        "en": "Lower Palaeolithic"
+      }
+    },
+    {
+      "id": "middle",
+      "label": {
+        "en": "Middle Palaeolithic"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-handaxe",
+      "text": {
+        "en": "Handaxe"
+      },
+      "correctCategoryId": "lower"
+    },
+    {
+      "id": "chip-cleaver",
+      "text": {
+        "en": "Cleaver"
+      },
+      "correctCategoryId": "lower"
+    },
+    {
+      "id": "chip-chopper",
+      "text": {
+        "en": "Chopper"
+      },
+      "correctCategoryId": "lower"
+    },
+    {
+      "id": "chip-flake",
+      "text": {
+        "en": "Tool made on a thin flake"
+      },
+      "correctCategoryId": "middle"
+    },
+    {
+      "id": "chip-borer",
+      "text": {
+        "en": "Borer"
+      },
+      "correctCategoryId": "middle"
+    },
+    {
+      "id": "chip-point",
+      "text": {
+        "en": "Point"
+      },
+      "correctCategoryId": "middle"
+    },
+    {
+      "id": "chip-projectile",
+      "text": {
+        "en": "Tipping a projectile"
+      },
+      "correctCategoryId": "middle"
+    }
+  ],
+  "explanation": {
+    "en": "The Lower Palaeolithic is the age of big tools: handaxes, cleavers and choppers. The Middle Palaeolithic toolkit is made on thin flakes: borers for making holes, and points small enough to tip a projectile. Scrapers appear in both periods, so they are not in this sort. Rock types and bone-splitting are left out for the same reason."
+  },
+  "hints": [
+    {
+      "en": "Ask first: is this a large tool worked from the whole stone, or a small tool worked on a thin flake?"
+    }
+  ],
+  "tags": [
+    "stone-age",
+    "palaeolithic",
+    "stone-tools"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

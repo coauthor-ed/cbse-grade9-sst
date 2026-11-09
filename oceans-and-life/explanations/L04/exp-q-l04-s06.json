@@ -1,0 +1,12 @@
+{
+  "_comment": "The worked model answer behind q-l04-s06. It is reached from the question's explanationSlide, so it never appears in the lesson's own flow.",
+  "id": "exp-q-l04-s06",
+  "type": "content-block@1",
+  "markdownRef": "explanations/L04/exp-q-l04-s06.md",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T15:43:10.000Z",
+    "reviewedBy": "owner"
+  }
+}

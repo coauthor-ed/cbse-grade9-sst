@@ -1,0 +1,40 @@
+{
+  "id": "blk-l02-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-s01.md",
+  "image": {
+    "src": "media/L02/L02S01.jpg",
+    "alt": "Four fossil hominin skull casts standing in a row on plain mounts, unlabelled, from the smallest and most forward-jawed on the left to the roundest-skulled and flat-faced on the right.",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "reveal": {
+    "images": {
+      "habilis": {
+        "src": "media/L02/L02S01-b2.png",
+        "alt": "A single small-brained fossil skull cast in profile: small rounded cranium, jaw projecting forward, and a heavy shelf of bone over the eye sockets."
+      },
+      "erectus": {
+        "src": "media/L02/L02S01-b3.png",
+        "alt": "A single fossil skull cast in profile with a long, low, enlarged braincase, a thick continuous brow ridge, and a face shorter than the first skull's."
+      },
+      "neanderthal": {
+        "src": "media/L02/L02S01-b4.png",
+        "alt": "A single large fossil skull cast in profile with a bulge at the back of the braincase, a sweeping curved double brow ridge, and a broad nasal opening."
+      },
+      "sapiens": {
+        "src": "media/L02/L02S01-b5.png",
+        "alt": "A modern human skull in profile with a high vertical forehead, a rounded globular cranium, a flat straight face, a small brow ridge and a projecting chin."
+      },
+      "trend": {
+        "src": "media/L02/L02S01-b6.png",
+        "alt": "Four fossil hominin skull casts standing in a row on plain mounts, oldest left to newest right, so the changes in forehead height, brow ridge size and facial profile can be compared directly."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

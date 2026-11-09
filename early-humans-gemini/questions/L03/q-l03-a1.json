@@ -1,0 +1,68 @@
+{
+  "id": "q-l03-a1",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Which list gives the ages in the right order, from oldest to newest?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Palaeolithic, Neolithic, Mesolithic, Chalcolithic, Bronze Age, Iron Age"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Meso means middle, so the Mesolithic comes between the Old and the New Stone Age."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Palaeolithic, Mesolithic, Neolithic, Bronze Age, Chalcolithic, Iron Age"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Bronze is made by mixing copper with tin, and copper was in use first, so the Chalcolithic comes before the Bronze Age."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Palaeolithic, Mesolithic, Neolithic, Chalcolithic, Bronze Age, Iron Age"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Palaeolithic, Mesolithic, Neolithic, Chalcolithic, Iron Age, Bronze Age"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Iron Age is the last of the six, after the Bronze Age."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The three stages of the Stone Age come first: old, middle, new. Copper then comes in alongside stone in the Chalcolithic, bronze follows, and iron comes last."
+  },
+  "hints": [
+    {
+      "en": "Palaeo means old, meso means middle, neo means new."
+    },
+    {
+      "en": "Which metal needs another metal before it can be made?"
+    }
+  ],
+  "tags": [
+    "ages"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

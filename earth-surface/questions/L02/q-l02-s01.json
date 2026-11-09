@@ -1,0 +1,73 @@
+{
+  "id": "q-l02-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Two plates meet. Each carries a continent with thick, light crust, so neither plate sinks far. What happens?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A deep trench forms as one plate goes under"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A deep trench forms where an ocean plate sinks."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The rock bends and folds into high mountains"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. This is how fold mountains such as the Himalaya form."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Magma rises and builds a new ridge between them"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. That happens where two plates move apart."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The two edges slide sideways past each other"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. That is a transform boundary, and these plates are meeting head on."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Where two continental plates collide, neither sinks far because continental crust is thick and light. The rock has to go up, so it folds and forms fold mountains such as the Himalaya."
+  },
+  "hints": [
+    {
+      "en": "What kind of crust does each plate carry?"
+    },
+    {
+      "en": "If neither plate can sink far, where can the rock go?"
+    }
+  ],
+  "tags": [
+    "convergent",
+    "fold-mountains"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:18.497Z",
+    "reviewedBy": "review-bar"
+  }
+}

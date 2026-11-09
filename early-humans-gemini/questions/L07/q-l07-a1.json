@@ -1,0 +1,66 @@
+{
+  "id": "q-l07-a1",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "The book's chart of the Harappan civilisation names three stages. Which list puts them in order, oldest first?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Mature Harappan, Early Harappan, Late Harappan"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Mature stage is the stage of the big cities, and those came after the Early stage, not before it."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Early Harappan, Mature Harappan, Late Harappan"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Early Harappan, Late Harappan, Mature Harappan"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Late Harappan comes after the cities. It runs from 1900 to 1300 BCE, and the Mature stage ended at 1900 BCE."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Late Harappan, Mature Harappan, Early Harappan"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is the order backwards. In BCE years a bigger number is older, so 3300 BCE comes before 1300 BCE."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Early Harappan is 3300 to 2600 BCE, Mature Harappan is 2600 to 1900 BCE, and Late Harappan is 1900 to 1300 BCE."
+  },
+  "hints": [
+    {
+      "en": "In BCE years, a bigger number means longer ago."
+    }
+  ],
+  "tags": [
+    "harappan",
+    "chronology"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

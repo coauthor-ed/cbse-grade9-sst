@@ -1,0 +1,60 @@
+{
+  "id": "q-l02-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Why does an aurora appear near the poles, and why does it show different colours?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Cold gas near the poles glows in different colours."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Ice crystals split sunlight, as in a rainbow."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Thin ozone lets coloured sunlight through."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The solar wind reaches the magnetic poles and makes each gas glow."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Charged particles from the Sun, the solar wind, are directed towards the magnetic poles. As they interact with gases in the air, each gas glows with a particular colour."
+  },
+  "hints": [
+    {
+      "en": "What does the Sun send towards the Earth besides light?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "thermosphere",
+    "aurora",
+    "solar-wind"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:11.924Z",
+    "reviewedBy": "review-bar"
+  }
+}

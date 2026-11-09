@@ -1,0 +1,120 @@
+{
+  "id": "q-l07-s13",
+  "type": "semantic-descriptive@1",
+  "answerMode": "text",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "Social media allows people to express opinions freely. How can this strengthen democracy, and how can it weaken democracy if used irresponsibly?"
+  },
+  "rubric": [
+    {
+      "id": "strengthens-voice",
+      "label": {
+        "en": "Explains how it can strengthen democracy: people can express opinions, and public issues can be raised and reach those who can act on them"
+      },
+      "level1": {
+        "en": "What can an ordinary citizen do on social media that helps public life?"
+      },
+      "clue": {
+        "en": "Newspapers, news channels and social media platforms raise issues concerning the public and serve as a voice of the masses."
+      },
+      "level2Template": {
+        "en": "Social media can strengthen democracy by letting citizens express opinions and raise public ___."
+      },
+      "accepted": [
+        "issues",
+        "problems",
+        "concerns"
+      ]
+    },
+    {
+      "id": "weakens-misinformation",
+      "label": {
+        "en": "Explains how it can weaken democracy: misinformation or fake news can influence public opinion, create confusion and sometimes lead to conflict"
+      },
+      "level1": {
+        "en": "What can happen when false information spreads quickly?"
+      },
+      "clue": {
+        "en": "Fake news can influence public opinion, create confusion and sometimes even lead to conflict."
+      },
+      "level2Template": {
+        "en": "If used irresponsibly, social media can spread ___, which confuses citizens."
+      },
+      "accepted": [
+        "misinformation",
+        "fake news",
+        "false news",
+        "false information",
+        "rumours"
+      ]
+    },
+    {
+      "id": "responsible-use",
+      "label": {
+        "en": "States that citizens need to use social media responsibly and check information, because accurate information is important in a democracy"
+      },
+      "level1": {
+        "en": "What should a citizen do before sharing a post?"
+      },
+      "clue": {
+        "en": "Citizens need access to authentic information to form informed opinions, so using social media responsibly is part of civic responsibility."
+      },
+      "level2Template": {
+        "en": "Citizens should use social media ___ and check what they share."
+      },
+      "accepted": [
+        "responsibly"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "Social media gives every citizen a way to speak, and that can help or harm a democracy."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "How it strengthens"
+      },
+      "text": {
+        "en": "It can strengthen democracy because people can express opinions and raise public issues that need attention."
+      },
+      "rubricId": "strengthens-voice"
+    },
+    {
+      "eyebrow": {
+        "en": "How it weakens"
+      },
+      "text": {
+        "en": "It can weaken democracy because misinformation can influence public opinion, create confusion and sometimes lead to conflict."
+      },
+      "rubricId": "weakens-misinformation"
+    },
+    {
+      "eyebrow": {
+        "en": "Conclusion"
+      },
+      "text": {
+        "en": "So citizens need to use it responsibly and check what they share, because accurate information is important in a democracy."
+      },
+      "rubricId": "responsible-use"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-11-01T00:00:00.000Z",
+    "flags": []
+  }
+}

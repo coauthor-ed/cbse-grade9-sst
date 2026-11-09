@@ -1,0 +1,118 @@
+{
+  "id": "q-l09-s09",
+  "type": "match-categorize@1",
+  "stem": {
+    "en": "Sort these inventions, places and events under the Mesopotamian power they belong with."
+  },
+  "categories": [
+    {
+      "id": "cat-sumer",
+      "label": {
+        "en": "Sumerian"
+      }
+    },
+    {
+      "id": "cat-akkad",
+      "label": {
+        "en": "Akkadian"
+      }
+    },
+    {
+      "id": "cat-assyria",
+      "label": {
+        "en": "Assyrian"
+      }
+    },
+    {
+      "id": "cat-babylon",
+      "label": {
+        "en": "Babylonian"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-cuneiform",
+      "text": {
+        "en": "cuneiform from about 3200 BCE"
+      },
+      "correctCategoryId": "cat-sumer"
+    },
+    {
+      "id": "chip-dams",
+      "text": {
+        "en": "dams and canals"
+      },
+      "correctCategoryId": "cat-sumer"
+    },
+    {
+      "id": "chip-ziggurat",
+      "text": {
+        "en": "the ziggurat"
+      },
+      "correctCategoryId": "cat-sumer"
+    },
+    {
+      "id": "chip-base60",
+      "text": {
+        "en": "base-60"
+      },
+      "correctCategoryId": "cat-sumer"
+    },
+    {
+      "id": "chip-empire",
+      "text": {
+        "en": "the first dynastic empire"
+      },
+      "correctCategoryId": "cat-akkad"
+    },
+    {
+      "id": "chip-trade",
+      "text": {
+        "en": "trade with Dilmun, Magan and Meluhha"
+      },
+      "correctCategoryId": "cat-akkad"
+    },
+    {
+      "id": "chip-assur",
+      "text": {
+        "en": "the city of Assur"
+      },
+      "correctCategoryId": "cat-assyria"
+    },
+    {
+      "id": "chip-dominance",
+      "text": {
+        "en": "power in the north until the early 1700s BCE"
+      },
+      "correctCategoryId": "cat-assyria"
+    },
+    {
+      "id": "chip-code",
+      "text": {
+        "en": "the Code of Hammurabi"
+      },
+      "correctCategoryId": "cat-babylon"
+    },
+    {
+      "id": "chip-1792",
+      "text": {
+        "en": "1792 BCE"
+      },
+      "correctCategoryId": "cat-babylon"
+    }
+  ],
+  "explanation": {
+    "en": "The Sumerians came first, with writing, canals, base 60 and ziggurats. The Akkadians built the first dynastic empire, and Sargon's tablets name the Gulf trade. The Assyrians ruled from Assur until the early 1700s BCE. In Babylon, Hammurabi came to power in 1792 BCE and his Code followed."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  },
+  "hints": [
+    {
+      "en": "Start with what came first: the earliest writers and builders were the Sumerians."
+    }
+  ]
+}

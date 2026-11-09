@@ -1,0 +1,29 @@
+{
+  "id": "blk-l01-s02",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01/blk-l01-s02.md",
+  "image": {
+    "src": "media/L01/L01S02.jpg",
+    "alt": "An archaeological excavation in progress: several people kneeling in a shallow rectangular trench, clearing earth with hand trowels and brushes while another records finds on a clipboard.",
+    "position": "right"
+  },
+  "simulation": {
+    "src": "simulations/L01/ExcavationLayersScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "simulationStep": 2,
+  "reveal": {
+    "images": {
+      "section": {
+        "src": "media/L01/L01S02-b2.png",
+        "alt": "The cut vertical face of an excavation trench, showing clearly separated horizontal bands of differently coloured soil from the modern surface down to sterile subsoil."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L07/FisheryBalanceGameScene.js",
+  "objective": {
+    "en": "Fish this stock for ten seasons so that the total catch reaches 300,000 fish, and never let the stock fall below 20,000."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:47.998Z",
+    "reviewedBy": "review-bar"
+  }
+}

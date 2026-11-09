@@ -1,0 +1,71 @@
+{
+  "id": "q-l04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Contour trenches and bunds are made along a hillside at one height, not straight down the slope. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "So that water runs down the hill more quickly."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Faster water carries more soil. These measures do the opposite."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "So that they lie across the water and slow it."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Water meets them, slows down and soaks in."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "So that the rain falls on a smaller part of the hill."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The same rain falls on the hill. What changes is how the water moves."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "So that the rocks under the hill stop weathering."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They are built to slow water and hold soil, not to stop weathering."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Water runs straight down a slope. A trench or bund along a contour line lies across that path, so the water slows, soaks into the ground and leaves its soil on the hillside."
+  },
+  "hints": [
+    {
+      "en": "Which way does water run on a slope? Which way does the trench run?"
+    }
+  ],
+  "tags": [
+    "soil-conservation",
+    "contour-trench",
+    "bunding"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:27.289Z",
+    "reviewedBy": "review-bar"
+  }
+}

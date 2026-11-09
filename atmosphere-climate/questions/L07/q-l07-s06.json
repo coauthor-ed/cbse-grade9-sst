@@ -1,0 +1,76 @@
+{
+  "id": "q-l07-s06",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Chennai gets 128.6 cm of rain a year and Delhi gets 67.0 cm. Chennai's wettest months are October and November. Delhi's are July and August. What do these facts show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A yearly total does not show which wind brings the rain, or when"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The two cities get their rain from different winds in different months."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Every place on the coast gets more rain than every inland place"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Shillong is inland and gets more than Chennai."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Delhi and Chennai get their rain from the same wind in the same months"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Their wettest months are months apart."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Rain at Chennai falls evenly through the year"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Just over half falls in two months."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Chennai's main rain comes with the north-east monsoon in October and November. Delhi's comes with the south-west monsoon in July and August. The yearly totals say how much, and hide when and how."
+  },
+  "hints": [
+    {
+      "en": "Compare the months, not the totals."
+    },
+    {
+      "en": "Which monsoon blows in October and November?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "monsoon",
+    "rainfall",
+    "climate-data",
+    "retreating-monsoon"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:42.603Z",
+    "reviewedBy": "review-bar"
+  }
+}

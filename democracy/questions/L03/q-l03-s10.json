@@ -1,0 +1,108 @@
+{
+  "id": "q-l03-s10",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Match each protection below to the Fundamental Right that provides it."
+  },
+  "categories": [
+    {
+      "id": "equality",
+      "label": {
+        "en": "Right to Equality (Articles 14–18)"
+      }
+    },
+    {
+      "id": "freedom",
+      "label": {
+        "en": "Right to Freedom (Articles 19–22)"
+      }
+    },
+    {
+      "id": "exploitation",
+      "label": {
+        "en": "Right Against Exploitation (Articles 23–24)"
+      }
+    },
+    {
+      "id": "religion",
+      "label": {
+        "en": "Right to Freedom of Religion (Articles 25–28)"
+      }
+    },
+    {
+      "id": "culture-education",
+      "label": {
+        "en": "Cultural and Educational Rights (Articles 29–30)"
+      }
+    },
+    {
+      "id": "remedies",
+      "label": {
+        "en": "Right to Constitutional Remedies (Article 32)"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-equal-treatment",
+      "text": {
+        "en": "Equality before the law"
+      },
+      "correctCategoryId": "equality"
+    },
+    {
+      "id": "chip-expression",
+      "text": {
+        "en": "Expressing opinions, assembling peacefully, moving throughout India"
+      },
+      "correctCategoryId": "freedom"
+    },
+    {
+      "id": "chip-no-bondage",
+      "text": {
+        "en": "Banning human trafficking, forced work, and hazardous child labour"
+      },
+      "correctCategoryId": "exploitation"
+    },
+    {
+      "id": "chip-faith",
+      "text": {
+        "en": "Professing and practising any faith without discrimination"
+      },
+      "correctCategoryId": "religion"
+    },
+    {
+      "id": "chip-minority-institutions",
+      "text": {
+        "en": "Minorities preserving their language and running their own institutions"
+      },
+      "correctCategoryId": "culture-education"
+    },
+    {
+      "id": "chip-move-court",
+      "text": {
+        "en": "Going straight to the courts when any other right is violated"
+      },
+      "correctCategoryId": "remedies"
+    }
+  ],
+  "explanation": {
+    "en": "Each Fundamental Right protects something different: how the law treats you, what you may say and do, protection from exploitation, your faith, and the culture of minorities. The sixth, Constitutional Remedies, lets you go to court to enforce all the others."
+  },
+  "hints": [
+    {
+      "en": "Ask what each right protects: treatment by the law, personal freedom, protection from exploitation, faith, minority culture, or the way to reach a court."
+    }
+  ],
+  "tags": [
+    "fundamental-rights",
+    "constitution"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.512Z"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "q-l03-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Aśhoka's edicts speak of Jambudvīpa. A Sangam poem describes a Chera king conquering up to the Himalayas. Rajendra I took the title Gangaikonda. Why do historians set these three side by side?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They prove that each king held the whole subcontinent."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They show that the three kings were allies."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They show that the aim of ruling over the subcontinent was expressed again and again over a very long time."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They show that southern kings disagreed with northern kings about geography."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The three examples come from about 1300 years of history and from different regions. The aspiration to exercise political authority over the subcontinent was repeatedly expressed. That is different from saying that any one king held it all."
+  },
+  "hints": [
+    {
+      "en": "Compare the dates and the regions of the three kings."
+    },
+    {
+      "en": "Does a title show the whole of what a king held?"
+    }
+  ],
+  "tags": [
+    "chakravarti",
+    "ideal-of-authority",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:14.624Z",
+    "reviewedBy": "review-bar"
+  }
+}

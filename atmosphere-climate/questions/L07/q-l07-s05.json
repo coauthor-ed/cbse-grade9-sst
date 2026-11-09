@@ -1,0 +1,36 @@
+{
+  "id": "q-l07-s05",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Chennai receives 128.6 cm of rain in a year. Of this, 30.6 cm falls in October and 35.0 cm in November. What percentage of the year's rain falls in these two months? (Answer to the nearest whole per cent.)"
+  },
+  "expectedValue": 51,
+  "tolerance": 1,
+  "unit": "%",
+  "explanation": {
+    "en": "October and November give 30.6 + 35.0 = 65.6 cm. Then 65.6 divided by 128.6 and multiplied by 100 gives about 51 per cent, just over half the year's rain."
+  },
+  "hints": [
+    {
+      "en": "Add the two months first."
+    },
+    {
+      "en": "Divide 65.6 by 128.6, then multiply by 100."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "rainfall",
+    "climate-data",
+    "retreating-monsoon",
+    "calculation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:42.603Z",
+    "reviewedBy": "review-bar"
+  }
+}

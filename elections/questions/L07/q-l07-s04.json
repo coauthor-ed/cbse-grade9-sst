@@ -1,0 +1,62 @@
+{
+  "id": "q-l07-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Various States saw the politics of alliance from 1967. Which event took place in 1977?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The first coalition government at the national level"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The end of the era of single-party dominated elections"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The very first general election in independent India"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The passing of the Anti-Defection Law by Parliament"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The era of single-party dominated elections ended in 1967. In 1977 various parties formed an alliance, and it formed the first coalition government at the national level. The first general election was earlier, and the Anti-Defection Law came in 1985."
+  },
+  "hints": [
+    {
+      "en": "A coalition government is formed by more than one party."
+    }
+  ],
+  "tags": [
+    "alliances",
+    "coalition",
+    "janata-party",
+    "national-emergency",
+    "nda",
+    "upa"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:24.206Z",
+    "reviewedBy": "review-bar"
+  }
+}

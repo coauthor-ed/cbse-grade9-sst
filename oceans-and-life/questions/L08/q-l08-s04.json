@@ -1,0 +1,74 @@
+{
+  "id": "q-l08-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A foreign cargo ship enters a country's territorial sea and anchors for two hours to take on fresh water. There is no emergency or breakdown. Is this innocent passage?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "No: a passing ship must keep moving."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Ships must move continuously without stopping, except in an emergency or a breakdown."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes: taking on water harms nobody."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Innocent does not mean harmless. The ship must keep moving unless it has an emergency or a breakdown."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Yes: a passing ship may stop at will."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A ship may stop only in an emergency or a breakdown, so it may not stop at will."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No: foreign ships may never enter here."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Foreign ships may enter. Innocent passage is the right that lets them pass through."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Innocent passage lets a foreign ship pass through the territorial sea if it does not threaten peace, good order or security. The ship must move continuously without stopping, except in an emergency or a breakdown. Taking on water is neither."
+  },
+  "hints": [
+    {
+      "en": "What must a ship keep doing during innocent passage?"
+    },
+    {
+      "en": "Which two reasons allow a ship to stop?"
+    }
+  ],
+  "tags": [
+    "innocent-passage",
+    "territorial-sea",
+    "maritime-zones"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:53.054Z",
+    "reviewedBy": "review-bar"
+  }
+}

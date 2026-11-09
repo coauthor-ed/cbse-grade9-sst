@@ -1,0 +1,36 @@
+{
+  "id": "q-l11-s07",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Uṣhavadāta's endowment placed 2000 kāhāpaṇas with one weavers' guild at 12 for each hundred a year, and 1000 with another at 9 for each hundred a year. How much interest did the two guilds pay together each year, in kāhāpaṇas?"
+  },
+  "expectedValue": 330,
+  "tolerance": 1,
+  "unit": "kāhāpaṇas a year",
+  "explanation": {
+    "en": "12 for each hundred on 2000 is 240 kāhāpaṇas. 9 for each hundred on 1000 is 90 kāhāpaṇas. Together that is 330 kāhāpaṇas a year. The inscription gives monthly rates in pratika and paḍika; the yearly figures are our arithmetic, taking one pratika or paḍika as one kāhāpaṇa."
+  },
+  "hints": [
+    {
+      "en": "There are twenty hundreds in 2000. Each pays 12."
+    },
+    {
+      "en": "Work out each guild separately, then add."
+    }
+  ],
+  "tags": [
+    "nashik",
+    "endowment",
+    "guilds",
+    "interest",
+    "numeric-value"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z",
+    "reviewedBy": "review-bar"
+  }
+}

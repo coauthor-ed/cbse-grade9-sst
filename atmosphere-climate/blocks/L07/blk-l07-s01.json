@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07/blk-l07-s01.md",
+  "simulation": {
+    "src": "simulations/L06/ClimateTableScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:42.603Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "q-l05-s03b",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "assertion": {
+    "en": "A service voter can receive and cast a postal ballot electronically from outside their constituency."
+  },
+  "reason": {
+    "en": "ETPBS was developed for service voters, who may be posted far from their constituency."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both statements are true, and the Reason does explain the Assertion: it says who the system is for and why they need it."
+    },
+    "c": {
+      "en": "The Reason is true: ETPBS was developed for service voters."
+    },
+    "d": {
+      "en": "The Assertion is true: service voters can do this through ETPBS."
+    }
+  },
+  "explanation": {
+    "en": "Both statements are true. A service voter may be posted far from the constituency, so ETPBS lets the ballot reach them electronically. That is why they can vote from outside the constituency."
+  },
+  "hints": [
+    {
+      "en": "Decide whether each statement is true by itself."
+    },
+    {
+      "en": "Does the second statement say why the first is possible?"
+    }
+  ],
+  "tags": [
+    "etpbs",
+    "service-voters",
+    "postal-ballot",
+    "accessibility"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:15.302Z",
+    "reviewedBy": "review-bar"
+  }
+}

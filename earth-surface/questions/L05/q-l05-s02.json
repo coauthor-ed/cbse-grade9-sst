@@ -1,0 +1,72 @@
+{
+  "id": "q-l05-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A waterfall flows over hard rock with softer rock under it. Put the events in the right order."
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Hard rock falls, then soft rock wears away, then a gap opens."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The hard rock cannot fall until the soft rock under it has gone."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A plunge pool fills up, then the river stops, then the rock breaks."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pool is dug out by the falling water. The river does not stop."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Soft rock wears away, a gap opens, then the hard rock breaks."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The hard rock loses its support and then falls."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The hard rock wears first, then the soft rock falls on top of it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Hard rock resists erosion, so the soft rock wears first."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Soft rock wears away first and leaves a gap. The hard rock then sticks out with no support and breaks off, and the fall stands further upstream than before."
+  },
+  "hints": [
+    {
+      "en": "Which rock resists the water, and which wears away first?"
+    }
+  ],
+  "tags": [
+    "waterfall",
+    "upper-course",
+    "undercutting",
+    "headward-retreat"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:31.657Z",
+    "reviewedBy": "review-bar"
+  }
+}

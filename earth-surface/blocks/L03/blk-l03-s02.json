@@ -1,0 +1,16 @@
+{
+  "id": "blk-l03-s02",
+  "type": "content-block@1",
+  "poeRole": "explain",
+  "markdownRef": "blocks/L03/blk-l03-s02.md",
+  "simulation": {
+    "src": "simulations/L03/EpicentreScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:22.682Z",
+    "reviewedBy": "review-bar"
+  }
+}

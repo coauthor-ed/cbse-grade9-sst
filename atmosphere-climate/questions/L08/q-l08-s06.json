@@ -1,0 +1,63 @@
+{
+  "id": "q-l08-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A student lives in a town with no bus service and a supply of electricity that fails for several hours most day. They score 9 out of 13 on the carbon footprint exercise. What is the most honest reading of that number?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The score measures what their choices actually added up to, which in their case is higher than the sheet's own categories can fairly represent."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The score is above the middle of the scale, so it shows the student is using more energy than average and should try to reduce it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The score cannot be compared with anyone else's, because the four categories do not apply equally everywhere, so the number has no meaning at all."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The student should be asked to retake the exercise once a bus service and a reliable supply reach their town, so the score can be compared fairly."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "9 out of 13 is a perfectly meaningful measurement of one thing: what this student's own choices added up to on the four categories the sheet offers. It is a bad measurement of something else, which is how much energy their household was able to avoid using in the first place. With no bus, the transport category offers a car, a two-wheeler or a bicycle on an unsafe road, and the lowest band on the sheet is simply not available to them. With several hours of outage a day, the electricity band measures the appliances they left running, not the supply they were given, and the sheet has no category at all for where that supply comes from. So the right reading is that the number is real and incomplete at the same time. The answer treating 9 as evidence of carelessness makes the error the slide warns about, which is reading a comparison between people's circumstances as a rank on their virtue - there is no average here to be above, because the exercise never measured one. The answer dismissing the number entirely goes too far in the other direction: the categories that were available to this student were ticked honestly and the sum of them is worth knowing. And waiting for a bus before allowing yourself a score is not a fairer measurement, it is simply refusing to take one."
+  },
+  "hints": [
+    {
+      "en": "Ask what the number was actually counting: choices, or circumstances?"
+    },
+    {
+      "en": "Look at the four categories and find the one the student had no real option within."
+    }
+  ],
+  "tags": [
+    "carbon-footprint",
+    "climate-change",
+    "equity",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:53.484Z",
+    "reviewedBy": "review-bar"
+  }
+}

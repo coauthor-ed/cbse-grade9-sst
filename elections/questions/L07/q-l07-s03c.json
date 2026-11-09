@@ -1,0 +1,32 @@
+{
+  "id": "q-l07-s03c",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A State is allotted 78 Lok Sabha seats. One State party route asks for at least one Lok Sabha seat for every 25 seats, or any fraction of 25, allotted to the State. How many seats must a party win from this State?"
+  },
+  "expectedValue": 4,
+  "tolerance": 0,
+  "unit": "seats",
+  "explanation": {
+    "en": "78 divided by 25 is 3 full blocks with 3 seats left over. The leftover is a fraction of 25, so it needs one more seat. That makes 3 + 1 = 4 seats."
+  },
+  "hints": [
+    {
+      "en": "Count the full blocks of 25 in 78. What happens to the seats left over?"
+    }
+  ],
+  "tags": [
+    "recognition",
+    "state-party",
+    "delimitation",
+    "seat-allotment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:24.206Z",
+    "reviewedBy": "review-bar"
+  }
+}

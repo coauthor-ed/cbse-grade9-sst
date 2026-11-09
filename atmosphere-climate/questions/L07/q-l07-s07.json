@@ -1,0 +1,76 @@
+{
+  "id": "q-l07-s07",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Leh gets a small amount of rain in almost every month, 8.5 cm in the whole year. It has no wet season like Mumbai's. What is a good reason?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The Himalaya keep most monsoon rain from Leh"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Little moist air gets past the mountains to Leh."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Leh is closer to the Arabian Sea than Mumbai"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Leh is far inland."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The monsoon reaches Leh before any other station"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Leh lies far to the north, behind the mountains."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Air at Leh is too warm for rain to form"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Leh is the coldest station in the table."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Monsoon air drops most of its rain on the southern slopes of the Himalaya. Leh lies behind them. What little falls is spread through the year, and passing winter weather from the west adds some of it."
+  },
+  "hints": [
+    {
+      "en": "Look at a map: what stands between Leh and the sea?"
+    },
+    {
+      "en": "Where does moist air lose its rain as it rises?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "climate-data",
+    "rainfall",
+    "altitude",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:42.603Z",
+    "reviewedBy": "review-bar"
+  }
+}

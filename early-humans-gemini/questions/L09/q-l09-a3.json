@@ -1,0 +1,68 @@
+{
+  "id": "q-l09-a3",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Mesopotamian tablets name a place called Meluhha, and the book says it is \"generally identified\" with the Sindhu-Sarasvati civilisation. Which find would do the most to settle this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A text naming Meluhha in both cuneiform and the Harappan script"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "More Harappan beads in Mesopotamian cities"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Beads would show more trade. They would not show what the Harappans were called."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A longer list of goods from Meluhha in cuneiform"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This adds to the Mesopotamian side only. It still does not link the name to a place on the ground."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A larger Harappan seal with more signs"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "More signs would help a little, but the script is still unread, so it could not tell us the name."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The word Meluhha comes only from the Mesopotamian side, and beads and the sea route make the match likely. A text naming Meluhha in both scripts would link the name to the Harappans, and it could also help to read the Harappan script."
+  },
+  "hints": [
+    {
+      "en": "Which find would join the writing of both sides?"
+    }
+  ],
+  "tags": [
+    "mesopotamia",
+    "harappan",
+    "trade",
+    "evidence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

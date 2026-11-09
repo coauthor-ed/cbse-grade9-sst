@@ -1,0 +1,36 @@
+{
+  "id": "blk-l01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-s02.md",
+  "deferVerdict": true,
+  "options": [
+    {
+      "id": "a",
+      "text": "So that the election rules can be read out to the whole class again."
+    },
+    {
+      "id": "b",
+      "text": "So that the teacher can check her marks before she takes the post again."
+    },
+    {
+      "id": "c",
+      "text": "So that she answers to the class, which can judge her work by a vote."
+    },
+    {
+      "id": "d",
+      "text": "So that a new person always wins and every student gets a turn as CR."
+    }
+  ],
+  "correctOptionId": "c",
+  "simulation": {
+    "src": "simulations/L01/TermClockScene-setup.js",
+    "role": "setup",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:20:58.653Z",
+    "reviewedBy": "review-bar"
+  }
+}

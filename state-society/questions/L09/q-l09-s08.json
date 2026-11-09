@@ -1,0 +1,132 @@
+{
+  "id": "q-l09-s08",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "mode": "coach",
+  "prompt": {
+    "en": "What can we learn from early Indian society about varṇa and the role of women? Answer in about 100 words."
+  },
+  "rubric": [
+    {
+      "id": "varna-function",
+      "label": {
+        "en": "Varṇa divided society by function, and its flexibility reduced over time"
+      },
+      "level1": {
+        "en": "What was varṇa based on at first, and did it stay the same?"
+      },
+      "clue": {
+        "en": "Varṇa was a division of social roles: brāhmaṇa, kṣhatriya, vaiśhya and śhūdra. It was described as a functional division, and its flexibility reduced over time."
+      },
+      "level2Template": {
+        "en": "Varṇa was a division based on ___, and it became less flexible over time."
+      },
+      "accepted": [
+        "function",
+        "functions",
+        "roles",
+        "role",
+        "work",
+        "occupation",
+        "occupations",
+        "duties",
+        "social roles"
+      ]
+    },
+    {
+      "id": "women-active",
+      "label": {
+        "en": "Women took part in learning, ritual, work and public life, and some are named in the records"
+      },
+      "level1": {
+        "en": "Name one thing the sources show women doing."
+      },
+      "clue": {
+        "en": "Women took part in scholarly learning and attended the sabhā. Hymns are attributed to women sages, Sangam women farmed and spun, and Prabhāvatī Gupta issued land grants as a regent."
+      },
+      "level2Template": {
+        "en": "The sources show women taking part in ___, among other things."
+      },
+      "accepted": [
+        "learning",
+        "scholarly learning",
+        "rituals",
+        "the sabha",
+        "sabha",
+        "hymns",
+        "agriculture",
+        "farming",
+        "crafts",
+        "governance",
+        "land grants",
+        "poetry",
+        "donors",
+        "temple building"
+      ]
+    },
+    {
+      "id": "women-changed",
+      "label": {
+        "en": "The position of women changed over time and sometimes declined"
+      },
+      "level1": {
+        "en": "Did the position of women stay the same in every period?"
+      },
+      "clue": {
+        "en": "The position and roles of women fluctuated, even declined, as social and political conditions changed. Women still contributed to household management, agriculture, crafts and religious practices."
+      },
+      "level2Template": {
+        "en": "Over time, the position and roles of women ___ as conditions changed."
+      },
+      "accepted": [
+        "fluctuated",
+        "declined",
+        "changed",
+        "varied",
+        "rose and fell",
+        "did not stay the same"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Varṇa"
+      },
+      "text": {
+        "en": "Varṇa divided society by function, and its flexibility ___ over time."
+      },
+      "rubricId": "varna-function"
+    },
+    {
+      "eyebrow": {
+        "en": "What women did"
+      },
+      "text": {
+        "en": "Women took part in learning, ritual, work and governance, and several are ___ in the records."
+      },
+      "rubricId": "women-active"
+    },
+    {
+      "eyebrow": {
+        "en": "Change over time"
+      },
+      "text": {
+        "en": "The position and roles of women ___, even declined, as conditions changed."
+      },
+      "rubricId": "women-changed"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:45.482Z",
+    "reviewedBy": "review-bar"
+  }
+}

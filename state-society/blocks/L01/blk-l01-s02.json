@@ -1,0 +1,36 @@
+{
+  "id": "blk-l01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The rājā decided every matter alone."
+    },
+    {
+      "id": "b",
+      "text": "One assembly decided every matter."
+    },
+    {
+      "id": "c",
+      "text": "Different assemblies took up different kinds of matter."
+    },
+    {
+      "id": "d",
+      "text": "The family with the most cattle decided."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L01/VedicPolityScene.js",
+    "role": "setup",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:04.889Z",
+    "reviewedBy": "review-bar"
+  }
+}

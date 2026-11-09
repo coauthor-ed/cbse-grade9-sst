@@ -1,0 +1,134 @@
+{
+  "id": "q-l04-s06",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "prompt": {
+    "en": "On polling day, an officer on election duty checks each voter's name in the electoral roll. In two or three sentences, explain what the officer is checking, and why the roll has to be right long before that day."
+  },
+  "rubric": [
+    {
+      "id": "matching-person-to-entry",
+      "label": {
+        "en": "The officer compares the voter with an entry already on the roll, and does not create a new one"
+      },
+      "level1": {
+        "en": "Is the officer writing a new name, or looking for a name already there?"
+      },
+      "clue": {
+        "en": "The roll is printed before polling day. The officer looks for the voter in it."
+      },
+      "level2Template": {
+        "en": "The officer checks that the voter matches an entry that ___ on the roll."
+      },
+      "accepted": [
+        "is already",
+        "already exists",
+        "is already printed",
+        "has already been made",
+        "is already there"
+      ]
+    },
+    {
+      "id": "the-check-is-the-last-step",
+      "label": {
+        "en": "The roll was prepared and revised earlier, and the final roll was published after claims and objections were settled"
+      },
+      "level1": {
+        "en": "When was the entry first made, and when could it be corrected?"
+      },
+      "clue": {
+        "en": "Enumerators visit households, and claims and objections are settled before the final roll is published."
+      },
+      "level2Template": {
+        "en": "Entries are made and corrected earlier, and the final roll is ___ before polling day."
+      },
+      "accepted": [
+        "published",
+        "was published",
+        "finalised and published",
+        "settled and published"
+      ]
+    },
+    {
+      "id": "why-the-order-matters",
+      "label": {
+        "en": "Only those whose names appear on the roll are allowed to vote, so a mistake must be put right before polling day"
+      },
+      "level1": {
+        "en": "What happens on polling day to an eligible voter whose name is missing?"
+      },
+      "clue": {
+        "en": "Only those whose names appear on the roll are allowed to vote."
+      },
+      "level2Template": {
+        "en": "Only those whose names appear on the roll may vote, so a missing name means the voter ___."
+      },
+      "accepted": [
+        "cannot vote",
+        "can not vote",
+        "is not allowed to vote",
+        "will not be able to vote",
+        "loses the vote",
+        "loses the chance to vote"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "What is being checked"
+      },
+      "text": {
+        "en": "The officer is comparing the voter with an entry that is already on the roll."
+      },
+      "rubricId": "matching-person-to-entry"
+    },
+    {
+      "eyebrow": {
+        "en": "When the roll was made"
+      },
+      "text": {
+        "en": "That entry was made and corrected earlier, and the final roll was published after claims and objections were settled."
+      },
+      "rubricId": "the-check-is-the-last-step"
+    },
+    {
+      "eyebrow": {
+        "en": "Why it matters"
+      },
+      "text": {
+        "en": "Only those whose names appear on the roll are allowed to vote, so a missing name means the voter cannot vote. The roll has to be right before polling day."
+      },
+      "rubricId": "why-the-order-matters"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "explanation": {
+    "en": "The officer compares each voter with an entry already on the roll. That roll was prepared and revised earlier, and claims and objections were settled before the final roll was published. Only those whose names appear on the roll are allowed to vote, so a mistake has to be put right before polling day."
+  },
+  "hints": [
+    {
+      "en": "Is the officer making a new entry or checking an old one?"
+    },
+    {
+      "en": "What happens to a voter whose name is not on the roll?"
+    }
+  ],
+  "tags": [
+    "electoral-roll",
+    "enumerator",
+    "sir",
+    "polling-station"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:11.134Z",
+    "reviewedBy": "review-bar"
+  }
+}

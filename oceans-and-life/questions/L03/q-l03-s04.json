@@ -1,0 +1,71 @@
+{
+  "id": "q-l03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A Very Large Crude Carrier waits outside a shallow part of the Singapore Strait. What is it waiting for?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A calm day, so that the wind cannot turn it"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The problem is the depth of the water under the hull."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Low tide, so that the tidal current has stopped"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Low tide leaves the least water over the shallow part."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Full moon, so that the crew can see at night"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. It is waiting for water, not for light."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "High tide, so that it has water under its hull"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. It crosses at high tide so that it does not run aground."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A ship can cross only where the water is deeper than its draught. High tide adds water over the shallow part, so a VLCC often waits for hours and crosses only then."
+  },
+  "hints": [
+    {
+      "en": "The ship's draught stays the same. What else can change?"
+    }
+  ],
+  "tags": [
+    "tides",
+    "shipping",
+    "draught"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:30.294Z",
+    "reviewedBy": "review-bar"
+  }
+}

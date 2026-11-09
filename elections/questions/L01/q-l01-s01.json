@@ -1,0 +1,63 @@
+{
+  "id": "q-l01-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A panchayat member has finished her five-year term. Most villagers think she did well, but the rule says the seat must be filled by a fresh election. Why is this rule useful even when a member has done well?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "So that she must step down and rest for a term."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "So that a different person always takes the seat and everyone gets a turn."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "So that the people she answers to can judge her work."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "So that the State Government can decide whether she should stay in her seat."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "An elected member answers to the people who chose her. A fresh election lets them judge her work and either choose her again or choose someone else. She may well win again, because the rule does not force a change."
+  },
+  "hints": [
+    {
+      "en": "Who did she promise to serve, and how can they judge her?"
+    },
+    {
+      "en": "A fresh election can return the same person. Which options forget this?"
+    }
+  ],
+  "tags": [
+    "periodic-elections",
+    "accountability",
+    "mandate",
+    "local-bodies"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:20:58.653Z",
+    "reviewedBy": "review-bar"
+  }
+}

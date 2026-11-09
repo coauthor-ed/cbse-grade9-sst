@@ -1,0 +1,59 @@
+{
+  "id": "les-12",
+  "type": "lesson",
+  "title": {
+    "en": "The Bones That Only Asked Questions"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L12/blk-l12-s00.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s01.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s01b.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s02.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s03.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s03b.json"
+    },
+    {
+      "blockRef": "questions/L12/q-l12-a1.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s04.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s05.json"
+    },
+    {
+      "blockRef": "questions/L12/q-l12-a2.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s06.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s07.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-s08.json"
+    },
+    {
+      "blockRef": "questions/L12/q-l12-s09.json"
+    },
+    {
+      "blockRef": "blocks/L12/blk-l12-game.json"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

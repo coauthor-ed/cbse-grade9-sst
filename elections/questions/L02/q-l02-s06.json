@@ -1,0 +1,59 @@
+{
+  "id": "q-l02-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Swarnalok allots its 100 seats in proportion to the votes. Parties M, N, O and P polled 40, 35, 15 and 10 per cent. Which set of seats does this rule give?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "M 70, N 20, O 6, P 4"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "M 25, N 25, O 25, P 25"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "M 40, N 35, O 15, P 10"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "M 51, N 34, O 10, P 5"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Seats in Swarnalok follow votes, so 40 per cent of the votes becomes 40 of the 100 seats. The other sets give the leading party extra seats or share seats equally, and neither follows the rule."
+  },
+  "hints": [
+    {
+      "en": "If seats follow votes, what does 15 per cent of the votes become?"
+    }
+  ],
+  "tags": [
+    "proportional-representation",
+    "seats",
+    "swarnalok"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:02.694Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "The number the slide s07 leaves to the question: the length of India's coastline, which is the reason there are so many places where the sea rises and falls. A numeric value keeps the multiple-choice spread of this lesson even.",
+  "id": "q-l03-s08",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "About how long is India's coastline, in kilometres?"
+  },
+  "expectedValue": 11098.81,
+  "tolerance": 50,
+  "unit": "km",
+  "explanation": {
+    "en": "India's coastline is about 11,098.81 km long, one of the longest in the world, and the figure counts the islands with the mainland. A coast that long means there are a great many stretches where the sea rises and falls, and that is why tidal energy is a serious possibility for the country even though no tidal plant is running here today."
+  },
+  "hints": [
+    {
+      "en": "The figure counts the whole coast of the country, the mainland and the islands together."
+    },
+    {
+      "en": "It is a number a little over eleven thousand. How many kilometres is that?"
+    }
+  ],
+  "tags": [
+    "tides",
+    "tidal-energy",
+    "coastline"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:30.294Z",
+    "reviewedBy": "review-bar"
+  }
+}

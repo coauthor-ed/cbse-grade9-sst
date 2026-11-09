@@ -1,0 +1,16 @@
+{
+  "id": "blk-l01-s05",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# What You Already Know\n\n<!-- STEP id=\"what-citizens-do\" -->\n## What Citizens Do\n\nYou have met this in earlier grades. In a democracy, citizens have the right to vote, to express their opinions and to take part in making decisions. Tap each one to see an example.\n\n<!-- STEP id=\"what-it-rests-on\" -->\n## What Democracy Rests On\n\nDemocracy is founded on the principles of **freedom, equality, justice, and rights and duties**. A vote means little if people are not free to speak or are not treated as equals.\n\n**An election is one part of a democracy. These principles must hold along with it.**"
+  },
+  "simulation": {
+    "src": "simulations/L01/RecallChecklistScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.501Z"
+  }
+}

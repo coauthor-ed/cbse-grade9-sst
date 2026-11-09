@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s05",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Voting in the Saṁgha\n\n<!-- STEP id=\"debate-first\" -->\n## Debate and Discussion\n\nThe **Bauddha Saṁgha** was a monastic community, a group of monks, established by Gautama Buddha. The Saṁgha encouraged debate and discussion among its members.\n\n<!-- STEP id=\"vote-next\" -->\n## Then the Vote\n\nIts members could choose their leader and make decisions through voting.\n\n**The Saṁgha shows collective decision-making in practice.**"
+  },
+  "simulation": {
+    "src": "simulations/L02/SanghaVoteScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.504Z"
+  }
+}

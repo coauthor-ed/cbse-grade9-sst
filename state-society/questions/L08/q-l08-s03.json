@@ -1,0 +1,60 @@
+{
+  "id": "q-l08-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The Sutta Nipāta states: \"No brāhmaṇa is such by birth. No outcaste is such by birth but only by his deeds.\" According to this text, what decides what a person is?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "His deeds."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "His family."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The region of his birth."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The order of a king."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The Sutta Nipāta says that a person is not such by birth but by his deeds. The line is used to show that the division of the varṇas was understood as a functional one."
+  },
+  "hints": [
+    {
+      "en": "The answer is a word in the quotation."
+    }
+  ],
+  "tags": [
+    "sutta-nipata",
+    "deeds-not-birth",
+    "varna",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:40.217Z",
+    "reviewedBy": "review-bar"
+  }
+}

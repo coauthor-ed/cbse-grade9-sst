@@ -1,0 +1,59 @@
+{
+  "id": "q-l06-s02",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "statements": [
+    {
+      "id": "st1",
+      "text": {
+        "en": "The Uttaramerur draw took place in full view of the community, often at a temple, to ensure fairness."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "st2",
+      "text": {
+        "en": "Because the draw was often held at a temple, the temple chose who would win."
+      },
+      "isTrue": false
+    },
+    {
+      "id": "st3",
+      "text": {
+        "en": "The inscription does not tell us how names reached the leaves."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "st4",
+      "text": {
+        "en": "The main reason given for the public draw is that it saved time."
+      },
+      "isTrue": false
+    }
+  ],
+  "explanation": {
+    "en": "The draw took place in full view of the community to ensure fairness. A temple was often the place of the draw, and nothing says the temple chose the result. Our source does not tell us how every name came to be on a leaf, so the fairness of the draw does not settle that question."
+  },
+  "hints": [
+    {
+      "en": "Separate what the source states from what it leaves unsaid."
+    },
+    {
+      "en": "The place of the draw is a different matter from who chose the result."
+    }
+  ],
+  "tags": [
+    "kudavolai",
+    "ballot-pot",
+    "fairness",
+    "statement-judgment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:28.849Z",
+    "reviewedBy": "review-bar"
+  }
+}

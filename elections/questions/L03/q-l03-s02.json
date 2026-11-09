@@ -1,0 +1,47 @@
+{
+  "id": "q-l03-s02",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "assertion": {
+    "en": "If every constituency had the same population and one seat, each vote would carry about the same weight in choosing an MP."
+  },
+  "reason": {
+    "en": "The weight of one vote in choosing an MP depends on how many people share that MP."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both statements are true, and here the second does explain the first: equal numbers of people give equal shares of one MP."
+    },
+    "c": {
+      "en": "The assertion is true. Equal populations give each vote about the same weight."
+    },
+    "d": {
+      "en": "The reason is true. One of 5 lakh has more weight in choosing an MP than one of 25 lakh."
+    }
+  },
+  "explanation": {
+    "en": "Both are true, and the reason explains the assertion. One vote matters more when fewer people share the MP, so equal populations give votes about equal weight."
+  },
+  "hints": [
+    {
+      "en": "Check each statement alone first."
+    },
+    {
+      "en": "Compare one voter among 5 lakh with one voter among 25 lakh."
+    }
+  ],
+  "tags": [
+    "delimitation",
+    "equal-representation",
+    "constituency",
+    "vote-weight"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:06.864Z",
+    "reviewedBy": "review-bar"
+  }
+}

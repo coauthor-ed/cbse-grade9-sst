@@ -1,0 +1,26 @@
+{
+  "id": "blk-l01-s02",
+  "type": "poe-predict@1",
+  "prompt": "## Why Set It Up?\n\nThe officials knew that the Gir booth would serve only one voter. They still followed the same rules as at any city booth: the same secrecy and the same ink mark on the finger.\n\n**Predict:** Why does a democracy set up a booth for one voter?",
+  "options": [
+    {
+      "id": "a",
+      "text": "It was a mistake in the list: his name should have gone to another booth."
+    },
+    {
+      "id": "b",
+      "text": "It was mainly for show, to let people see how careful the officials are."
+    },
+    {
+      "id": "c",
+      "text": "Every vote counts the same, so living far away must not stop anyone voting."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.499Z"
+  }
+}

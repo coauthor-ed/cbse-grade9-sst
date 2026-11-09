@@ -1,0 +1,73 @@
+{
+  "id": "q-l10-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Heavy rain soaks into a hillside for days. How does the water make a landslide more likely?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It adds weight and reduces friction."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A heavier slope with less grip is more likely to move."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It removes weight and reduces friction."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Half right. Friction falls, but a soaked slope is heavier, not lighter."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It adds weight and increases friction."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Half right. The slope is heavier, but water makes the pieces grip less."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It removes weight and increases friction."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both parts are the wrong way round. The slope gets heavier and loses grip."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Water seeps into soil and rock, so the slope weighs more. It also reduces friction, the grip that holds the pieces together. Both changes push the slope towards failure."
+  },
+  "hints": [
+    {
+      "en": "Is wet soil heavier or lighter than dry soil?"
+    }
+  ],
+  "tags": [
+    "landslide",
+    "trigger",
+    "three-conditions",
+    "deforestation",
+    "road-cut"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:56.194Z",
+    "reviewedBy": "review-bar"
+  }
+}

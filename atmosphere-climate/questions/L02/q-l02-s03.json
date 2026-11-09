@@ -1,0 +1,60 @@
+{
+  "id": "q-l02-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Going up from the ground through the first four layers of the atmosphere, what does the temperature do in each layer?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Falls, falls, falls, falls"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Rises, falls, rises, falls"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Falls, rises, falls, rises"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Falls, rises, rises, falls"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Temperature decreases with altitude only in the troposphere and the mesosphere. It rises in the stratosphere and the thermosphere, so the pattern is falls, rises, falls, rises."
+  },
+  "hints": [
+    {
+      "en": "Name the four layers from the ground up, then decide for each one."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "layers",
+    "temperature",
+    "zig-zag"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:11.924Z",
+    "reviewedBy": "review-bar"
+  }
+}

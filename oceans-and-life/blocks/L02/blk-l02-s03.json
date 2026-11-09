@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s03",
+  "type": "content-block@1",
+  "poeRole": "explain",
+  "markdownRef": "blocks/L02/blk-l02-s03.md",
+  "simulation": {
+    "src": "simulations/L02/CoconutBobScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:25.965Z",
+    "reviewedBy": "review-bar"
+  }
+}

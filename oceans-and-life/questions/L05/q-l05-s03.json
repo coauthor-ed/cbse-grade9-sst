@@ -1,0 +1,70 @@
+{
+  "id": "q-l05-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Cyclones in the North Indian Ocean get their names from a list. Which statement about that list is true?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "13 names, sent in by 169 member countries, in order"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The numbers are the other way round: 169 names from 13 countries."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "169 names, sent in by 13 countries, used in order"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The list has 169 names from 13 member countries, including India, and they are used one after another."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "169 names, each chosen by the country hit first"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Names are not chosen by the country hit. They are used in order from the list."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A new list, chosen afresh by India every single year"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The list is shared by 13 member countries and is not made afresh each year."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The list has 169 names sent in by 13 member countries, including India, and the names are used one after another. This helps clear communication and public awareness."
+  },
+  "hints": [
+    {
+      "en": "One option turns the two numbers round."
+    }
+  ],
+  "tags": [
+    "cyclone-naming",
+    "north-indian-ocean"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:39.278Z",
+    "reviewedBy": "review-bar"
+  }
+}

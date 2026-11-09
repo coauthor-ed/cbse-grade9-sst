@@ -1,0 +1,103 @@
+{
+  "id": "q-l01-s05b",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Sort each feature of the sea floor into the group it belongs to."
+  },
+  "categories": [
+    {
+      "id": "margin",
+      "label": {
+        "en": "The edge of the continent"
+      }
+    },
+    {
+      "id": "deepfloor",
+      "label": {
+        "en": "The deep ocean floor"
+      }
+    },
+    {
+      "id": "volcanic",
+      "label": {
+        "en": "Landforms built by volcanic activity"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-shelf",
+      "text": {
+        "en": "Continental shelf"
+      },
+      "correctCategoryId": "margin"
+    },
+    {
+      "id": "chip-slope",
+      "text": {
+        "en": "Continental slope"
+      },
+      "correctCategoryId": "margin"
+    },
+    {
+      "id": "chip-rise",
+      "text": {
+        "en": "Continental rise"
+      },
+      "correctCategoryId": "margin"
+    },
+    {
+      "id": "chip-plain",
+      "text": {
+        "en": "Abyssal plain"
+      },
+      "correctCategoryId": "deepfloor"
+    },
+    {
+      "id": "chip-trench",
+      "text": {
+        "en": "Ocean trench"
+      },
+      "correctCategoryId": "deepfloor"
+    },
+    {
+      "id": "chip-ridge",
+      "text": {
+        "en": "Mid-ocean ridge"
+      },
+      "correctCategoryId": "volcanic"
+    },
+    {
+      "id": "chip-island",
+      "text": {
+        "en": "Volcanic island"
+      },
+      "correctCategoryId": "volcanic"
+    }
+  ],
+  "explanation": {
+    "en": "The shelf, slope and rise lie at the edge of the continent. The abyssal plain is the flat deep floor, and a trench is the deepest part of the ocean. The mid-ocean ridge and a volcanic island are both landforms built by volcanic activity."
+  },
+  "hints": [
+    {
+      "en": "Three of these lie where the continent meets the deep sea."
+    },
+    {
+      "en": "Of the other four, two are deep floor and two are landforms built by volcanic activity."
+    }
+  ],
+  "tags": [
+    "ocean-relief",
+    "continental-margin",
+    "abyssal-plain",
+    "mid-ocean-ridge"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:21.469Z",
+    "reviewedBy": "review-bar"
+  }
+}

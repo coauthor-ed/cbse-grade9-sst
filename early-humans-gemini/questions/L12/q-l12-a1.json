@@ -1,0 +1,69 @@
+{
+  "id": "q-l12-a1",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Which list gives the four dynasties in the order they ruled, from earliest to latest?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Zhou, Shang, Qin, Han"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Shang came first. They ruled from 1600 BCE, and the Zhou took over only in 1046 BCE."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Shang, Qin, Zhou, Han"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Qin came long after the Zhou. The Zhou ended in 256 BCE, and the Qin empire began in 221 BCE."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Shang, Zhou, Qin, Han"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Shang, Zhou, Han, Qin"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Qin came before the Han. The Han took over in 206 BCE, when the Qin fell."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Shang 1600-1046 BCE, Zhou 1046-256 BCE, Qin 221-206 BCE, Han 206 BCE-220 CE."
+  },
+  "hints": [
+    {
+      "en": "Start with the dynasty of the oracle bones."
+    },
+    {
+      "en": "Which dynasty lasted only 15 years, and which one came right after it?"
+    }
+  ],
+  "tags": [
+    "china",
+    "dynasties"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

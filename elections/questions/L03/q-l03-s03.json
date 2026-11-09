@@ -1,0 +1,60 @@
+{
+  "id": "q-l03-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "What is the aim of delimitation?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "To give every constituency more people, so that each MP has more voters."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "To let each State redraw its boundaries whenever its government wishes."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "To keep seats and population in as close to an equal ratio as possible."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "To fix boundaries once, so that every voter always votes in the same place."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Delimitation aims to keep the ratio of seats to population as close to equal as possible across all constituencies."
+  },
+  "hints": [
+    {
+      "en": "The aim is about a ratio."
+    }
+  ],
+  "tags": [
+    "delimitation",
+    "article-82",
+    "equal-representation",
+    "constituency"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:06.864Z",
+    "reviewedBy": "review-bar"
+  }
+}

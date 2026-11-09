@@ -1,0 +1,72 @@
+{
+  "id": "q-l06-s06",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A village has just drawn its representatives from the pot. What happens to them next, according to the Uttaramerur inscription?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They are divided into specialised committees, such as those for irrigation, justice and taxes."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They travel to the capital to serve the king."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They are drawn again every week until one leader is left."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They choose one of their number to be the village's new king."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L06/exp-q-l06-s06.json"
+      }
+    ]
+  },
+  "explanation": {
+    "en": "The elected members were divided into specialised committees called variyams. Each was given important village work, such as managing irrigation (the tank committee), administering justice and collecting taxes."
+  },
+  "hints": [
+    {
+      "en": "Think of the word variyam."
+    },
+    {
+      "en": "The chosen people stay in the village and do its work."
+    }
+  ],
+  "tags": [
+    "kudavolai",
+    "variyam",
+    "mini-game",
+    "eligibility",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:28.849Z",
+    "reviewedBy": "review-bar"
+  }
+}

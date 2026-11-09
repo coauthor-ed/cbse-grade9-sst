@@ -1,0 +1,16 @@
+{
+  "id": "blk-l05-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Same People, Two Plans\n\n<!-- STEP id=\"parliamentary\" -->\n## Parliamentary Democracy\n\nIn a **parliamentary democracy**, people elect the legislature but not the executive.\n\nMembers of the executive are also part of the legislature, and the executive is accountable to it.\n\n<!-- STEP id=\"presidential\" -->\n## Presidential Democracy\n\nIn a **presidential democracy**, the executive is independent of the legislature. The President is elected by the people and is accountable to the people.\n\nThe United States of America works this way.\n\n<!-- STEP id=\"telltale-question\" -->\n## One Question\n\nOne question separates the two: **who does the executive answer to?**\n\nIf it answers to the legislature, the system is parliamentary. If the President answers to the people, it is presidential. Tap a part to light it."
+  },
+  "simulation": {
+    "src": "simulations/L05/ParlVsPresScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.517Z"
+  }
+}

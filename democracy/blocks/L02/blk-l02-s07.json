@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s07",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Disruption and Revival\n\n<!-- STEP id=\"invasions\" -->\n## Disruption\n\nOver the long passage of time, invasions by foreign invaders disrupted the political and social fabric of some parts of the country.\n\n<!-- STEP id=\"colonisation\" -->\n## Colonial Rule\n\nBy the 19th century, the British had colonised most parts of the Indian subcontinent. Foreign rule altered political structures and limited people's participation in their governance.\n\n<!-- STEP id=\"revival\" -->\n## Revival\n\nThe long struggle for independence from British colonial rule then revived and strengthened democratic ideas among the people.\n\n**The freedom struggle brought democratic ideas back to the centre, and the next step was to write a constitution.**"
+  },
+  "simulation": {
+    "src": "simulations/L02/DisruptionTimelineScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.504Z"
+  }
+}

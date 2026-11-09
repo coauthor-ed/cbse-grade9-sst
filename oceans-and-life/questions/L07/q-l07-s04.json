@@ -1,0 +1,75 @@
+{
+  "id": "q-l07-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "One boat nets fish in water 150 metres deep over the continental shelf. Another nets fish far beyond the shelf, in water 900 metres deep. How are their fish sorted?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Coastal fish at 900 m, oceanic fish at 150 m"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These two are swapped. The shallow water over the shelf holds the coastal fish."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Oceanic fish at both depths"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "150 metres is less than 200 metres and over the shelf, so that fish is coastal, not oceanic."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Coastal fish at both depths"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "900 metres is beyond the shelf and deeper than 200 metres, so that fish is oceanic."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Coastal fish at 150 m, oceanic fish at 900 m"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Coastal fish live within the shelf at 0 to 200 metres, and oceanic fish live beyond it at more than 200 metres."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Coastal or neritic fish live within the continental shelf, at depths of 0 to 200 metres. Oceanic fish live beyond the shelf, at depths of more than 200 metres. So 150 metres gives a coastal fish and 900 metres gives an oceanic fish."
+  },
+  "hints": [
+    {
+      "en": "Which depth marks the edge of the shelf in this sorting?"
+    },
+    {
+      "en": "Compare each depth with 200 metres."
+    }
+  ],
+  "tags": [
+    "marine-resources",
+    "neritic-fish",
+    "oceanic-fish",
+    "continental-shelf"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:47.998Z",
+    "reviewedBy": "review-bar"
+  }
+}

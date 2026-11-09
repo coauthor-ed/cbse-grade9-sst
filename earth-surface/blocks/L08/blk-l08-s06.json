@@ -1,0 +1,17 @@
+{
+  "id": "blk-l08-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08/blk-l08-s06.md",
+  "image": {
+    "src": "media/L08/yardang-field.jpg",
+    "alt": "A yardang field on a hyper-arid desert plateau: dozens of long, low, flat-topped rock ridges lying parallel across the bare ground, with pale wind-swept sand filling the corridors between them and no vegetation in sight",
+    "position": "right",
+    "caption": "Yardangs in the Qaidam Basin, China. Photo: Liuxingy, CC BY-SA 4.0, via Wikimedia Commons."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:46.378Z",
+    "reviewedBy": "review-bar"
+  }
+}

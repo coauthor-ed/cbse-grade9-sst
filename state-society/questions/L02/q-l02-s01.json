@@ -1,0 +1,64 @@
+{
+  "id": "q-l02-s01",
+  "type": "sequence-order@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Put these four phases of early Indian history in order, earliest first."
+  },
+  "explanation": {
+    "en": "Kin-based polities of the Ṛigveda came first, around 2000 BCE. Janapadas followed from about 1000 BCE and mahājanapadas from about 600 BCE, then empires from about 300 BCE and regional empires from about 700 CE."
+  },
+  "hints": [
+    {
+      "en": "Start with the smallest units, which were held together by kinship."
+    },
+    {
+      "en": "Regional empires came long after the first empires."
+    }
+  ],
+  "tags": [
+    "janapada",
+    "timeline",
+    "chronology",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:09.784Z",
+    "reviewedBy": "review-bar"
+  },
+  "items": [
+    {
+      "id": "empires",
+      "text": {
+        "en": "Empires of roughly pan-Indian size, with early polities in the south"
+      }
+    },
+    {
+      "id": "kin",
+      "text": {
+        "en": "Kin-based polities in the Sapta-Sindhu region"
+      }
+    },
+    {
+      "id": "regional",
+      "text": {
+        "en": "Regional empires and imperial polities of southern India"
+      }
+    },
+    {
+      "id": "janapadas",
+      "text": {
+        "en": "Janapadas and mahājanapadas"
+      }
+    }
+  ],
+  "correctOrder": [
+    "kin",
+    "janapadas",
+    "empires",
+    "regional"
+  ]
+}

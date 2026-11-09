@@ -1,0 +1,71 @@
+{
+  "id": "q-l07-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which of these is a conventional source of marine energy?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Offshore wind turbines"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Offshore wind is non-conventional: it is a newer source."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Gas from under the sea bed"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Oil and natural gas are the conventional sources, used for a long time."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Tidal energy from a barrage"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Tidal energy is a kind of ocean energy, which is non-conventional."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Ocean thermal conversion"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "OTEC is a kind of ocean energy, which is non-conventional."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Conventional energy is the kind that has been used for a long time, and in the sea that means oil and natural gas from under the sea bed. Offshore wind, tidal energy and OTEC are all non-conventional, newer sources."
+  },
+  "hints": [
+    {
+      "en": "Conventional means used for a long time. Which of these has been?"
+    }
+  ],
+  "tags": [
+    "marine-resources",
+    "conventional-energy",
+    "non-conventional-energy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:47.998Z",
+    "reviewedBy": "review-bar"
+  }
+}

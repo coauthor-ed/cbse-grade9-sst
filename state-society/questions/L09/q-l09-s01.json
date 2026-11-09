@@ -1,0 +1,66 @@
+{
+  "id": "q-l09-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Kula, grāma, viśha and jana fitted together in Vedic society. Which statement best describes this arrangement?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Each group gave orders to the one below it, so a village had no say and the rājā decided everything."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The four groups replaced one another over time, so the kula had disappeared once the jana formed."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The rājā served as chief protector of the jana, and the family was inseparable from the people."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The rājā made laws for every group, and each group existed only to carry out his orders."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The sources call the rājā the chief protector of the jana. A family sat inside a village, a village inside a viśha and a viśha inside the jana, so the kula was inseparable from the people. Options a and d describe a chain of command, which these sources do not describe. Option b is wrong because all four groups existed together."
+  },
+  "hints": [
+    {
+      "en": "Which word do the sources use for the rājā's role: protector or lawmaker?"
+    },
+    {
+      "en": "Did a family stop existing when a jana formed?"
+    }
+  ],
+  "tags": [
+    "kula",
+    "grama",
+    "visha",
+    "jana",
+    "raja",
+    "family",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:45.482Z",
+    "reviewedBy": "review-bar"
+  }
+}

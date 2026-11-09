@@ -1,0 +1,260 @@
+{
+  "id": "q-l03-s04",
+  "type": "comprehension-set@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "passageTitle": {
+    "en": "Three examples of electoral offences"
+  },
+  "passage": {
+    "en": "The Representation of the People Act, 1951 lists electoral offences and corrupt practices. Here are three examples.\n\nFirst, any gift, offer or promise made by a candidate, or with their consent, to make a person contest, withdraw, vote or refrain from voting.\n\nSecond, appealing to people to vote or refrain from voting on the basis of religion, caste, race, community or language.\n\nThird, a candidate or anyone on their behalf taking assistance in favour of the candidate from government-related personnel. This includes gazetted officers, judges and magistrates, armed forces personnel, police personnel and excise officers."
+  },
+  "items": [
+    {
+      "id": "i1",
+      "weight": 1,
+      "question": {
+        "id": "q-l03-s04-i1",
+        "type": "mcq-single@2",
+        "difficulty": "medium",
+        "bloomLevel": "analyse",
+        "stem": {
+          "en": "Which of these people is NOT named in the third example?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "text": {
+              "en": "An excise officer"
+            },
+            "isCorrect": false
+          },
+          {
+            "id": "b",
+            "text": {
+              "en": "A police officer"
+            },
+            "isCorrect": false
+          },
+          {
+            "id": "c",
+            "text": {
+              "en": "A private school teacher"
+            },
+            "isCorrect": true
+          },
+          {
+            "id": "d",
+            "text": {
+              "en": "A judge or a local magistrate"
+            },
+            "isCorrect": false
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": {
+          "en": "The third example names gazetted officers, judges and magistrates, armed forces personnel, police personnel and excise officers. A private school teacher is not on this list."
+        },
+        "hints": [
+          {
+            "en": "Read the list of people in the third example."
+          }
+        ],
+        "tags": [
+          "official-machinery",
+          "electoral-offences",
+          "rpa-1951"
+        ],
+        "authoring": {
+          "status": "human-approved",
+          "flags": [],
+          "reviewedAt": "2026-11-01T07:40:00.000Z", "reviewedBy": "owner"
+        }
+      }
+    },
+    {
+      "id": "i2",
+      "weight": 1,
+      "question": {
+        "id": "q-l03-s04-i2",
+        "type": "mcq-single@2",
+        "difficulty": "medium",
+        "bloomLevel": "apply",
+        "stem": {
+          "en": "A candidate's supporter, with the candidate's consent, offers a free school bag to families who promise to vote for that candidate. Which example fits this?"
+        },
+        "options": [
+          {
+            "id": "a",
+            "text": {
+              "en": "The second example, as the families are treated as one community."
+            },
+            "isCorrect": false
+          },
+          {
+            "id": "b",
+            "text": {
+              "en": "The first example, a gift to make people vote."
+            },
+            "isCorrect": true
+          },
+          {
+            "id": "c",
+            "text": {
+              "en": "The third example, as a school bag is a government matter."
+            },
+            "isCorrect": false
+          },
+          {
+            "id": "d",
+            "text": {
+              "en": "None, because a free bag is not the same as paying money."
+            },
+            "isCorrect": false
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": {
+          "en": "This is the first example. The offer is a gift made with the candidate's consent to make people vote. The rule says any gift, offer or promise, so it is not only about money."
+        },
+        "hints": [
+          {
+            "en": "The first example says any gift, offer or promise."
+          }
+        ],
+        "tags": [
+          "bribery",
+          "electoral-offences",
+          "rpa-1951",
+          "voter-choice"
+        ],
+        "authoring": {
+          "status": "human-approved",
+          "flags": [],
+          "reviewedAt": "2026-11-01T07:40:00.000Z", "reviewedBy": "owner"
+        }
+      }
+    },
+    {
+      "id": "i3",
+      "weight": 2,
+      "question": {
+        "id": "q-l03-s04-i3",
+        "type": "semantic-descriptive@1",
+        "difficulty": "medium",
+        "bloomLevel": "analyse",
+        "prompt": {
+          "en": "The first example names four things a gift may be used for: to make a person contest, withdraw, vote or refrain from voting. Why does the law list all four, and not only 'vote'?"
+        },
+        "rubric": [
+          {
+            "id": "all-four-directions",
+            "label": {
+              "en": "The four words cover every way a gift can change who takes part, not only the vote itself"
+            },
+            "level1": {
+              "en": "Which four decisions does the first example name?"
+            },
+            "clue": {
+              "en": "A person can be pushed to stand, to step down, to vote, or to stay at home."
+            },
+            "level2Template": {
+              "en": "The four words cover standing, stepping down, voting and staying away, so the rule is not about ___ alone."
+            },
+            "accepted": [
+              "the vote",
+              "voting",
+              "votes",
+              "a vote",
+              "voting alone",
+              "the act of voting"
+            ]
+          },
+          {
+            "id": "why-breadth-matters",
+            "label": {
+              "en": "Making a candidate withdraw or a voter stay away can change the result just as a bought vote can"
+            },
+            "level1": {
+              "en": "How can making someone withdraw, or stay at home, change a result?"
+            },
+            "clue": {
+              "en": "If a candidate withdraws, voters lose a choice. If a voter stays at home, one vote is lost."
+            },
+            "level2Template": {
+              "en": "Making someone ___ or stay away can change the result just as a bought vote can."
+            },
+            "accepted": [
+              "withdraw",
+              "stand down",
+              "step down",
+              "not vote",
+              "stay away",
+              "stay at home",
+              "abstain"
+            ]
+          }
+        ],
+        "level3": [
+          {
+            "eyebrow": {
+              "en": "The claim"
+            },
+            "text": {
+              "en": "The law lists all four because each one can change an election."
+            },
+            "rubricId": null
+          },
+          {
+            "eyebrow": {
+              "en": "The four directions"
+            },
+            "text": {
+              "en": "It names contest, withdraw, vote and refrain from voting, so the rule covers more than the vote that is cast."
+            },
+            "rubricId": "all-four-directions"
+          },
+          {
+            "eyebrow": {
+              "en": "Why each one matters"
+            },
+            "text": {
+              "en": "If a candidate withdraws, or a voter stays at home, the result can change just as it does with a bought vote. A rule naming only the vote would miss the other three."
+            },
+            "rubricId": "why-breadth-matters"
+          }
+        ],
+        "thresholds": {
+          "high": 0.6,
+          "low": 0.4,
+          "blank": 0.78
+        },
+        "authoring": {
+          "status": "human-approved",
+          "flags": [],
+          "reviewedAt": "2026-11-01T07:40:00.000Z", "reviewedBy": "owner"
+        }
+      }
+    }
+  ],
+  "explanation": {
+    "en": "The first example covers a gift, offer or promise, and four decisions. The second covers appeals on identity. The third covers help from named government personnel."
+  },
+  "hints": [
+    {
+      "en": "Read the three examples one at a time, then read the question again."
+    }
+  ],
+  "tags": [
+    "electoral-offences",
+    "rpa-1951",
+    "corrupt-practices",
+    "official-machinery"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:06.864Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s06b",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Roots, and What Came Later\n\n<!-- STEP id=\"what-the-roots-had\" -->\n## Real Roots\n\nThe answer is: in part. The old assemblies and the Saṁgha show consultation and discussion, and the Saṁgha shows voting. These are real roots of democracy.\n\n<!-- STEP id=\"every-adult\" -->\n## Every Adult Votes\n\nThose gatherings were for some people, not for all. Today every citizen aged 18 or above has the right to vote.\n\n<!-- STEP id=\"rights-and-courts\" -->\n## Written Rights, Courts to Protect Them\n\nA written Constitution now gives Fundamental Rights to all citizens, and courts protect them.\n\n**India's democracy did not appear suddenly: it grew through a long historical process.**"
+  },
+  "simulation": {
+    "src": "simulations/L02/RootsScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-11-01T00:00:00.000Z",
+    "flags": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-s05.md",
+  "simulation": {
+    "src": "simulations/L02/DroopQuotaScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:02.694Z",
+    "reviewedBy": "review-bar"
+  }
+}

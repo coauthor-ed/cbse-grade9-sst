@@ -1,0 +1,15 @@
+{
+  "id": "blk-l04-s09",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s09.md",
+  "simulation": {
+    "src": "simulations/L04/EciJobsScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:11.134Z",
+    "reviewedBy": "review-bar"
+  }
+}

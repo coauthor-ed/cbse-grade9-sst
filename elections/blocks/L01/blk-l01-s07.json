@@ -1,0 +1,15 @@
+{
+  "id": "blk-l01-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L01/MandateLedgerScene.js",
+  "objective": {
+    "en": "Sort eight cases into accountability, representation, equality and legitimacy."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:20:58.653Z",
+    "reviewedBy": "review-bar"
+  }
+}

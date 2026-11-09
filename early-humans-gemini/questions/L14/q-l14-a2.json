@@ -1,0 +1,69 @@
+{
+  "id": "q-l14-a2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Which of these is NOT on the book's list of features shared by all four?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Cities"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The book says urban cities emerged in all these centres."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A writing system"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "All four had writing, even though the Harappan script is still unread."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Farming on fertile river plains"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "All four grew up on river plains, and the book says all four harnessed farming."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Covered drains under the streets of planned cities"
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The book's shared list is river plains, farming, cities, social and administrative systems, and writing. Covered drains are a Harappan feature, not a feature of all four."
+  },
+  "hints": [
+    {
+      "en": "Go through the book's list of what all four had."
+    },
+    {
+      "en": "Which one did you meet only in the Harappan lessons?"
+    }
+  ],
+  "tags": [
+    "bronze-age",
+    "shared-features"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

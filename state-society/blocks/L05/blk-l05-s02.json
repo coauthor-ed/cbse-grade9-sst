@@ -1,0 +1,36 @@
+{
+  "id": "blk-l05-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05/blk-l05-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The king gave up his throne, and each province became a separate kingdom."
+    },
+    {
+      "id": "b",
+      "text": "Work and decisions were shared out among levels, each with its own officers, and the king stayed supreme."
+    },
+    {
+      "id": "c",
+      "text": "All officers were called to the capital, so that the king could decide everything himself."
+    },
+    {
+      "id": "d",
+      "text": "The king moved his capital closer to the villages, so that orders travelled faster."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L05/AdminLadderScene.js",
+    "role": "setup",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:24.273Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "q-l06-s07",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Why does the site of Mehrgarh matter in the early history of the Indian subcontinent? Give two reasons, with dates."
+  },
+  "rubric": [
+    {
+      "id": "farming-village",
+      "label": {
+        "en": "It is the subcontinent's earliest farming village: from about 7000 BCE its people cultivated wheat and barley, herded sheep, goats and zebu cattle, and stored the surplus in granaries"
+      },
+      "level1": {
+        "en": "What would you need to find at Mehrgarh before calling it a farming village rather than a foraging camp?"
+      },
+      "clue": {
+        "en": "Growing crops, raising animals and storing food. The book says that the people of Mehrgarh did all three by about 7000 BCE: wheat and barley, sheep, goats and zebu cattle, and brick granaries."
+      },
+      "level2Template": {
+        "en": "By about ___, the people of Mehrgarh cultivated wheat and barley, herded sheep, goats and zebu cattle, and stored the harvest in granaries - the earliest farming village in the subcontinent."
+      },
+      "accepted": [
+        "7000 BCE",
+        "7000 bce",
+        "7000 BC",
+        "7000 bc",
+        "7000"
+      ]
+    },
+    {
+      "id": "copper-threshold",
+      "label": {
+        "en": "Its people were the first in the subcontinent to make copper objects, entering the metal age and becoming known as Chalcolithic people by about 4000 BCE"
+      },
+      "level1": {
+        "en": "Around 4000 BCE a new material appears in Mehrgarh's toolkit. Which material, and what age does working it begin?"
+      },
+      "clue": {
+        "en": "Copper, worked from its ores. Chalcolithic joins two old words: chalco, copper, and lithic, stone. It marks the beginning of the metal age in this region."
+      },
+      "level2Template": {
+        "en": "Mehrgarh's people were the first in the subcontinent to make ___ objects, entering the metal age and becoming known as Chalcolithic people by about 4000 BCE."
+      },
+      "accepted": [
+        "copper"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "Mehrgarh, on the Bolan river, matters for two firsts."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "The earliest farming village"
+      },
+      "text": {
+        "en": "By about ___, the people of Mehrgarh cultivated wheat and barley, herded sheep, goats and zebu cattle, and stored the harvest in granaries - the earliest farming village in the subcontinent."
+      },
+      "rubricId": "farming-village"
+    },
+    {
+      "eyebrow": {
+        "en": "Into the metal age"
+      },
+      "text": {
+        "en": "Mehrgarh's people were the first in the subcontinent to make ___ objects, entering the metal age and becoming known as Chalcolithic people by about 4000 BCE."
+      },
+      "rubricId": "copper-threshold"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s09",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Women and the Right to Vote\n\n<!-- STEP id=\"long-struggle\" -->\n## A Long Struggle Elsewhere\n\nIn a number of countries, women had a long and difficult struggle for the vote. It came in **1920** in the USA, and full voting rights came only in **1928** in Britain, after decades of protests and movements.\n\n<!-- STEP id=\"from-1950\" -->\n## India: From 1950\n\nWhen the Constitution came into force in **1950**, Universal Adult Franchise was extended to all citizens, men and women alike, from its first day. Indian women did not have to engage in prolonged battles for the vote.\n\n<!-- STEP id=\"not-automatic\" -->\n## A Right Is Not Yet Equality\n\nThe right to vote does not automatically ensure equal participation. Social prejudices still act as barriers and affect women's representation in politics.\n\n**Having a right and being able to use it fully are different things.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/SuffrageTimelineScene.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.522Z"
+  }
+}

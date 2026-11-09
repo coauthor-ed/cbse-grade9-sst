@@ -1,0 +1,90 @@
+{
+  "id": "q-l03-s04",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Sort each sign by the kind of day it belongs to."
+  },
+  "categories": [
+    {
+      "id": "humid",
+      "label": {
+        "en": "Humid day"
+      }
+    },
+    {
+      "id": "dry",
+      "label": {
+        "en": "Dry day"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-damp",
+      "text": {
+        "en": "Washed clothes stay damp all afternoon"
+      },
+      "correctCategoryId": "humid"
+    },
+    {
+      "id": "chip-sweat",
+      "text": {
+        "en": "Sweat stays on your skin"
+      },
+      "correctCategoryId": "humid"
+    },
+    {
+      "id": "chip-sticky",
+      "text": {
+        "en": "The air feels sticky"
+      },
+      "correctCategoryId": "humid"
+    },
+    {
+      "id": "chip-towel",
+      "text": {
+        "en": "A wet towel dries within the hour"
+      },
+      "correctCategoryId": "dry"
+    },
+    {
+      "id": "chip-lips",
+      "text": {
+        "en": "Your lips feel dry and cracked"
+      },
+      "correctCategoryId": "dry"
+    },
+    {
+      "id": "chip-quick",
+      "text": {
+        "en": "Sweat dries off as soon as it appears"
+      },
+      "correctCategoryId": "dry"
+    }
+  ],
+  "explanation": {
+    "en": "Humid air holds a lot of water vapour, so it is close to full. Water from clothes and skin evaporates into it slowly. Dry air holds little vapour, so water evaporates into it quickly."
+  },
+  "hints": [
+    {
+      "en": "Ask how easily water can evaporate into the air on that day."
+    },
+    {
+      "en": "Air that is nearly full of vapour takes in more water slowly."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "humidity",
+    "water-vapour",
+    "capacity"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:22.666Z",
+    "reviewedBy": "review-bar"
+  }
+}

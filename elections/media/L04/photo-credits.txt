@@ -1,0 +1,26 @@
+Media provenance - L04
+
+Per `docs/copyright-and-sourcing.md`: the textbook's own photograph is
+never extracted. The photograph below is an openly-licensed photograph of an
+Election Commission of India election, standing in for the source's
+`Fig. 7.4` (p.7 / book p.167).
+
+Downloaded as a 960px-wide JPEG rendition of the Commons original. The
+original file name and its Commons file page are recorded below so it can be
+replaced at full resolution without changing the block.
+
+## officer-checking-voter-list-delhi-2008.jpg
+
+- Used by: `blocks/L04/blk-l04-s06.json` (`image.src`).
+- Source: Wikimedia Commons,
+  `File:Voters identifying their name in voter list at a polling station, during Delhi Assembly Election-2008, on November 29, 2008.jpg`
+- File page: https://commons.wikimedia.org/wiki/File:Voters_identifying_their_name_in_voter_list_at_a_polling_station,_during_Delhi_Assembly_Election-2008,_on_November_29,_2008.jpg
+- Original: 2100 x 1392 px JPEG, 668,831 bytes.
+- Author / credited institution: Election Commission of India (published by
+  Press Information Bureau, PIB photo ID 20904, CNR 24109).
+- Licence: GODL-India (Government Open Data Licence - India), which permits
+  reuse with attribution.
+- Why this one: the source's `Fig. 7.4` is a polling official cross-checking a
+  name in an open photo electoral roll register, and this frame shows both
+  halves of that at once - the open register with its printed rows at the desk,
+  and the voters holding their slips waiting to be checked against it.

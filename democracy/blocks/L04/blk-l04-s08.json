@@ -1,0 +1,16 @@
+{
+  "id": "blk-l04-s08",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Equal and Equitable\n\n<!-- STEP id=\"uneven-start-lines\" -->\n## Two Runners, One Track\n\nTreating everybody the same sounds fair. But historical factors have led to an unequal distribution of opportunities and resources.\n\nThink of two runners on one track, where one starts far behind the other. The same rule for both does not close the gap.\n\n<!-- STEP id=\"equitable-article-46\" -->\n## Article 46\n\nThe government must protect all communities, so resources must be distributed **equitably**, especially to the most vulnerable sections, without discrimination.\n\nArticle 46 of the Constitution states that \"the State shall promote with special care the educational and economic interests of the weaker sections of the people, and, in particular, of the Scheduled Castes and the Scheduled Tribes, and shall protect them from social injustice and all forms of exploitation.\"\n\n<!-- STEP id=\"still-equal\" -->\n## The Law Stays the Same\n\nEveryone is still equal before the law. Equity is about sharing resources.\n\n**Equal means the same for everyone. Equitable means each person gets what they need for a fair chance.**"
+  },
+  "simulation": {
+    "src": "simulations/L04/EquityStepScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.515Z"
+  }
+}

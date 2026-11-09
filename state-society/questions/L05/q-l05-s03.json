@@ -1,0 +1,119 @@
+{
+  "id": "q-l05-s03",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Each name below belongs to one level of administration in the period 300 to 800 CE. Sort them by level. A northern name and a southern name for the same level go in the same box."
+  },
+  "categories": [
+    {
+      "id": "province",
+      "label": {
+        "en": "province"
+      }
+    },
+    {
+      "id": "division",
+      "label": {
+        "en": "division"
+      }
+    },
+    {
+      "id": "district",
+      "label": {
+        "en": "district"
+      }
+    },
+    {
+      "id": "group",
+      "label": {
+        "en": "group of villages"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "n-bhukti",
+      "text": {
+        "en": "bhukti (north)"
+      },
+      "correctCategoryId": "province"
+    },
+    {
+      "id": "s-mandala",
+      "text": {
+        "en": "manḍala or manḍalam (south)"
+      },
+      "correctCategoryId": "province"
+    },
+    {
+      "id": "n-vishaya",
+      "text": {
+        "en": "viṣhaya or bhoga (north)"
+      },
+      "correctCategoryId": "division"
+    },
+    {
+      "id": "s-valanadu",
+      "text": {
+        "en": "koṭṭam or valanāḍu (south)"
+      },
+      "correctCategoryId": "division"
+    },
+    {
+      "id": "n-adhishthana",
+      "text": {
+        "en": "adhiṣhṭhāna or paṭṭana (north)"
+      },
+      "correctCategoryId": "district"
+    },
+    {
+      "id": "s-nadu",
+      "text": {
+        "en": "nāḍu (south)"
+      },
+      "correctCategoryId": "district"
+    },
+    {
+      "id": "n-vithi",
+      "text": {
+        "en": "vithi (north)"
+      },
+      "correctCategoryId": "group"
+    },
+    {
+      "id": "s-pattala",
+      "text": {
+        "en": "paṭṭalā or kūṛram (south)"
+      },
+      "correctCategoryId": "group"
+    }
+  ],
+  "explanation": {
+    "en": "Each level had a northern name and a southern name. A province was a bhukti or a manḍala. A division was a viṣhaya or bhoga, or a koṭṭam or valanāḍu. A district was an adhiṣhṭhāna or paṭṭana, or a nāḍu. A group of villages, like a modern tahsīl, was a vithi, or a paṭṭalā or kūṛram."
+  },
+  "hints": [
+    {
+      "en": "Every box ends up with exactly two chips, one northern and one southern."
+    },
+    {
+      "en": "A group of villages is the level just above the village, like a modern tahsīl."
+    }
+  ],
+  "tags": [
+    "bhukti",
+    "mandala",
+    "vishaya",
+    "adhisthana",
+    "vithi",
+    "administration",
+    "match-categorize"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:24.273Z",
+    "reviewedBy": "review-bar"
+  }
+}

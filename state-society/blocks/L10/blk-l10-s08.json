@@ -1,0 +1,15 @@
+{
+  "id": "blk-l10-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L10/GurukulaDayGame.js",
+  "objective": {
+    "en": "Place each part of a gurukula education in its group: subjects, arts and crafts, daily practice, or inner values."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:49.938Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l03-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L03/CampaignRuleScene.js",
+  "objective": {
+    "en": "Choose the lawful reply in five campaign situations."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:06.864Z",
+    "reviewedBy": "review-bar"
+  }
+}

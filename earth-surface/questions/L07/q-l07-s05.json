@@ -1,0 +1,92 @@
+{
+  "id": "q-l07-s05",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Sort each feature: carved by the ice, or dropped by the ice?"
+  },
+  "categories": [
+    {
+      "id": "cut",
+      "label": {
+        "en": "Carved by ice"
+      }
+    },
+    {
+      "id": "dropped",
+      "label": {
+        "en": "Dropped by ice"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Cirque"
+      },
+      "correctCategoryId": "cut"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Arete"
+      },
+      "correctCategoryId": "cut"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "U-shaped valley"
+      },
+      "correctCategoryId": "cut"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Hanging valley"
+      },
+      "correctCategoryId": "cut"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "Lateral moraine"
+      },
+      "correctCategoryId": "dropped"
+    },
+    {
+      "id": "chip-6",
+      "text": {
+        "en": "Medial moraine"
+      },
+      "correctCategoryId": "dropped"
+    },
+    {
+      "id": "chip-7",
+      "text": {
+        "en": "Terminal moraine"
+      },
+      "correctCategoryId": "dropped"
+    }
+  ],
+  "explanation": {
+    "en": "Cirques, aretes, U-shaped valleys and hanging valleys are hollows or shapes carved in solid rock. Moraines are made of till, the material the ice carried and left behind."
+  },
+  "hints": [
+    {
+      "en": "Is it a shape cut in rock, or a heap of loose material?"
+    }
+  ],
+  "tags": [
+    "glacial-erosion",
+    "moraine"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:41.306Z",
+    "reviewedBy": "review-bar"
+  }
+}

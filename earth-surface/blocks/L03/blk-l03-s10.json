@@ -1,0 +1,15 @@
+{
+  "id": "blk-l03-s10",
+  "type": "mini-game@1",
+  "src": "simulations/L03/HazardByBoundaryScene.js",
+  "objective": {
+    "en": "For each boundary, say whether the ground shakes and whether volcanoes form."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:22.682Z",
+    "reviewedBy": "review-bar"
+  }
+}

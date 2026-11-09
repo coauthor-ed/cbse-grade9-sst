@@ -1,0 +1,20 @@
+{
+  "id": "blk-l07-game",
+  "type": "mini-game@1",
+  "subject": "social-studies",
+  "grade": 9,
+  "chapterId": "democracy",
+  "topicId": "democratic-resilience",
+  "board": "CBSE",
+  "src": "simulations/L07/EmergencyAndAfterGame.js",
+  "objective": {
+    "en": "Seven events from the early 1970s to 1977. Put them in the order in which they happened."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

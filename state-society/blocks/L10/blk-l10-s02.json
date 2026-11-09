@@ -1,0 +1,36 @@
+{
+  "id": "blk-l10-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L10/blk-l10-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "To train a student quickly in one trade, for early earning"
+    },
+    {
+      "id": "b",
+      "text": "To teach only the Vedas and the rituals that went with them"
+    },
+    {
+      "id": "c",
+      "text": "To prepare a person for the whole of life, in character as well as skills"
+    },
+    {
+      "id": "d",
+      "text": "To train the best pupils as officers for the king"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L10/GurukulaScene.js",
+    "role": "setup",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:49.938Z",
+    "reviewedBy": "review-bar"
+  }
+}

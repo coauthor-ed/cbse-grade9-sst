@@ -1,0 +1,58 @@
+{
+  "id": "q-l05-s11",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "In a certain country, citizens elect the national legislature but not the executive. The Prime Minister and the ministers are members of the legislature and are accountable to it. Which system does this country follow?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A parliamentary democracy, because the executive is part of the legislature."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A presidential democracy, because a separate executive answers to the people."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A direct democracy, because citizens take part in most decisions themselves."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Not a democracy, because the people do not vote for the Prime Minister directly."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The executive here comes from the legislature and answers to it, so this is a parliamentary democracy, as in India and Canada. In a presidential democracy the President is elected by the people and is independent of the legislature. In a direct democracy citizens take part in most decisions. The last option is wrong because people elect the legislature, and the executive is accountable to it."
+  },
+  "hints": [
+    {
+      "en": "Ask who the executive answers to."
+    }
+  ],
+  "tags": [
+    "parliamentary-democracy",
+    "presidential-democracy",
+    "representative-democracy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.519Z"
+  }
+}

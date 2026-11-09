@@ -1,0 +1,16 @@
+{
+  "id": "blk-l03-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Who Is the Boss of the Government?\n\n<!-- STEP id=\"term-over\" -->\n## Five Years Are Up\n\nA government's term has ended and an election is over. Soon a new team will sit in the same offices. What gives the new team the right to govern?\n\n<!-- STEP id=\"name-the-boss\" -->\n## Try Naming the Boss\n\nThe outgoing Prime Minister, the police and the judges all look like good answers. Tap each one to see why it fails.\n\n**So who is the boss?**"
+  },
+  "simulation": {
+    "src": "simulations/L03/BossDialScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.506Z"
+  }
+}

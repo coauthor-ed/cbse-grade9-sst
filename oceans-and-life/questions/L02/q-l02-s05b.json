@@ -1,0 +1,71 @@
+{
+  "id": "q-l02-s05b",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Waves have cut an arch through a headland. What finally brings down the top of the arch?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Strong wind blowing through the opening"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Wind does not bring the top down. The rock falls."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Storm waves striking the top from above"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Waves work low down, near the foot of the rock."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sand piling up on top until it is crushed"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Nothing piles up there. The waves take rock away from below."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Gravity, after waves cut the rock below"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The waves take away the rock beneath, and gravity brings the top down."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The waves cut away the rock underneath. The top of the arch then collapses because of gravity, and it leaves a tall sea stack standing in the water."
+  },
+  "hints": [
+    {
+      "en": "What pulls down anything that is left unsupported?"
+    }
+  ],
+  "tags": [
+    "sea-arch",
+    "sea-stack",
+    "coastal-erosion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:25.965Z",
+    "reviewedBy": "review-bar"
+  }
+}

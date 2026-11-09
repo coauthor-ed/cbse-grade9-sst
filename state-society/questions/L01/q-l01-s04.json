@@ -1,0 +1,63 @@
+{
+  "id": "q-l01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "The Vedas are called the earliest known body of Indian literature. Why can the writing of the Harappans not take that place?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The Harappan script has not yet been deciphered, so we cannot read it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The Harappans did not use any form of writing."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "All Harappan writing was destroyed when their cities were abandoned."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The Vedas were written down before the first Harappan cities were built."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The Harappans of the Sindhu-Sarasvatī civilisation had a script, but it has not yet been deciphered. The Vedas can be read, and they existed in oral form for several centuries before they were written down."
+  },
+  "hints": [
+    {
+      "en": "The answer is about what we are able to read today."
+    },
+    {
+      "en": "Harappan seals carry signs. What is the problem with those signs?"
+    }
+  ],
+  "tags": [
+    "vedas",
+    "script",
+    "oral-tradition",
+    "sources"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:04.889Z",
+    "reviewedBy": "review-bar"
+  }
+}

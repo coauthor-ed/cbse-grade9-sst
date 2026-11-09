@@ -1,0 +1,75 @@
+{
+  "id": "q-l03-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Meera says, 'The poles are cold because they are far from the Sun.' Which is the best reply?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "She is right, because the poles are thousands of km further from the Sun."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They are further, but a few thousand km is tiny next to 15 crore km."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "She has it backwards, because the poles are nearer to the Sun."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The equator is slightly nearer to the Sun, not the poles."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Neither distance nor angle matters, because only cloud decides temperature."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cloud matters on a given day, but the angle of sunlight sets the pattern from equator to pole."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The extra distance is tiny next to 15 crore km; slanting sunlight spreading out matters far more."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The difference in distance is far too small, while the angle changes a lot."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The Sun is about 15 crore km away, so a few thousand km more makes almost no difference. Near the poles sunlight arrives at a low angle and spreads over a wider area, so less energy reaches each part of the ground."
+  },
+  "hints": [
+    {
+      "en": "Compare a few thousand km with 15 crore km."
+    },
+    {
+      "en": "What changes more from equator to pole: the distance or the angle of the sunlight?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "insolation",
+    "temperature-zones",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:22.666Z",
+    "reviewedBy": "review-bar"
+  }
+}

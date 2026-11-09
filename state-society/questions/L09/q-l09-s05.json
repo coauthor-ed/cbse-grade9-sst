@@ -1,0 +1,61 @@
+{
+  "id": "q-l09-s05",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "statements": [
+    {
+      "id": "st1",
+      "text": {
+        "en": "The position and roles of women changed over time, and in some periods they declined."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "st2",
+      "text": {
+        "en": "Prabhāvatī Gupta's land grants prove that women held a high position in every period."
+      },
+      "isTrue": false
+    },
+    {
+      "id": "st3",
+      "text": {
+        "en": "Sangam literature shows women planting paddy, rearing cattle, spinning, fishing and making salt."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "st4",
+      "text": {
+        "en": "Women are named only in Vedic texts, and no later record names a woman."
+      },
+      "isTrue": false
+    }
+  ],
+  "explanation": {
+    "en": "The position and roles of women fluctuated, even declined, as conditions changed, so one record cannot stand for every period. Prabhāvatī Gupta is evidence about one woman in one kingdom. Later records do name women, including Avvaiyar in Sangam texts, Prabhāvatī Gupta in the 4th to 6th centuries CE and Sembiyan Mahādevī in Chola inscriptions."
+  },
+  "hints": [
+    {
+      "en": "Can one person's record tell us about every period?"
+    },
+    {
+      "en": "Think of the names that appear after the Vedic period."
+    }
+  ],
+  "tags": [
+    "women",
+    "veda",
+    "sangam",
+    "chola",
+    "prabhavati-gupta",
+    "statement-judgment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:45.482Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "q-l10-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which statement best describes a gurukula in early India?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A day school where pupils came each morning and went home each evening."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A place where only the Vedas were studied and no other skills were taught."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "An army camp where young men trained only in archery and wrestling."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The teacher's home was its centre, and students lived there as members of the family."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The teacher's home served as the centre of the gurukula, and a student was treated as a member of the teacher's family. Students lived there, so it was not a day school. They studied many subjects alongside the Vedas, and archery was one skill among many."
+  },
+  "hints": [
+    {
+      "en": "Where did the students sleep and eat?"
+    }
+  ],
+  "tags": [
+    "gurukula",
+    "education",
+    "holistic",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:49.938Z",
+    "reviewedBy": "review-bar"
+  }
+}

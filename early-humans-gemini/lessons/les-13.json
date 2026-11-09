@@ -1,0 +1,50 @@
+{
+  "id": "les-13",
+  "type": "lesson",
+  "title": {
+    "en": "Who Built the Great Wall?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L13/blk-l13-s01.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s02.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s03.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-a1.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s04.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s05.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-a2.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s05b.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-s06.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-s07.json"
+    },
+    {
+      "blockRef": "questions/L13/q-l13-s08.json"
+    },
+    {
+      "blockRef": "blocks/L13/blk-l13-game.json"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

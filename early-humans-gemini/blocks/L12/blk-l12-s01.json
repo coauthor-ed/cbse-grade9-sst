@@ -1,0 +1,31 @@
+{
+  "id": "blk-l12-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L12/blk-l12-s01.md",
+  "image": {
+    "src": "media/L12/L12S01.jpg",
+    "alt": "Smoothed ancient ox scapula inscribed with vertical columns of archaic Chinese characters.",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "incised-columns": {
+        "src": "media/L12/L12S01-b2.jpg",
+        "alt": "Raking-light close-up showing incised archaic characters cut into bone."
+      },
+      "tortoise-plastron": {
+        "src": "media/L12/L12S01-b3.jpg",
+        "alt": "Inscribed tortoise plastron under-shell showing smoothed surface and ancient divination columns."
+      },
+      "crack-pattern": {
+        "src": "media/L12/L12S01-b4.jpg",
+        "alt": "Close-up of thermal fracture cracks radiating across heated bone surface beside drilled pits."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

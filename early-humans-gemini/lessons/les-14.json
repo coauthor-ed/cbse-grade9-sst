@@ -1,0 +1,68 @@
+{
+  "id": "les-14",
+  "type": "lesson",
+  "title": {
+    "en": "Copied, or Separate?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L14/blk-l14-s01.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s02.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s03.json"
+    },
+    {
+      "blockRef": "questions/L14/q-l14-a1.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s04.json"
+    },
+    {
+      "blockRef": "questions/L14/q-l14-a2.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s04b.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s04c.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s04d.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s05.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s05b.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s06.json"
+    },
+    {
+      "blockRef": "questions/L14/q-l14-a3.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s06c.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-s06b.json"
+    },
+    {
+      "blockRef": "questions/L14/q-l14-s07.json"
+    },
+    {
+      "blockRef": "questions/L14/q-l14-s08.json"
+    },
+    {
+      "blockRef": "blocks/L14/blk-l14-game.json"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l13-game",
+  "type": "mini-game@1",
+  "src": "simulations/L13/RunTheFrontierGame.js",
+  "objective": {
+    "en": "Six stretches of wall, each from a different time. Give each one to the builders of that time."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "atmosphere-climate",
+  "moduleId": "atmosphere-climate",
+  "type": "module",
+  "authorId": "atmosphere-climate",
+  "title": {
+    "en": "The Blanket: Air, Pressure and the Monsoon"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "composition-of-the-atmosphere",
+      "atmospheric-layers",
+      "air-pressure-and-wind",
+      "insolation-and-temperature-zones",
+      "humidity-and-precipitation",
+      "monsoon",
+      "reading-climate-data",
+      "climate-change"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "What is the air made of?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "How is the air layered, and what does each layer do?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "Why are some places hot and others cold?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "What makes the air move?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "Why does the wind turn around each year?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "When does the monsoon come and go?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "Why do ten Indian stations have ten climates?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08.json",
+      "title": {
+        "en": "How are we changing the air, and what can we do?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "q-l06-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which part of a tsunami early warning system is about training people, and not about instruments?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Capacity development"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. It means training officials and coastal communities to understand and act on warnings."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Modelling and simulation"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This uses computers to work out how a tsunami may travel."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The tide gauges station"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is an instrument station that measures sea level."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The communication satellite"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is equipment that carries information."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Capacity development means training officials and coastal communities, so that they understand warnings and know how to respond. The other three are instruments or computer work."
+  },
+  "hints": [
+    {
+      "en": "Look for the part that is about people rather than machines."
+    }
+  ],
+  "tags": [
+    "tsunami",
+    "warning-system",
+    "capacity-development"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:43.334Z",
+    "reviewedBy": "review-bar"
+  }
+}

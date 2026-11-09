@@ -1,0 +1,72 @@
+{
+  "id": "q-l06-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A flat area of rock runs out from the foot of a sea cliff, between the tide levels. How did it form?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Sand set hard after being laid down by waves."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The platform is the old rock itself, not new rock made from sand."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Waves wore the land back and left this rock."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. It marks where the cliff used to stand."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A river deposited mud at the foot of the cliff."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rivers lay down mud at their mouths. This is bare wave-cut rock."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The sea floor rose up during an earthquake."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing rose. Waves cut it as the cliff retreated."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Waves cut at the foot of the cliff, and the rock above falls. As the cliff retreats, the lower rock that the waves wore flat is left behind as a shore platform."
+  },
+  "hints": [
+    {
+      "en": "Where was the cliff before it moved back?"
+    }
+  ],
+  "tags": [
+    "sea-cliff",
+    "shore-platform",
+    "wave-cut-platform",
+    "tide-band"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:36.458Z",
+    "reviewedBy": "review-bar"
+  }
+}

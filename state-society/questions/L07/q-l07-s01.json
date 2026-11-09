@@ -1,0 +1,63 @@
+{
+  "id": "q-l07-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A student says, \"Dharma simply means religion.\" Which fact shows that this is too narrow?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The word is only found in Buddhist texts."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The word refers to duty, obligation, righteousness and moral conduct, and it is even used of iron and wood."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The word was first used by kings in their orders to officers."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The word is used only for rules about ceremonies."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Here dharma does not mean religion. It refers to duty, obligation, righteousness and moral conduct, and in the sense of the law of existence it is said that \"the dharma of iron is to sink and of wood is to float.\""
+  },
+  "hints": [
+    {
+      "en": "Can iron follow a religion?"
+    },
+    {
+      "en": "Think of the four English words used to explain dharma."
+    }
+  ],
+  "tags": [
+    "dharma",
+    "meaning",
+    "word-roots",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:34.561Z",
+    "reviewedBy": "review-bar"
+  }
+}

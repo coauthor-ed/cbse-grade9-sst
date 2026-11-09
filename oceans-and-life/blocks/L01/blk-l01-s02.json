@@ -1,0 +1,36 @@
+{
+  "id": "blk-l01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "It sinks evenly towards the middle, like the inside of a bowl"
+    },
+    {
+      "id": "b",
+      "text": "It stays as one flat floor at the same depth all the way"
+    },
+    {
+      "id": "c",
+      "text": "A long shallow ledge, a steep drop, a plain, then mountains"
+    },
+    {
+      "id": "d",
+      "text": "It is deepest beside the coast and gets shallower further out"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L01/DrainTheSeaScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:21.469Z",
+    "reviewedBy": "review-bar"
+  }
+}

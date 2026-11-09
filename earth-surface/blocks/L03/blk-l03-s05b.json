@@ -1,0 +1,15 @@
+{
+  "id": "blk-l03-s05b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03/blk-l03-s05b.md",
+  "simulation": {
+    "src": "simulations/L03/DropCoverHoldScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedBy": "owner",
+    "reviewedAt": "2026-11-01T15:43:10.000Z"
+  }
+}

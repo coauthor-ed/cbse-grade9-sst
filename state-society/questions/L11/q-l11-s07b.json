@@ -1,0 +1,60 @@
+{
+  "id": "q-l11-s07b",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "statements": [
+    {
+      "id": "st1",
+      "text": {
+        "en": "The Nāśhik inscription records money placed with weavers' guilds, which paid a fixed rate of interest."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "st2",
+      "text": {
+        "en": "The interest was kept for monks of one sect and one place of origin."
+      },
+      "isTrue": false
+    },
+    {
+      "id": "st3",
+      "text": {
+        "en": "Uṣhavadāta was the donor, and the Saṁgha received the cave."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "st4",
+      "text": {
+        "en": "The money was placed with the king, who paid the interest from his treasury."
+      },
+      "isTrue": false
+    }
+  ],
+  "explanation": {
+    "en": "Uṣhavadāta was the donor and the Saṁgha was the donee. The inscription says the money was invested in guilds at Govadhana, so it did not sit with the king. The interest served members of the Saṁgha \"of any sect, and any origin\" dwelling in the cave. This shows guilds working as banking and credit institutions."
+  },
+  "hints": [
+    {
+      "en": "Who held the money?"
+    },
+    {
+      "en": "Whom does the phrase \"of any sect, and any origin\" cover?"
+    }
+  ],
+  "tags": [
+    "nashik",
+    "endowment",
+    "guilds",
+    "ushavadata",
+    "statement-judgment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z",
+    "reviewedBy": "review-bar"
+  }
+}

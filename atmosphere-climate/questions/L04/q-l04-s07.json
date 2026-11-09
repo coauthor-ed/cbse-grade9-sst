@@ -1,0 +1,76 @@
+{
+  "id": "q-l04-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "It is late at night on a coast, and the land has cooled faster than the sea. Which way does the wind blow?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "There can be no wind at night."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "There is a wind, but it is usually slow."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "From the land to the sea, because pressure is higher over the land."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. This is a land breeze."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "From the sea to the land, because pressure is higher over the sea."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "At night the sea is the warmer side, so pressure is lower over it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "From the sea to the land, because the sea is wetter."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Wetness does not set the direction. Pressure does."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "At night the land is cooler than the sea, so pressure over the land is higher. Air moves from high to low, so the wind blows from land to sea. The difference in temperature is small, so this land breeze is slow."
+  },
+  "hints": [
+    {
+      "en": "Which side is warmer at night?"
+    },
+    {
+      "en": "Wind blows from high pressure to low pressure."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "wind",
+    "sea-breeze",
+    "land-breeze",
+    "coastal"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:17.642Z",
+    "reviewedBy": "review-bar"
+  }
+}

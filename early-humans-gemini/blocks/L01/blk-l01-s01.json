@@ -1,0 +1,36 @@
+{
+  "id": "blk-l01-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01/blk-l01-s01.md",
+  "image": {
+    "src": "media/L01/L01S01.jpg",
+    "alt": "A drawing of a pear-shaped chipped stone handaxe seen face-on against a plain neutral background, with no label, scale bar or catalogue card beside it.",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "reveal": {
+    "images": {
+      "profile": {
+        "src": "media/L01/L01S01-b2.png",
+        "alt": "The same handaxe seen edge-on in profile, showing that flakes have been struck from both faces so the piece is worked all the way round to a point."
+      },
+      "edge": {
+        "src": "media/L01/L01S01-b3.png",
+        "alt": "Close-up of the handaxe's cutting margin, showing small nicks and blunted patches along the edge and one corner battered flat."
+      },
+      "butt": {
+        "src": "media/L01/L01S01-b4.png",
+        "alt": "The thick, unworked, rounded butt end of the handaxe, with no socket, groove or notch for hafting."
+      },
+      "scale": {
+        "src": "media/L01/L01S01-b5.png",
+        "alt": "The same handaxe held in an open adult palm, filling the hand, showing its true size and the coarse grain of the quartzite."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

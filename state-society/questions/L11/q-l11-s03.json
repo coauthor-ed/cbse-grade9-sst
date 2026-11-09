@@ -1,0 +1,60 @@
+{
+  "id": "q-l11-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Kauṭilya lists cultivated land, fallow land, high and dry land, sown fields and groves. Why was village land classified into such types?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "To decide which crop each farmer was ordered to grow."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "To divide the village among the king's soldiers."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "To assess revenue, that is, to work out the tax due on the land."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "To show which land belonged to which temple."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Land was classified for the purpose of revenue assessment. Different kinds of land produce different amounts, so officials needed to know what each piece of land was before they could work out the tax. Sources do not describe the classification as an order to grow crops or as a way of dividing land among soldiers."
+  },
+  "hints": [
+    {
+      "en": "Think of what the state took from the land each year."
+    }
+  ],
+  "tags": [
+    "land-classification",
+    "kautilya",
+    "land-revenue",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z",
+    "reviewedBy": "review-bar"
+  }
+}

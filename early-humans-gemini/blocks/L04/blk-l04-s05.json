@@ -1,0 +1,32 @@
+{
+  "id": "blk-l04-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s05.md",
+  "image": {
+    "src": "media/L04/L04S05.jpg",
+    "alt": "A rocky hillside of natural sandstone rock shelters in Madhya Pradesh, overhangs and boulders visible along the cliff line.",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "reveal": {
+    "images": {
+      "hunt": {
+        "src": "media/L04/L04S05-b2.jpg",
+        "alt": "Red rock painting of stick-figure hunters with spears and bows surrounding wild horned animals, on a natural rock-wall surface."
+      },
+      "dance": {
+        "src": "media/L04/L04S05-b3.jpg",
+        "alt": "Red rock painting of a group of figures dancing with linked arms, bodies leaning in one direction, on a rock-wall surface."
+      },
+      "pigment": {
+        "src": "media/L04/L04S05-b4.jpg",
+        "alt": "A close view of deep red pigment powder and a lump of the same red-brown clay beside a painted rock surface."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

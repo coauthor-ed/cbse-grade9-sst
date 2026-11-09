@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s08b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-s08b.md",
+  "simulation": {
+    "src": "simulations/L02/ThermosphereRadioScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T08:20:31.000Z",
+    "reviewedBy": "owner"
+  }
+}

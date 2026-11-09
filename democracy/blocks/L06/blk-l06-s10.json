@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s10",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Seats Reserved for Women\n\n<!-- STEP id=\"one-third\" -->\n## Not Less Than One-Third\n\n**Article 243(d)** provides not less than one-third reservation for women in the seats filled by direct election in every Panchayat.\n\nTry it: with 20 seats, find the lowest number that is allowed.\n\n<!-- STEP id=\"states-go-further\" -->\n## Many States Go to 50%\n\n**21 States and 2 Union Territories** have gone further, to 50% in Panchayati Raj Institutions.\n\n**Article 243(t)** gives the same one-third in every Municipality, and **17 States and 1 Union Territory** have given 50% (2023)."
+  },
+  "simulation": {
+    "src": "simulations/L06/ReservationBarScene.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.522Z"
+  }
+}

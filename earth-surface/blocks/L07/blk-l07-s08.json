@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L07/AdvanceTheGlacierScene.js",
+  "objective": {
+    "en": "Read the glacier, then place each moraine where it belongs."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:41.306Z",
+    "reviewedBy": "review-bar"
+  }
+}

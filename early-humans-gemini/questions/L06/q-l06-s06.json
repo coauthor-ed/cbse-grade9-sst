@@ -1,0 +1,69 @@
+{
+  "id": "q-l06-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Mehrgarh has brick bins for storing food. A student says: \"The bins prove that the villagers farmed.\" What is the best reply?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The bins show that people stored food, but foragers can store wild grain too, so other finds are needed."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The student is right, because nobody builds a bin unless they have a harvest."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Foragers gathered wild grain and could store it too. A bin shows storing, not where the food came from."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The student is wrong, because the bins were only used for keeping beads."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing says that the bins held beads. The book calls them granaries."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The student is wrong, because the people of Mehrgarh did not farm."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "They did farm. The book says that they cultivated wheat and barley. The weakness is in the reasoning, not the conclusion."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The conclusion is right but the reason is weak. A bin shows that people stored food. Grain of farmed kinds and the bones of herded animals, taken together with the bins, are what point to farming."
+  },
+  "hints": [
+    {
+      "en": "The conclusion may be true even if the reason given for it is weak."
+    },
+    {
+      "en": "Did hunter-gatherers ever gather grain?"
+    }
+  ],
+  "tags": [
+    "mehrgarh",
+    "evidence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "q-l11-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A state takes a fixed proportion of the produce, generally one-sixth, as tax on land. A village's harvest falls from 60 sacks to 30 sacks. What happens to the tax?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It stays at 10 sacks, because a tax is the same amount every year."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It falls from 10 sacks to 5 sacks, because the share stays at one-sixth."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It falls to nothing, because a state cannot tax a poor harvest."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It rises to 15 sacks, because the state must make up for the bad year."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The tax was a share of what the field produced. One-sixth of 60 is 10, and one-sixth of 30 is 5. The share stays the same, so the amount falls with the harvest. A fixed amount would stay at 10 sacks, which is option a. This is why a poor harvest also meant less revenue for the state."
+  },
+  "hints": [
+    {
+      "en": "Work out one-sixth of 60, then one-sixth of 30."
+    }
+  ],
+  "tags": [
+    "agriculture",
+    "land-revenue",
+    "land-tax",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" font-family="Verdana, 'DejaVu Sans', sans-serif">
+  <title>Human jaw and dentition</title>
+  <defs>
+    <linearGradient id="boneGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#efe3c8"/><stop offset="1" stop-color="#cbb38a"/>
+    </linearGradient>
+    <linearGradient id="toothGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e2d7bc"/><stop offset="0.55" stop-color="#efe8d4"/><stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <linearGradient id="toothGradD" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#efe8d4"/><stop offset="1" stop-color="#e2d7bc"/>
+    </linearGradient>
+    <clipPath id="molClip"><circle cx="700" cy="545" r="130"/></clipPath>
+    <!-- tooth shapes: gumline at y=0, root upward, crown downward -->
+    <g id="tooth-inc"><path d="M -13 0 L -13 34 C -13 48 -8 56 0 56 C 8 56 13 48 13 34 L 13 0 C 10 -28 6 -50 0 -66 C -6 -50 -10 -28 -13 0 Z"/></g>
+    <g id="tooth-can"><path d="M -12 0 C -12 22 -7 46 0 62 C 7 46 12 22 12 0 C 10 -30 6 -56 0 -76 C -6 -56 -10 -30 -12 0 Z"/></g>
+    <g id="tooth-pre"><path d="M -16 0 L -16 28 C -16 44 -9 52 -3 50 L 0 44 L 3 50 C 9 52 16 44 16 28 L 16 0 C 13 -26 8 -48 4 -58 L -4 -58 C -8 -48 -13 -26 -16 0 Z"/></g>
+    <g id="tooth-mol"><path d="M -21 0 L -21 24 C -21 40 -13 48 -7 46 L -3 40 L 0 46 L 3 40 L 7 46 C 13 48 21 40 21 24 L 21 0 Z M -19 -2 C -20 -26 -18 -46 -11 -58 C -5 -50 -5 -26 -5 -2 Z M 5 -2 C 5 -26 5 -50 11 -58 C 18 -46 20 -26 19 -2 Z"/></g>
+    <g id="tooth-mol3"><path d="M -19 0 L -19 24 C -19 40 -12 48 -6 46 L -2 41 L 2 46 C 8 48 15 44 19 30 L 19 0 C 17 -24 14 -46 8 -58 C 3 -52 -3 -52 -8 -58 C -14 -46 -17 -24 -19 0 Z"/></g>
+  </defs>
+
+  <rect width="900" height="720" fill="#faf5ea"/>
+
+  <!-- ===== MAXILLA (upper jaw) ===== -->
+  <path d="M 122 148 C 120 120 142 103 182 98 C 262 90 384 90 458 100 C 498 106 520 122 520 146 C 520 168 500 182 462 187 L 176 194 C 142 195 124 176 122 148 Z" fill="url(#boneGrad)" stroke="#b3a077" stroke-width="2"/>
+  <ellipse cx="520" cy="143" rx="11" ry="44" fill="#d9c3a0" stroke="#b3a077" stroke-width="2"/>
+  <ellipse cx="122" cy="148" rx="9" ry="42" fill="#d9c3a0" stroke="#b3a077" stroke-width="2"/>
+
+  <g fill="url(#toothGrad)" stroke="#b3a486" stroke-width="1.5" stroke-linejoin="round">
+    <use href="#tooth-inc" transform="translate(164 194)"/>
+    <use href="#tooth-inc" transform="translate(200 194)"/>
+    <use href="#tooth-can" transform="translate(240 194)"/>
+    <use href="#tooth-pre" transform="translate(283 194)"/>
+    <use href="#tooth-pre" transform="translate(321 194)"/>
+    <use href="#tooth-mol" transform="translate(366 194)"/>
+    <use href="#tooth-mol" transform="translate(414 194)"/>
+    <use href="#tooth-mol3" transform="translate(461 194)"/>
+  </g>
+  <path d="M 146 199 Q 161 190 176 196 Q 191 203 206 196 Q 221 189 236 196 Q 255 204 274 197 Q 293 190 312 197 Q 331 204 350 197 Q 369 190 388 197 Q 407 204 426 197 Q 445 190 464 197 Q 474 201 483 197 L 483 178 L 146 178 Z" fill="#cd7b74"/>
+
+  <!-- ===== MANDIBLE (lower jaw) ===== -->
+  <path d="M 158 396 C 148 412 142 434 144 456 C 146 484 160 498 184 502 C 268 512 368 512 448 502 C 474 498 494 506 508 498 C 544 472 566 424 580 380 C 586 358 596 342 614 334 C 632 326 648 334 646 350 C 644 364 632 374 618 378 C 602 382 590 376 584 366 C 578 350 570 334 558 326 C 546 320 538 328 540 342 C 546 366 538 386 518 396 C 502 403 484 402 468 402 C 400 398 300 396 240 400 C 208 402 178 398 158 396 Z" fill="url(#boneGrad)" stroke="#b3a077" stroke-width="2"/>
+  <path d="M 588 396 C 560 428 510 446 450 450 C 380 454 300 452 250 446" stroke="#a68d64" stroke-width="5" fill="none" opacity="0.5" stroke-dasharray="8 5" stroke-linecap="round"/>
+  <circle cx="226" cy="444" r="5.5" fill="#c8b48c" stroke="#8f7c56" stroke-width="1.5"/>
+
+  <g fill="url(#toothGradD)" stroke="#b3a486" stroke-width="1.5" stroke-linejoin="round">
+    <use href="#tooth-inc" transform="translate(178 398) scale(1 -1)"/>
+    <use href="#tooth-inc" transform="translate(214 398) scale(1 -1)"/>
+    <use href="#tooth-can" transform="translate(254 398) scale(1 -1)"/>
+    <use href="#tooth-pre" transform="translate(296 398) scale(1 -1)"/>
+    <use href="#tooth-pre" transform="translate(334 398) scale(1 -1)"/>
+    <use href="#tooth-mol" transform="translate(377 398) scale(1 -1)"/>
+    <use href="#tooth-mol" transform="translate(423 398) scale(1 -1)"/>
+    <use href="#tooth-mol3" transform="translate(468 398) scale(1 -1)"/>
+  </g>
+  <path d="M 164 396 Q 179 404 194 398 Q 209 391 224 398 Q 239 405 254 398 Q 273 390 292 397 Q 311 404 330 397 Q 349 390 368 397 Q 387 404 406 397 Q 425 390 444 397 Q 458 403 472 397 L 488 403 L 488 414 L 164 414 Z" fill="#cd7b74"/>
+
+
+
+</svg>

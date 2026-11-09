@@ -1,0 +1,63 @@
+{
+  "id": "q-l04-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A State's Vidhan Sabha was dissolved two years before its five-year term ended. What does the ECI do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It waits two years, until the five-year term would have ended"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It activates the machinery to conduct an election"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It orders the dissolved Vidhan Sabha to meet again"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It fills only the empty seats, one seat at a time"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The ECI starts election work when the five-year term ends, or when the Legislature is dissolved before its term is complete. Dissolution is enough by itself, so the ECI does not wait for the term to run out. The whole Vidhan Sabha has ended, so all its seats must be filled."
+  },
+  "hints": [
+    {
+      "en": "Two events start the election work. Is this one of them?"
+    },
+    {
+      "en": "After a dissolution, how many members does the Vidhan Sabha have left?"
+    }
+  ],
+  "tags": [
+    "eci",
+    "schedule",
+    "legislature",
+    "dissolution"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:11.134Z",
+    "reviewedBy": "review-bar"
+  }
+}

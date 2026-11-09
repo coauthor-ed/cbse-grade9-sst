@@ -1,0 +1,17 @@
+{
+  "id": "blk-l03-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03/blk-l03-s03.md",
+  "poeRole": "explain",
+  "poeRecapStep": 0,
+  "simulation": {
+    "src": "simulations/L03/KingReachScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:14.624Z",
+    "reviewedBy": "review-bar"
+  }
+}

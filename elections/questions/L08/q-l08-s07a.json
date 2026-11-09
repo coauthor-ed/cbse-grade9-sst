@@ -1,0 +1,32 @@
+{
+  "id": "q-l08-s07a",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "National Voters' Day falls on 25 January, the date on which the Election Commission of India was established. In which year was that? Give the four-digit year."
+  },
+  "expectedValue": 1950,
+  "unit": "year",
+  "tolerance": 0,
+  "explanation": {
+    "en": "The Election Commission of India was established on 25 January 1950."
+  },
+  "hints": [
+    {
+      "en": "It was the day before the Constitution came into force."
+    }
+  ],
+  "tags": [
+    "national-voters-day",
+    "election-commission",
+    "voters-pledge",
+    "date"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:29.638Z",
+    "reviewedBy": "review-bar"
+  }
+}

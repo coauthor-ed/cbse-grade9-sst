@@ -1,0 +1,49 @@
+{
+  "id": "les-06",
+  "lessonId": "les-06",
+  "type": "lesson",
+  "title": {
+    "en": "A Village From 9,000 Years Ago"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L06/blk-l06-s01.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s02.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s03.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s06.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s04.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-a1.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s04b.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-a2.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s05.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s07.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blk-l09-game",
+  "type": "mini-game@1",
+  "src": "simulations/L09/SliceTheCircleGame.js",
+  "objective": {
+    "en": "Split a ring of 60 and a ring of 10 into equal groups. Sort each split: shared equally, or something left over."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

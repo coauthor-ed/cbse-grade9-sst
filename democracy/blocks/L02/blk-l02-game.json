@@ -1,0 +1,20 @@
+{
+  "id": "blk-l02-game",
+  "type": "mini-game@1",
+  "subject": "social-studies",
+  "grade": 9,
+  "chapterId": "democracy",
+  "topicId": "ancient-democracy",
+  "board": "CBSE",
+  "src": "simulations/L02/GanasVoteGame.js",
+  "objective": {
+    "en": "Seven steps from the old assemblies to the Constitution. Put them in order, from the earliest to the latest."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

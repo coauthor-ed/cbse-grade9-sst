@@ -1,0 +1,47 @@
+{
+  "id": "q-l11-s04",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "assertion": {
+    "en": "The Sudarshana Lake was repaired more than once, and rulers recorded this work in inscriptions."
+  },
+  "reason": {
+    "en": "Facilitating agriculture was a major concern of the state, because agriculture was one of the major sources of revenue."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "a": {
+      "en": "Correct. Both statements are true, and the concern for revenue helps to explain why rulers repaired the lake and recorded the work."
+    },
+    "b": {
+      "en": "Both statements are true, but look again: water supported the crops, and crops gave the state its revenue. So the Reason does help to explain the Assertion."
+    },
+    "c": {
+      "en": "The Reason is true. Agriculture was one of the major sources of revenue, and the state cared about it."
+    },
+    "d": {
+      "en": "The Assertion is true. Rudradaman I and Skandagupta both left records of work on the lake."
+    }
+  },
+  "explanation": {
+    "en": "Water fed the crops, the crops were taxed, and so the lake mattered to the state's revenue. Rudradaman I recorded a repair around 150 CE, and Skandagupta recorded a restoration in the 5th century CE. The reasons for carving these records can be discussed, but the concern for revenue is one that the sources support."
+  },
+  "hints": [
+    {
+      "en": "Decide whether each statement is true, then ask whether the second helps to explain the first."
+    }
+  ],
+  "tags": [
+    "irrigation",
+    "sudarshana",
+    "inscriptions",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z",
+    "reviewedBy": "review-bar"
+  }
+}

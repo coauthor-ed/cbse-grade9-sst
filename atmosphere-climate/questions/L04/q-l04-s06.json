@@ -1,0 +1,62 @@
+{
+  "id": "q-l04-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A forecast says the wind will be a westerly. Which way does it blow?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "From the east towards the west"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This wind is heading west, so it would be an easterly."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "From the west towards the east"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A wind is named for the direction it blows from."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "From the north towards the south"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That wind would be a northerly."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Winds are named after the direction they blow from. A westerly comes from the west and moves towards the east."
+  },
+  "hints": [
+    {
+      "en": "The name tells you where the wind comes from."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "wind",
+    "westerly",
+    "naming"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:17.642Z",
+    "reviewedBy": "review-bar"
+  }
+}

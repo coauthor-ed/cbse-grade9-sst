@@ -1,0 +1,16 @@
+{
+  "_comment": "The closing hook: the same warm water that feeds the currents feeds a storm. The scene is a sea-surface temperature slider over the Bay of Bengal.",
+  "id": "blk-l04-s08",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s08.md",
+  "simulation": {
+    "src": "simulations/L04/WarmSeaStormScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:34.781Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "q-l05-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "How far into the sea can the GEMINI communication channel carry information at present?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Up to 50 nautical miles, about 93 km"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Using a satellite does not mean the message reaches everywhere."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Up to 300 nautical miles, about 556 km"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "300 nautical miles is what the upgraded version is meant to serve, not the channel today."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Up to 50 km, as far as phone towers reach"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The number is 50, but in nautical miles, and the data comes from a satellite, not a tower."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "As far as any boat goes, with no limit at all"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The data comes from a satellite, but the channel still has a limit."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "At present the channel carries information only up to 50 nautical miles into the sea, about 93 km. An upgraded version is expected to benefit fishers who travel up to 300 nautical miles."
+  },
+  "hints": [
+    {
+      "en": "One nautical mile is about 1.85 km."
+    },
+    {
+      "en": "The bigger number belongs to the upgrade."
+    }
+  ],
+  "tags": [
+    "gemini",
+    "warning-range",
+    "cyclone"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:39.278Z",
+    "reviewedBy": "review-bar"
+  }
+}

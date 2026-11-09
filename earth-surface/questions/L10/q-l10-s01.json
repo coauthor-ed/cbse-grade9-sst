@@ -1,0 +1,73 @@
+{
+  "id": "q-l10-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A road is cut into the foot of a hillside. Months later, part of the hill slides down. How did the cut add to the risk?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It turned the hard rock of the hill into soil."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A cut does not change the rock itself. It changes what holds the rock up."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It stopped all rain from reaching the slope."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rain still falls and soaks in. A road cut does nothing to stop it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It removed support at the foot of the slope."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The rock that was removed had been holding up the ground above."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It put new weight at the very top of the hill."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The cut is at the foot, and it takes rock away. It adds nothing at the top."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A slope leans on the rock at its foot. A road cut removes some of that rock, so the ground above has less support. Heavy rain can then bring it down."
+  },
+  "hints": [
+    {
+      "en": "Think about what the rock at the foot of a slope was doing."
+    }
+  ],
+  "tags": [
+    "landslide",
+    "trigger",
+    "road-cut",
+    "human-cause",
+    "himalaya"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:56.194Z",
+    "reviewedBy": "review-bar"
+  }
+}

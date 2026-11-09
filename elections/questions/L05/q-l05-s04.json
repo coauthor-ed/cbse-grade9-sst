@@ -1,0 +1,107 @@
+{
+  "id": "q-l05-s04",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each of the seven digital services by the group that uses it."
+  },
+  "categories": [
+    {
+      "id": "candidates",
+      "label": {
+        "en": "Candidates"
+      }
+    },
+    {
+      "id": "officials",
+      "label": {
+        "en": "Election officials"
+      }
+    },
+    {
+      "id": "voters",
+      "label": {
+        "en": "Voters"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-suvidha",
+      "text": {
+        "en": "Suvidha: nomination forms and permissions for rallies"
+      },
+      "correctCategoryId": "candidates"
+    },
+    {
+      "id": "chip-eronet",
+      "text": {
+        "en": "ERONET: form-processing and E-Rolls"
+      },
+      "correctCategoryId": "officials"
+    },
+    {
+      "id": "chip-sugam",
+      "text": {
+        "en": "Sugam: vehicles taken for election work"
+      },
+      "correctCategoryId": "officials"
+    },
+    {
+      "id": "chip-etpbs",
+      "text": {
+        "en": "ETPBS: postal ballots for service voters"
+      },
+      "correctCategoryId": "voters"
+    },
+    {
+      "id": "chip-helpline",
+      "text": {
+        "en": "Voter Helpline App: registration and election news"
+      },
+      "correctCategoryId": "voters"
+    },
+    {
+      "id": "chip-saksham",
+      "text": {
+        "en": "Saksham: registration help for PwDs"
+      },
+      "correctCategoryId": "voters"
+    },
+    {
+      "id": "chip-cvigil",
+      "text": {
+        "en": "cVIGIL: report a Model Code of Conduct violation"
+      },
+      "correctCategoryId": "voters"
+    }
+  ],
+  "explanation": {
+    "en": "Suvidha is for contesting candidates and parties. ERONET and Sugam are for election officials, who process forms and manage vehicles. ETPBS, the Voter Helpline App, Saksham and cVIGIL are for voters."
+  },
+  "hints": [
+    {
+      "en": "Ask who would open each service."
+    },
+    {
+      "en": "Candidates have one service, officials two and voters four."
+    }
+  ],
+  "tags": [
+    "suvidha",
+    "eronet",
+    "sugam",
+    "etpbs",
+    "voter-helpline",
+    "saksham",
+    "cvigil",
+    "eci-apps"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:15.302Z",
+    "reviewedBy": "review-bar"
+  }
+}

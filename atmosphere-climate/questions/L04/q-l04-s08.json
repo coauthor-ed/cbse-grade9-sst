@@ -1,0 +1,63 @@
+{
+  "id": "q-l04-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A place has had cloudy skies and wet weather for three days. What kind of pressure is it most likely to have?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "No pressure at all, because cloud blocks it"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every place has air pressure. Cloud does not remove it."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "High pressure, with air sinking over it"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sinking air goes with clear and sunny skies."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Low pressure, with air rising over it"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Rising air cools and builds cloud."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Low pressure goes with cloudy skies and wet weather, because rising air cools and its water vapour condenses. High pressure goes with clear and sunny skies."
+  },
+  "hints": [
+    {
+      "en": "Which way must air move to build a cloud?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "pressure",
+    "low-pressure",
+    "cloud",
+    "rain"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:17.642Z",
+    "reviewedBy": "review-bar"
+  }
+}

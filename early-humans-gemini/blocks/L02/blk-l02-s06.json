@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-s06.md",
+  "simulation": {
+    "src": "simulations/L02/DriftNotJourneyScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

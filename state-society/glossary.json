@@ -1,0 +1,2211 @@
+{
+  "terms": [
+    {
+      "id": "jana",
+      "term": "jana",
+      "match": [
+        "janas"
+      ],
+      "plain": {
+        "en": "a clan"
+      },
+      "means": {
+        "en": "A group of people held together by kinship and counted as one people. The Ṛigveda names about thirty of them."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "raja",
+      "term": "rājā",
+      "match": [
+        "Rāja"
+      ],
+      "plain": {
+        "en": "king"
+      },
+      "means": {
+        "en": "The Sanskrit word we still use for king. The English word king is this word with its ending worn away."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "sabha",
+      "term": "Sabhā",
+      "match": [
+        "sabhā"
+      ],
+      "plain": {
+        "en": "the hall - and the small council that sat in it"
+      },
+      "means": {
+        "en": "A small body of selected people whose work was judicial: settling disputes, deciding who was owed what, fixing penalties."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "samiti",
+      "term": "Samiti",
+      "match": [
+        "samiti"
+      ],
+      "plain": {
+        "en": "the assembly"
+      },
+      "means": {
+        "en": "A larger body standing for a much broader share of the population. Its business was policy: what the clan as a whole ought to do."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "vidhata",
+      "term": "Vidhata",
+      "match": [
+        "vidhata"
+      ],
+      "plain": {
+        "en": "the popular gathering - the whole people"
+      },
+      "means": {
+        "en": "Not a body of chosen people at all, but the community itself, the clans gathered in one place for war and other public questions."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "panchajana",
+      "term": "pañchajana",
+      "match": [
+        "pañchajana"
+      ],
+      "plain": {
+        "en": "the five peoples"
+      },
+      "means": {
+        "en": "Five of the clans the Ṛigveda names - Yadu, Turvaśha, Puru, Anu and Druhyu - counted together as one group."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "brahmana",
+      "term": "brāhmaṇa",
+      "match": [
+        "brāhmaṇas",
+        "Brāhman"
+      ],
+      "plain": {
+        "en": "priest-scholar - and also a set of Vedic prose texts"
+      },
+      "means": {
+        "en": "The prose part of each Veda, which explains ritual performances. The same spelling is also used for a varṇa category."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "aranyaka",
+      "term": "Āraṇyaka",
+      "match": [
+        "Āraṇyaka",
+        "āraṇyaka",
+        "Āraṇyakas"
+      ],
+      "plain": {
+        "en": "a forest treatise"
+      },
+      "means": {
+        "en": "The part of a Veda with the thoughts of sages living in forests. Araṇya means forest."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "kula",
+      "term": "kula",
+      "match": [
+        "kula"
+      ],
+      "plain": {
+        "en": "family"
+      },
+      "means": {
+        "en": "At first one couple, their children and their blood. As society grew more complicated the word widened to mean a whole household living and moving as a unit."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "grama",
+      "term": "grāma",
+      "match": [
+        "Grāma"
+      ],
+      "plain": {
+        "en": "village"
+      },
+      "means": {
+        "en": "Several kulas make a grāma. It is the smallest unit of social life, and later also of local government."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "mahajanapada",
+      "term": "mahājanapada",
+      "match": [
+        "mahājanapadas"
+      ],
+      "plain": {
+        "en": "great country"
+      },
+      "means": {
+        "en": "The large territorial states that rose in the 6th century BCE, each one ruled over a fixed stretch of land rather than by kinship."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "janapada",
+      "term": "janapada",
+      "match": [
+        "janapada"
+      ],
+      "plain": {
+        "en": "the king's land"
+      },
+      "means": {
+        "en": "The territory of the state together with the people living on it - the land a king actually rules over."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "adhiraja",
+      "term": "adhirāja",
+      "match": [
+        "adhirāja"
+      ],
+      "plain": {
+        "en": "supreme king"
+      },
+      "means": {
+        "en": "The rank held above all other crowned kings - a king who claimed to be first among them."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "arthashastra",
+      "term": "Arthaśhāstra",
+      "match": [
+        "Arthaśhāstra"
+      ],
+      "plain": {
+        "en": "a treatise on running a state"
+      },
+      "means": {
+        "en": "Kauṭilya's treatise on statecraft, one of the earliest and most systematic. It stresses training a king in governance."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "chakravarti-kshetra",
+      "term": "chakravarti kśhetra",
+      "match": [
+        "chakravarti kśhetra"
+      ],
+      "plain": {
+        "en": "the field of the wheel-turning king"
+      },
+      "means": {
+        "en": "The whole world seen as one domain, ruled by a universal king. Kauṭilya equated it with the land between the Himalaya and the sea."
+      },
+      "roots": [
+        {
+          "part": "chakra",
+          "means": {
+            "en": "wheel"
+          }
+        }
+      ],
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "jambudvipa",
+      "term": "Jambudvīpa",
+      "match": [
+        "Jambudvīpa"
+      ],
+      "plain": {
+        "en": "the land of the jujube tree"
+      },
+      "means": {
+        "en": "An ancient name for the Indian subcontinent, thought of as one island-continent among many."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "prithivi",
+      "term": "Prithivi",
+      "match": [
+        "Prithivi"
+      ],
+      "plain": {
+        "en": "the earth"
+      },
+      "means": {
+        "en": "The earth as a defined territory. Kauṭilya measures it as the land between the Himalaya and the sea."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "ashvamedha",
+      "term": "aśhvamedha",
+      "match": [
+        "aśhvamedha"
+      ],
+      "plain": {
+        "en": "horse sacrifice"
+      },
+      "means": {
+        "en": "A Vedic rite in which a horse was let loose and then tracked down and brought back - proof that the king ranged over the whole land."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "rajasuya",
+      "term": "Rājasūya",
+      "match": [
+        "Rājasūya"
+      ],
+      "plain": {
+        "en": "the king-sacrifice"
+      },
+      "means": {
+        "en": "A Vedic rite a king performed to be invested with kingship over the whole land."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "prakrit",
+      "term": "Prakrit",
+      "match": [
+        "Prakrit"
+      ],
+      "plain": {
+        "en": "the everyday language"
+      },
+      "means": {
+        "en": "The vernacular languages of north India, as against Sanskrit. Aśhoka cut his edicts in Prakrit so ordinary people could read them."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "brahmi",
+      "term": "Brahmi",
+      "match": [
+        "Brahmi"
+      ],
+      "plain": {
+        "en": "the script of the early inscriptions"
+      },
+      "means": {
+        "en": "The earliest script of Indian writing, used for Aśhoka's edicts and for the coins and grants of the centuries after him."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "dhamma",
+      "term": "Dhamma",
+      "match": [
+        "dhamma"
+      ],
+      "plain": {
+        "en": "conduct - the moral life"
+      },
+      "means": {
+        "en": "The Pāli word for what Sanskrit calls dharma. In a Buddhist text it names the moral ground a ruler is expected to promote."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "sangha",
+      "term": "saṁgha",
+      "match": [
+        "Saṁgha",
+        "saṁgha"
+      ],
+      "plain": {
+        "en": "a monastic community"
+      },
+      "means": {
+        "en": "Two senses: a republican state in early India (gaṇa or saṁgha), and the community of Buddhist monks."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "amatya",
+      "term": "amātya",
+      "match": [
+        "amātyas"
+      ],
+      "plain": {
+        "en": "the king's men"
+      },
+      "means": {
+        "en": "The councillors, ministers and other high officials around the king. Take them away and there is no one to carry out an order."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "kosha",
+      "term": "koṣha",
+      "match": [
+        "koṣha"
+      ],
+      "plain": {
+        "en": "the king's money"
+      },
+      "means": {
+        "en": "The treasury, the wealth of the kingdom. Without it there is no revenue and no way to pay anyone."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "danda",
+      "term": "daṇḍa",
+      "match": [
+        "daṇḍa"
+      ],
+      "plain": {
+        "en": "the king's soldiers"
+      },
+      "means": {
+        "en": "The forces of defence and of law and order - the power that backs a decision. Also, the stick: punishment itself."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "mitra",
+      "term": "mitra",
+      "match": [
+        "mitra"
+      ],
+      "plain": {
+        "en": "the king's friends - his allies"
+      },
+      "means": {
+        "en": "Another king's word for allies. It counts among the limbs of the state because friendship is a resource a kingdom spends."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "durga",
+      "term": "durga",
+      "match": [
+        "durga"
+      ],
+      "plain": {
+        "en": "the king's forts"
+      },
+      "means": {
+        "en": "Fortified towns and cities. A fortified town is one that can be held when the plain around it cannot."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "mantri",
+      "term": "mantri",
+      "match": [
+        "mantri"
+      ],
+      "plain": {
+        "en": "minister"
+      },
+      "means": {
+        "en": "The official who headed the civil administration. A body of them together formed the council of ministers."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "sandhivigrahika",
+      "term": "sāndhivigrahika",
+      "match": [
+        "sāndhivigrahika"
+      ],
+      "plain": {
+        "en": "minister of peace and war"
+      },
+      "means": {
+        "en": "An office the Gupta administration added, to handle foreign policy and defence together. It did not replace the civil mantri."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "kumaramatya",
+      "term": "kumārāmātya",
+      "match": [
+        "kumārāmātyas"
+      ],
+      "plain": {
+        "en": "a junior amātya"
+      },
+      "means": {
+        "en": "An amātya who served at the local or provincial level. It describes where he worked, not a rank above amātya."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "decentralisation",
+      "term": "decentralisation",
+      "match": [
+        "Decentralisation"
+      ],
+      "plain": {
+        "en": "giving each unit its own work and its own officers"
+      },
+      "means": {
+        "en": "The chapter's word for roughly 300 CE to 800 CE. The kingdom was cut into units, and each unit was given its own work - not the king letting go, but the ladder occupied all the way down."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "bhukti",
+      "term": "bhukti",
+      "match": [
+        "bhukti"
+      ],
+      "plain": {
+        "en": "province"
+      },
+      "means": {
+        "en": "The northern name for the top rung of the administrative ladder. A southern record would call the same rung a manḍala."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "mandala",
+      "term": "manḍala",
+      "match": [
+        "manḍalam",
+        "manḍalams"
+      ],
+      "plain": {
+        "en": "province"
+      },
+      "means": {
+        "en": "The southern name for the same rung as bhukti. Same size of place, two vocabularies - which name you meet tells you which part of the country a record comes from."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "vishaya",
+      "term": "viṣhaya",
+      "match": [
+        "viṣhaya"
+      ],
+      "plain": {
+        "en": "division"
+      },
+      "means": {
+        "en": "The northern name for the rung between province and district. A southern record would call this rung a koṭṭam."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "valanadu",
+      "term": "valanāḍu",
+      "match": [
+        "valanāḍus"
+      ],
+      "plain": {
+        "en": "district"
+      },
+      "means": {
+        "en": "The southern name for a district. In the Chola ladder a manḍalam is cut into valanāḍus, and each valanāḍu into nāḍus."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "adhishthana",
+      "term": "adhiṣhṭhāna",
+      "match": [
+        "adhiṣhṭhāna"
+      ],
+      "plain": {
+        "en": "district"
+      },
+      "means": {
+        "en": "The northern name for a district. A southern record would call the same rung a nāḍu."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "nadu",
+      "term": "nāḍu",
+      "match": [
+        "nāḍus"
+      ],
+      "plain": {
+        "en": "district"
+      },
+      "means": {
+        "en": "The southern name for a district. Each nāḍu was divided into Urs, the individual villages."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "vithi",
+      "term": "vithi",
+      "match": [
+        "vithi"
+      ],
+      "plain": {
+        "en": "a group of villages"
+      },
+      "means": {
+        "en": "The northern name for the rung one step above a village - about what we would call a tahsīl today."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "pattala",
+      "term": "paṭṭalā",
+      "match": [
+        "paṭṭalā"
+      ],
+      "plain": {
+        "en": "a group of villages"
+      },
+      "means": {
+        "en": "The southern name for the rung one step above a village. It sits at the same height as a northern vithi."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "ahara",
+      "term": "āḥāra",
+      "match": [
+        "āḥāras"
+      ],
+      "plain": {
+        "en": "administrative division"
+      },
+      "means": {
+        "en": "A division of the Gupta empire, each with its own ministers and its own amātyas. Villages sat below the āḥāras."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "gramika",
+      "term": "grāmika",
+      "match": [
+        "grāmika"
+      ],
+      "plain": {
+        "en": "village headman"
+      },
+      "means": {
+        "en": "The man who led a village. Below the āḥāras sat the villages, and each village had its grāmika."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "pradeshika",
+      "term": "pradeśhika",
+      "match": [
+        "pradeśhika"
+      ],
+      "plain": {
+        "en": "district governor"
+      },
+      "means": {
+        "en": "The officer responsible for judicial and administrative work in a district. Each rung of the ladder has its own job, not a generic one."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "brahmadeya",
+      "term": "Brahmadeya",
+      "match": [
+        "Brahmadeya"
+      ],
+      "plain": {
+        "en": "land given to Brahmans"
+      },
+      "means": {
+        "en": "Villages granted land to be looked after by Brahmans. Such a grant takes land off a ruler's tax roll and adds it to the grant-holder's."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "agrahara",
+      "term": "agrahāram",
+      "match": [
+        "agrahārams"
+      ],
+      "plain": {
+        "en": "a grant to a Brahman settlement"
+      },
+      "means": {
+        "en": "Tax-free land given to a settlement of Brahmans. The Chālukyas of Badami made such grants, and Aihole and Badami grew into centres of learning."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "ur",
+      "term": "Ur",
+      "match": [
+        "Urs"
+      ],
+      "plain": {
+        "en": "a village"
+      },
+      "means": {
+        "en": "In the Tamil ladder the Ur is the smallest unit. Its officer is not sent from the district - the Ur runs itself."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "variyam",
+      "term": "variyam",
+      "match": [
+        "variyams"
+      ],
+      "plain": {
+        "en": "village committee"
+      },
+      "means": {
+        "en": "The elected members were split into variyams - one committee per village responsibility, each given one job: the tank, justice, taxes, records."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "kudavolai",
+      "term": "kudavolai",
+      "match": [
+        "kudavolai"
+      ],
+      "plain": {
+        "en": "the pot you draw from"
+      },
+      "means": {
+        "en": "The Tamil name for village self-government: the village draws on its own strength, like water from its own pot."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "uttaramerur",
+      "term": "Uttaramerur",
+      "match": [
+        "Uttaramerur"
+      ],
+      "plain": {
+        "en": "the village whose election rules were carved in stone"
+      },
+      "means": {
+        "en": "A tenth-century Tamil inscription at the Vaikunṭha Perumal Temple that records how a village chose its own assembly."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "visha",
+      "term": "viśha",
+      "match": [
+        "Viśha"
+      ],
+      "plain": {
+        "en": "a group of villages"
+      },
+      "means": {
+        "en": "Above the village, a group of villages with a headman set over them."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "vishapati",
+      "term": "viśhapati",
+      "match": [
+        "viśhapati"
+      ],
+      "plain": {
+        "en": "the head of a group of villages"
+      },
+      "means": {
+        "en": "The officer who stood over a viśha. The name is built straight out of the rung he commanded."
+      },
+      "roots": [
+        {
+          "part": "viśha",
+          "means": {
+            "en": "a group of villages"
+          }
+        },
+        {
+          "part": "pati",
+          "means": {
+            "en": "head"
+          }
+        }
+      ],
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "dharma",
+      "term": "dharma",
+      "match": [
+        "Dharma"
+      ],
+      "plain": {
+        "en": "what holds things in their place"
+      },
+      "means": {
+        "en": "Not only religion. The dharma of iron is to sink, of wood to float: what a thing is meant to be. The chapter uses it for what holds a society together."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "samatva",
+      "term": "Samatva",
+      "match": [
+        "samatva"
+      ],
+      "plain": {
+        "en": "the principle of sameness"
+      },
+      "means": {
+        "en": "The claim that all bodies are made of the same matter and every consciousness is the same one consciousness appearing."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "satya",
+      "term": "satya",
+      "match": [
+        "satya"
+      ],
+      "plain": {
+        "en": "the real, the true"
+      },
+      "means": {
+        "en": "What a thing actually is - as against ṛita, which is what ought to be. The two words sit side by side in the ritual texts."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "rita",
+      "term": "ṛita",
+      "match": [
+        "Ṛita"
+      ],
+      "plain": {
+        "en": "the right - the cosmic order"
+      },
+      "means": {
+        "en": "The arrangement that keeps nature in balance and human society with it, and upholds moral values."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "varna",
+      "term": "varṇa",
+      "match": [
+        "varṇas",
+        "Varṇa"
+      ],
+      "plain": {
+        "en": "colour - the four colours"
+      },
+      "means": {
+        "en": "The chapter's word for a broad category of people. The earliest reference is the Puruṣhasūkta, which names four colours from the body of the first person."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "purushasukta",
+      "term": "Puruṣhasūkta",
+      "match": [
+        "Puruṣhasūkta"
+      ],
+      "plain": {
+        "en": "the hymn of the first person"
+      },
+      "means": {
+        "en": "A hymn in Book 10 of the Ṛigveda, and the earliest reference to the four varṇas."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "rajanya",
+      "term": "rajanya",
+      "match": [
+        "rajanya"
+      ],
+      "plain": {
+        "en": "the men of the people"
+      },
+      "means": {
+        "en": "What the early hymn calls the warriors, the second varṇa. They fought wars, protected people and administered justice."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "kshatriya",
+      "term": "Kṣhatriya",
+      "match": [
+        "Kṣhatriyas"
+      ],
+      "plain": {
+        "en": "the warriors"
+      },
+      "means": {
+        "en": "The second varṇa. They fought wars, protected people and administered justice - and were also expected to study, to sponsor sacrifices and to give."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "vaishya",
+      "term": "Vaiśhya",
+      "match": [
+        "Vaiśhyas"
+      ],
+      "plain": {
+        "en": "the producers"
+      },
+      "means": {
+        "en": "The third varṇa: agriculture, herding animals and trade. They also took part in scriptural study and in sacrifice, and gave to charity."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "shudra",
+      "term": "Śhūdra",
+      "match": [
+        "Śhūdras"
+      ],
+      "plain": {
+        "en": "the ones expected to serve the other three"
+      },
+      "means": {
+        "en": "The fourth varṇa. In practice the śhūdras were also in agriculture, animal husbandry and trade - which is the point the lesson keeps returning to."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "jati",
+      "term": "jāti",
+      "match": [
+        "jātis"
+      ],
+      "plain": {
+        "en": "a birth group"
+      },
+      "means": {
+        "en": "Four varṇas branch into a very large number of jātis, and the jātis have no ceiling: migration and a new occupation each open a new one."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "gotra",
+      "term": "gotra",
+      "match": [
+        "gotra"
+      ],
+      "plain": {
+        "en": "the family line on the father's side"
+      },
+      "means": {
+        "en": "A patrilineal lineage or clan, traced back to a common ancestor. A man belonged to his father's gotra, and that gotra decided whom he could marry."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "endogamy",
+      "term": "endogamy",
+      "match": [
+        "Endogamy"
+      ],
+      "plain": {
+        "en": "marrying only inside your own group"
+      },
+      "means": {
+        "en": "Nobody has to decree it. It only needs a group to keep choosing the same way, long enough - and then the boundaries hold themselves."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "intermarriage",
+      "term": "intermarriage",
+      "match": [
+        "Intermarriage"
+      ],
+      "plain": {
+        "en": "marrying across groups"
+      },
+      "means": {
+        "en": "People of different varṇas having children together. The mixture then settles into something of its own."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "ashrama",
+      "term": "āśhrama",
+      "match": [
+        "āśhramas"
+      ],
+      "plain": {
+        "en": "a stage of life"
+      },
+      "means": {
+        "en": "A span you are in rather than a rank you hold. It divides a single life into four stages; it does not divide one person from another."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "brahmacharya",
+      "term": "Brahmacharya",
+      "match": [
+        "Brahmacharya"
+      ],
+      "plain": {
+        "en": "the stage of studentship"
+      },
+      "means": {
+        "en": "The first āśhrama: the pupil under a teacher, before anything else is claimed of them."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "grihastha",
+      "term": "Gṛihastha",
+      "match": [
+        "Gṛihastha"
+      ],
+      "plain": {
+        "en": "the stage of the householder"
+      },
+      "means": {
+        "en": "The second āśhrama: the adult running a household, which is where the family and its occupations actually sit."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "vanaprastha",
+      "term": "Vānaprastha",
+      "match": [
+        "Vānaprastha"
+      ],
+      "plain": {
+        "en": "life in the forest"
+      },
+      "means": {
+        "en": "The third āśhrama: the later years withdrawn from the household."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "sannyasa",
+      "term": "Saṁnyāsa",
+      "match": [
+        "Saṁnyāsa"
+      ],
+      "plain": {
+        "en": "renunciation"
+      },
+      "means": {
+        "en": "The fourth āśhrama: giving the household up altogether. The idea was already in the Vedic tradition, not invented later."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "sanskara",
+      "term": "saṁskāra",
+      "match": [
+        "saṁskāras"
+      ],
+      "plain": {
+        "en": "a rite that marks a turning point"
+      },
+      "means": {
+        "en": "First haircut, marriage, cremation. The sixteen are a sequence - one at a time, in order - not a checklist done all at once."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "shodasha",
+      "term": "ṣhoḍaśha",
+      "match": [
+        "ṣhoḍaśha"
+      ],
+      "plain": {
+        "en": "sixteen"
+      },
+      "means": {
+        "en": "The number attached to the saṁskāras. The chapter counts sixteen rites that mark the turning points of a life."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "purushartha",
+      "term": "puruṣhārtha",
+      "match": [
+        "puruṣhārtha",
+        "puruṣhārthas"
+      ],
+      "plain": {
+        "en": "goal of life"
+      },
+      "means": {
+        "en": "The chapter's four goals - dharma, artha, kāma and mokṣha. They are destinations a life moves towards, and a person can hold several at once."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "artha",
+      "term": "artha",
+      "match": [
+        "artha"
+      ],
+      "plain": {
+        "en": "material well-being - wealth and purpose"
+      },
+      "means": {
+        "en": "One of the four goals of life: having the means to live. The chapter also uses the word for a settled purpose."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "kama",
+      "term": "kāma",
+      "match": [
+        "kāma"
+      ],
+      "plain": {
+        "en": "love and desire"
+      },
+      "means": {
+        "en": "One of the four goals of life. It includes both the wish for pleasure and the wish for what one loves."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "moksha",
+      "term": "mokṣha",
+      "match": [
+        "mokṣha"
+      ],
+      "plain": {
+        "en": "release"
+      },
+      "means": {
+        "en": "One of the four goals of life: getting free of the cycle of birth and death. The chapter singles it out as ethically weighty."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "gurukula",
+      "term": "gurukula",
+      "match": [
+        "gurukula"
+      ],
+      "plain": {
+        "en": "a teacher's school"
+      },
+      "means": {
+        "en": "The place a pupil lived and studied beside a teacher - not fed by character or grammar, but by a harvest."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "guru",
+      "term": "guru",
+      "match": [
+        "guru"
+      ],
+      "plain": {
+        "en": "teacher"
+      },
+      "means": {
+        "en": "Highly respected, and not what most people assume: a guide who took a student from ignorance towards knowledge."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "acharya",
+      "term": "āchārya",
+      "match": [
+        "Āchārya"
+      ],
+      "plain": {
+        "en": "a teacher who knows the text from the inside"
+      },
+      "means": {
+        "en": "The one who has been through it. Alongside the guru, the other word the chapter uses for a teacher."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "parampara",
+      "term": "paramparā",
+      "match": [
+        "Paramparā"
+      ],
+      "plain": {
+        "en": "an unbroken chain handed on"
+      },
+      "means": {
+        "en": "The bond between a teacher and a pupil - a line you stand in, which only moves if everyone before you did their part."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "smriti",
+      "term": "smṛiti",
+      "match": [
+        "Smṛiti"
+      ],
+      "plain": {
+        "en": "what is remembered, not written down"
+      },
+      "means": {
+        "en": "The body of what a society remembers about how it should behave - unlike a grammar, it does not try to be complete or mechanical."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "chhandashastra",
+      "term": "Chhandaśhāstra",
+      "match": [
+        "Chhandaśhāstra"
+      ],
+      "plain": {
+        "en": "a treatise on metre"
+      },
+      "means": {
+        "en": "Piṅgala's manual of Sanskrit prosody - how a line of verse is measured."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "kavya",
+      "term": "kāvya",
+      "match": [
+        "kāvya"
+      ],
+      "plain": {
+        "en": "poetry that is also an art of making"
+      },
+      "means": {
+        "en": "Where the point is not only what is said but how well it is said. A culture that keeps writing poems across centuries of collapsing empires is a culture that keeps something."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "yoga",
+      "term": "yoga",
+      "match": [
+        "yoga"
+      ],
+      "plain": {
+        "en": "discipline of body and mind"
+      },
+      "means": {
+        "en": "One of the three practices a pupil ran every day alongside study and meditation. It trains attention and self-control, not only posture."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "parivrajaka",
+      "term": "parivrājaka",
+      "match": [
+        "parivrājaka"
+      ],
+      "plain": {
+        "en": "the wanderer"
+      },
+      "means": {
+        "en": "A renouncer who travels from place to place rather than settling in one ashram."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "bhikshu",
+      "term": "bhikṣhu",
+      "match": [
+        "bhikṣhu"
+      ],
+      "plain": {
+        "en": "the one who lives on alms"
+      },
+      "means": {
+        "en": "A mendicant who depends on what others give him each morning - part of the vocabulary of withdrawal the chapter lists."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "shramana",
+      "term": "śhramaṇa",
+      "match": [
+        "śhramaṇa"
+      ],
+      "plain": {
+        "en": "the one who strives"
+      },
+      "means": {
+        "en": "A renouncer who works at liberation rather than performing ritual on behalf of others."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "bhakti",
+      "term": "Bhakti",
+      "match": [
+        "Bhakti"
+      ],
+      "plain": {
+        "en": "devotion - a direct path to the god"
+      },
+      "means": {
+        "en": "A route offering direct connection with the gods without the elaborate rituals prescribed in the Vedas. It grew prominent in the sixth-century Tamil region."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "alvar",
+      "term": "Āḻvār",
+      "match": [
+        "Āḻvārs"
+      ],
+      "plain": {
+        "en": "the twelve poet-saints"
+      },
+      "means": {
+        "en": "Twelve saint-poets who composed hymns in praise of Viṣhṇu - one stream of Tamil Bhakti."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "nayanmar",
+      "term": "Nāyanmār",
+      "match": [
+        "Nāyanmārs"
+      ],
+      "plain": {
+        "en": "the sixty-three poet-saints"
+      },
+      "means": {
+        "en": "Sixty-three Śhaiva saint-poets who praised Śhiva - the other stream of Tamil Bhakti."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "shaiva",
+      "term": "Śhaiva",
+      "match": [
+        "Śhaiva"
+      ],
+      "plain": {
+        "en": "of Śhiva"
+      },
+      "means": {
+        "en": "The label for the stream of devotion addressed to Śhiva, as Vaiṣṇava names the stream addressed to Viṣhṇu."
+      },
+      "lesson": 10,
+      "group": "concept"
+    },
+    {
+      "id": "shreni",
+      "term": "śhreṇī",
+      "match": [
+        "śhreṇīs"
+      ],
+      "plain": {
+        "en": "guild"
+      },
+      "means": {
+        "en": "The chapter's word for a collective of traders, artisans and merchants who shared rules, dues and reputation."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "kahapana",
+      "term": "kāhāpaṇa",
+      "match": [
+        "kāhāpaṇas"
+      ],
+      "plain": {
+        "en": "a silver coin"
+      },
+      "means": {
+        "en": "A unit of money in western Indian inscriptions of the first century CE - the kind of coin that carries a punch-mark."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "pratika",
+      "term": "pratika",
+      "match": [
+        "pratika"
+      ],
+      "plain": {
+        "en": "a fraction of the hundred"
+      },
+      "means": {
+        "en": "The unit an inscription charges interest in. One pratika a month on the hundred is twelve a year."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "padika",
+      "term": "paḍika",
+      "match": [
+        "paḍika"
+      ],
+      "plain": {
+        "en": "a larger fraction than a pratika"
+      },
+      "means": {
+        "en": "The bigger of the two interest units on the Nasik inscriptions. Three-quarters of a paḍika a month on the hundred is nine a year."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "dakshinapatha",
+      "term": "Dakṣhiṇāpatha",
+      "match": [
+        "Dakṣhiṇāpatha"
+      ],
+      "plain": {
+        "en": "the southern road"
+      },
+      "means": {
+        "en": "A trunk road running north to south down the length of the subcontinent, from the Himalaya to Tamilakam."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "uttarapatha",
+      "term": "Uttarāpatha",
+      "match": [
+        "Uttarāpatha"
+      ],
+      "plain": {
+        "en": "the northern road"
+      },
+      "means": {
+        "en": "A highway running across the north, then down the Ganga."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "sangam",
+      "term": "Sangam",
+      "match": [
+        "Sangam"
+      ],
+      "plain": {
+        "en": "the age of the Tamil academy-poets"
+      },
+      "means": {
+        "en": "The period in the far south whose poets wrote vast bodies of verse, including whole libraries on akam and puram."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "akam",
+      "term": "akam",
+      "match": [
+        "akam"
+      ],
+      "plain": {
+        "en": "interior life"
+      },
+      "means": {
+        "en": "The Sangam poets' name for love and the feelings inside a person looking at the world."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "puram",
+      "term": "puram",
+      "match": [
+        "puram"
+      ],
+      "plain": {
+        "en": "exterior life"
+      },
+      "means": {
+        "en": "The Sangam poets' name for war, public affairs and political organisation - the other half of the pair."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "tolkappiyam",
+      "term": "Tolkappiyam",
+      "match": [
+        "Tolkappiyam"
+      ],
+      "plain": {
+        "en": "the old Tamil grammar-poem"
+      },
+      "means": {
+        "en": "A Tamil text that gives a four-fold division of society too, and names its groups by what they do."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "arasar",
+      "term": "Arasar",
+      "match": [
+        "Arasar"
+      ],
+      "plain": {
+        "en": "kings"
+      },
+      "means": {
+        "en": "The Tolkappiyam's name for the first of its four groups, named by the work done rather than by birth."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "vanigar",
+      "term": "Vanigar",
+      "match": [
+        "Vanigar"
+      ],
+      "plain": {
+        "en": "traders and merchants"
+      },
+      "means": {
+        "en": "The Tolkappiyam's second group, named for the work they did rather than for where they were born."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "velar",
+      "term": "Velar",
+      "match": [
+        "Velar"
+      ],
+      "plain": {
+        "en": "farmers"
+      },
+      "means": {
+        "en": "The Tolkappiyam's third group - a functional division, which is what makes it worth comparing with varṇa."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "antanar",
+      "term": "Antanar",
+      "match": [
+        "Antanar"
+      ],
+      "plain": {
+        "en": "Brahmans, often patronised by ruling elites"
+      },
+      "means": {
+        "en": "The Tolkappiyam's fourth group, and the one where the functional division and the varna division overlap most closely."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "gana",
+      "term": "gaṇa",
+      "match": [
+        "gaṇa",
+        "gaṇas",
+        "saṁghas"
+      ],
+      "plain": {
+        "en": "a republic"
+      },
+      "means": {
+        "en": "A republican state in early India, also called a saṁgha."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "rajya",
+      "term": "rājya",
+      "match": [
+        "rājya",
+        "rājyas"
+      ],
+      "plain": {
+        "en": "a kingdom"
+      },
+      "means": {
+        "en": "A monarchical state, ruled by a king."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "sapta-sindhu",
+      "term": "Sapta-Sindhu",
+      "match": [
+        "Sapta-Sindhu",
+        "Sapta–Sindhu"
+      ],
+      "plain": {
+        "en": "land of seven rivers"
+      },
+      "means": {
+        "en": "The north-western region of the Indus, its five tributaries and the Sarasvatī. The earliest sections of the Ṛigveda were composed here."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "swami",
+      "term": "swāmi",
+      "match": [
+        "swāmi"
+      ],
+      "plain": {
+        "en": "the king"
+      },
+      "means": {
+        "en": "The first of the seven constituents of the state in Kauṭilya's list."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "saptanga",
+      "term": "Saptāṁga",
+      "match": [
+        "Saptāṁga"
+      ],
+      "plain": {
+        "en": "seven constituents"
+      },
+      "means": {
+        "en": "Kauṭilya's seven parts of the state: king, ministers, territory, forts, treasury, army and allies."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "mantri-parishad",
+      "term": "mantri-pariṣhad",
+      "match": [
+        "mantri-pariṣhad",
+        "mantri–pariṣhad"
+      ],
+      "plain": {
+        "en": "council of ministers"
+      },
+      "means": {
+        "en": "A small body of elder statesmen whose main role was to advise and support the king."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "yajurveda",
+      "term": "Yajurveda",
+      "match": [
+        "Yajurveda"
+      ],
+      "plain": {
+        "en": "a Veda on rituals"
+      },
+      "means": {
+        "en": "The Veda that explains how yajñas are performed, with explanations in prose."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "samaveda",
+      "term": "Sāmaveda",
+      "match": [
+        "Sāmaveda"
+      ],
+      "plain": {
+        "en": "a Veda for singing"
+      },
+      "means": {
+        "en": "Hymns from the Ṛigveda arranged for musical recitation."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "atharvaveda",
+      "term": "Atharvaveda",
+      "match": [
+        "Atharvaveda"
+      ],
+      "plain": {
+        "en": "a Veda of practical hymns"
+      },
+      "means": {
+        "en": "Hymns to ward off evil and to treat illness of body and mind."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "samhita",
+      "term": "samhitā",
+      "match": [
+        "samhitā",
+        "Samhitā",
+        "samhitās",
+        "Samhitās"
+      ],
+      "plain": {
+        "en": "hymns of a Veda"
+      },
+      "means": {
+        "en": "The part of a Veda with hymns used to call on a deity and make offerings."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "upanishad",
+      "term": "Upaniṣhad",
+      "match": [
+        "Upaniṣhad",
+        "upaniṣhad",
+        "Upaniṣhads"
+      ],
+      "plain": {
+        "en": "texts on the Self"
+      },
+      "means": {
+        "en": "The part of a Veda that goes into the Self (Ātman) and the Ultimate Universal Being (Brāhman)."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "pgw",
+      "term": "Painted Grey Ware",
+      "match": [
+        "Painted Grey Ware",
+        "PGW"
+      ],
+      "plain": {
+        "en": "a kind of pottery"
+      },
+      "means": {
+        "en": "Pottery found in the Ganga region in the first millennium BCE."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "nbpw",
+      "term": "Northern Black Polished Ware",
+      "match": [
+        "Northern Black Polished Ware",
+        "NBPW"
+      ],
+      "plain": {
+        "en": "a refined pottery"
+      },
+      "means": {
+        "en": "A refined ware with a smooth, glossy black surface, from the middle Ganga region."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "bharatavarsha",
+      "term": "Bhāratavarṣha",
+      "match": [
+        "Bhāratavarṣha"
+      ],
+      "plain": {
+        "en": "a name for the subcontinent"
+      },
+      "means": {
+        "en": "A term that expressed awareness of the whole land."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "samrat",
+      "term": "samrāṭ",
+      "match": [
+        "samrāṭ"
+      ],
+      "plain": {
+        "en": "emperor"
+      },
+      "means": {
+        "en": "A title used by rulers from the 6th century BCE onwards."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "vendar",
+      "term": "Vendar",
+      "match": [
+        "Vendar"
+      ],
+      "plain": {
+        "en": "crowned kings"
+      },
+      "means": {
+        "en": "The Chera, Chola and Pandya rulers, the three crowned kings of Tamilakam."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "satavahana",
+      "term": "Satavāhana",
+      "match": [
+        "Satavāhana",
+        "Satavāhanas"
+      ],
+      "plain": {
+        "en": "a Deccan dynasty"
+      },
+      "means": {
+        "en": "An empire of the Deccan that followed the Mauryan Empire and lasted nearly 500 years."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "gangaikonda",
+      "term": "Gangaikonda",
+      "match": [
+        "Gangaikonda"
+      ],
+      "plain": {
+        "en": "a royal title"
+      },
+      "means": {
+        "en": "A title of the Chola ruler Rajendra I, to commemorate his conquest of regions along the Ganga."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "bhoga",
+      "term": "bhoga",
+      "match": [
+        "bhoga"
+      ],
+      "plain": {
+        "en": "a division"
+      },
+      "means": {
+        "en": "A northern name for a division of a kingdom, like viṣhaya."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "kottam",
+      "term": "koṭṭam",
+      "match": [
+        "koṭṭam",
+        "koṭṭams"
+      ],
+      "plain": {
+        "en": "a division"
+      },
+      "means": {
+        "en": "A southern name for a division of a kingdom."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "pattana",
+      "term": "paṭṭana",
+      "match": [
+        "paṭṭana"
+      ],
+      "plain": {
+        "en": "a district"
+      },
+      "means": {
+        "en": "A northern name for a district."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "kurram",
+      "term": "kūṛram",
+      "match": [
+        "kūṛram"
+      ],
+      "plain": {
+        "en": "a group of villages"
+      },
+      "means": {
+        "en": "A southern name for a group of villages."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "tahsil",
+      "term": "tahsīl",
+      "match": [
+        "tahsīl"
+      ],
+      "plain": {
+        "en": "a group of villages"
+      },
+      "means": {
+        "en": "A modern unit: a group of villages under one office."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "tripartite",
+      "term": "tripartite struggle",
+      "match": [
+        "tripartite struggle"
+      ],
+      "plain": {
+        "en": "a three-sided contest"
+      },
+      "means": {
+        "en": "The contest among the Gurjara-Pratihāras, Pālas and Rāṣhṭrakūṭas."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "dhri",
+      "term": "dhri",
+      "match": [
+        "dhri"
+      ],
+      "plain": {
+        "en": "to hold"
+      },
+      "means": {
+        "en": "The root of the word dharma."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "dharati",
+      "term": "dharati",
+      "match": [
+        "dharati"
+      ],
+      "plain": {
+        "en": "it holds"
+      },
+      "means": {
+        "en": "A word from the root dhri, to hold or uphold."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "yajna",
+      "term": "yajña",
+      "match": [
+        "yajña",
+        "yajñas"
+      ],
+      "plain": {
+        "en": "a sacrificial ritual"
+      },
+      "means": {
+        "en": "A ritual with offerings, most often to the sacred fire."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "dana",
+      "term": "dāna",
+      "match": [
+        "dāna"
+      ],
+      "plain": {
+        "en": "giving"
+      },
+      "means": {
+        "en": "Giving as a gift."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "sutta-nipata",
+      "term": "Sutta Nipāta",
+      "match": [
+        "Sutta Nipāta"
+      ],
+      "plain": {
+        "en": "a Buddhist text"
+      },
+      "means": {
+        "en": "An early Buddhist collection of verses."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "pattinappalai",
+      "term": "Pattinappalai",
+      "match": [
+        "Pattinappalai"
+      ],
+      "plain": {
+        "en": "a Sangam poem"
+      },
+      "means": {
+        "en": "A Sangam poem that describes life and trades."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "social-mobility",
+      "term": "social mobility",
+      "match": [
+        "social mobility"
+      ],
+      "plain": {
+        "en": "moving between groups"
+      },
+      "means": {
+        "en": "People moving from one social position or occupation to another."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "renunciant",
+      "term": "renunciant",
+      "match": [
+        "renunciant",
+        "renunciants"
+      ],
+      "plain": {
+        "en": "one who gives up home"
+      },
+      "means": {
+        "en": "A person who gives up home and family life to live as an ascetic or wanderer."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "votive",
+      "term": "votive inscription",
+      "match": [
+        "votive inscription",
+        "votive inscriptions"
+      ],
+      "plain": {
+        "en": "a gift record"
+      },
+      "means": {
+        "en": "Text on stone or metal that dedicates a gift to a deity or sacred place."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "patrilineal",
+      "term": "patrilineal",
+      "match": [
+        "patrilineal"
+      ],
+      "plain": {
+        "en": "through the father"
+      },
+      "means": {
+        "en": "Family identity and inheritance passed through the male line."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "revenue-assessment",
+      "term": "revenue assessment",
+      "match": [
+        "revenue assessment"
+      ],
+      "plain": {
+        "en": "working out tax"
+      },
+      "means": {
+        "en": "Working out how much tax is owed."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "adulteration",
+      "term": "adulteration",
+      "match": [
+        "adulteration"
+      ],
+      "plain": {
+        "en": "mixing in cheaper stuff"
+      },
+      "means": {
+        "en": "Mixing cheaper material into a product."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "perpetual-endowment",
+      "term": "perpetual endowment",
+      "match": [
+        "perpetual endowment"
+      ],
+      "plain": {
+        "en": "a lasting gift of money"
+      },
+      "means": {
+        "en": "Money placed so that its interest keeps paying for all time."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "trustee",
+      "term": "trustee",
+      "match": [
+        "trustee",
+        "trustees"
+      ],
+      "plain": {
+        "en": "a keeper of money"
+      },
+      "means": {
+        "en": "Someone who looks after money on behalf of others."
+      },
+      "lesson": 11,
+      "group": "concept"
+    },
+    {
+      "id": "lexicon",
+      "term": "lexicon",
+      "match": [
+        "lexicon"
+      ],
+      "plain": {
+        "en": "a dictionary"
+      },
+      "means": {
+        "en": "A dictionary."
+      },
+      "lesson": 10,
+      "group": "concept"
+    }
+  ]
+}

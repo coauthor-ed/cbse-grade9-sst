@@ -1,0 +1,66 @@
+{
+  "id": "q-l09-a4",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Which list gives the Mesopotamian powers in the order in which they came to the top?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Sumerians, Assyrians, Akkadians, Babylonians"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Assur took over from Akkad around 2154 BCE, so the Akkadians came before the Assyrians."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Akkadians, Sumerians, Babylonians, Assyrians"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Sumerians came first. Akkad overshadowed them in 2334 BCE."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sumerians, Akkadians, Assyrians, Babylonians"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Babylonians, Assyrians, Akkadians, Sumerians"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is the order backwards. Hammurabi of Babylon came last of these, in 1792 BCE."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Sumerians first, Akkad from 2334 BCE, Assur from about 2154 BCE, and Babylon from 1900 BCE, with Hammurabi in 1792 BCE."
+  },
+  "hints": [
+    {
+      "en": "The first writers came first. Hammurabi is the latest name you have met."
+    }
+  ],
+  "tags": [
+    "mesopotamia",
+    "chronology"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

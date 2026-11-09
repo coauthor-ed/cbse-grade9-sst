@@ -1,0 +1,122 @@
+{
+  "id": "q-l07-s03b",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Sort each condition into the class of party it describes."
+  },
+  "categories": [
+    {
+      "id": "national",
+      "label": {
+        "en": "National party"
+      }
+    },
+    {
+      "id": "state",
+      "label": {
+        "en": "State party"
+      }
+    },
+    {
+      "id": "rupp",
+      "label": {
+        "en": "Registered unrecognised party"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-nat-four-states",
+      "text": {
+        "en": "6% of valid votes in four or more States, and four Lok Sabha seats"
+      },
+      "correctCategoryId": "national"
+    },
+    {
+      "id": "chip-nat-two-percent",
+      "text": {
+        "en": "At least 2% of Lok Sabha seats, won from at least three States"
+      },
+      "correctCategoryId": "national"
+    },
+    {
+      "id": "chip-nat-four-state-parties",
+      "text": {
+        "en": "Recognised as a State party in at least four States"
+      },
+      "correctCategoryId": "national"
+    },
+    {
+      "id": "chip-state-assembly-pair",
+      "text": {
+        "en": "6% of Assembly votes in the State, and two seats in that Assembly"
+      },
+      "correctCategoryId": "state"
+    },
+    {
+      "id": "chip-state-lok-sabha-pair",
+      "text": {
+        "en": "6% of Lok Sabha votes from the State, and one Lok Sabha seat from it"
+      },
+      "correctCategoryId": "state"
+    },
+    {
+      "id": "chip-state-three-percent",
+      "text": {
+        "en": "3% of Assembly seats in the State, or three seats, whichever is more"
+      },
+      "correctCategoryId": "state"
+    },
+    {
+      "id": "chip-state-twentyfive",
+      "text": {
+        "en": "One Lok Sabha seat for every 25 seats, or fraction of 25, allotted to the State"
+      },
+      "correctCategoryId": "state"
+    },
+    {
+      "id": "chip-state-eight-percent",
+      "text": {
+        "en": "8% of the valid votes polled in the State"
+      },
+      "correctCategoryId": "state"
+    },
+    {
+      "id": "chip-rupp-not-enough",
+      "text": {
+        "en": "Has not secured enough percentage of votes"
+      },
+      "correctCategoryId": "rupp"
+    },
+    {
+      "id": "chip-rupp-never-contested",
+      "text": {
+        "en": "Has never contested an election since registering"
+      },
+      "correctCategoryId": "rupp"
+    }
+  ],
+  "explanation": {
+    "en": "National routes count votes or seats across several States. State routes count votes or seats inside one State. Registered unrecognised parties are described by what they have not done, and have no figure to meet."
+  },
+  "hints": [
+    {
+      "en": "Does the condition speak of several States, one State, or no figure at all?"
+    }
+  ],
+  "tags": [
+    "recognition",
+    "national-party",
+    "state-party",
+    "rupp",
+    "criteria"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:24.206Z",
+    "reviewedBy": "review-bar"
+  }
+}

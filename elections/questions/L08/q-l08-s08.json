@@ -1,0 +1,122 @@
+{
+  "id": "q-l08-s08",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "\"Elections are the soul of a democracy.\" Do you agree? State your view and give two reasons from what you have learnt. Either view can earn full marks."
+  },
+  "rubric": [
+    {
+      "id": "position",
+      "label": {
+        "en": "The answer states a clear view on whether elections are the soul of a democracy."
+      },
+      "level1": {
+        "en": "Do you agree, disagree, or agree in part? Say so in your first sentence."
+      },
+      "clue": {
+        "en": "You may agree, disagree or agree in part. The marks are for your reasons, not for the side you take."
+      },
+      "level2Template": {
+        "en": "I ___ that elections are the soul of a democracy."
+      },
+      "accepted": [
+        "agree",
+        "disagree",
+        "partly agree"
+      ]
+    },
+    {
+      "id": "reason-one",
+      "label": {
+        "en": "The answer gives a reason drawn from the role of elections, such as an equal voice for every citizen or the accountability of those elected, or from the limits of elections."
+      },
+      "level1": {
+        "en": "What do elections give citizens, or what can they not give on their own?"
+      },
+      "clue": {
+        "en": "Elections give every citizen an equal voice and make those elected answer to the people. An election can also be held and still have its democratic value reduced."
+      },
+      "level2Template": {
+        "en": "One reason is that elections ___."
+      },
+      "accepted": [
+        "give every citizen an equal voice",
+        "make the government accountable",
+        "can be held without being fair"
+      ]
+    },
+    {
+      "id": "reason-two",
+      "label": {
+        "en": "The answer gives a second, different reason, such as the need for fair conditions, active citizens or institutions."
+      },
+      "level1": {
+        "en": "What else must be true for a vote to mean something?"
+      },
+      "clue": {
+        "en": "Think of fairness in the process, constant vigilance by citizens, or the work of bodies like the ECI."
+      },
+      "level2Template": {
+        "en": "A second reason is that democracy also depends on ___."
+      },
+      "accepted": [
+        "fair conditions",
+        "active citizens",
+        "institutions such as the ECI"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "State a view"
+      },
+      "text": {
+        "en": "Elections are at the heart of a democracy, although they are not all of it."
+      },
+      "rubricId": "position"
+    },
+    {
+      "eyebrow": {
+        "en": "One reason"
+      },
+      "text": {
+        "en": "Elections give every citizen an equal voice in forming a government, and they make those elected answer to the people."
+      },
+      "rubricId": "reason-one"
+    },
+    {
+      "eyebrow": {
+        "en": "A second reason"
+      },
+      "text": {
+        "en": "However, an election can be held and still have its democratic value reduced, so democracy also depends on fair conditions and active citizens."
+      },
+      "rubricId": "reason-two"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "explanation": {
+    "en": "There is no single right side. A strong answer states a view and backs it with two different reasons, such as the equal voice elections give, or the fair conditions and active citizens they depend on."
+  },
+  "hints": [
+    {
+      "en": "Choose your view first. Then find two reasons from these lessons."
+    }
+  ],
+  "tags": [
+    "free-and-fair",
+    "democracy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T07:40:00.000Z", "reviewedBy": "owner"
+  }
+}

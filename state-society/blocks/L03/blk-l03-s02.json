@@ -1,0 +1,36 @@
+{
+  "id": "blk-l03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03/blk-l03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The king's authority was always absolute."
+    },
+    {
+      "id": "b",
+      "text": "Royal authority was not always absolute."
+    },
+    {
+      "id": "c",
+      "text": "Every king had to be chosen by election."
+    },
+    {
+      "id": "d",
+      "text": "The records must all be mistaken."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L03/KingReachScene.js",
+    "role": "setup",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:14.624Z",
+    "reviewedBy": "review-bar"
+  }
+}

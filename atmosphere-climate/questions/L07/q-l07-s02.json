@@ -1,0 +1,76 @@
+{
+  "id": "q-l07-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Delhi (219 m, 29° N) gets 67.0 cm of rain in a year. Jodhpur (224 m, 26°18' N) gets 36.6 cm. What is the best reason for the difference?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Bay air reaches Delhi; little lifts the air at Jodhpur"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The air reaching each place and what lifts it make the main difference."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Delhi stands much higher than Jodhpur does"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The heights differ by only 5 m, and Delhi is lower."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Delhi lies nearer the equator than Jodhpur"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Delhi, at 29° N, is further from the equator."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No monsoon air at all ever reaches Jodhpur"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Jodhpur gets most of its rain in the monsoon months."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Delhi and Jodhpur are at nearly the same height, and Jodhpur is nearer the equator. Bay of Bengal air runs up the Ganga plain to Delhi. Air crossing Rajasthan is hardly lifted, partly because the Aravalli run along the wind. A shorter stay at Jodhpur adds a little."
+  },
+  "hints": [
+    {
+      "en": "Compare the two heights first. Can they explain the gap?"
+    },
+    {
+      "en": "Think about which arm of the monsoon reaches each place."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "monsoon",
+    "rainfall",
+    "climate-data",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:42.603Z",
+    "reviewedBy": "review-bar"
+  }
+}

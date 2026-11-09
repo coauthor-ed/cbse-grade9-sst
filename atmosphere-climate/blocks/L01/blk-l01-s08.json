@@ -1,0 +1,15 @@
+{
+  "id": "blk-l01-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L01/FillTheJarGameScene.js",
+  "objective": {
+    "en": "Read each clue and tap the gas it describes."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:06.382Z",
+    "reviewedBy": "review-bar"
+  }
+}

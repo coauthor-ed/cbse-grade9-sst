@@ -1,0 +1,36 @@
+{
+  "id": "q-l06-s06",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "On a map of normal monsoon dates, the line for 1 June crosses Kerala. The last line, 8 July, lies over far western Rajasthan. How many days pass between these two dates? (Answer in days.)"
+  },
+  "expectedValue": 37,
+  "tolerance": 1,
+  "unit": "days",
+  "explanation": {
+    "en": "June has 30 days, so 29 days remain after 1 June. Add the 8 days of July: 29 + 8 = 37 days, a little over five weeks. The monsoon needs weeks to spread across India."
+  },
+  "hints": [
+    {
+      "en": "Count the days left in June after the 1st."
+    },
+    {
+      "en": "29 days are left in June. Now add the days in July up to the 8th."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "monsoon",
+    "onset",
+    "isochrone",
+    "calculation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:36.866Z",
+    "reviewedBy": "review-bar"
+  }
+}

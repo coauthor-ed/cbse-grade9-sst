@@ -1,0 +1,17 @@
+{
+  "id": "blk-l05-s10",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05/blk-l05-s10.md",
+  "image": {
+    "src": "media/L05/monsoon-clouds-western-ghats.jpg",
+    "alt": "Dense grey and white monsoon cloud banks lying along a dark forested mountain ridge at sunset, with pale orange light breaking through beneath them.",
+    "caption": "Monsoon clouds climbing the Western Ghats. Photo: Cpangarkar, CC BY-SA 4.0, via Wikimedia Commons.",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:27.401Z",
+    "reviewedBy": "review-bar"
+  }
+}

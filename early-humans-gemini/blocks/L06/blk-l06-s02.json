@@ -1,0 +1,35 @@
+{
+  "id": "blk-l06-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06/blk-l06-s02.md",
+  "image": {
+    "src": "media/L06/L06S01.jpg",
+    "alt": "A drawing from above of the excavated Neolithic settlement at Mehrgarh: a grid of contiguous rectangular sun-dried mud-brick structures, part-excavated, partitioned into small rooms and compartmentalised storage bins.",
+    "position": "right"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": "The charred grain: grain in a hearth proves that the people grew it."
+    },
+    {
+      "id": "b",
+      "text": "The animal bones: bones prove that the animals were kept in herds."
+    },
+    {
+      "id": "c",
+      "text": "The storage bins: nobody stores food without a harvest."
+    },
+    {
+      "id": "d",
+      "text": "No single find. Grain of farmed kinds, bins to store it and bones of herded animals together point to farming."
+    }
+  ],
+  "correctOptionId": "d",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

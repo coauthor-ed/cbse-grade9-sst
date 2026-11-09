@@ -1,0 +1,72 @@
+{
+  "id": "q-l05-s10",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "This lesson established that the seasonal wind reverses because the Indian landmass and the surrounding seas heat and cool at different rates. The chapter gives no dates for when or where the summer rain begins. Which observation does that gap make a puzzle rather than merely an omission?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A town at high altitude and a town on the coast receive the same amount of rain in a season, which shows that altitude has nothing to do with where seasonal rain falls."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Two stations on the same coast receive very different rainfall totals, which shows the reversal acts differently along one coastline."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The season's rainfall declines steadily from one year to the next, which suggests the reversal is slowly weakening."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Rain reaches one end of the country several weeks before the other, which means a single wind is arriving progressively rather than appearing everywhere at once."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The reversal was established as a fact with a timetable behind it: the wind starts in the south-west, crosses the country, and is withdrawing again by October. A front that begins in one place and arrives in another must therefore have a starting point and a direction of travel, and both are knowable - which is exactly what makes the missing dates a puzzle rather than an oversight. The wrong options each rest on a comparison the chapter never draws: a is a claim about altitude and the coast that this lesson does not make, b treats two rainfall totals as evidence about the wind's path rather than about the land it fell on, and d infers a trend from a single season, which nothing here supports."
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L05/exp-q-l05-s10.json"
+      }
+    ]
+  },
+  "hints": [
+    {
+      "en": "Ignore what makes two places wetter or drier for a moment. Ask instead whether one wind can arrive at two distant places at the same moment."
+    },
+    {
+      "en": "If the rain starts in the south-west in June and has withdrawn by October, then between those two dates it must have travelled. What does that force you to want to know?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "monsoon",
+    "onset",
+    "front",
+    "western-ghats"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:27.401Z",
+    "reviewedBy": "review-bar"
+  }
+}

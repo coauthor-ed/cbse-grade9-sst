@@ -1,0 +1,72 @@
+{
+  "id": "q-l05-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "The word monsoon comes from the Arabic word mausim. What does mausim mean?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Wind"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is about wind, but the word itself means season."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Ship"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The sailors had ships, but the word means season."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Season"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. It names the seasonal reversal of the wind."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Rain"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Mausim does not mean rain. Many people think so."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Mausim literally means season. Arab traders used it for the seasonal reversal of the wind system."
+  },
+  "hints": [
+    {
+      "en": "The wind turns with the time of year."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "monsoon",
+    "etymology",
+    "arabic-mausim"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:27.401Z",
+    "reviewedBy": "review-bar"
+  }
+}

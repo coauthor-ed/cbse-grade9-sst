@@ -1,0 +1,17 @@
+{
+  "id": "blk-l10-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L10/blk-l10-s03.md",
+  "poeRole": "explain",
+  "poeRecapStep": 0,
+  "simulationStep": 0,
+  "simulation": {
+    "src": "simulations/L10/ThreeScriptsAlignScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

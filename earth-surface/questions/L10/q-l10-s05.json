@@ -1,0 +1,115 @@
+{
+  "id": "q-l10-s05",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Sort each cause under the disaster it leads to."
+  },
+  "categories": [
+    {
+      "id": "land",
+      "label": {
+        "en": "Landslide"
+      }
+    },
+    {
+      "id": "snow",
+      "label": {
+        "en": "Avalanche"
+      }
+    },
+    {
+      "id": "glof",
+      "label": {
+        "en": "GLOF"
+      }
+    },
+    {
+      "id": "dust",
+      "label": {
+        "en": "Dust storm"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-cut",
+      "text": {
+        "en": "A road cut at the foot of a slope"
+      },
+      "correctCategoryId": "land"
+    },
+    {
+      "id": "chip-roots",
+      "text": {
+        "en": "Trees cut from a steep hillside"
+      },
+      "correctCategoryId": "land"
+    },
+    {
+      "id": "chip-weak",
+      "text": {
+        "en": "Heavy new snow on a weak layer"
+      },
+      "correctCategoryId": "snow"
+    },
+    {
+      "id": "chip-ski",
+      "text": {
+        "en": "Skiers crossing a loaded slope"
+      },
+      "correctCategoryId": "snow"
+    },
+    {
+      "id": "chip-moraine",
+      "text": {
+        "en": "A moraine dam gives way"
+      },
+      "correctCategoryId": "glof"
+    },
+    {
+      "id": "chip-melt",
+      "text": {
+        "en": "Fast melting fills a lake behind ice"
+      },
+      "correctCategoryId": "glof"
+    },
+    {
+      "id": "chip-drought",
+      "text": {
+        "en": "Long drought dries out bare soil"
+      },
+      "correctCategoryId": "dust"
+    },
+    {
+      "id": "chip-graze",
+      "text": {
+        "en": "Overgrazing leaves dry land exposed"
+      },
+      "correctCategoryId": "dust"
+    }
+  ],
+  "explanation": {
+    "en": "Each disaster has its own landform. Landslides come from slopes that lose support or roots. Avalanches come from unstable snow. GLOFs come from lakes behind weak dams. Dust storms come from dry, bare land."
+  },
+  "hints": [
+    {
+      "en": "First ask what is moving: rock, snow, water or dust."
+    }
+  ],
+  "tags": [
+    "landslide",
+    "avalanche",
+    "GLOF",
+    "trigger",
+    "moraine",
+    "dust-storm"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:56.194Z",
+    "reviewedBy": "review-bar"
+  }
+}

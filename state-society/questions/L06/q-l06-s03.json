@@ -1,0 +1,87 @@
+{
+  "id": "q-l06-s03",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The kudavolai filled the committees of a village. Sort each fact: how the draw was held, or what happened after the draw."
+  },
+  "categories": [
+    {
+      "id": "protect-the-result",
+      "label": {
+        "en": "How the draw was held"
+      }
+    },
+    {
+      "id": "supply-the-workers",
+      "label": {
+        "en": "What happened after the draw"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-child-hand",
+      "text": {
+        "en": "A young child draws the leaves, one by one"
+      },
+      "correctCategoryId": "protect-the-result"
+    },
+    {
+      "id": "chip-no-order",
+      "text": {
+        "en": "The draw happens at a public gathering"
+      },
+      "correctCategoryId": "protect-the-result"
+    },
+    {
+      "id": "chip-full-view",
+      "text": {
+        "en": "The community watches the draw in full view"
+      },
+      "correctCategoryId": "protect-the-result"
+    },
+    {
+      "id": "chip-variyams",
+      "text": {
+        "en": "The elected members are divided into variyams"
+      },
+      "correctCategoryId": "supply-the-workers"
+    },
+    {
+      "id": "chip-tank-committee",
+      "text": {
+        "en": "The tank committee manages irrigation"
+      },
+      "correctCategoryId": "supply-the-workers"
+    },
+    {
+      "id": "chip-tax-committee",
+      "text": {
+        "en": "Another committee collects taxes"
+      },
+      "correctCategoryId": "supply-the-workers"
+    }
+  ],
+  "explanation": {
+    "en": "The child, the public gathering and the watching community are about how the draw was held. The variyams are about what happened after it: managing irrigation, administering justice and collecting taxes."
+  },
+  "hints": [
+    {
+      "en": "Ask of each fact: is it about choosing the people, or about the work they do afterwards?"
+    }
+  ],
+  "tags": [
+    "kudavolai",
+    "variyam",
+    "village-assembly",
+    "match-categorize"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:28.849Z",
+    "reviewedBy": "review-bar"
+  }
+}

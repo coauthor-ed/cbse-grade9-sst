@@ -1,0 +1,64 @@
+{
+  "id": "q-l05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In early Indian kingdoms, three matters come up: a case to be judged in a district, a law-and-order problem in a city, and the affairs of one village. Who dealt with each?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "All three went to the king, because supreme authority rested with him."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "All three went to the amātyas of the āḥāra, who had no other officers below them."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The district governor judged the case, the city governor kept order, and the grāmika led the village."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The grāmika judged the case, the district governor kept order in the city, and the king led the village."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "District governors, or pradeśhikas, had judicial and administrative work. Cities had their own governors for revenue and law and order. Each village was led by a headman, the grāmika. Supreme authority rested with the king, but officers at provincial and local levels carried out the general administration."
+  },
+  "hints": [
+    {
+      "en": "Each of the three matters goes to a different person."
+    },
+    {
+      "en": "Supreme authority is not the same as doing every job in person."
+    }
+  ],
+  "tags": [
+    "satavahana",
+    "ahara",
+    "pradeshika",
+    "gramika",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:24.273Z",
+    "reviewedBy": "review-bar"
+  }
+}

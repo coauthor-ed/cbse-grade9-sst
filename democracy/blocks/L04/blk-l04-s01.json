@@ -1,0 +1,16 @@
+{
+  "id": "blk-l04-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# What If One Office Made, Ran, and Judged the Laws?\n\n<!-- STEP id=\"one-office-school\" -->\n## One Principal, Three Jobs\n\nImagine a school where one principal writes every rule, gives every punishment, and then hears every appeal against that punishment.\n\nA fee rise, a new uniform rule, a detention: nobody else signs anything.\n\n<!-- STEP id=\"where-is-the-net\" -->\n## Nowhere Else to Go\n\nSuppose a student thinks a punishment was unfair. The only person who can hear the appeal is the person who gave the punishment, so the student has nowhere else to go.\n\nNow think of a whole country run this way, with one office making, running and judging every law."
+  },
+  "simulation": {
+    "src": "simulations/L04/OneOfficeScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.513Z"
+  }
+}

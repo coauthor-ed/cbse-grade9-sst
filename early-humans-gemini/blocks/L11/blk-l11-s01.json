@@ -1,0 +1,39 @@
+{
+  "id": "blk-l11-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L11/blk-l11-s01.md",
+  "image": {
+    "src": "media/L11/L11S01.jpg",
+    "alt": "A drawing of a linen-wrapped mummy in a painted coffin",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "jars": {
+        "src": "media/L11/L11S01-b2.jpg",
+        "alt": "A drawing of four carved stone jars, each with a different head on its lid"
+      },
+      "heart": {
+        "src": "media/L11/L11S01-b3.jpg",
+        "alt": "A drawing of two green stone scarabs, one showing its carved beetle back and one its written underside"
+      },
+      "pyramid": {
+        "src": "media/L11/L11S01-b4.jpg",
+        "alt": "A drawing of the Step Pyramid at Saqqara, six shrinking tiers of stone in the desert"
+      },
+      "puzzle": {
+        "src": "media/L11/L11S01-b5.jpg",
+        "alt": "A drawing of the Step Pyramid at Saqqara in the desert"
+      },
+      "body": {
+        "src": "media/L11/L11S01.jpg",
+        "alt": "A drawing of a linen-wrapped mummy in a painted coffin"
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

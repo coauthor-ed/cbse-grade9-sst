@@ -1,0 +1,76 @@
+{
+  "id": "q-l07-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Kolkata and Chennai both lie near the Bay of Bengal. Kolkata's wettest months are July and August. Chennai's are October and November. What best explains the difference?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Different monsoons bring their heaviest rain"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Different winds bring the rain, in different months."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Kolkata lies much higher above the sea"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Kolkata is at 6 m and Chennai at 7 m."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Chennai gets no rain from June to September"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. It gets 36.4 cm in those months."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The south-west monsoon reaches Chennai in October"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. By October that monsoon is leaving India."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Kolkata gets its heaviest rain when the south-west monsoon is over the Ganga plain. Chennai gets its heaviest rain later, when north-east winds cross the Bay of Bengal and pick up moisture."
+  },
+  "hints": [
+    {
+      "en": "Which monsoon blows in July and August?"
+    },
+    {
+      "en": "Which monsoon blows in October and November?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "climate-data",
+    "rainfall",
+    "retreating-monsoon",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:42.603Z",
+    "reviewedBy": "review-bar"
+  }
+}

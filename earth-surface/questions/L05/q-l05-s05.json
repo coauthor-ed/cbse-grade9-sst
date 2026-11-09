@@ -1,0 +1,105 @@
+{
+  "id": "q-l05-s05",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Sort each landform into the part of the river where it is listed."
+  },
+  "categories": [
+    {
+      "id": "upper",
+      "label": {
+        "en": "Upper course"
+      }
+    },
+    {
+      "id": "middle",
+      "label": {
+        "en": "Middle course"
+      }
+    },
+    {
+      "id": "lower",
+      "label": {
+        "en": "Lower course"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "V-shaped valley"
+      },
+      "correctCategoryId": "upper"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Waterfall"
+      },
+      "correctCategoryId": "upper"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Rapids"
+      },
+      "correctCategoryId": "upper"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Oxbow lake"
+      },
+      "correctCategoryId": "middle"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "Floodplain"
+      },
+      "correctCategoryId": "middle"
+    },
+    {
+      "id": "chip-6",
+      "text": {
+        "en": "Delta"
+      },
+      "correctCategoryId": "lower"
+    },
+    {
+      "id": "chip-7",
+      "text": {
+        "en": "Levee"
+      },
+      "correctCategoryId": "lower"
+    },
+    {
+      "id": "chip-8",
+      "text": {
+        "en": "Alluvial fan"
+      },
+      "correctCategoryId": "lower"
+    }
+  ],
+  "explanation": {
+    "en": "Steep ground gives V-shaped valleys, waterfalls and rapids. As the river loses energy it forms oxbow lakes and floodplains. Near the sea it forms deltas and levees. Fans are listed with the lower course, and many form at the foot of mountains."
+  },
+  "hints": [
+    {
+      "en": "Think about the river's speed in each part."
+    }
+  ],
+  "tags": [
+    "running-water",
+    "river-courses"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:31.657Z",
+    "reviewedBy": "review-bar"
+  }
+}

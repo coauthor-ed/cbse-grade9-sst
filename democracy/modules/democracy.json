@@ -1,0 +1,67 @@
+{
+  "id": "democracy",
+  "moduleId": "democracy",
+  "type": "module",
+  "authorId": "democracy",
+  "title": {
+    "en": "Democracy"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "popular-sovereignty",
+      "fundamental-rights",
+      "separation-of-powers",
+      "forms-of-democracy",
+      "elections-and-participation"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "Why build a voting booth for one voter?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "Was ancient India already democratic?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "Who is the boss of the government?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "What if one office made, ran, and judged the laws?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "One word, many governments"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "How big is an Indian election?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "What can weaken a democracy, and what protects it?"
+      }
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-08-25T21:19:57.496Z"
+  }
+}

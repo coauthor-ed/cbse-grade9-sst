@@ -1,0 +1,104 @@
+{
+  "id": "q-l04-s04",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each statement into the level of the election system that it describes."
+  },
+  "categories": [
+    {
+      "id": "eci",
+      "label": {
+        "en": "Election Commission of India"
+      }
+    },
+    {
+      "id": "ceo",
+      "label": {
+        "en": "Chief Electoral Officer"
+      }
+    },
+    {
+      "id": "district",
+      "label": {
+        "en": "Officers below the State level"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-conducts-lok-sabha",
+      "text": {
+        "en": "Conducts elections to the Lok Sabha and the Rajya Sabha"
+      },
+      "correctCategoryId": "eci"
+    },
+    {
+      "id": "chip-conducts-president",
+      "text": {
+        "en": "Conducts the elections to the President and the Vice President"
+      },
+      "correctCategoryId": "eci"
+    },
+    {
+      "id": "chip-established-1950",
+      "text": {
+        "en": "Established on 25 January 1950"
+      },
+      "correctCategoryId": "eci"
+    },
+    {
+      "id": "chip-ceo-supervises",
+      "text": {
+        "en": "Supervises election work at the State level"
+      },
+      "correctCategoryId": "ceo"
+    },
+    {
+      "id": "chip-ceo-civil-servants",
+      "text": {
+        "en": "Appointed from among civil servants, in consultation with the State Government"
+      },
+      "correctCategoryId": "ceo"
+    },
+    {
+      "id": "chip-officers",
+      "text": {
+        "en": "District Magistrates and Tahsildars given election duties"
+      },
+      "correctCategoryId": "district"
+    },
+    {
+      "id": "chip-titles",
+      "text": {
+        "en": "Hold titles such as District Election Officer and Returning Officer"
+      },
+      "correctCategoryId": "district"
+    }
+  ],
+  "explanation": {
+    "en": "The ECI is the constitutional body that conducts the elections. The Chief Electoral Officer supervises election work in a State and is appointed by the ECI. State Government officers such as District Magistrates and Tahsildars take on election duties below that level, under titles such as Returning Officer."
+  },
+  "hints": [
+    {
+      "en": "Ask which level each statement belongs to: the whole country, one State, or a part of a State."
+    },
+    {
+      "en": "A District Magistrate works below the State level."
+    }
+  ],
+  "tags": [
+    "eci",
+    "chief-electoral-officer",
+    "returning-officer",
+    "electoral-registration-officer",
+    "constitution"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:11.134Z",
+    "reviewedBy": "review-bar"
+  }
+}

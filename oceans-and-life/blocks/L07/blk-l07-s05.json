@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07/blk-l07-s05.md",
+  "simulation": {
+    "src": "simulations/L07/ResourceTreeScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:47.998Z",
+    "reviewedBy": "review-bar"
+  }
+}

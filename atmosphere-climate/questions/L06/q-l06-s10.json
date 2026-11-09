@@ -1,0 +1,76 @@
+{
+  "id": "q-l06-s10",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Thiruvananthapuram usually gets the monsoon around 1 June and receives 181.2 cm of rain in a year. Shillong usually gets it a few days later and receives 225.3 cm. What does this show about a map of monsoon dates?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It tells when the monsoon arrives, not how much rain falls"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A date and an amount of rain are different things."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It shows that a later date always brings more rain"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Delhi is reached later than Shillong and gets far less rain."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It shows how much rain each place receives"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The lines carry dates, not amounts of rain."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It must be wrong about the date for Shillong"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The dates and the rainfall answer two different questions."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A date line says when the monsoon usually arrives. The rain a place receives depends on other things too, such as the hills that lift the wet air."
+  },
+  "hints": [
+    {
+      "en": "What is printed on each line of the map?"
+    },
+    {
+      "en": "Does that tell you the amount of rain?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "isochrone",
+    "monsoon",
+    "climate-data",
+    "rainfall"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:36.866Z",
+    "reviewedBy": "review-bar"
+  }
+}

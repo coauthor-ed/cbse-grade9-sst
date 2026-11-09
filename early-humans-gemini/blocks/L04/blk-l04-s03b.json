@@ -1,0 +1,29 @@
+{
+  "id": "blk-l04-s03b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s03b.md",
+  "poeRole": "observe",
+  "image": {
+    "src": "media/L04/L04S01-b2.jpg",
+    "alt": "A drawing of slender pointed bone tools with a repeating zigzag pattern cut into the shaft, lying on a dark surface.",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "reveal": {
+    "images": {
+      "beads": {
+        "src": "media/L04/L04S01-b3.jpg",
+        "alt": "A drawing of round flat ostrich-eggshell disc beads, each pierced in the centre, scattered together in a small group."
+      },
+      "arrow": {
+        "src": "media/L04/L04S03.jpg",
+        "alt": "A drawing of an arrow on a wooden surface: feathers at one end, and at the other end four sharp stone pieces tied along the shaft with cord."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

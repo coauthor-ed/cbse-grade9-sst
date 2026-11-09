@@ -1,0 +1,16 @@
+{
+  "id": "blk-l05-s05",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Four Teams, One Festival\n\n<!-- STEP id=\"teams-a-and-b\" -->\n## Teams A and B\n\nAt a 'Youth for Democracy' festival, Students' Councils from different countries visit your school. Each works in its own way.\n\nTap Team A and Team B, and read.\n\n<!-- STEP id=\"teams-c-and-d\" -->\n## Teams C and D\n\nNow read Team C and Team D. Notice who may contest, who holds the power, and whether other voices are heard.\n\nWhich team would you choose, and why?"
+  },
+  "simulation": {
+    "src": "simulations/L05/CouncilTeamsScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.517Z"
+  }
+}

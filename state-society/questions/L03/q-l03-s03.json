@@ -1,0 +1,97 @@
+{
+  "id": "q-l03-s03",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Each event calls for one of a king's two duties. Sort them."
+  },
+  "categories": [
+    {
+      "id": "protect",
+      "label": {
+        "en": "Protect people"
+      }
+    },
+    {
+      "id": "justice",
+      "label": {
+        "en": "Administer justice"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "c1",
+      "text": {
+        "en": "Raiders cross the border"
+      },
+      "correctCategoryId": "protect"
+    },
+    {
+      "id": "c2",
+      "text": {
+        "en": "An enemy army marches on the kingdom"
+      },
+      "correctCategoryId": "protect"
+    },
+    {
+      "id": "c3",
+      "text": {
+        "en": "Disorder breaks out across a town"
+      },
+      "correctCategoryId": "protect"
+    },
+    {
+      "id": "c4",
+      "text": {
+        "en": "A family accuses a man of abduction"
+      },
+      "correctCategoryId": "justice"
+    },
+    {
+      "id": "c5",
+      "text": {
+        "en": "A merchant reports a theft"
+      },
+      "correctCategoryId": "justice"
+    },
+    {
+      "id": "c6",
+      "text": {
+        "en": "Travellers bring a case of robbery"
+      },
+      "correctCategoryId": "justice"
+    },
+    {
+      "id": "c7",
+      "text": {
+        "en": "Two households bring a case of adultery"
+      },
+      "correctCategoryId": "justice"
+    }
+  ],
+  "explanation": {
+    "en": "A king was responsible for protecting his subjects from external threats and internal disorder. He was also expected to administer justice in cases such as abduction, robbery, theft and adultery."
+  },
+  "hints": [
+    {
+      "en": "Ask if the event is a danger to many people, or a case between particular people."
+    },
+    {
+      "en": "Internal disorder is still a matter of protection."
+    }
+  ],
+  "tags": [
+    "justice",
+    "protection",
+    "duties-of-the-king",
+    "match-categorize"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:14.624Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "les-07",
+  "lessonId": "les-07",
+  "type": "lesson",
+  "title": {
+    "en": "How are parties recognised?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L07/blk-l07-s01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s02.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s03.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s03a.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s03b.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s03c.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s04.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s04.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s05.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s05c.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s05.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s05b.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s06b.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s06.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-a01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s07.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "review-bar",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:24.206Z"
+  }
+}

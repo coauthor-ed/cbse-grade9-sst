@@ -1,0 +1,68 @@
+{
+  "id": "q-l02-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "One of these ancestors made handaxes and cleavers, and was the first hominin to leave Africa. Which one?"
+  },
+  "image": {
+    "src": "media/L02/L02S07.jpg",
+    "alt": "Four fossil hominin skull casts in a row, labelled Homo habilis, Homo erectus, Homo neanderthalensis and Homo sapiens from left to right.",
+    "position": "right"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Homo habilis, because it made early stone tools."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Homo habilis made simple choppers and is known from Africa. The handaxes and the first journey out belong to its successor."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Homo erectus."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Homo sapiens, because modern humans went everywhere first."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Homo sapiens left Africa much later, around 125,000 years ago, and it made more complex tools."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Homo neanderthalensis, because it lived in Europe."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Neanderthals lived in Europe and southwest Asia, but they made flake tools and were not the first hominins to leave Africa."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Homo erectus invented handaxes and cleavers and began to leave Africa about 2 million years ago. Homo sapiens left much later, around 125,000 years ago."
+  },
+  "hints": [
+    {
+      "en": "Think of the tool first: which ancestor is linked with handaxes and cleavers?"
+    }
+  ],
+  "tags": [],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

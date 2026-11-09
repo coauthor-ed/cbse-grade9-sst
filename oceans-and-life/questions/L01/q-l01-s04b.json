@@ -1,0 +1,131 @@
+{
+  "id": "q-l01-s04b",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Describe the sea floor between the coast of a continent and the deep ocean. Name the parts in the order you meet them, and say what each one is like."
+  },
+  "rubric": [
+    {
+      "id": "shelf-point",
+      "label": {
+        "en": "The first part is the continental shelf, the shallow submerged edge of the continent"
+      },
+      "level1": {
+        "en": "You walk out from the coast. What do you meet first, and how deep is it?"
+      },
+      "clue": {
+        "en": "The continental shelf is the shallow edge of the continent under the sea. It is rich in marine life, and in oil and gas."
+      },
+      "level2Template": {
+        "en": "The first part is the ___, the shallow submerged edge of the continent."
+      },
+      "accepted": [
+        "continental shelf",
+        "shelf",
+        "the continental shelf"
+      ]
+    },
+    {
+      "id": "slope-point",
+      "label": {
+        "en": "The shelf ends in the continental slope, the steep drop that marks the true edge of the continent"
+      },
+      "level1": {
+        "en": "After the shallow stretch, the ground falls away sharply. What is that steep part called, and what does it mark?"
+      },
+      "clue": {
+        "en": "The continental slope is the steep slope that marks the true edge of a continent. Below it, the gentler continental rise runs down to the deep floor."
+      },
+      "level2Template": {
+        "en": "The shelf ends in the ___, the steep slope that marks the true edge of the continent."
+      },
+      "accepted": [
+        "continental slope",
+        "slope",
+        "the continental slope"
+      ]
+    },
+    {
+      "id": "plain-point",
+      "label": {
+        "en": "Beyond the slope and the rise the floor flattens into the abyssal plain, the vast flat floor of the deep ocean"
+      },
+      "level1": {
+        "en": "What lies at the bottom, once the ground stops dropping?"
+      },
+      "clue": {
+        "en": "The abyssal plain is the vast, flat and deep ocean floor."
+      },
+      "level2Template": {
+        "en": "Beyond the slope and the rise lies the ___, the vast flat floor of the deep ocean."
+      },
+      "accepted": [
+        "abyssal plain",
+        "plain",
+        "the abyssal plain"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "To begin"
+      },
+      "text": {
+        "en": "The sea floor is not one flat basin. Between the coast and the deep ocean it changes shape several times, and each shape has its own name."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "First part"
+      },
+      "text": {
+        "en": "The first part is the ___, the shallow submerged edge of the continent."
+      },
+      "rubricId": "shelf-point"
+    },
+    {
+      "eyebrow": {
+        "en": "Second part"
+      },
+      "text": {
+        "en": "The shelf ends in the ___, the steep slope that marks the true edge of the continent."
+      },
+      "rubricId": "slope-point"
+    },
+    {
+      "eyebrow": {
+        "en": "Third part"
+      },
+      "text": {
+        "en": "Beyond the slope and the rise lies the ___, the vast flat floor of the deep ocean."
+      },
+      "rubricId": "plain-point"
+    }
+  ],
+  "explanation": {
+    "en": "Walking out from the coast you cross the continental shelf (shallow, rich in life, oil and gas), the continental slope (the steep drop at the true edge of the continent), the continental rise (gentler ground at its foot) and the abyssal plain (vast, flat and deep)."
+  },
+  "hints": [
+    {
+      "en": "Take the parts one at a time from the coast outwards. Give each its name and its shape."
+    }
+  ],
+  "tags": [
+    "ocean-relief",
+    "continental-shelf",
+    "continental-slope",
+    "abyssal-plain",
+    "descriptive"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:21.469Z",
+    "reviewedBy": "review-bar"
+  }
+}

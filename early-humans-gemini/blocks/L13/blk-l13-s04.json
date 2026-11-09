@@ -1,0 +1,31 @@
+{
+  "id": "blk-l13-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L13/blk-l13-s04.md",
+  "image": {
+    "src": "media/L13/L13S04.jpg",
+    "alt": "The Great Wall standing as a formidable military barrier against the northern steppe.",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "frontier-gate": {
+        "src": "media/L13/L13S04-b2.jpg",
+        "alt": "Fortified frontier gatehouse controlling passage of merchants and goods through the wall."
+      },
+      "garrison-watchtower": {
+        "src": "media/L13/L13S04-b3.jpg",
+        "alt": "Manned frontier watchtower and beacon station overlooking border approaches."
+      },
+      "frontier-settlement": {
+        "src": "media/L13/L13S04-b4.jpg",
+        "alt": "Farming settlements and military colonies established alongside the defensive wall."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

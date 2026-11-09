@@ -1,0 +1,108 @@
+{
+  "id": "q-l08-s05",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each statement into the part of the sea it describes."
+  },
+  "categories": [
+    {
+      "id": "territorial",
+      "label": {
+        "en": "Territorial sea"
+      }
+    },
+    {
+      "id": "contiguous",
+      "label": {
+        "en": "Contiguous zone"
+      }
+    },
+    {
+      "id": "eez",
+      "label": {
+        "en": "EEZ"
+      }
+    },
+    {
+      "id": "high",
+      "label": {
+        "en": "High seas"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-near-complete",
+      "text": {
+        "en": "Near-complete control, as on land"
+      },
+      "correctCategoryId": "territorial"
+    },
+    {
+      "id": "chip-passage",
+      "text": {
+        "en": "Foreign ships have innocent passage"
+      },
+      "correctCategoryId": "territorial"
+    },
+    {
+      "id": "chip-limited",
+      "text": {
+        "en": "Limited control, from 12 to 24 nautical miles"
+      },
+      "correctCategoryId": "contiguous"
+    },
+    {
+      "id": "chip-resources",
+      "text": {
+        "en": "Special rights over fish, oil and gas"
+      },
+      "correctCategoryId": "eez"
+    },
+    {
+      "id": "chip-notown",
+      "text": {
+        "en": "Reaches 200 nautical miles; not fully owned"
+      },
+      "correctCategoryId": "eez"
+    },
+    {
+      "id": "chip-commons",
+      "text": {
+        "en": "Part of the global commons"
+      },
+      "correctCategoryId": "high"
+    },
+    {
+      "id": "chip-equal",
+      "text": {
+        "en": "All countries have equal rights"
+      },
+      "correctCategoryId": "high"
+    }
+  ],
+  "explanation": {
+    "en": "The territorial sea gives near-complete control, with innocent passage for foreign ships. The contiguous zone gives limited control. The EEZ gives special rights over resources, out to 200 nautical miles, without full ownership. Beyond that the high seas are a global commons where all countries have equal rights."
+  },
+  "hints": [
+    {
+      "en": "Go outwards from the coast: control gets weaker at each step."
+    },
+    {
+      "en": "Which part belongs to no single country?"
+    }
+  ],
+  "tags": [
+    "maritime-zones",
+    "contiguous-zone",
+    "eez"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:53.054Z",
+    "reviewedBy": "review-bar"
+  }
+}

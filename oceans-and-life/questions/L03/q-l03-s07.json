@@ -1,0 +1,134 @@
+{
+  "id": "q-l03-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Explain why the sea rises and falls about twice a day, why some days bring a bigger tidal range than others, and why ports and fishers watch the tide."
+  },
+  "rubric": [
+    {
+      "id": "rise-and-fall",
+      "label": {
+        "en": "The Moon stretches the sea into two bulges and the Earth turns under them, so a place has two high tides a day"
+      },
+      "level1": {
+        "en": "How many bulges does the Moon make, and what carries a coast through them?"
+      },
+      "clue": {
+        "en": "The Moon pulls near water most and far water least, so there are two bulges. As the Earth turns, a place is carried through both."
+      },
+      "level2Template": {
+        "en": "The Moon makes two bulges, and as the ___ turns a place meets two high tides a day."
+      },
+      "accepted": [
+        "Earth",
+        "the Earth",
+        "earth",
+        "planet",
+        "globe"
+      ]
+    },
+    {
+      "id": "spring-and-neap",
+      "label": {
+        "en": "When the Sun, the Earth and the Moon are in a straight line the pulls combine, giving a spring tide with a bigger range"
+      },
+      "level1": {
+        "en": "On which days of the month is the range biggest, and why?"
+      },
+      "clue": {
+        "en": "At full moon and new moon the three lie in a straight line, so the pulls combine. At the quarters they act in different directions."
+      },
+      "level2Template": {
+        "en": "At full moon and new moon the Sun, the Earth and the Moon are in a straight ___, so the pulls combine into a spring tide."
+      },
+      "accepted": [
+        "line",
+        "straight line",
+        "row"
+      ]
+    },
+    {
+      "id": "why-it-matters",
+      "label": {
+        "en": "Ships need water deeper than their draught, and many fish come closer to shore at high tide"
+      },
+      "level1": {
+        "en": "What does a big ship need before it can cross a shallow place? What do fish do at high tide?"
+      },
+      "clue": {
+        "en": "A ship can cross only where the water is deeper than its draught. Many fish move closer to the shore at high tide for food and shelter."
+      },
+      "level2Template": {
+        "en": "A ship can cross only where the water is deeper than its ___, and many fish come closer to shore at high tide."
+      },
+      "accepted": [
+        "draught",
+        "draft",
+        "hull depth"
+      ]
+    }
+  ],
+  "explanation": {
+    "en": "The Moon stretches the sea into two bulges, and the Earth turns under them, so most coasts meet two high tides a day. In a straight line, as at full and new moon, the pulls of the Sun and the Moon combine into a spring tide. Ships need water deeper than their draught, and many fish come closer to shore at high tide."
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L03/exp-q-l03-s07.json"
+      }
+    ]
+  },
+  "mode": "coach",
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "To begin"
+      },
+      "text": {
+        "en": "A tide begins with the pull of the Moon. It ends with a ship at the harbour mouth and a net in the water."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Twice a day"
+      },
+      "text": {
+        "en": "The Moon makes two bulges, and as the ___ turns a place meets two high tides a day."
+      },
+      "rubricId": "rise-and-fall"
+    },
+    {
+      "eyebrow": {
+        "en": "Bigger and smaller"
+      },
+      "text": {
+        "en": "At full moon and new moon the Sun, the Earth and the Moon are in a straight ___, so the pulls combine into a spring tide."
+      },
+      "rubricId": "spring-and-neap"
+    },
+    {
+      "eyebrow": {
+        "en": "Who needs to know"
+      },
+      "text": {
+        "en": "A ship can cross only where the water is deeper than its ___, and many fish come closer to shore at high tide."
+      },
+      "rubricId": "why-it-matters"
+    }
+  ],
+  "hints": [
+    {
+      "en": "Take the three parts one at a time: the Moon, the Sun, and then the people."
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:30.294Z",
+    "reviewedBy": "review-bar"
+  }
+}

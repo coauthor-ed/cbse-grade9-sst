@@ -1,0 +1,36 @@
+{
+  "id": "blk-l03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03/blk-l03-s02.md",
+  "deferVerdict": true,
+  "options": [
+    {
+      "id": "a",
+      "text": "The hill voter, as one of only 5 lakh choosing one MP."
+    },
+    {
+      "id": "b",
+      "text": "The city voter, because more people vote together there."
+    },
+    {
+      "id": "c",
+      "text": "Both the same, because each of them has just one vote."
+    },
+    {
+      "id": "d",
+      "text": "Neither, because parties and not voters choose the MPs."
+    }
+  ],
+  "correctOptionId": "a",
+  "simulation": {
+    "src": "simulations/L03/DelimitationScene-setup.js",
+    "role": "setup",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:06.864Z",
+    "reviewedBy": "review-bar"
+  }
+}

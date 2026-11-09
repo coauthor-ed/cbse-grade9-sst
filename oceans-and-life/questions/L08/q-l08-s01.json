@@ -1,0 +1,74 @@
+{
+  "id": "q-l08-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A foreign trawler with no permission is fishing 100 nautical miles from India's baseline. Which statement is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "India may take it to port, as the water is Indian territory."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The EEZ is not territory. The country does not fully own or control the water there."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "India can do nothing, as its waters end at 12 nautical miles."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The territorial sea ends at 12 nautical miles, but India's rights over fish reach much further."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "India has rights to the fish, not the water."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. At 100 nautical miles the boat is in India's EEZ, where India has special rights over fish, oil and gas."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Any boat may fish there, as the open sea belongs to everyone."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That water is inside India's EEZ, so India's rights over the fish apply."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "100 nautical miles lies inside the Exclusive Economic Zone, which reaches 200 nautical miles from the baseline. There India has special rights over resources such as fish, oil and gas, but it does not fully own or control the water."
+  },
+  "hints": [
+    {
+      "en": "Who owns the water, and who has the right to the fish? They are two questions."
+    },
+    {
+      "en": "Which zone reaches 200 nautical miles from the baseline?"
+    }
+  ],
+  "tags": [
+    "maritime-zones",
+    "eez",
+    "fisheries"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:53.054Z",
+    "reviewedBy": "review-bar"
+  }
+}

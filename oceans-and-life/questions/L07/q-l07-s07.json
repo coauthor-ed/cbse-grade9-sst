@@ -1,0 +1,193 @@
+{
+  "id": "q-l07-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "hard",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Describe the importance of marine resources for a country like India: for food and livelihoods, for energy, for trade and tourism, and for culture. Then say what must be protected for all of this to last."
+  },
+  "rubric": [
+    {
+      "id": "food-livelihood",
+      "label": {
+        "en": "Fish feeds people, and fishing and aquaculture support industries and livelihoods for millions"
+      },
+      "level1": {
+        "en": "What does the sea give people to eat, and what work does that food create?"
+      },
+      "clue": {
+        "en": "Fish are a major source of protein, and fishing and aquaculture support important industries and livelihoods for millions of people."
+      },
+      "level2Template": {
+        "en": "Fish is a major source of protein, and fishing and aquaculture support ___ for millions of people."
+      },
+      "accepted": [
+        "industries and livelihoods",
+        "livelihoods",
+        "livelihoods and industries",
+        "industries",
+        "the livelihoods of millions of people"
+      ]
+    },
+    {
+      "id": "energy",
+      "label": {
+        "en": "Oil and gas come from offshore reserves, and tides and waves offer blue energy"
+      },
+      "level1": {
+        "en": "Where does the energy from the sea come from?"
+      },
+      "clue": {
+        "en": "Offshore oil and gas reserves give energy now, and tides and waves offer renewable blue energy."
+      },
+      "level2Template": {
+        "en": "Energy comes from offshore reserves of ___, and from tides and waves."
+      },
+      "accepted": [
+        "oil and natural gas",
+        "offshore oil and natural gas",
+        "oil and gas",
+        "fossil fuels"
+      ]
+    },
+    {
+      "id": "trade-tourism",
+      "label": {
+        "en": "The sea carries about 90% of global trade by volume, and coastal tourism earns a great deal"
+      },
+      "level1": {
+        "en": "How does the sea help trade, and what else does the coast earn from?"
+      },
+      "clue": {
+        "en": "About 90% of global trade by volume is carried by sea, and coastal tourism is a multi-billion dollar industry."
+      },
+      "level2Template": {
+        "en": "The sea carries about ___ of global trade by volume, and coastal tourism is a big industry."
+      },
+      "accepted": [
+        "90%",
+        "90 per cent",
+        "90 percent",
+        "ninety per cent",
+        "most",
+        "nine-tenths"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": {
+        "en": "The conch and the cowrie, once used as currency, are regarded as divine treasures from the Samudra Manthana"
+      },
+      "level1": {
+        "en": "Which two shells tie the sea to Indian culture?"
+      },
+      "clue": {
+        "en": "The sacred śhaṅkha (conch) and kapardikā (cowrie shells), once used as currency, are regarded as divine treasures from the mythological Samudra Manthana."
+      },
+      "level2Template": {
+        "en": "The conch (śhaṅkha) and the cowrie (kapardikā) are regarded as divine treasures from the ___."
+      },
+      "accepted": [
+        "Samudra Manthana",
+        "churning of the ocean",
+        "the churning of the ocean"
+      ]
+    },
+    {
+      "id": "condition",
+      "label": {
+        "en": "The health of the marine ecosystem must be preserved, or these gains will not last"
+      },
+      "level1": {
+        "en": "The sea cannot keep giving all of this unless one thing stays in good shape. What is it?"
+      },
+      "clue": {
+        "en": "Marine resources must be used responsibly, without disturbing marine ecosystems. The Blue Economy keeps growth and jobs while preserving the health of the marine ecosystem."
+      },
+      "level2Template": {
+        "en": "For all of this to keep working, the ___ of the marine ecosystem has to be preserved."
+      },
+      "accepted": [
+        "health",
+        "the health",
+        "health of the marine ecosystem",
+        "balance",
+        "the balance of the ecosystem"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The setting"
+      },
+      "text": {
+        "en": "For a country with a long coast such as India, the sea gives many kinds of value at once, and one condition holds them all up."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Food and livelihood"
+      },
+      "text": {
+        "en": "Fish are a major source of protein, and fishing and aquaculture support important industries and livelihoods for millions of people."
+      },
+      "rubricId": "food-livelihood"
+    },
+    {
+      "eyebrow": {
+        "en": "Energy"
+      },
+      "text": {
+        "en": "Offshore reserves give oil and gas, and tides and waves offer renewable blue energy."
+      },
+      "rubricId": "energy"
+    },
+    {
+      "eyebrow": {
+        "en": "Trade and tourism"
+      },
+      "text": {
+        "en": "About 90% of global trade by volume is carried by sea, and coastal tourism is a multi-billion dollar industry."
+      },
+      "rubricId": "trade-tourism"
+    },
+    {
+      "eyebrow": {
+        "en": "Culture"
+      },
+      "text": {
+        "en": "The sacred śhaṅkha (conch) and kapardikā (cowrie shells), once used as currency, are regarded as divine treasures from the mythological Samudra Manthana."
+      },
+      "rubricId": "culture"
+    },
+    {
+      "eyebrow": {
+        "en": "The condition"
+      },
+      "text": {
+        "en": "All of this rests on a healthy sea. Marine resources must be used responsibly, without disturbing marine ecosystems, and that is the idea of the Blue Economy."
+      },
+      "rubricId": "condition"
+    }
+  ],
+  "explanation": {
+    "en": "The sea gives a coastal country food and livelihoods, energy, trade and tourism, and a place in its culture. All of these depend on the marine ecosystem staying healthy."
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L07/exp-q-l07-s07.json"
+      }
+    ]
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:47.998Z",
+    "reviewedBy": "review-bar"
+  },
+  "mode": "coach"
+}

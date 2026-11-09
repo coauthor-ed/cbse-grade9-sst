@@ -1,0 +1,31 @@
+{
+  "id": "q-l03-s03",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "In a made-up example, a measuring pole at a port reads 13.5 m at high tide and 1.5 m at low tide on the same day. What is the tidal range, in metres?"
+  },
+  "expectedValue": 12,
+  "tolerance": 0.01,
+  "unit": "m",
+  "explanation": {
+    "en": "Tidal range is high water minus low water: 13.5 - 1.5 = 12 m. That is about the range of the Gulf of Khambhat, one of the highest. Some other ports reach 4 to 5 m."
+  },
+  "hints": [
+    {
+      "en": "Take the low reading from the high reading."
+    }
+  ],
+  "tags": [
+    "tides",
+    "tidal-range",
+    "gulf-of-khambhat"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:30.294Z",
+    "reviewedBy": "review-bar"
+  }
+}

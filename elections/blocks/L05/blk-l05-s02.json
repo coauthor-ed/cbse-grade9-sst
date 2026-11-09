@@ -1,0 +1,36 @@
+{
+  "id": "blk-l05-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05/blk-l05-s02.md",
+  "deferVerdict": true,
+  "options": [
+    {
+      "id": "a",
+      "text": "A polling officer presses the button for them"
+    },
+    {
+      "id": "b",
+      "text": "The machine reads the names aloud to the room"
+    },
+    {
+      "id": "c",
+      "text": "Raised Braille numbers sit beside each button"
+    },
+    {
+      "id": "d",
+      "text": "They must send in a postal ballot instead"
+    }
+  ],
+  "correctOptionId": "c",
+  "simulation": {
+    "src": "simulations/L05/BrailleBallotScene.js",
+    "role": "setup",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:15.302Z",
+    "reviewedBy": "review-bar"
+  }
+}

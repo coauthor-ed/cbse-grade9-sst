@@ -1,0 +1,16 @@
+{
+  "id": "blk-l05-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05/blk-l05-s03.md",
+  "poeRecapStep": 1,
+  "simulation": {
+    "src": "simulations/L05/HomeVotingScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:15.302Z",
+    "reviewedBy": "review-bar"
+  }
+}

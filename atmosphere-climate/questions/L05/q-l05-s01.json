@@ -1,0 +1,72 @@
+{
+  "id": "q-l05-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A sea breeze turns around within a day, but the monsoon wind takes months. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The Sun does not rise or set over large countries."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Sun rises and sets over all of India every day."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Day and night drive the breeze; summer and winter drive the monsoon."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The same cause works over a longer time."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only the monsoon depends on land and sea heating differently."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Both depend on land and sea heating differently."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The monsoon blows only over the sea, never over land."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The monsoon blows from sea to land in summer and from land to sea in winter."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Both winds come from unequal heating of land and sea. The sea breeze follows the heating of a single day. The monsoon follows the heating and cooling of a whole season across India and the seas around it."
+  },
+  "hints": [
+    {
+      "en": "Both have the same cause. What differs is how long the heating lasts."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "monsoon",
+    "land-sea-breeze",
+    "differential-heating"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:27.401Z",
+    "reviewedBy": "review-bar"
+  }
+}

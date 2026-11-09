@@ -1,0 +1,129 @@
+{
+  "id": "q-l08-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Explain what the high seas are, and describe one problem that arises because no single country controls them."
+  },
+  "rubric": [
+    {
+      "id": "what-they-are",
+      "label": {
+        "en": "The high seas lie beyond the EEZs of all countries and do not belong to any single country"
+      },
+      "level1": {
+        "en": "Where are the high seas, and who do they belong to?"
+      },
+      "clue": {
+        "en": "Beyond the EEZs of all countries lie the high seas, also called international waters. They do not belong to any single country, so they are part of the global commons."
+      },
+      "level2Template": {
+        "en": "The high seas lie beyond the ___ of all countries, and they do not belong to any single country."
+      },
+      "accepted": [
+        "EEZs",
+        "EEZ",
+        "exclusive economic zones",
+        "200 nautical miles",
+        "beyond 200 nautical miles"
+      ]
+    },
+    {
+      "id": "no-one-to-enforce",
+      "label": {
+        "en": "All countries have equal rights there, and no single country controls them, so rules are harder to enforce"
+      },
+      "level1": {
+        "en": "If all countries have equal rights there, why is it hard to keep order?"
+      },
+      "clue": {
+        "en": "All countries enjoy equal rights on the high seas and no single country controls them. Rules do exist, but enforcing them is more difficult."
+      },
+      "level2Template": {
+        "en": "Since no single country ___ the high seas, it is harder to enforce the rules there."
+      },
+      "accepted": [
+        "controls",
+        "owns",
+        "governs",
+        "no single country controls them",
+        "no country controls them"
+      ]
+    },
+    {
+      "id": "the-problem",
+      "label": {
+        "en": "Problems such as overfishing, illegal fishing and conflicts over resources arise"
+      },
+      "level1": {
+        "en": "What goes wrong out there, and who is affected?"
+      },
+      "clue": {
+        "en": "Overfishing, illegal fishing and conflicts over resources often arise. They affect millions of people who depend on the sea for food and livelihoods."
+      },
+      "level2Template": {
+        "en": "On the high seas, problems such as ___ often arise, and they affect millions of people."
+      },
+      "accepted": [
+        "overfishing",
+        "illegal fishing",
+        "conflicts over resources",
+        "conflict over resources",
+        "safety"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "What they are"
+      },
+      "text": {
+        "en": "The high seas lie beyond the EEZs of all countries, and they do not belong to any single country."
+      },
+      "rubricId": "what-they-are"
+    },
+    {
+      "eyebrow": {
+        "en": "Equal rights"
+      },
+      "text": {
+        "en": "All countries have equal rights there, but since no single country controls them, enforcing the rules is harder."
+      },
+      "rubricId": "no-one-to-enforce"
+    },
+    {
+      "eyebrow": {
+        "en": "What goes wrong"
+      },
+      "text": {
+        "en": "So overfishing, illegal fishing and conflicts over resources often arise, and they affect millions of people who depend on the sea."
+      },
+      "rubricId": "the-problem"
+    }
+  ],
+  "explanation": {
+    "en": "The high seas lie beyond the EEZs of all countries and belong to no single country. Rules exist, but they are harder to enforce, so overfishing, illegal fishing and conflicts over resources often arise."
+  },
+  "hints": [
+    {
+      "en": "Answer in two parts: what the high seas are, then what goes wrong."
+    },
+    {
+      "en": "Think about what is harder when no single country is in control."
+    }
+  ],
+  "tags": [
+    "high-seas",
+    "maritime-zones",
+    "global-commons"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:53.054Z",
+    "reviewedBy": "review-bar"
+  },
+  "mode": "coach"
+}

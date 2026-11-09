@@ -1,0 +1,66 @@
+{
+  "id": "q-l08-a2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The Akkadian period is 2334 to 2154 BCE, the Assyrian period runs from 2154 to about 1700 BCE, and the Babylonians rose from 1900 BCE. Which two powers overlapped in time?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The Akkadians and the Babylonians"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Akkadians lost power in 2154 BCE, and the Babylonians rose only from 1900 BCE. There is a gap of about 250 years."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The Akkadians and the Assyrians"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These two meet at 2154 BCE, when one takes over from the other. One ends as the other begins, so they do not overlap."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The Assyrians and the Babylonians"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No two of them overlapped, because each ended before the next began"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is what many people expect from a list of rulers, but the dates show otherwise. From 1900 to about 1700 BCE, two powers were strong at once."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Babylonia rose from 1900 BCE, and the Assyrians lasted until about 1700 BCE. For about 200 years the Assyrians were strong in the north while Babylonia was strong in central Mesopotamia."
+  },
+  "hints": [
+    {
+      "en": "In BCE years the numbers get smaller as time goes on. Compare where one power ends with where the next begins."
+    }
+  ],
+  "tags": [
+    "mesopotamia",
+    "chronology"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

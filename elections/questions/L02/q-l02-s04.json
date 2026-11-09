@@ -1,0 +1,60 @@
+{
+  "id": "q-l02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "In an FPTP election, Party A polled 40 per cent of the votes and won 60 per cent of the seats. What best explains this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The votes must have been counted wrongly in some of the constituencies."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Party A came first in many constituencies, often below 50 per cent."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Seats were given to each party in proportion to the votes that it won."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The other parties' votes were removed from the count before the end."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Under FPTP, each constituency goes to the candidate with the most votes there. A party that comes first in many constituencies can win more seats than its vote share. No vote was lost or miscounted."
+  },
+  "hints": [
+    {
+      "en": "Is the count done once for the whole country, or once in each constituency?"
+    }
+  ],
+  "tags": [
+    "fptp",
+    "vote-seat-gap",
+    "plurality",
+    "fairness"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:02.694Z",
+    "reviewedBy": "review-bar"
+  }
+}

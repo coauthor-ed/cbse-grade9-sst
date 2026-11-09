@@ -1,0 +1,44 @@
+{
+  "id": "q-l06-s04b",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "assertion": {
+    "en": "A party that has lost an election can still hold the government to account."
+  },
+  "reason": {
+    "en": "After an election, the winning party forms the government and formulates policies."
+  },
+  "correctOptionId": "b",
+  "optionFeedback": {
+    "a": {
+      "en": "Both are true, but the Reason is about the winning party. It does not say why the losing party can still act."
+    },
+    "c": {
+      "en": "The Reason is true: the winning party does form the government and formulate policies."
+    },
+    "d": {
+      "en": "The Assertion is true: the opposition ensures accountability in debates and committees."
+    }
+  },
+  "explanation": {
+    "en": "Both statements are true. The Reason describes the winning party's work. The Assertion is explained by a different fact: the opposition's job is to ensure accountability, through debates and committees."
+  },
+  "hints": [
+    {
+      "en": "Decide if each statement is true. Then ask: does the second say why the first happens?"
+    }
+  ],
+  "tags": [
+    "opposition",
+    "accountability",
+    "manifesto",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:19.438Z",
+    "reviewedBy": "review-bar"
+  }
+}

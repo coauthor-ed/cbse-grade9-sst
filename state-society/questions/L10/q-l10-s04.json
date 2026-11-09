@@ -1,0 +1,59 @@
+{
+  "id": "q-l10-s04",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Which statement about the centres of learning in early India is correct?"
+  },
+  "explanation": {
+    "en": "Historical and literary sources show institutions of higher learning across the Indian subcontinent before the second millennium CE. They attracted students from both India and other regions. Nālandā, for example, was established in 427 CE, and centres stood as far apart as Vallabhī and Sompura."
+  },
+  "hints": [
+    {
+      "en": "Think of Nālandā's date, and of how far apart the centres stood on the map."
+    }
+  ],
+  "tags": [
+    "centres-of-learning",
+    "map",
+    "recall"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:49.938Z",
+    "reviewedBy": "review-bar"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They arose only after 1000 CE, when the great kingdoms had ended."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They stood only in the Ganga plain and served pupils from nearby villages."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They arose across the subcontinent before the second millennium CE and drew students from other regions."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They were open only to students who came from outside India."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c"
+}

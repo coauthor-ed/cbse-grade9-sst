@@ -1,0 +1,15 @@
+{
+  "id": "blk-l08-s09",
+  "type": "mini-game@1",
+  "src": "simulations/L08/CarbonBudgetGameScene.js",
+  "objective": {
+    "en": "Lower the score: in each group, pick the change that lowers your footprint score the most."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:53.484Z",
+    "reviewedBy": "review-bar"
+  }
+}

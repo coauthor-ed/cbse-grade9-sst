@@ -1,0 +1,72 @@
+{
+  "id": "q-l09-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Why is it harder to enforce rules on the high seas than in a territorial sea?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "No rules of any kind reach the high seas."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rules do exist on the high seas, including the laws of the flag state."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Ships on the high seas need no registration."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Every ship has a flag state, the country in which it is registered."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No single country controls those waters."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The high seas belong to no single country, so there is no one country to enforce the rules."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Only warships may sail on the high seas."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "All countries have equal rights of navigation there, for every kind of ship."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "In its territorial sea a country has near-complete control. The high seas belong to no single country, so ensuring safety and enforcing rules is more difficult, even though rules do exist."
+  },
+  "hints": [
+    {
+      "en": "Compare who is in control in each place."
+    }
+  ],
+  "tags": [
+    "maritime-law",
+    "enforcement",
+    "flag-state",
+    "high-seas"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:57.623Z",
+    "reviewedBy": "review-bar"
+  }
+}

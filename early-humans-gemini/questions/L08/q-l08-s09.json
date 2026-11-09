@@ -1,0 +1,187 @@
+{
+  "id": "q-l08-s09",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "Explain how the ziggurat was both the religious centre and the centre of power in a Sumerian city-state. Give five points."
+  },
+  "rubric": [
+    {
+      "id": "temple-chief-god",
+      "label": {
+        "en": "It was the temple of the city's chief god, and the whole city grew outward from it"
+      },
+      "level1": {
+        "en": "Why does one building end up at the centre of the whole city?"
+      },
+      "clue": {
+        "en": "The ziggurat was built for the city's chief god, and the city grew around it."
+      },
+      "level2Template": {
+        "en": "The ziggurat served as the temple of the city's ___, and the city grew around it."
+      },
+      "accepted": [
+        "chief god",
+        "patron deity",
+        "main god"
+      ]
+    },
+    {
+      "id": "economic-activity",
+      "label": {
+        "en": "Farming, trade and the transport of goods were all tied to the temple authority"
+      },
+      "level1": {
+        "en": "Who was actually managing the farming, trade and craft production going on around the ziggurat?"
+      },
+      "clue": {
+        "en": "Farming, trade and the transport of goods were all tied to the temple authority."
+      },
+      "level2Template": {
+        "en": "Much of the city's ___ was tied directly to temple authority."
+      },
+      "accepted": [
+        "economic activity",
+        "trade and farming",
+        "economy",
+        "wealth production"
+      ]
+    },
+    {
+      "id": "treasury-storehouse",
+      "label": {
+        "en": "It served as the city's treasury, with royal storehouses around it, which is why the walls had only one entrance"
+      },
+      "level1": {
+        "en": "The walls had only one entrance. What was being kept safe behind them?"
+      },
+      "clue": {
+        "en": "It served as the city's treasury, so the walls around it had only one entrance."
+      },
+      "level2Template": {
+        "en": "It held royal storehouses and served as a ___, which explains the single entrance."
+      },
+      "accepted": [
+        "treasury",
+        "bank",
+        "secure vault"
+      ]
+    },
+    {
+      "id": "stratified-society",
+      "label": {
+        "en": "Restricted entry marks a ruling group of priests, and a society divided into ranks"
+      },
+      "level1": {
+        "en": "If almost nobody was allowed to climb to the summit, what does that say about who was allowed to?"
+      },
+      "clue": {
+        "en": "Only high priests and priestesses could enter, and they were probably part of the ruling class. This shows a society divided into ranks."
+      },
+      "level2Template": {
+        "en": "Restricted entry to the temple shows a ruling group of priests and a ___."
+      },
+      "accepted": [
+        "stratified society",
+        "class-based society",
+        "social hierarchy",
+        "unequal society"
+      ]
+    },
+    {
+      "id": "single-institution",
+      "label": {
+        "en": "Worship, wealth and power met in one place"
+      },
+      "level1": {
+        "en": "Worship, wealth and control of the city's work: did these sit in different places, or in one?"
+      },
+      "clue": {
+        "en": "Worship, the city's wealth and control of its work all met at the temple."
+      },
+      "level2Template": {
+        "en": "Ultimately, this shows religion and government working as a ___."
+      },
+      "accepted": [
+        "single institution",
+        "unified body",
+        "combined force",
+        "one entity"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "The ziggurat was the heart of the Sumerian city-state, dominating both its skyline and its daily life."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Religious core"
+      },
+      "text": {
+        "en": "The ziggurat served as the temple of the city's ___, and the city grew around it."
+      },
+      "rubricId": "temple-chief-god"
+    },
+    {
+      "eyebrow": {
+        "en": "Economic control"
+      },
+      "text": {
+        "en": "Much of the city's ___ was tied directly to temple authority."
+      },
+      "rubricId": "economic-activity"
+    },
+    {
+      "eyebrow": {
+        "en": "Wealth storage"
+      },
+      "text": {
+        "en": "It held royal storehouses and served as a ___, which explains the single entrance."
+      },
+      "rubricId": "treasury-storehouse"
+    },
+    {
+      "eyebrow": {
+        "en": "Social structure"
+      },
+      "text": {
+        "en": "Restricted entry to the temple shows a ruling group of priests and a ___."
+      },
+      "rubricId": "stratified-society"
+    },
+    {
+      "eyebrow": {
+        "en": "Combined power"
+      },
+      "text": {
+        "en": "Ultimately, this shows religion and government working as a ___."
+      },
+      "rubricId": "single-institution"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "mesopotamia",
+    "ziggurat",
+    "city-state",
+    "religion",
+    "administration"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

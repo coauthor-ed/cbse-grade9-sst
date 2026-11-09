@@ -1,0 +1,66 @@
+{
+  "id": "q-l05-a1",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A row of a chart shows these five signs for West Asia, from earliest to latest: sedentism, cultivation, livestock, agricultural landscape, pottery. What does this row tell us?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "People in West Asia settled in one place before they grew crops, and they made pottery last."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "People in West Asia made pottery first, so that they could store their crops."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Pottery is the last sign in this row, not the first. Pottery came first in the other five regions on the chart."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "People in West Asia grew crops first and settled only after that."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sedentism, which means settling in one place, stands before cultivation in this row."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The same five signs came in this same order in every region of the world."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "One row cannot show this, and the other rows of the chart show a different order."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Sedentism means settling in one place. It stands first in the row, before cultivation, and pottery stands last."
+  },
+  "hints": [
+    {
+      "en": "Sedentism means settling in one place. Which sign stands first in the row?"
+    }
+  ],
+  "tags": [
+    "fig-4-14",
+    "reading-a-chart"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

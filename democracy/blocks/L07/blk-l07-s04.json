@@ -1,0 +1,16 @@
+{
+  "id": "blk-l07-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# How a Concern Became a Law\n\n<!-- STEP id=\"concerns\" -->\n## First, a Concern\n\nThe Right to Information (RTI) Act began with a concern about transparency and accountability. Citizens, journalists, civil society groups and elected representatives all raised it.\n\n<!-- STEP id=\"committees\" -->\n## Then, Committees\n\nParliamentary committees examined these concerns. The discussions showed the need for a law to let citizens get information held by public authorities.\n\n<!-- STEP id=\"debate\" -->\n## Then, Debate\n\nExpert groups reviewed the proposal, Parliament debated it, and stakeholders were consulted. Elected representatives added safeguards for national security and administrative efficiency.\n\n<!-- STEP id=\"in-force\" -->\n## 2005: Into Force\n\nAfter Parliament passed it, the RTI Act came into force in **2005**. Citizens can now seek information from government departments.\n\nLaws made in this way are called **legislation**."
+  },
+  "simulation": {
+    "src": "simulations/L07/LawPipelineScene.js",
+    "position": "below"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.524Z"
+  }
+}

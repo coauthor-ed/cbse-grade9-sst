@@ -1,0 +1,63 @@
+{
+  "id": "q-l01-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A group has no written laws and no court records. Yet two families settle a boundary dispute, and both accept the result and go on living side by side. Which explanation best fits a society of this kind?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The chief is the strongest man in the group, so nobody dares to disagree with him."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A record of the settlement must have been kept somewhere, because only writing can bind people."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Customs and practices accepted by the group give the settlement its force."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Each family has its own law, so no shared rule was needed."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A society is regulated mainly by customs and practices rather than by formal laws. So a settlement can hold when the group accepts the custom behind it, even if nothing is written down."
+  },
+  "hints": [
+    {
+      "en": "What regulates a society when it has no formal laws?"
+    },
+    {
+      "en": "Both families accepted the result, and nothing was written. What could make them accept it?"
+    }
+  ],
+  "tags": [
+    "vedic-period",
+    "jana",
+    "custom",
+    "no-written-law"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:04.889Z",
+    "reviewedBy": "review-bar"
+  }
+}

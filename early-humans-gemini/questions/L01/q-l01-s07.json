@@ -1,0 +1,123 @@
+{
+  "id": "q-l01-s07",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Explain why archaeology is essential for reconstructing the human past. Give three reasons."
+  },
+  "rubric": [
+    {
+      "id": "only-source",
+      "label": {
+        "en": "Material remains are the only source for more than 99 per cent of the human past"
+      },
+      "level1": {
+        "en": "Compare how long humans have made tools with how long humans have written anything down."
+      },
+      "clue": {
+        "en": "Toolmaking goes back about 3 million years; writing appears only about 5,000 years ago, so almost the whole span leaves no documents at all."
+      },
+      "level2Template": {
+        "en": "For more than ___ of the human past there are no written records at all, so material remains are the only source available for that period."
+      },
+      "accepted": [
+        "99 per cent",
+        "99%",
+        "ninety-nine per cent",
+        "99 per cent of human history"
+      ]
+    },
+    {
+      "id": "how-people-lived",
+      "label": {
+        "en": "Excavated objects reveal how people actually lived, even with no written record"
+      },
+      "level1": {
+        "en": "Think about what a trench recovers: bones, seeds, tools, hearths, wall footings. What does each of those tell you?"
+      },
+      "clue": {
+        "en": "Diet, technology, trade contacts, the layout of a settlement and even the health of a body can all be read off excavated material."
+      },
+      "level2Template": {
+        "en": "Tools, bones, seeds and building remains recovered by excavation reveal how people ___, even where nothing was ever written down."
+      },
+      "accepted": [
+        "lived",
+        "lived and worked",
+        "obtained food, made tools and built their homes",
+        "fed, housed and organised themselves"
+      ]
+    },
+    {
+      "id": "unread-script",
+      "label": {
+        "en": "A script can survive and still be unread, leaving objects as the main evidence"
+      },
+      "level1": {
+        "en": "The Harappans did write. Does that mean we can read what they wrote?"
+      },
+      "clue": {
+        "en": "The Sindhu lipi survives on thousands of seals and remains undeciphered, so their material remains still carry the whole account of their lives."
+      },
+      "level2Template": {
+        "en": "Even where a script survives, it may remain ___, as the Sindhu lipi does, so objects stay the main evidence for those lives."
+      },
+      "accepted": [
+        "undeciphered",
+        "unread",
+        "unreadable",
+        "not yet deciphered"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "Archaeology is the study of the human past through material remains, and it is indispensable for three connected reasons."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "First reason"
+      },
+      "text": {
+        "en": "For more than ___ of the human past there are no written records at all, so material remains are the only source available for that period."
+      },
+      "rubricId": "only-source"
+    },
+    {
+      "eyebrow": {
+        "en": "Second reason"
+      },
+      "text": {
+        "en": "Tools, bones, seeds and building remains recovered by excavation reveal how people ___, even where nothing was ever written down."
+      },
+      "rubricId": "how-people-lived"
+    },
+    {
+      "eyebrow": {
+        "en": "Third reason"
+      },
+      "text": {
+        "en": "Even where a script survives, it may remain ___, as the Sindhu lipi does, so objects stay the main evidence for those lives."
+      },
+      "rubricId": "unread-script"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

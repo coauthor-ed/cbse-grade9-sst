@@ -1,0 +1,119 @@
+{
+  "id": "q-l10-s03",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "mode": "coach",
+  "prompt": {
+    "en": "Why do you think education in early India emphasised both knowledge and moral values? How might this have benefited society? Answer in about 100 words."
+  },
+  "rubric": [
+    {
+      "id": "knowledge-skills",
+      "label": {
+        "en": "Knowledge and practical skills prepared students for useful work and life"
+      },
+      "level1": {
+        "en": "What did the subjects and skills give a student?"
+      },
+      "clue": {
+        "en": "Students studied grammar, logic, mathematics, medicine and astronomy, and trained in arts and crafts. These practical skills prepared them for life."
+      },
+      "level2Template": {
+        "en": "Subjects such as medicine and mathematics gave students practical ___."
+      },
+      "accepted": [
+        "skills",
+        "skill",
+        "knowledge",
+        "abilities",
+        "training",
+        "ability"
+      ]
+    },
+    {
+      "id": "character-foundation",
+      "label": {
+        "en": "Good character and moral conduct were seen as the foundation of society"
+      },
+      "level1": {
+        "en": "Why would a society care about the character of its students?"
+      },
+      "clue": {
+        "en": "Inner values such as truth, patience and humility were cultivated because good character and moral conduct were seen as the foundation of society."
+      },
+      "level2Template": {
+        "en": "Good character and moral conduct were seen as the ___ of society."
+      },
+      "accepted": [
+        "foundation",
+        "base",
+        "basis",
+        "root",
+        "strength"
+      ]
+    },
+    {
+      "id": "duty-benefit",
+      "label": {
+        "en": "Students learned their duties, which helped the family and society"
+      },
+      "level1": {
+        "en": "How could one student's values help other people?"
+      },
+      "clue": {
+        "en": "Pupils were trained to live by dharma, the guiding principle for the individual, the family and society. Fulfilling duties towards parents and teachers benefits those around them."
+      },
+      "level2Template": {
+        "en": "Students learned to fulfil their ___ towards parents, teachers and others, which helped society."
+      },
+      "accepted": [
+        "duties",
+        "duty",
+        "dharma",
+        "responsibilities",
+        "responsibility"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Knowledge"
+      },
+      "text": {
+        "en": "Subjects and skills gave students practical ___ for life."
+      },
+      "rubricId": "knowledge-skills"
+    },
+    {
+      "eyebrow": {
+        "en": "Character"
+      },
+      "text": {
+        "en": "Good character and moral conduct were seen as the ___ of society."
+      },
+      "rubricId": "character-foundation"
+    },
+    {
+      "eyebrow": {
+        "en": "Benefit to society"
+      },
+      "text": {
+        "en": "Students who fulfilled their ___ helped their families and society."
+      },
+      "rubricId": "duty-benefit"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:49.938Z",
+    "reviewedBy": "review-bar"
+  }
+}

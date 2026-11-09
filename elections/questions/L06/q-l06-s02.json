@@ -1,0 +1,60 @@
+{
+  "id": "q-l06-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A voter has seen only the boards outside a polling station: names, symbols and photographs. What does she still not know?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Who is standing in her constituency"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Which symbol goes with which candidate"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "What each candidate plans to do"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Which face goes with which name"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The boards already show who is standing, each symbol and each face. They cannot show a candidate's policies, vision or positions on issues. Voters learn those mainly through the political parties."
+  },
+  "hints": [
+    {
+      "en": "Look at what is printed on a board. Which of the four is not there?"
+    }
+  ],
+  "tags": [
+    "political-parties",
+    "manifesto",
+    "ballot-paper",
+    "informed-choice"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:19.438Z",
+    "reviewedBy": "review-bar"
+  }
+}

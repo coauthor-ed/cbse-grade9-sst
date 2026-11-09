@@ -1,0 +1,126 @@
+{
+  "id": "q-l09-s02",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Explain what a flag state is, and what it means for the law on a ship on the high seas."
+  },
+  "rubric": [
+    {
+      "id": "what-the-flag-state-is",
+      "label": {
+        "en": "The flag state is the country where the ship is registered, and on the high seas that country's law applies to the ship"
+      },
+      "level1": {
+        "en": "Which country's law applies to a ship on the high seas, and what is that country called?"
+      },
+      "clue": {
+        "en": "The flag state is the country in which a ship is registered. On the high seas, the laws of the flag state apply."
+      },
+      "level2Template": {
+        "en": "On the high seas the law that applies to a ship is the law of its ___, the country where it is registered."
+      },
+      "accepted": [
+        "flag state",
+        "the flag state",
+        "country of registration",
+        "the country where the ship is registered",
+        "registered"
+      ]
+    },
+    {
+      "id": "why-not-a-coast",
+      "label": {
+        "en": "The high seas belong to no single country, so no coast's law covers them and the ship keeps its flag state's law"
+      },
+      "level1": {
+        "en": "Why does the law of the flag state apply, and not that of the nearest coast?"
+      },
+      "clue": {
+        "en": "The high seas do not belong to any single country, so the law of the nearest coast does not reach them. The ship keeps the law of its flag state."
+      },
+      "level2Template": {
+        "en": "The high seas belong to no single ___, so the ship keeps the law of its flag state."
+      },
+      "accepted": [
+        "country",
+        "nation",
+        "state"
+      ]
+    },
+    {
+      "id": "equal-rights",
+      "label": {
+        "en": "Every country has the same equal rights on the high seas, so they are a global commons"
+      },
+      "level1": {
+        "en": "How do the rights of different countries compare on the high seas?"
+      },
+      "clue": {
+        "en": "The high seas are part of the global commons, and all countries have equal rights there."
+      },
+      "level2Template": {
+        "en": "All countries have equal rights on the high seas, which are part of the ___."
+      },
+      "accepted": [
+        "global commons",
+        "commons",
+        "the global commons"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The flag state"
+      },
+      "text": {
+        "en": "The flag state is the country in which a ship is registered, and on the high seas its laws apply to the ship."
+      },
+      "rubricId": "what-the-flag-state-is"
+    },
+    {
+      "eyebrow": {
+        "en": "Why not the coast"
+      },
+      "text": {
+        "en": "The high seas do not belong to any single country, so the law of the nearest coast does not reach them, and the ship keeps its own."
+      },
+      "rubricId": "why-not-a-coast"
+    },
+    {
+      "eyebrow": {
+        "en": "A shared sea"
+      },
+      "text": {
+        "en": "The high seas are part of the global commons, where all countries have equal rights."
+      },
+      "rubricId": "equal-rights"
+    }
+  ],
+  "explanation": {
+    "en": "The flag state is the country in which a ship is registered. On the high seas, which belong to no single country, the laws of the flag state apply."
+  },
+  "hints": [
+    {
+      "en": "Say what a flag state is, and then what follows for the law at sea."
+    },
+    {
+      "en": "Which country does the ship keep a link with wherever it sails?"
+    }
+  ],
+  "tags": [
+    "flag-state",
+    "high-seas",
+    "global-commons",
+    "maritime-law"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:57.623Z",
+    "reviewedBy": "review-bar"
+  },
+  "mode": "coach"
+}

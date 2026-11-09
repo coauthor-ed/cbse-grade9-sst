@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s09",
+  "type": "mini-game@1",
+  "src": "simulations/L02/JanapadaGroundScene.js",
+  "objective": {
+    "en": "Draw each boundary around the settlements on one ground."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31T19:37:07.000Z",
+    "reviewedBy": "owner"
+  }
+}

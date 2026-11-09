@@ -1,0 +1,63 @@
+{
+  "id": "q-l04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "In a Special Intensive Revision, which of these is NOT a ground for deleting a name from the electoral roll?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The voter has died since the last roll."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The voter has moved to another place."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The voter is enrolled twice by mistake."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The voter did not vote last time."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The four grounds are death of the voter, change of residence, duplicate enrolment and being permanently untraceable. Not voting at the last election is not one of them."
+  },
+  "hints": [
+    {
+      "en": "There are four grounds. Check each option against them."
+    },
+    {
+      "en": "Does the roll list people who may vote, or people who did vote?"
+    }
+  ],
+  "tags": [
+    "sir",
+    "electoral-roll",
+    "deletion",
+    "special-intensive-revision"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:11.134Z",
+    "reviewedBy": "review-bar"
+  }
+}

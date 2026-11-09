@@ -1,0 +1,15 @@
+{
+  "id": "blk-l08-s05",
+  "type": "mini-game@1",
+  "src": "simulations/L08/PotholeGuardScene.js",
+  "objective": {
+    "en": "Six challenges on the road to the booth: pick what helps with each one."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:29.638Z",
+    "reviewedBy": "review-bar"
+  }
+}

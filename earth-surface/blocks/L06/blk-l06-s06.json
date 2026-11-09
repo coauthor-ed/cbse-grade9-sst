@@ -1,0 +1,17 @@
+{
+  "id": "blk-l06-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s06.md",
+  "image": {
+    "src": "media/L06/rocher-perce-arch-and-stack.jpg",
+    "alt": "Rocher Perce in Quebec: a tall limestone cliff standing in the Gulf of St Lawrence with a natural arch cut clean through its body, and a detached sea stack pillar standing just off its seaward tip",
+    "position": "right",
+    "caption": "Rocher Perce, Gaspe Peninsula, Quebec. Photo: GaspeGal, CC BY-SA 4.0, via Wikimedia Commons."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:36.458Z",
+    "reviewedBy": "review-bar"
+  }
+}

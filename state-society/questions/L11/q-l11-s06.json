@@ -1,0 +1,61 @@
+{
+  "id": "q-l11-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Guilds often fixed prices. Which two groups did this protect, and how?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Artisans from being paid too little, and buyers from being overcharged."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Kings from losing tax, and soldiers from losing their pay."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Rich merchants from new rivals, and landowners from falling rents."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Buyers alone, by keeping every price as low as possible."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Guilds regulated quality and often fixed prices to protect both artisans and consumers. An agreed price means an artisan is not paid too little. It also means a buyer is not charged far more than the goods are worth. Option d names only one of the two groups."
+  },
+  "hints": [
+    {
+      "en": "There is one group that makes the goods and one group that buys them."
+    }
+  ],
+  "tags": [
+    "guilds",
+    "shreni",
+    "trade",
+    "price-regulation",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z",
+    "reviewedBy": "review-bar"
+  }
+}

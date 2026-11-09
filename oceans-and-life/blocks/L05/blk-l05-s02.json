@@ -1,0 +1,36 @@
+{
+  "id": "blk-l05-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05/blk-l05-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Both boats, as a satellite covers the whole sea"
+    },
+    {
+      "id": "b",
+      "text": "Neither boat, as both are out of phone range"
+    },
+    {
+      "id": "c",
+      "text": "Only the far boat, as it is in the open sea"
+    },
+    {
+      "id": "d",
+      "text": "Only the near boat, as the signal has a limit"
+    }
+  ],
+  "correctOptionId": "d",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L05/GeminiRangeScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:39.278Z",
+    "reviewedBy": "review-bar"
+  }
+}

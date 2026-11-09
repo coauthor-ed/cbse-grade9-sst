@@ -1,0 +1,17 @@
+{
+  "id": "blk-l06-s05",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Democracy Between Elections\n\n<!-- STEP id=\"more-than-voting\" -->\n## Voting Is One Part\n\nNo, voting is one part of democracy, though it is the part that everyone can see.\n\n**Participatory democracy** means that citizens also help to shape policies, through local councils, public consultations and community-driven initiatives.\n\n<!-- STEP id=\"three-tiers\" -->\n## Three Levels of Government\n\nIndia has three tiers of government: **Union**, **State** and **Local**. The Local tier is the panchayat in a village and the municipality in a town.\n\n**The tiers help the country to run well and help citizens to take part.**"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L06/ThreeTierScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.521Z"
+  }
+}

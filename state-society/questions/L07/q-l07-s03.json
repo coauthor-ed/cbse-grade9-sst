@@ -1,0 +1,100 @@
+{
+  "id": "q-l07-s03",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Sort each description under the idea it describes."
+  },
+  "categories": [
+    {
+      "id": "samatva",
+      "label": {
+        "en": "Samatva"
+      }
+    },
+    {
+      "id": "rita",
+      "label": {
+        "en": "Ṛita"
+      }
+    },
+    {
+      "id": "satya",
+      "label": {
+        "en": "Satya"
+      }
+    },
+    {
+      "id": "dharma",
+      "label": {
+        "en": "Dharma"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-samatva",
+      "text": {
+        "en": "All bodies are made of the same matter."
+      },
+      "correctCategoryId": "samatva"
+    },
+    {
+      "id": "chip-rita",
+      "text": {
+        "en": "An all-pervading cosmic order."
+      },
+      "correctCategoryId": "rita"
+    },
+    {
+      "id": "chip-satya",
+      "text": {
+        "en": "Real, true."
+      },
+      "correctCategoryId": "satya"
+    },
+    {
+      "id": "chip-dharma",
+      "text": {
+        "en": "Duty, obligation and moral conduct, according to a person's role."
+      },
+      "correctCategoryId": "dharma"
+    },
+    {
+      "id": "chip-rita-2",
+      "text": {
+        "en": "The principle that regulates the forces of nature."
+      },
+      "correctCategoryId": "rita"
+    },
+    {
+      "id": "chip-samatva-2",
+      "text": {
+        "en": "The principle of sameness."
+      },
+      "correctCategoryId": "samatva"
+    }
+  ],
+  "explanation": {
+    "en": "Samatva is the principle of sameness: all bodies are made of the same matter. Ṛita is the all-pervading cosmic order that regulates nature and upholds moral values. Satya means real, true. Dharma refers to duty, obligation, righteousness and moral conduct, according to a person's role."
+  },
+  "hints": [
+    {
+      "en": "Samatva and ṛita each have two chips."
+    }
+  ],
+  "tags": [
+    "samatva",
+    "rita",
+    "satya",
+    "dharma",
+    "match-categorize"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:34.561Z",
+    "reviewedBy": "review-bar"
+  }
+}

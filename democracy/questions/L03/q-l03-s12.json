@@ -1,0 +1,112 @@
+{
+  "id": "q-l03-s12",
+  "type": "semantic-descriptive@1",
+  "answerMode": "text",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "What is the Rule of Law, and why is it essential for protecting democracy? Explain."
+  },
+  "rubric": [
+    {
+      "id": "no-one-above-law",
+      "label": {
+        "en": "States that under the Rule of Law no one is above the law: the same rules apply to every person, whatever their status or rank"
+      },
+      "level1": {
+        "en": "Does the law treat a minister differently from any other citizen under this principle?"
+      },
+      "clue": {
+        "en": "Under the Rule of Law, a minister, an official and a student follow the same law: a position gives nobody an exemption."
+      },
+      "level2Template": {
+        "en": "The rule of law means that ___ is above the law, whatever their position or power."
+      },
+      "accepted": [
+        "no one",
+        "nobody",
+        "no person",
+        "no individual"
+      ]
+    },
+    {
+      "id": "lawful-procedure",
+      "label": {
+        "en": "Explains that disputes and violations are resolved in courts through procedures established by law, not by force or personal influence"
+      },
+      "level1": {
+        "en": "Where must a dispute over rights be settled, and by what standard?"
+      },
+      "clue": {
+        "en": "Violations go to a court of law and are decided by the procedure the law lays down. Force and connections decide nothing, and no one is punished without that procedure."
+      },
+      "level2Template": {
+        "en": "Disputes are resolved in court according to the ___, never by force or personal influence."
+      },
+      "accepted": [
+        "procedure established by law",
+        "procedures established by law",
+        "duly enacted law",
+        "law's own procedure"
+      ]
+    },
+    {
+      "id": "protects-democracy",
+      "label": {
+        "en": "Gives reasons why the Rule of Law protects democracy: it prevents misuse of power, protects rights, gives a fair chance to defend against arbitrary action, and promotes justice, accountability and trust"
+      },
+      "level1": {
+        "en": "What would happen to citizens' rights if those in power could bend the rules at will?"
+      },
+      "clue": {
+        "en": "Without it, rights are not safe and arbitrary action goes unchecked. With it, misuse of power is prevented, which is why democracy depends on it."
+      },
+      "level2Template": {
+        "en": "By keeping every office within the same rules, the rule of law prevents the ___ of power and keeps citizens' rights secure."
+      },
+      "accepted": [
+        "misuse",
+        "abuse"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Defining the principle"
+      },
+      "text": {
+        "en": "The rule of law is the foundation on which democratic government stands: ___ is above the law, whatever their position or power, so ministers, officials, and ordinary citizens alike answer to the same rules."
+      },
+      "rubricId": "no-one-above-law"
+    },
+    {
+      "eyebrow": {
+        "en": "How it operates"
+      },
+      "text": {
+        "en": "Whenever rights are violated or duties disputed, matters are resolved in court according to the ___, never by force or personal influence, and no citizen is punished without following due procedure."
+      },
+      "rubricId": "lawful-procedure"
+    },
+    {
+      "eyebrow": {
+        "en": "Why democracy needs it"
+      },
+      "text": {
+        "en": "This is what protects democracy itself: keeping every office within the same rules prevents the ___ of power, gives everyone a fair opportunity to defend their rights against arbitrary action, and sustains the justice, accountability, and trust on which democratic government runs."
+      },
+      "rubricId": "protects-democracy"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.513Z"
+  }
+}

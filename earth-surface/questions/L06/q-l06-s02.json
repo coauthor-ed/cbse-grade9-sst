@@ -1,0 +1,70 @@
+{
+  "id": "q-l06-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The roof of a sea arch falls into the sea. A tall pillar of rock remains. What is this pillar?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The roof, which landed upright in the water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The fallen roof breaks up in the waves. It does not stand as a pillar."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A heap of sand laid down by the waves."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A stack is solid rock, not loose sand."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The outer leg of the arch."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. It is the part of the arch that was already standing."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A new rock pushed up from the sea floor."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing rose. The pillar is what remains after erosion."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A sea stack is the outer leg of the arch. It was there before the roof fell. Once the roof has gone, it stands alone in the sea until waves wear it down to a stump."
+  },
+  "hints": [
+    {
+      "en": "Which part of the arch was already standing in the sea?"
+    }
+  ],
+  "tags": [
+    "sea-arch",
+    "sea-stack"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:36.458Z",
+    "reviewedBy": "review-bar"
+  }
+}

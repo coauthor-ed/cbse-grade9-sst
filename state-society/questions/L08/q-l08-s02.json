@@ -1,0 +1,63 @@
+{
+  "id": "q-l08-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Ṛigveda 9.112.3 says: \"I am a poet; my father is a physician, my mother is a grinder of corn\". How does this challenge the idea that occupation was fixed by birth?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The speaker says that he has no family."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The speaker says that all three do the same work."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The speaker says that a king gave each person a job."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The speaker does different work from his father and his mother."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A son who is a poet, a father who is a physician and a mother who grinds corn are three occupations in one family. This is why the verse is often used as evidence that occupations were flexible in the early period."
+  },
+  "hints": [
+    {
+      "en": "Compare the three occupations."
+    },
+    {
+      "en": "If occupation were fixed by birth, what would you expect of the son?"
+    }
+  ],
+  "tags": [
+    "varna",
+    "rigveda-verse",
+    "functional-division",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:40.217Z",
+    "reviewedBy": "review-bar"
+  }
+}

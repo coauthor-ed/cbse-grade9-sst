@@ -1,0 +1,73 @@
+{
+  "id": "q-l01-s05",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "What is the lithosphere?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The hot, soft layer that flows very slowly"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. That is the asthenosphere, which lies under the lithosphere."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The crust alone, with no part of the mantle"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The lithosphere also includes the upper part of the mantle."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The fluid layer of iron and nickel"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. That is the outer core."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The crust and upper mantle, rigid as one"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Together they form one rigid shell about 100 km thick."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The lithosphere is the rigid outer layer of the Earth. It includes the crust and the upper part of the mantle, and it is about 100 km thick. It is broken into tectonic plates."
+  },
+  "hints": [
+    {
+      "en": "Think of the layer that is broken into plates."
+    },
+    {
+      "en": "Which layers are joined in that rigid shell?"
+    }
+  ],
+  "tags": [
+    "lithosphere",
+    "layers"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedBy": "owner",
+    "reviewedAt": "2026-11-01T15:43:10.000Z"
+  }
+}

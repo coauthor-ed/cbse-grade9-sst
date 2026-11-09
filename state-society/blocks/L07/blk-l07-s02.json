@@ -1,0 +1,36 @@
+{
+  "id": "blk-l07-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L07/blk-l07-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Religion: the prayers and beliefs of a group of people."
+    },
+    {
+      "id": "b",
+      "text": "Duty and right conduct: what each thing or person should do, which upholds all beings."
+    },
+    {
+      "id": "c",
+      "text": "A king's command: whatever the ruler orders his people to do."
+    },
+    {
+      "id": "d",
+      "text": "A ritual: the correct way to perform a ceremony."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L07/DharmaWaterScene.js",
+    "role": "setup",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:34.561Z",
+    "reviewedBy": "review-bar"
+  }
+}

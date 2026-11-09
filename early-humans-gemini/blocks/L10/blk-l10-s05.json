@@ -1,0 +1,31 @@
+{
+  "id": "blk-l10-s05",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L10/blk-l10-s05.md",
+  "deferVerdict": true,
+  "options": [
+    {
+      "id": "opt-1",
+      "text": "The south is closer to the mountains."
+    },
+    {
+      "id": "opt-2",
+      "text": "The Nile flows south to north, so the south is upstream."
+    },
+    {
+      "id": "opt-3",
+      "text": "The southern part was conquered later and added on top."
+    }
+  ],
+  "correctOptionId": "opt-2",
+  "image": {
+    "src": "media/L10/L10S05.jpg",
+    "alt": "A drawn map of the Nile with north at the top, with Lower Egypt at the top and Upper Egypt below",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

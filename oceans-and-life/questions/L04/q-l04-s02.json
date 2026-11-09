@@ -1,0 +1,71 @@
+{
+  "id": "q-l04-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Four things work together on ocean currents. Which list names all four?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The pull of the Moon and Sun, tides, waves and sea depth"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pull of the Moon and the Sun makes tides. It is not one of the four causes of ocean currents."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Winds, rotation, temperature and salinity, basin shape"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. All four act at once: winds, the Earth's rotation, temperature and salinity differences, and the shape of continents and basins."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Winds alone, blowing one way all through the year"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Winds matter, but they are only one of the four causes."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Rivers, rain, waves and the ships that cross the sea"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "None of these is one of the four causes of ocean currents."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Ocean currents are caused by winds, the Earth's rotation (the Coriolis force), differences in temperature and salinity, and the shape of continents and ocean basins. No one of them works alone."
+  },
+  "hints": [
+    {
+      "en": "One cause comes from the air and one comes from the turning Earth."
+    }
+  ],
+  "tags": [
+    "ocean-currents",
+    "coriolis-force",
+    "causes"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:34.781Z",
+    "reviewedBy": "review-bar"
+  }
+}

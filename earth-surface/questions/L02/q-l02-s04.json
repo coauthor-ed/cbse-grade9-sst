@@ -1,0 +1,73 @@
+{
+  "id": "q-l02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "On the Atlantic Ocean floor, rock is youngest at the Mid-Atlantic Ridge and older further away on both sides. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Plates move apart and magma fills the gap"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. New crust forms at the ridge, and older crust moves away."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Plates push together and pile old rock up"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The ridge is a boundary where plates move apart."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Plates slide past and drag young rock along"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Sliding plates make no new crust."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Old rock sinks and leaves the young rock on top"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The young rock is at the ridge, and old rock lies to the sides."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The Mid-Atlantic Ridge is a divergent boundary. As the plates move apart, magma rises and forms new crust at the ridge. Older crust is carried away on both sides."
+  },
+  "hints": [
+    {
+      "en": "Which way do the plates move at a mid-ocean ridge?"
+    },
+    {
+      "en": "What fills the gap?"
+    }
+  ],
+  "tags": [
+    "divergent",
+    "mid-ocean-ridge"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:18.497Z",
+    "reviewedBy": "review-bar"
+  }
+}

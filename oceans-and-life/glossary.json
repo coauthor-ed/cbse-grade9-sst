@@ -1,0 +1,1040 @@
+{
+  "terms": [
+    {
+      "id": "submarine-relief",
+      "term": "submarine relief",
+      "plain": {
+        "en": "ocean relief"
+      },
+      "means": {
+        "en": "The landforms of the ocean floor taken together."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "continental-shelf",
+      "term": "continental shelf",
+      "match": [
+        "continental shelfs"
+      ],
+      "plain": {
+        "en": "shallow ledge"
+      },
+      "means": {
+        "en": "The submerged, shallow edge of a continent."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "continental-slope",
+      "term": "continental slope",
+      "match": [
+        "continental slopes"
+      ],
+      "plain": {
+        "en": "steep drop"
+      },
+      "means": {
+        "en": "The steep slope marking the true edge of a continent."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "continental-rise",
+      "term": "continental rise",
+      "match": [
+        "continental rises"
+      ],
+      "plain": {
+        "en": "gentler foot"
+      },
+      "means": {
+        "en": "Gentler ground at the foot of the slope."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "abyssal-plain",
+      "term": "abyssal plain",
+      "match": [
+        "abyssal plains"
+      ],
+      "plain": {
+        "en": "deep flat floor"
+      },
+      "means": {
+        "en": "The vast, flat and deep ocean floor."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "mid-ocean-ridge",
+      "term": "mid-ocean ridge",
+      "match": [
+        "mid-ocean ridges"
+      ],
+      "plain": {
+        "en": "undersea mountains"
+      },
+      "means": {
+        "en": "An immense underwater mountain range formed by volcanic activity."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "rift-valley",
+      "term": "rift valley",
+      "match": [
+        "rift valleys"
+      ],
+      "plain": {
+        "en": "valley on a ridge"
+      },
+      "means": {
+        "en": "The valley along the top of a mid-ocean ridge."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "seamount",
+      "term": "seamount",
+      "match": [
+        "seamounts"
+      ],
+      "plain": {
+        "en": "undersea mountain"
+      },
+      "means": {
+        "en": "An underwater mountain that does not reach the surface."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "guyot",
+      "term": "guyot",
+      "match": [
+        "guyots"
+      ],
+      "plain": {
+        "en": "flat-topped mountain"
+      },
+      "means": {
+        "en": "A flat-topped underwater mountain, its top worn down and later submerged."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "trench",
+      "term": "trench",
+      "match": [
+        "trenches"
+      ],
+      "plain": {
+        "en": "deepest part"
+      },
+      "means": {
+        "en": "The deepest parts of the ocean."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "bathymetry",
+      "term": "bathymetry",
+      "plain": {
+        "en": "measuring depth"
+      },
+      "means": {
+        "en": "Measuring and mapping the depth of the sea floor."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "sonar",
+      "term": "sonar",
+      "plain": {
+        "en": "sound echo"
+      },
+      "means": {
+        "en": "Finding depth from the echo of a sound pulse."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "cyclone",
+      "term": "cyclone",
+      "match": [
+        "cyclones"
+      ],
+      "plain": {
+        "en": "large rotating storm"
+      },
+      "means": {
+        "en": "A large rotating storm that forms over warm ocean water."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "early-warning-system",
+      "term": "Early Warning System",
+      "match": [
+        "Early Warning Systems"
+      ],
+      "plain": {
+        "en": "alarm for danger"
+      },
+      "means": {
+        "en": "System that detects danger, predicts it and warns people in time."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "tsunami",
+      "term": "tsunami",
+      "match": [
+        "tsunamis"
+      ],
+      "plain": {
+        "en": "giant earthquake wave"
+      },
+      "means": {
+        "en": "Giant waves mostly caused by undersea earthquakes."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "crest",
+      "term": "crest",
+      "match": [
+        "crests"
+      ],
+      "plain": {
+        "en": "top of a wave"
+      },
+      "means": {
+        "en": "The high peak of a wave."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "trough",
+      "term": "trough",
+      "match": [
+        "troughs"
+      ],
+      "plain": {
+        "en": "bottom of a wave"
+      },
+      "means": {
+        "en": "The low valley of a wave."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "wavelength",
+      "term": "wavelength",
+      "match": [
+        "wavelengths"
+      ],
+      "plain": {
+        "en": "crest to crest"
+      },
+      "means": {
+        "en": "Horizontal distance between two crests or troughs in a row."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "wave-period",
+      "term": "wave period",
+      "plain": {
+        "en": "time between two crests"
+      },
+      "means": {
+        "en": "The time a crest takes to reach the place of the crest ahead of it."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "wave-frequency",
+      "term": "wave frequency",
+      "plain": {
+        "en": "crests each second"
+      },
+      "means": {
+        "en": "The number of crests passing one place each second."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "hydraulic-action",
+      "term": "hydraulic action",
+      "plain": {
+        "en": "force of moving water"
+      },
+      "means": {
+        "en": "Erosion by the force of moving water, which loosens and removes material."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "abrasion",
+      "term": "abrasion",
+      "plain": {
+        "en": "grinding"
+      },
+      "means": {
+        "en": "Rock and sand carried by waves grinding the cliff."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "depositional",
+      "term": "depositional",
+      "plain": {
+        "en": "built from dropped sand"
+      },
+      "means": {
+        "en": "Formed where a wave slows down and drops the sand and pebbles it was carrying."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "run-up-height",
+      "term": "run-up height",
+      "plain": {
+        "en": "how high a tsunami climbs"
+      },
+      "means": {
+        "en": "Greatest height a tsunami reaches above sea level on the shore."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "high-tide",
+      "term": "high tide",
+      "match": [
+        "high tides"
+      ],
+      "plain": {
+        "en": "the sea at its highest"
+      },
+      "means": {
+        "en": "Water at its highest level, covering much of the shore."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "low-tide",
+      "term": "low tide",
+      "match": [
+        "low tides"
+      ],
+      "plain": {
+        "en": "the sea at its lowest"
+      },
+      "means": {
+        "en": "Water at its lowest level, moved away from the shore."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "tidal-bulge",
+      "term": "tidal bulge",
+      "match": [
+        "tidal bulges"
+      ],
+      "plain": {
+        "en": "a stretched part of the sea"
+      },
+      "means": {
+        "en": "One of two bulges of water, one towards the Moon and one on the far side."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "spring-tide",
+      "term": "spring tide",
+      "match": [
+        "spring tides"
+      ],
+      "plain": {
+        "en": "biggest tide"
+      },
+      "means": {
+        "en": "High tides of unusual height and unusually low low tides, Sun, Earth and Moon in line."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "neap-tide",
+      "term": "neap tide",
+      "match": [
+        "neap tides"
+      ],
+      "plain": {
+        "en": "smallest tide"
+      },
+      "means": {
+        "en": "Smaller difference between high and low tide, at the quarter moons."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "tidal-range",
+      "term": "tidal range",
+      "match": [
+        "tidal ranges"
+      ],
+      "plain": {
+        "en": "high to low"
+      },
+      "means": {
+        "en": "Height between high water and low water on one day."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "draught",
+      "term": "draught",
+      "plain": {
+        "en": "hull depth"
+      },
+      "means": {
+        "en": "How deep a ship's hull sits in the water."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "barrage",
+      "term": "barrage",
+      "match": [
+        "barrages"
+      ],
+      "plain": {
+        "en": "tide wall"
+      },
+      "means": {
+        "en": "A wall that holds back high water."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "ocean-current",
+      "term": "ocean current",
+      "match": [
+        "ocean currents"
+      ],
+      "plain": {
+        "en": "stream in the sea"
+      },
+      "means": {
+        "en": "Continuous stream of water flowing across the ocean surface in a definite direction."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "warm-current",
+      "term": "warm current",
+      "match": [
+        "warm currents"
+      ],
+      "plain": {
+        "en": "current from warmer seas"
+      },
+      "means": {
+        "en": "A current flowing from warmer regions."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "cold-current",
+      "term": "cold current",
+      "match": [
+        "cold currents"
+      ],
+      "plain": {
+        "en": "current from colder seas"
+      },
+      "means": {
+        "en": "A current flowing from colder regions."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "salinity",
+      "term": "salinity",
+      "plain": {
+        "en": "saltiness"
+      },
+      "means": {
+        "en": "How much salt sea water holds."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "coriolis-force",
+      "term": "Coriolis force",
+      "plain": {
+        "en": "force from the Earth's turning"
+      },
+      "means": {
+        "en": "Force from Earth's rotation that deflects free moving objects, right in the north, left in the south."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "fishing-ground",
+      "term": "fishing ground",
+      "match": [
+        "fishing grounds"
+      ],
+      "plain": {
+        "en": "rich fishing sea"
+      },
+      "means": {
+        "en": "Region where warm and cold currents meet, rich in nutrients."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "nutrients",
+      "term": "nutrients",
+      "plain": {
+        "en": "food for sea life"
+      },
+      "means": {
+        "en": "Substances that plants and tiny sea life need to grow."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "plankton",
+      "term": "plankton",
+      "plain": {
+        "en": "tiny drifting life"
+      },
+      "means": {
+        "en": "Tiny living things that drift in water and feed fish."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "eye",
+      "term": "eye",
+      "plain": {
+        "en": "calm centre"
+      },
+      "means": {
+        "en": "The calm centre of a cyclone."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "storm-surge",
+      "term": "storm surge",
+      "match": [
+        "storm surges"
+      ],
+      "plain": {
+        "en": "sea pushed on to land"
+      },
+      "means": {
+        "en": "Rise of the sea when strong winds pile water on a coast."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "gemini",
+      "term": "GEMINI",
+      "plain": {
+        "en": "handheld sea device"
+      },
+      "means": {
+        "en": "GAGAN-Enabled Mariner's Instrument for Navigation and Information: a device that passes GAGAN satellite data to a phone by Bluetooth."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "incois",
+      "term": "INCOIS",
+      "plain": {
+        "en": "ocean information centre"
+      },
+      "means": {
+        "en": "Indian National Centre for Ocean Information Services."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "ssews",
+      "term": "SSEWS",
+      "plain": {
+        "en": "surge forecast system"
+      },
+      "means": {
+        "en": "Storm Surge Early Warning System."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "ncrmp",
+      "term": "NCRMP",
+      "plain": {
+        "en": "cyclone safety project"
+      },
+      "means": {
+        "en": "National Cyclone Risk Mitigation Project."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "pmmsy",
+      "term": "PMMSY",
+      "plain": {
+        "en": "fisheries scheme"
+      },
+      "means": {
+        "en": "Pradhan Mantri Matsya Sampada Yojana, gives financial support for GEMINI devices."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "nautical-mile",
+      "term": "nautical mile",
+      "match": [
+        "nautical miles",
+        "NM"
+      ],
+      "plain": {
+        "en": "sea distance unit"
+      },
+      "means": {
+        "en": "Exactly 1,852 metres, one minute of latitude."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "itewc",
+      "term": "ITEWC",
+      "plain": {
+        "en": "tsunami warning centre"
+      },
+      "means": {
+        "en": "Indian Tsunami Early Warning Centre."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "obpr",
+      "term": "OBPR",
+      "match": [
+        "OBPRs",
+        "Ocean Bottom Pressure Recorder",
+        "Ocean Bottom Pressure Recorders"
+      ],
+      "plain": {
+        "en": "sea-floor recorder"
+      },
+      "means": {
+        "en": "Ocean Bottom Pressure Recorder: a device on the sea floor that detects passing tsunami waves."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "seismic-waves",
+      "term": "seismic waves",
+      "plain": {
+        "en": "waves in rock"
+      },
+      "means": {
+        "en": "Waves from an earthquake that travel through the rock."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "capacity-development",
+      "term": "capacity development",
+      "plain": {
+        "en": "training people"
+      },
+      "means": {
+        "en": "Training officials and communities to use warnings."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "dissemination",
+      "term": "dissemination",
+      "match": [
+        "Warning Dissemination"
+      ],
+      "plain": {
+        "en": "spreading"
+      },
+      "means": {
+        "en": "Spreading a message to many people."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "smong",
+      "term": "smong",
+      "plain": {
+        "en": "the Simeulue word for a tsunami"
+      },
+      "means": {
+        "en": "The Simeulue word for a tsunami, kept alive in stories told down the generations."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "marine-resources",
+      "term": "marine resources",
+      "match": [
+        "marine resource"
+      ],
+      "plain": {
+        "en": "things of value in the sea"
+      },
+      "means": {
+        "en": "Materials and features found in oceans that have intrinsic or economic value."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "intrinsic-value",
+      "term": "intrinsic value",
+      "plain": {
+        "en": "worth in itself"
+      },
+      "means": {
+        "en": "A thing is worth keeping for itself, even if nobody sells it."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "neritic",
+      "term": "neritic",
+      "plain": {
+        "en": "living over the shelf"
+      },
+      "means": {
+        "en": "Neritic fish live within the continental shelf, in water 0 to 200 m deep."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "bioactive",
+      "term": "bioactive",
+      "plain": {
+        "en": "acts on the body"
+      },
+      "means": {
+        "en": "Substances from sea creatures and plants that act on the body."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "sav",
+      "term": "SAV",
+      "match": [
+        "Submerged aquatic vegetation"
+      ],
+      "plain": {
+        "en": "underwater plants"
+      },
+      "means": {
+        "en": "Submerged aquatic vegetation, plants that grow under water."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "gas-hydrates",
+      "term": "gas hydrates",
+      "plain": {
+        "en": "icy gas"
+      },
+      "means": {
+        "en": "Natural gas held in an ice-like solid in the sea floor."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "otec",
+      "term": "OTEC",
+      "plain": {
+        "en": "heat from the sea"
+      },
+      "means": {
+        "en": "Ocean Thermal Energy Conversion, using warm surface water and cold deep water."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "blue-economy",
+      "term": "Blue Economy",
+      "plain": {
+        "en": "using the sea with care"
+      },
+      "means": {
+        "en": "Sustainable use of ocean resources for growth, livelihoods and jobs, keeping the marine ecosystem healthy."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "sdg-14",
+      "term": "SDG 14",
+      "match": [
+        "Sustainable Development Goal"
+      ],
+      "plain": {
+        "en": "UN goal for the sea"
+      },
+      "means": {
+        "en": "A United Nations goal for the sea, called Life Below Water."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "baseline",
+      "term": "baseline",
+      "match": [
+        "baselines"
+      ],
+      "plain": {
+        "en": "the starting line"
+      },
+      "means": {
+        "en": "The line from which distances at sea are measured."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "territorial-sea",
+      "term": "territorial sea",
+      "match": [
+        "territorial seas"
+      ],
+      "plain": {
+        "en": "nearest band of sea"
+      },
+      "means": {
+        "en": "Reaches 12 nautical miles from the baseline; near-complete control."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "contiguous-zone",
+      "term": "contiguous zone",
+      "match": [
+        "contiguous zones"
+      ],
+      "plain": {
+        "en": "next band"
+      },
+      "means": {
+        "en": "Reaches 24 nautical miles from the baseline; limited control."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "eez",
+      "term": "EEZ",
+      "match": [
+        "EEZs",
+        "Exclusive Economic Zone"
+      ],
+      "plain": {
+        "en": "resource zone"
+      },
+      "means": {
+        "en": "Exclusive Economic Zone, to 200 nautical miles from the baseline; special rights over resources."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "innocent-passage",
+      "term": "innocent passage",
+      "plain": {
+        "en": "right to pass"
+      },
+      "means": {
+        "en": "Foreign ships may pass if they do not threaten peace, good order or security."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "high-seas",
+      "term": "high seas",
+      "plain": {
+        "en": "international waters"
+      },
+      "means": {
+        "en": "Beyond the EEZs of all countries; belong to no single country."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "global-commons",
+      "term": "global commons",
+      "plain": {
+        "en": "shared by all"
+      },
+      "means": {
+        "en": "Something that all countries share."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "unclos",
+      "term": "UNCLOS",
+      "plain": {
+        "en": "law of the sea treaty"
+      },
+      "means": {
+        "en": "United Nations Convention on the Law of the Sea."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "flag-state",
+      "term": "flag state",
+      "match": [
+        "flag states"
+      ],
+      "plain": {
+        "en": "ship's country"
+      },
+      "means": {
+        "en": "The country in which a ship is registered."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "colregs",
+      "term": "COLREGs",
+      "plain": {
+        "en": "rules of the road at sea"
+      },
+      "means": {
+        "en": "Convention on the International Regulations for Preventing Collisions at Sea."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "give-way-vessel",
+      "term": "give-way vessel",
+      "match": [
+        "give-way vessels"
+      ],
+      "plain": {
+        "en": "ship that acts"
+      },
+      "means": {
+        "en": "The ship that must act to keep clear."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "stand-on-vessel",
+      "term": "stand-on vessel",
+      "match": [
+        "stand-on vessels"
+      ],
+      "plain": {
+        "en": "ship that holds on"
+      },
+      "means": {
+        "en": "The ship that holds its course and speed."
+      },
+      "lesson": 9,
+      "group": "concept"
+    },
+    {
+      "id": "marpol",
+      "term": "MARPOL",
+      "plain": {
+        "en": "anti-pollution agreement"
+      },
+      "means": {
+        "en": "International Convention for the Prevention of Pollution from Ships."
+      },
+      "lesson": 9,
+      "group": "concept"
+    }
+  ]
+}

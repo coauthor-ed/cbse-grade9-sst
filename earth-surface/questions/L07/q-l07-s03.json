@@ -1,0 +1,72 @@
+{
+  "id": "q-l07-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A ridge of loose rock lies right across a valley, long after the ice has gone. What does it tell us?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It is a lateral moraine, showing where two glaciers joined."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Lateral moraines lie along the sides. A ridge across a valley is at the end of the ice."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is a medial moraine, showing the middle of the glacier."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A medial moraine runs down the middle, not across the valley."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It is a sand dune, showing the wind direction."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Dunes are sand shaped by wind, not till left by ice."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is a terminal moraine, showing how far the ice reached."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. It marks the furthest advance of the glacier."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A terminal moraine forms at the end of a glacier and lies across the valley. It marks the furthest advance of the ice, and it stays after the ice has melted."
+  },
+  "hints": [
+    {
+      "en": "Which part of a glacier lies across the valley?"
+    }
+  ],
+  "tags": [
+    "glaciers",
+    "moraine",
+    "till",
+    "glacial-deposition"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:41.306Z",
+    "reviewedBy": "review-bar"
+  }
+}

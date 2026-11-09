@@ -1,0 +1,70 @@
+{
+  "id": "q-l06-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A town stands on a coast where the cliff moves back a little every year. A tourist beach lies further along the same shore. Which statement is true?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The town may need protection; the beach brings tourists."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Different stretches of one coast can matter in different ways."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The town is safe, because cliffs never move."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Waves wear a cliff back over time."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The beach has no use, because it is only sand."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Beaches support tourism and fishing and act as natural barriers."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Waves will soon stop, because the cliff is made of hard rock."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Waves keep working. Hard rock only wears away more slowly."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A retreating cliff can put buildings at risk, so a settlement may need coastal protection. A beach can bring tourists and also acts as a natural barrier."
+  },
+  "hints": [
+    {
+      "en": "Think about what each part of the coast does for people."
+    }
+  ],
+  "tags": [
+    "coast",
+    "human-use"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:36.458Z",
+    "reviewedBy": "review-bar"
+  }
+}

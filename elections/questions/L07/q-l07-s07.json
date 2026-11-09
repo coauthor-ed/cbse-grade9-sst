@@ -1,0 +1,60 @@
+{
+  "id": "q-l07-s07",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which of these does the ECI allot to a recognised national or State party?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Votes that each count for more than other parties' votes"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A reserved election symbol"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A candidate on every ballot in India"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A sure seat in the Lok Sabha"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The ECI allots election symbols to national and State parties. Every vote still counts the same, a party stands only where it puts up candidates, and it must still win its seats."
+  },
+  "hints": [
+    {
+      "en": "Think of what the ECI allots to national and State parties."
+    }
+  ],
+  "tags": [
+    "recognition",
+    "reserved-symbol",
+    "election-commission",
+    "free-and-fair"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:24.206Z",
+    "reviewedBy": "review-bar"
+  }
+}

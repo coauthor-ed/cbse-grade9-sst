@@ -1,0 +1,25 @@
+{
+  "id": "blk-l02-s06",
+  "type": "poe-predict@1",
+  "prompt": "## Was It a Full Democracy?\n\nAssemblies advised kings, a verse praised thinking together, and the Saṁgha voted.\n\n**Predict:** Was ancient India a full democracy, in the way we use the word today?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. It had assemblies and voting, so it worked just as India works today."
+    },
+    {
+      "id": "b",
+      "text": "No. Nothing in ancient India was like a democratic practice at all."
+    },
+    {
+      "id": "c",
+      "text": "In part. It had consultation and voting, but not every adult had a vote."
+    }
+  ],
+  "correctOptionId": "c",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.504Z"
+  }
+}

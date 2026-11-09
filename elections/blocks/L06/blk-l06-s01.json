@@ -1,0 +1,36 @@
+{
+  "id": "blk-l06-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06/blk-l06-s01.md",
+  "deferVerdict": true,
+  "options": [
+    {
+      "id": "a",
+      "text": "From political parties, in campaigns and the media"
+    },
+    {
+      "id": "b",
+      "text": "From the ballot, which prints every candidate's plans"
+    },
+    {
+      "id": "c",
+      "text": "From the ECI, which writes out each candidate's promises"
+    },
+    {
+      "id": "d",
+      "text": "From the polling officer, who explains them inside"
+    }
+  ],
+  "correctOptionId": "a",
+  "simulation": {
+    "src": "simulations/L06/CandidateWallScene-setup.js",
+    "role": "setup",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:19.438Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "q-l05-s02",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Which one of these does the GEMINI app NOT give a fisher?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Alerts on high waves and strong winds"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The app does give these alerts."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Advisories on potential fishing zones"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The app does give these advisories."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Where every other boat is right now"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Everything the app gives is about the sea and its dangers, not about other boats."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "How deep the sea is, from bathymetry data"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The app does give bathymetry data."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The app gives alerts on high waves and strong winds, cyclone and tsunami warnings, potential fishing zone advisories, current speeds, bathymetry data, mapping and risk management information. It is not a list of where other boats are."
+  },
+  "hints": [
+    {
+      "en": "Every item on the app is about the sea itself."
+    }
+  ],
+  "tags": [
+    "gemini",
+    "app",
+    "fishing"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:39.278Z",
+    "reviewedBy": "review-bar"
+  }
+}

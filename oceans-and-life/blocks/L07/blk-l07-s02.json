@@ -1,0 +1,36 @@
+{
+  "id": "blk-l07-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L07/blk-l07-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Still about 60,000 fish"
+    },
+    {
+      "id": "b",
+      "text": "Far fewer than 30,000 fish"
+    },
+    {
+      "id": "c",
+      "text": "Back to about 30,000 fish"
+    },
+    {
+      "id": "d",
+      "text": "More than 60,000 fish"
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L07/FishStockScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:47.998Z",
+    "reviewedBy": "review-bar"
+  }
+}

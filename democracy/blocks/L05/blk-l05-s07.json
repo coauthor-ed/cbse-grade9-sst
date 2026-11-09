@@ -1,0 +1,17 @@
+{
+  "id": "blk-l05-s07",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# One Set of Principles, Many Governments\n\n<!-- STEP id=\"team-d-verdict\" -->\n## Elections Are Not Enough\n\nTeam D falls short of a democracy, even though it holds elections. Its students cannot freely choose among candidates, one person holds most of the power, and other voices are weak.\n\n**An election alone does not make a democracy.**\n\n<!-- STEP id=\"one-principle-many-models\" -->\n## No Single Model\n\nDemocracies share principles such as freedom, equality, participation, rule of law, rights and duties. But democracy does not offer a single model of government.\n\nTap each of the five countries, and see how differently each one works."
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L05/WorldDemocracyMapScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.518Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "q-l08-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A Mesopotamian ziggurat, a stepped mud-brick temple, stood inside a wall with only one entrance. What reason does the book give for the single entrance?"
+  },
+  "image": {
+    "src": "media/L08/L08S08.jpg",
+    "alt": "A drawing of how a Mesopotamian ziggurat may have looked: the stepped temple, a wall around it and its single entrance gate.",
+    "position": "right"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It was easier to defend the temple against attacking armies with one gate instead of several."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "One gate is easier to guard, and that may have helped. But the book's reason is about what was kept inside, not about armies."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The priests and priestesses wanted privacy for their religious rituals inside the complex."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Entry to the temple at the top was restricted, but that does not explain the gate in the outer wall. The book links the gate to the treasury."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Building more gates would have cost too much mud brick for a single city to afford."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Nothing suggests this. A city that could build a whole ziggurat could afford a second gate."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The ziggurat also served as the city's treasury, so entry had to be controlled."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The ziggurat was a temple and also the city's treasury, so the walls around it had only one entrance. The area around it also held palaces and royal storehouses."
+  },
+  "hints": [
+    {
+      "en": "Think about what else, besides worship, was kept inside the walls."
+    }
+  ],
+  "tags": [
+    "mesopotamia",
+    "ziggurat",
+    "city-state"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

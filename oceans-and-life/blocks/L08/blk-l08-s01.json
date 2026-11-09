@@ -1,0 +1,36 @@
+{
+  "id": "blk-l08-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L08/blk-l08-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes: India owns the sea out to 200 nautical miles"
+    },
+    {
+      "id": "b",
+      "text": "No: India's waters end 12 nautical miles out"
+    },
+    {
+      "id": "c",
+      "text": "No: the sea is open, so any boat may fish there"
+    },
+    {
+      "id": "d",
+      "text": "Yes: India has rights to the fish, not the water"
+    }
+  ],
+  "correctOptionId": "d",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L08/ZoneRulerScene.js",
+    "position": "below",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:53.054Z",
+    "reviewedBy": "review-bar"
+  }
+}

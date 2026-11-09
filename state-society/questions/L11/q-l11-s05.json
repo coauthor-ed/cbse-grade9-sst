@@ -1,0 +1,61 @@
+{
+  "id": "q-l11-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The great land routes connected inland regions with coastal ports. Why did this link matter?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Goods, people and ideas could move inland and overseas, so land and sea trade worked together."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It kept inland towns apart from foreign traders, so that only the ports dealt with them."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It ended the need for ships, because goods could reach Rome by road alone."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It meant that only the king's own goods could travel on the roads."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The routes facilitated the movement of goods, people and ideas, connecting inland regions with coastal ports and so integrating overland and maritime trade. Foreign traders came to the ports, and trade with Rome used both sea routes and overland links through Central Asia, which rules out option c."
+  },
+  "hints": [
+    {
+      "en": "Think about what can happen when a road reaches a port."
+    }
+  ],
+  "tags": [
+    "trade-routes",
+    "daksinapatha",
+    "uttarapatha",
+    "ports",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z",
+    "reviewedBy": "review-bar"
+  }
+}

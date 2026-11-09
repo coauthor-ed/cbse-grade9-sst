@@ -1,0 +1,36 @@
+{
+  "id": "blk-l02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02/blk-l02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "About where it started, after bobbing on each wave"
+    },
+    {
+      "id": "b",
+      "text": "Carried in to the beach along with the moving water"
+    },
+    {
+      "id": "c",
+      "text": "Pushed much further out to sea by each passing wave"
+    },
+    {
+      "id": "d",
+      "text": "Held perfectly still while the waves slip under it"
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L02/CoconutBobScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:25.965Z",
+    "reviewedBy": "review-bar"
+  }
+}

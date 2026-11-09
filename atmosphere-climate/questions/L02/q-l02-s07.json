@@ -1,0 +1,73 @@
+{
+  "id": "q-l02-s07",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort these layers by what happens to the temperature as you go up through them."
+  },
+  "categories": [
+    {
+      "id": "falls",
+      "label": {
+        "en": "Temperature falls"
+      }
+    },
+    {
+      "id": "rises",
+      "label": {
+        "en": "Temperature rises"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-tropo",
+      "text": {
+        "en": "Troposphere"
+      },
+      "correctCategoryId": "falls"
+    },
+    {
+      "id": "chip-strato",
+      "text": {
+        "en": "Stratosphere"
+      },
+      "correctCategoryId": "rises"
+    },
+    {
+      "id": "chip-meso",
+      "text": {
+        "en": "Mesosphere"
+      },
+      "correctCategoryId": "falls"
+    },
+    {
+      "id": "chip-thermo",
+      "text": {
+        "en": "Thermosphere"
+      },
+      "correctCategoryId": "rises"
+    }
+  ],
+  "explanation": {
+    "en": "Temperature decreases with altitude only in the troposphere and the mesosphere. It rises in the stratosphere, where ozone takes in ultraviolet, and in the thermosphere, where gases absorb X-rays and short-wave ultraviolet."
+  },
+  "hints": [
+    {
+      "en": "Two layers fall and two rise. Start from the ground and go up."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "layers",
+    "temperature",
+    "zig-zag"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:11.924Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "les-11",
+  "lessonId": "les-11",
+  "type": "lesson",
+  "title": {
+    "en": "The ground under all of it"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L11/blk-l11-s01.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-s01.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s02.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s03.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-s02.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-s03.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s04.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-s04.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s05.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-s05.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s06.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-s06.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s07.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-s07.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-s07b.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s07b.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s08.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-s08.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-a01.json"
+    },
+    {
+      "blockRef": "blocks/L11/blk-l11-s09.json"
+    },
+    {
+      "blockRef": "questions/L11/q-l11-s09.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "review-bar",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z"
+  }
+}

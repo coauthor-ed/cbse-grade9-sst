@@ -1,0 +1,71 @@
+{
+  "id": "q-l03-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "What does the word \"spring\" tell us in the name \"spring tide\"?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It comes only in the spring season"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Spring tides come all through the year."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The water springs up higher than usual"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. It has nothing to do with the season."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The water comes from springs in the sea floor"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The water is the same sea, pulled by the Moon and the Sun."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is the smallest tide of the month"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. It is the largest. The neap tide is the smallest."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A spring tide has nothing to do with the season. The water springs up higher than usual. Spring tides come about every two weeks, on full moon and new moon days, all year round."
+  },
+  "hints": [
+    {
+      "en": "How often do spring tides come in a year?"
+    }
+  ],
+  "tags": [
+    "tides",
+    "naming",
+    "spring-tide"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:30.294Z",
+    "reviewedBy": "review-bar"
+  }
+}

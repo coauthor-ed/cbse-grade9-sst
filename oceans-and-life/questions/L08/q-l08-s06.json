@@ -1,0 +1,74 @@
+{
+  "id": "q-l08-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which statement about an Exclusive Economic Zone is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The country owns all of the water in it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The country does not fully own or control the water of its EEZ."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Any country may fish there freely."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The coastal country has special rights to use the fish there."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It only marks where the territorial sea ends."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It gives real rights, over fish, oil and gas, out to 200 nautical miles."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Foreign ships may pass but not fish freely."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The country has special rights over the resources, and other countries' ships may pass through peacefully."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "In its EEZ a country has special rights to use ocean resources such as fish, oil and gas. Ships from other countries may still pass through peacefully, and the country does not fully own or control the water."
+  },
+  "hints": [
+    {
+      "en": "Owning the water and having rights over what is in it are different things."
+    },
+    {
+      "en": "Think of a foreign ship that is only passing through, and then of one that is fishing."
+    }
+  ],
+  "tags": [
+    "eez",
+    "maritime-zones",
+    "ownership"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:53.054Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "terms": [
+    {
+      "id": "accountable",
+      "term": "accountable",
+      "match": [
+        "accountability"
+      ],
+      "plain": {
+        "en": "must answer to someone"
+      },
+      "means": {
+        "en": "Those elected must answer to the people for what they do."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "legitimacy",
+      "term": "legitimacy",
+      "plain": {
+        "en": "accepted as having the right to decide"
+      },
+      "means": {
+        "en": "People accept a government's right to decide because they chose it."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "mandate",
+      "term": "mandate",
+      "plain": {
+        "en": "the people's permission to govern"
+      },
+      "means": {
+        "en": "The permission that voters give at an election. It lasts for a fixed term."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "psephology",
+      "term": "psephology",
+      "plain": {
+        "en": "the scientific study of elections"
+      },
+      "means": {
+        "en": "The study of how people vote and how elections work. The word comes from Greek psephos, a pebble."
+      },
+      "roots": [
+        {
+          "part": "psēphos",
+          "means": {
+            "en": "pebble"
+          }
+        },
+        {
+          "part": "logy",
+          "means": {
+            "en": "systematic study"
+          }
+        }
+      ],
+      "face": {
+        "art": "archaeon",
+        "tone": 2
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "psephos",
+      "term": "psēphos",
+      "match": [
+        "psephos"
+      ],
+      "plain": {
+        "en": "a pebble"
+      },
+      "means": {
+        "en": "The Greek word for a pebble. In ancient Greece, pebbles were used for voting."
+      },
+      "face": {
+        "art": "archaeon",
+        "tone": 5
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "constituency",
+      "term": "constituency",
+      "match": [
+        "constituencies"
+      ],
+      "plain": {
+        "en": "an area that elects one representative"
+      },
+      "means": {
+        "en": "An area whose voters choose one representative."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "fptp",
+      "term": "First Past The Post",
+      "match": [
+        "FPTP"
+      ],
+      "plain": {
+        "en": "most votes wins"
+      },
+      "means": {
+        "en": "The candidate with the most votes in a constituency wins, even with less than 50 per cent."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "plurality",
+      "term": "plurality",
+      "plain": {
+        "en": "more votes than anyone else"
+      },
+      "means": {
+        "en": "The most votes, even if that is less than half of all the votes."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "proportional-representation",
+      "term": "proportional representation",
+      "plain": {
+        "en": "seats follow votes"
+      },
+      "means": {
+        "en": "Seats are shared in proportion to the votes each party receives."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "quota",
+      "term": "quota",
+      "plain": {
+        "en": "the votes a candidate needs to win"
+      },
+      "means": {
+        "en": "The minimum number of votes needed to be elected under the single transferable vote."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "single-transferable-vote",
+      "term": "single transferable vote",
+      "plain": {
+        "en": "a vote that can pass to a second choice"
+      },
+      "means": {
+        "en": "Voters mark preferences. When a candidate is eliminated, those votes go to the next preference."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "vidhan-parishad",
+      "term": "Vidhan Parishad",
+      "plain": {
+        "en": "a State's Upper House"
+      },
+      "means": {
+        "en": "The Upper House of the legislature in six States."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "delimitation",
+      "term": "delimitation",
+      "plain": {
+        "en": "to mark out limits"
+      },
+      "means": {
+        "en": "Determining the number of seats and fixing the boundaries of constituencies."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "electoral-roll",
+      "term": "electoral roll",
+      "match": [
+        "electoral rolls"
+      ],
+      "plain": {
+        "en": "the list of voters"
+      },
+      "means": {
+        "en": "The official list of people who may vote."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "stakeholders",
+      "term": "stakeholders",
+      "plain": {
+        "en": "those with a part to play"
+      },
+      "means": {
+        "en": "The people and bodies with a part in an election: the ECI, parties, civil society, the media and voters."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "enumerator",
+      "term": "enumerator",
+      "match": [
+        "enumerators"
+      ],
+      "plain": {
+        "en": "official who collects data"
+      },
+      "means": {
+        "en": "An official sent to every household to collect data about eligible electors."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "inner-party-democracy",
+      "term": "inner party democracy",
+      "match": [],
+      "plain": {
+        "en": "elections inside a party"
+      },
+      "means": {
+        "en": "A party holding its organisational elections periodically."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "quasi-judicial",
+      "term": "quasi-judicial",
+      "match": [],
+      "plain": {
+        "en": "like a court"
+      },
+      "means": {
+        "en": "Hearing a dispute and deciding it much as a court would, without being a court."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "sir",
+      "term": "Special Intensive Revision",
+      "match": [
+        "SIR"
+      ],
+      "plain": {
+        "en": "a full check of the roll"
+      },
+      "means": {
+        "en": "An ECI exercise of updating, verifying and correcting the electoral rolls."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "benchmark-disability",
+      "term": "benchmark disability",
+      "match": [],
+      "plain": {
+        "en": "measured level of disability"
+      },
+      "means": {
+        "en": "A disability measured at a stated level. The book names 40%."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "braille",
+      "term": "Braille",
+      "match": [],
+      "plain": {
+        "en": "raised dots read by touch"
+      },
+      "means": {
+        "en": "A way of reading by touch. Numbers and letters are made of raised dots."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "etpbs",
+      "term": "ETPBS",
+      "match": [],
+      "plain": {
+        "en": "electronic postal ballot"
+      },
+      "means": {
+        "en": "Electronically Transmitted Postal Ballot System, developed for service voters."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "preventive-detention",
+      "term": "preventive detention",
+      "match": [],
+      "plain": {
+        "en": "held to stop an offence"
+      },
+      "means": {
+        "en": "Being held to stop a possible offence, without a sentence."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "pvtg",
+      "term": "PVTGs",
+      "match": [
+        "PVTG"
+      ],
+      "plain": {
+        "en": "Particularly Vulnerable Tribal Groups"
+      },
+      "means": {
+        "en": "Particularly Vulnerable Tribal Groups."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "service-voter",
+      "term": "service voter",
+      "match": [
+        "service voters"
+      ],
+      "plain": {
+        "en": "voter posted away"
+      },
+      "means": {
+        "en": "A voter such as a member of the armed forces, posted far from the constituency."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "vvpat",
+      "term": "VVPAT",
+      "match": [],
+      "plain": {
+        "en": "paper check of a vote"
+      },
+      "means": {
+        "en": "Voter Verifiable Paper Audit Trail: a slip shows behind glass for a few seconds, then drops into a sealed box."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "defection",
+      "term": "defection",
+      "plain": {
+        "en": "leaving the party you were elected from"
+      },
+      "means": {
+        "en": "Abandoning or switching from the party under whose banner a candidate was elected, or acting against its decisions in the legislature."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "grassroots",
+      "term": "grassroots",
+      "match": [
+        "grassroots level"
+      ],
+      "plain": {
+        "en": "where ordinary people live"
+      },
+      "means": {
+        "en": "The streets, wards and villages where people live and where a party meets them directly."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "manifesto",
+      "term": "manifesto",
+      "match": [
+        "manifestos"
+      ],
+      "plain": {
+        "en": "a party's written promises"
+      },
+      "means": {
+        "en": "A party's written list of what it promises to do, published before an election."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "political-opportunism",
+      "term": "political opportunism",
+      "plain": {
+        "en": "acting for personal gain in politics"
+      },
+      "means": {
+        "en": "Seen through party discipline and stability, defection is called this: acting for personal gain."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "whip",
+      "term": "whip",
+      "plain": {
+        "en": "a party's instruction on voting"
+      },
+      "means": {
+        "en": "An instruction a party gives its members on how to vote in the House."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "alliance",
+      "term": "alliance",
+      "match": [
+        "alliances"
+      ],
+      "plain": {
+        "en": "parties working together"
+      },
+      "means": {
+        "en": "A group of parties that agree to work together."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "coalition-government",
+      "term": "coalition government",
+      "plain": {
+        "en": "a government of several parties"
+      },
+      "means": {
+        "en": "A government formed by more than one party together."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "rupp",
+      "term": "RUPP",
+      "match": [
+        "registered unrecognised"
+      ],
+      "plain": {
+        "en": "Registered Unrecognised Political Party"
+      },
+      "means": {
+        "en": "A party registered with the ECI that has not secured enough percentage of votes, or has never contested since registering."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "fake-news",
+      "term": "fake news",
+      "plain": {
+        "en": "false reports made to look real"
+      },
+      "means": {
+        "en": "False reports made to look like real news."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "inducement",
+      "term": "inducement",
+      "plain": {
+        "en": "a gift offered for a vote"
+      },
+      "means": {
+        "en": "A gift or reward offered to influence someone."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "intimidation",
+      "term": "intimidation",
+      "plain": {
+        "en": "frightening voters"
+      },
+      "means": {
+        "en": "Frightening people so that they vote a certain way, or do not vote at all."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "misinformation",
+      "term": "misinformation",
+      "plain": {
+        "en": "false information that spreads"
+      },
+      "means": {
+        "en": "False information that spreads, often without anyone checking it."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "model-code-of-conduct",
+      "term": "Model Code of Conduct",
+      "plain": {
+        "en": "election-time rules for parties"
+      },
+      "means": {
+        "en": "A set of rules for parties and candidates during an election."
+      },
+      "lesson": 8,
+      "group": "concept"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s06",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Government in Tribal Areas\n\n<!-- STEP id=\"adc\" -->\n## Autonomous District Councils\n\nThe Constitution also protects tribal heritage. Specific north-eastern regions have **Autonomous District Councils (ADCs)**, with legislative and judicial authority to preserve tribal customs.\n\n<!-- STEP id=\"pesa\" -->\n## The PESA Act, 1996\n\nTribal areas in other states have the **PESA Act** (Panchayats Extension to Scheduled Areas). It makes the **Gram Sabha**, the village assembly, the primary decision-making body.\n\n**One national Constitution draws strength from the traditions of every community.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/TribalCouncilScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.521Z"
+  }
+}

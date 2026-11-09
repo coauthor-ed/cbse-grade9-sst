@@ -1,0 +1,71 @@
+{
+  "id": "q-l01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "An oil company wants to drill under the sea, and fishing boats want rich waters. Which part of the sea floor suits both?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The continental slope"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The slope is the steep drop at the true edge of the continent."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The abyssal plain"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The plain is vast, flat and very deep, far from shallow water."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The continental shelf"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. It is shallow, and rich in marine life and in oil and gas."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The mid-ocean ridge"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The ridge is a volcanic mountain range far out in the ocean."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The continental shelf is the shallow, submerged edge of a continent. It is rich in marine life and in resources like oil and gas. Mumbai High is an oil field on the shelf."
+  },
+  "hints": [
+    {
+      "en": "Which part is shallow and lies just past the coast?"
+    }
+  ],
+  "tags": [
+    "ocean-relief",
+    "continental-shelf",
+    "resources"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:21.469Z",
+    "reviewedBy": "review-bar"
+  }
+}

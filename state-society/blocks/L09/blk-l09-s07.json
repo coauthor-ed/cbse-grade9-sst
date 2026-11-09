@@ -1,0 +1,15 @@
+{
+  "id": "blk-l09-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L09/AshramaLifeGame.js",
+  "objective": {
+    "en": "Place each moment of a life under the stage of life it belongs to."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:45.482Z",
+    "reviewedBy": "review-bar"
+  }
+}

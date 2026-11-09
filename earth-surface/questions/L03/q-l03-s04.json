@@ -1,0 +1,73 @@
+{
+  "id": "q-l03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A volcano throws ash high into the air. Later a nearby village lies under a grey layer. What does this layer tell us?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Rain has washed soil down from nearby hills"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The grey layer fell from the air after the eruption."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The ground under the village has sunk"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The village is covered from above. It has not sunk."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Material from deep inside came to the surface"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. An eruption brings material up from below."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Rock under the village has begun to melt from the heat"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The ash came down from the air. It says nothing about the rock below."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The grey layer is volcanic ash, which is thrown out with rock and gas in an eruption. It shows that the Earth's internal forces can bring material from below up to the surface."
+  },
+  "hints": [
+    {
+      "en": "Where did the ash come from?"
+    },
+    {
+      "en": "Which force brings material up?"
+    }
+  ],
+  "tags": [
+    "volcano",
+    "tephra"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:22.682Z",
+    "reviewedBy": "review-bar"
+  }
+}

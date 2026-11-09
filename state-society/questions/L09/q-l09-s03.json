@@ -1,0 +1,65 @@
+{
+  "id": "q-l09-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A landowner grows rich by taking grain from his neighbours in a bad year. Using the idea of the four puruṣhārthas, how would his wealth be judged?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It fails, because wealth is desirable only when dharma guides it and it serves the welfare of society."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It passes, because artha is one of the four goals and he has reached that goal."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It fails, because artha may be pursued only after a person has reached mokṣha."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It fails, because all wealth was rejected, so even fair trade would have failed."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The pursuit of wealth is desirable, provided it is guided by dharma, that is, aligned with the welfare of society. The landowner gains wealth by harming others, so the condition is not met. Wealth itself is not rejected, which rules out option d. Artha is a goal, but being a goal does not make every way of getting wealth acceptable, which rules out option b."
+  },
+  "hints": [
+    {
+      "en": "Wealth is acceptable provided one condition is met. What is it?"
+    },
+    {
+      "en": "Does his way of getting wealth help or harm the people around him?"
+    }
+  ],
+  "tags": [
+    "purusartha",
+    "dharma",
+    "artha",
+    "kama",
+    "moksha",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:45.482Z",
+    "reviewedBy": "review-bar"
+  }
+}

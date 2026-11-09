@@ -1,0 +1,69 @@
+{
+  "id": "q-l13-a2",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Silk was known in China from the Neolithic period. When did it become a major item of external trade?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Around 4000 BCE, in the Neolithic period"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Silk was known then, but the book does not say it was traded outside China at that time."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Around 1500 BCE, under the Shang"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Silk was an important craft in the Bronze Age, but the book dates the big external trade much later."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Around the 2nd century BCE, under the Han"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "In the 17th century CE"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is when work on the Great Wall ended. The silk trade is far older."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Silk is very old in China. It became a major export around the 2nd century BCE, during the Han dynasty, and the trade route took its name."
+  },
+  "hints": [
+    {
+      "en": "The route takes its name from this trade."
+    },
+    {
+      "en": "Which dynasty ruled in the 2nd century BCE?"
+    }
+  ],
+  "tags": [
+    "china",
+    "silk-route"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

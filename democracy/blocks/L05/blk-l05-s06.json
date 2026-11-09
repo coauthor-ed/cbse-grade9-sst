@@ -1,0 +1,26 @@
+{
+  "id": "blk-l05-s06",
+  "type": "poe-predict@1",
+  "prompt": "## Team D\n\nTeam D holds elections. But only selected candidates may contest, the School President holds most of the power, and opposition voices are weak or discouraged.\n\n**Predict:** Is Team D a democracy?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. It holds elections, and elections are what make a democracy."
+    },
+    {
+      "id": "b",
+      "text": "No. Elections are not enough without real choice and free voices."
+    },
+    {
+      "id": "c",
+      "text": "We cannot tell until we know how many students voted in it."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.517Z"
+  }
+}

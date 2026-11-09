@@ -1,0 +1,61 @@
+{
+  "id": "q-l02-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Why do helium and hydrogen float into space from the exosphere, while nitrogen and oxygen stay?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They are unreactive, so they pass through the air."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They are light, and gravity up there is too weak to hold them."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The ozone layer pushes them out of the air."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Radio waves from the Earth push them away."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Gravity holds the atmosphere around the Earth. Helium and hydrogen are the lightest gases, and at that height gravity is too weak to keep them. Nitrogen and oxygen are heavier, so they stay."
+  },
+  "hints": [
+    {
+      "en": "What holds the air around the Earth in the first place?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "exosphere",
+    "helium",
+    "hydrogen",
+    "escape"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:11.924Z",
+    "reviewedBy": "review-bar"
+  }
+}

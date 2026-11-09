@@ -1,0 +1,110 @@
+{
+  "id": "q-l02-s08b",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each mahājanapada by the region of the map where it lay."
+  },
+  "categories": [
+    {
+      "id": "nw",
+      "label": {
+        "en": "North-west"
+      }
+    },
+    {
+      "id": "ganga",
+      "label": {
+        "en": "Ganga plain"
+      }
+    },
+    {
+      "id": "south",
+      "label": {
+        "en": "South of the Yamuna"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "c1",
+      "text": {
+        "en": "Kamboja"
+      },
+      "correctCategoryId": "nw"
+    },
+    {
+      "id": "c2",
+      "text": {
+        "en": "Gandhāra"
+      },
+      "correctCategoryId": "nw"
+    },
+    {
+      "id": "c3",
+      "text": {
+        "en": "Magadha"
+      },
+      "correctCategoryId": "ganga"
+    },
+    {
+      "id": "c4",
+      "text": {
+        "en": "Kāśhī"
+      },
+      "correctCategoryId": "ganga"
+    },
+    {
+      "id": "c5",
+      "text": {
+        "en": "Kosala"
+      },
+      "correctCategoryId": "ganga"
+    },
+    {
+      "id": "c6",
+      "text": {
+        "en": "Chedi"
+      },
+      "correctCategoryId": "south"
+    },
+    {
+      "id": "c7",
+      "text": {
+        "en": "Avanti"
+      },
+      "correctCategoryId": "south"
+    },
+    {
+      "id": "c8",
+      "text": {
+        "en": "Aśhmaka"
+      },
+      "correctCategoryId": "south"
+    }
+  ],
+  "explanation": {
+    "en": "Kamboja and Gandhāra lay in the north-west. Magadha, Kāśhī and Kosala lay in the Ganga plain. Chedi, Avanti and Aśhmaka were the only three that lay south of the Yamuna."
+  },
+  "hints": [
+    {
+      "en": "Only three of the sixteen lay south of the Yamuna."
+    },
+    {
+      "en": "Magadha lay in present-day Bihar, on the Ganga plain."
+    }
+  ],
+  "tags": [
+    "mahajanapada",
+    "map",
+    "region",
+    "match-categorize"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:09.784Z",
+    "reviewedBy": "review-bar"
+  }
+}

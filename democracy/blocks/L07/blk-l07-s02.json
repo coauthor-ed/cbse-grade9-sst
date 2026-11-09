@@ -1,0 +1,26 @@
+{
+  "id": "blk-l07-s02",
+  "type": "poe-predict@1",
+  "prompt": "## Why Does a False Message Matter?\n\nThe message is now on thousands of phones. Polling is some weeks away, and each reader has one vote, whatever that reader believes.\n\n**Predict:** Why is misinformation a danger to democracy?",
+  "options": [
+    {
+      "id": "a",
+      "text": "It is not a danger. People soon hear the truth and correct themselves."
+    },
+    {
+      "id": "b",
+      "text": "Citizens choose using what they know, and false news misleads them."
+    },
+    {
+      "id": "c",
+      "text": "It is a danger only during elections. At other times it does no harm."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.524Z"
+  }
+}

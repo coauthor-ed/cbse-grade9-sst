@@ -1,0 +1,64 @@
+{
+  "id": "q-l04-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Kauṭilya saw the state as an organic whole with seven constituents. What follows from this view?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The state works well only if its seven parts remain properly integrated."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The treasury is the only part that matters, and the others follow from it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A state can choose the four or five parts that it can afford."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The king is the whole state, and the other six are his private property."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Kauṭilya identified seven constituents: the king, the ministers, the territory, the forts, the treasury, the army and the allies. The state can function effectively only if they remain properly integrated."
+  },
+  "hints": [
+    {
+      "en": "An organic whole is like a body. What does a body need from its parts?"
+    },
+    {
+      "en": "Three of the options treat some parts as unimportant."
+    }
+  ],
+  "tags": [
+    "saptanga",
+    "integration",
+    "koṣha",
+    "daṇḍa",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:19.089Z",
+    "reviewedBy": "review-bar"
+  }
+}

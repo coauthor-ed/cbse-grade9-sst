@@ -1,0 +1,66 @@
+{
+  "id": "q-l14-a3",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Which pair gives one advantage and one disadvantage of settling near a river?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Advantage: fresh silt on the fields. Disadvantage: floods at unreliable times."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Advantage: fresh silt on the fields. Disadvantage: water for the crops."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Water for crops is an advantage, so this pair names two advantages."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Advantage: floods at unreliable times. Disadvantage: boats can carry goods."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These are the wrong way round: floods are the danger, and boats are the benefit."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Advantage: salt building up in the soil. Disadvantage: fertile land."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These are the wrong way round: salt harms the soil, and fertile land is the benefit."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Rivers gave water, fertile soil and transport. They also brought floods, moving channels and, with irrigation in a dry land, salt in the soil."
+  },
+  "hints": [
+    {
+      "en": "Decide for each phrase whether it helps or harms farmers."
+    }
+  ],
+  "tags": [
+    "bronze-age",
+    "rivers"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

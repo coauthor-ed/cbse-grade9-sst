@@ -1,0 +1,73 @@
+{
+  "id": "q-l03-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Strong earthquakes from 2000 to 2024 are plotted on a world map. Where do most of them fall?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "On lines of latitude, mostly the equator"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The belts cross many latitudes."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Along every coast of every continent"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Many coasts have few strong earthquakes, such as eastern South America."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "In long belts, mainly round the Pacific"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The largest belt is the Ring of Fire."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Evenly over all of the land and sea"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Wide areas have almost none."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Strong earthquakes fall along long, narrow belts. The largest is the Ring of Fire around the Pacific Ocean. A second runs from the Mediterranean through the Himalaya, and a thin line follows the Mid-Atlantic Ridge."
+  },
+  "hints": [
+    {
+      "en": "Are the dots spread out or lined up?"
+    },
+    {
+      "en": "Which ocean has a belt all the way round it?"
+    }
+  ],
+  "tags": [
+    "earthquakes",
+    "ring-of-fire"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:22.682Z",
+    "reviewedBy": "review-bar"
+  }
+}

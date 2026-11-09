@@ -1,0 +1,31 @@
+{
+  "id": "blk-l09-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L09/blk-l09-s02.md",
+  "image": {
+    "src": "media/L09/L09S02.jpg",
+    "alt": "A drawing of a lump of river clay, cut reeds and a smoothed blank tablet of damp clay",
+    "position": "right"
+  },
+  "deferVerdict": true,
+  "options": [
+    {
+      "id": "opt-draw",
+      "text": "They will use the reed as a brush and paint on dried clay"
+    },
+    {
+      "id": "opt-press",
+      "text": "They will press the cut end of the reed into damp clay"
+    },
+    {
+      "id": "opt-scratch",
+      "text": "They will scratch thin curved lines into baked clay"
+    }
+  ],
+  "correctOptionId": "opt-press",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

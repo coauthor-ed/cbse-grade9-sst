@@ -1,0 +1,73 @@
+{
+  "id": "q-l01-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Two plates are moving apart. Which way does mantle rock move in the convection current below the gap?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It rises, then spreads out to both sides"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Rising rock spreads under the plates and pulls them apart."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It sinks straight down into the deep mantle"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Rock sinks where plates are drawn together."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It flows in from both sides towards the gap"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Flow from both sides would draw the plates together."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It stays still, and only the plates move"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Mantle rock moves very slowly in convection currents."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "In a convection current, hot rock rises, spreads sideways under the plates and pulls them apart. Cooler rock sinks in another place, and there the plates are drawn together."
+  },
+  "hints": [
+    {
+      "en": "Where in the loop does rock move sideways away from one line?"
+    },
+    {
+      "en": "Think of hot dal reaching the top of the pot."
+    }
+  ],
+  "tags": [
+    "convection",
+    "plates"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:14.297Z",
+    "reviewedBy": "review-bar"
+  }
+}

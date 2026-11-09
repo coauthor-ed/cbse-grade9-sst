@@ -1,0 +1,69 @@
+{
+  "id": "q-l13-a1",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A friend says, \"The first Qin emperor built the Great Wall.\" What is the best reply?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "That is right. The whole wall was finished in his 15 years."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Fifteen years is far too short. The book says the wall was built over a period of two thousand years."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "That is wrong. The Qin had nothing to do with the wall."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This goes too far. The Qin are linked with joining earlier walls, even though they did not start them."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only partly. Several walls were built from 680 BCE, they were later joined, and repairs went on to the 17th century CE."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Only partly. The Han built the whole wall, and the Qin only repaired it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The Han extended the wall, but the first walls are much older. They date from 680 BCE onwards."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Many rulers worked on the wall. Separate walls came first, they were joined later, and expansion and repair lasted till the 17th century CE."
+  },
+  "hints": [
+    {
+      "en": "When does the book date the first walls?"
+    },
+    {
+      "en": "Compare that date with 221 BCE."
+    }
+  ],
+  "tags": [
+    "china",
+    "great-wall"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s11",
+  "type": "mini-game@1",
+  "src": "simulations/L02/TraceTheColumnScene.js",
+  "objective": {
+    "en": "Tap a label, then tap its place on the column. Put in all the layers, the three pauses and the things found in the air."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:11.924Z",
+    "reviewedBy": "review-bar"
+  }
+}

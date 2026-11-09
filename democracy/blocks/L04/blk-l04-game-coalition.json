@@ -1,0 +1,19 @@
+{
+  "id": "blk-l04-game-coalition",
+  "type": "mini-game@1",
+  "subject": "social-studies",
+  "grade": 9,
+  "chapterId": "democracy",
+  "topicId": "separation-of-powers",
+  "board": "CBSE",
+  "src": "simulations/L04/MajorityGatesGame.js",
+  "objective": {
+    "en": "Three election results. In each one, tap parties to reach 272 seats, then tap the opposition."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-11-01T00:00:00.000Z",
+    "flags": []
+  }
+}

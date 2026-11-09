@@ -1,0 +1,32 @@
+{
+  "id": "blk-l12-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L12/blk-l12-s05.md",
+  "poeRole": "observe",
+  "image": {
+    "src": "media/L12/L12S05.jpg",
+    "alt": "Ancient Shang dynasty oracle bone inscribed with royal divination inquiries.",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "cracked-bone": {
+        "src": "media/L12/L12S05-b2.jpg",
+        "alt": "Detail of thermal crack intersection and drilled heating pits on an oracle bone."
+      },
+      "char-closeup": {
+        "src": "media/L12/L12S05-b3.jpg",
+        "alt": "Close-up of archaic logographic characters carved into bone surface."
+      },
+      "modern-transcription": {
+        "src": "media/L12/L12S05-b4.jpg",
+        "alt": "Drawing of a rubbing of an oracle bone beside a hand copy of its signs."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

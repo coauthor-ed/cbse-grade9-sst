@@ -1,0 +1,108 @@
+{
+  "id": "q-l08-s03",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Sort each cause of the 2025 Punjab floods as natural or human-made."
+  },
+  "categories": [
+    {
+      "id": "natural",
+      "label": {
+        "en": "Natural causes"
+      },
+      "tone": 1
+    },
+    {
+      "id": "human",
+      "label": {
+        "en": "Human-made causes"
+      },
+      "tone": 2
+    }
+  ],
+  "chips": [
+    {
+      "id": "c1",
+      "text": {
+        "en": "Rivers already flowing high before the heavy rains"
+      },
+      "correctCategoryId": "natural"
+    },
+    {
+      "id": "c2",
+      "text": {
+        "en": "Western disturbances bringing more moisture"
+      },
+      "correctCategoryId": "natural"
+    },
+    {
+      "id": "c3",
+      "text": {
+        "en": "Rain in Himachal Pradesh and Jammu & Kashmir"
+      },
+      "correctCategoryId": "natural"
+    },
+    {
+      "id": "c4",
+      "text": {
+        "en": "Very heavy monsoon rains over Punjab"
+      },
+      "correctCategoryId": "natural"
+    },
+    {
+      "id": "c5",
+      "text": {
+        "en": "Weak and old river embankments"
+      },
+      "correctCategoryId": "human"
+    },
+    {
+      "id": "c6",
+      "text": {
+        "en": "Houses and farms close to the rivers"
+      },
+      "correctCategoryId": "human"
+    },
+    {
+      "id": "c7",
+      "text": {
+        "en": "Silt and mud collected in rivers and dams"
+      },
+      "correctCategoryId": "human"
+    },
+    {
+      "id": "c8",
+      "text": {
+        "en": "Flood warnings that came late or were unclear"
+      },
+      "correctCategoryId": "human"
+    }
+  ],
+  "explanation": {
+    "en": "Rain, western disturbances and high rivers came from the weather. Weak embankments, building close to the rivers, silt and late warnings came from what people had done or not done. Together they increased the damage."
+  },
+  "hints": [
+    {
+      "en": "Did this come from the weather, or from what people had done?"
+    },
+    {
+      "en": "Silt collects naturally, but keeping rivers and dams clear is a human job."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "floods",
+    "monsoon",
+    "climate-change",
+    "classification",
+    "punjab"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:53.484Z",
+    "reviewedBy": "review-bar"
+  }
+}

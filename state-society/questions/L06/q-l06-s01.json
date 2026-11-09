@@ -1,0 +1,63 @@
+{
+  "id": "q-l06-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Under the kudavolai system recorded at Uttaramerur, how did a person come to serve on a village committee?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A king's officer read out a list of the people he had chosen."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The largest landowner named the people he trusted."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "An eligible candidate's name was written on a palm leaf, a child drew it from a pot, and those chosen were divided into committees."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The villagers raised their hands for each candidate in turn, and the highest count won."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The names of eligible candidates were written on palm leaves and placed in a large pot. At a public gathering a young child drew the leaves one by one. The elected members were then divided into specialised committees called variyams."
+  },
+  "hints": [
+    {
+      "en": "Think of the leaves, the pot and the child."
+    },
+    {
+      "en": "The source describes a draw, with no count of raised hands."
+    }
+  ],
+  "tags": [
+    "kudavolai",
+    "uttaramerur",
+    "village-assembly",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:28.849Z",
+    "reviewedBy": "review-bar"
+  }
+}

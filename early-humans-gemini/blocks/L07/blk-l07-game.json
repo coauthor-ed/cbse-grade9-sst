@@ -1,0 +1,14 @@
+{
+  "id": "blk-l07-game",
+  "type": "mini-game@1",
+  "src": "simulations/L07/WeighItOutGame.js",
+  "objective": {
+    "en": "A trader needs exactly 91 units, using one each of these weights: 1, 2, 4, 8, 16, 32, 64. Tap the ones that add up exactly."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

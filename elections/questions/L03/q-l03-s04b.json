@@ -1,0 +1,109 @@
+{
+  "id": "q-l03-s04b",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each subject into the Act that deals with it."
+  },
+  "categories": [
+    {
+      "id": "rpa-1950",
+      "label": {
+        "en": "Act of 1950"
+      }
+    },
+    {
+      "id": "rpa-1951",
+      "label": {
+        "en": "Act of 1951"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-seat-allocation",
+      "text": {
+        "en": "Allocation of seats"
+      },
+      "correctCategoryId": "rpa-1950"
+    },
+    {
+      "id": "chip-delimitation",
+      "text": {
+        "en": "Delimitation of constituencies"
+      },
+      "correctCategoryId": "rpa-1950"
+    },
+    {
+      "id": "chip-rolls",
+      "text": {
+        "en": "Preparing and revising electoral rolls"
+      },
+      "correctCategoryId": "rpa-1950"
+    },
+    {
+      "id": "chip-right-to-vote",
+      "text": {
+        "en": "Right to vote without discrimination"
+      },
+      "correctCategoryId": "rpa-1950"
+    },
+    {
+      "id": "chip-nomination",
+      "text": {
+        "en": "Nomination of candidates"
+      },
+      "correctCategoryId": "rpa-1951"
+    },
+    {
+      "id": "chip-campaigns",
+      "text": {
+        "en": "Election campaigns"
+      },
+      "correctCategoryId": "rpa-1951"
+    },
+    {
+      "id": "chip-voting-procedure",
+      "text": {
+        "en": "Voting procedures"
+      },
+      "correctCategoryId": "rpa-1951"
+    },
+    {
+      "id": "chip-disputes",
+      "text": {
+        "en": "Resolution of post-election disputes"
+      },
+      "correctCategoryId": "rpa-1951"
+    },
+    {
+      "id": "chip-offences",
+      "text": {
+        "en": "Electoral offences and corrupt practices"
+      },
+      "correctCategoryId": "rpa-1951"
+    }
+  ],
+  "explanation": {
+    "en": "The Act of 1950 deals with allocation of seats, delimitation, electoral rolls and the right to vote without discrimination. The Act of 1951 deals with nomination, campaigns, voting procedures, disputes and electoral offences."
+  },
+  "hints": [
+    {
+      "en": "The Act of 1950 is about seats and voters. The Act of 1951 is about the conduct of elections."
+    }
+  ],
+  "tags": [
+    "rpa-1950",
+    "rpa-1951",
+    "electoral-roll",
+    "campaigns",
+    "disputes"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:06.864Z",
+    "reviewedBy": "review-bar"
+  }
+}

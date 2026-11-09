@@ -1,0 +1,35 @@
+{
+  "id": "blk-l14-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L14/blk-l14-s02.md",
+  "deferVerdict": true,
+  "options": [
+    {
+      "id": "opt-a",
+      "text": "Each developed separately. Some traded with each other, but trade did not make them copies."
+    },
+    {
+      "id": "opt-b",
+      "text": "All four copied their cities and writing from Mesopotamian traders."
+    },
+    {
+      "id": "opt-c",
+      "text": "They were completely cut off, with no trade of any kind between any of them."
+    },
+    {
+      "id": "opt-d",
+      "text": "Egyptian scribes travelled to the other three and taught them."
+    }
+  ],
+  "correctOptionId": "opt-a",
+  "image": {
+    "src": "media/L14/L14S02.jpg",
+    "alt": "World map highlighting the four ancient river valley civilisations separated by vast deserts, seas, and mountains.",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "q-l03-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Most earthquakes lie along the edges of plates. Why?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The crust is thinnest at every plate edge"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Crust at the Himalaya is very thick, and earthquakes happen there."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Plates move there, and the rock breaks"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Rock locks and breaks where plates meet or slide."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sea water presses down on the edges of plates"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Many plate edges lie on land, and they shake too."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The Earth spins fastest at the edges of plates"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The Earth's spin does not depend on plates."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Plates move against each other at their edges. Rock there locks, strain builds up, and the rock breaks. That sudden break is an earthquake, so earthquakes line up along plate boundaries."
+  },
+  "hints": [
+    {
+      "en": "What are the plates doing at their edges?"
+    },
+    {
+      "en": "What happens to rock when it is pushed for many years?"
+    }
+  ],
+  "tags": [
+    "earthquakes",
+    "plate-boundaries"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:22.682Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blk-l04-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Three Organs, Three Jobs\n\n<!-- STEP id=\"divide-the-work\" -->\n## Too Much Power in One Place\n\nThe danger is too much power in one place, so the work is divided among three organs of government:\n\n- The **legislature** makes laws.\n- The **executive** implements them, or puts them into action.\n- The **judiciary** interprets them, or says what they mean.\n\n<!-- STEP id=\"specialists-watching\" -->\n## One Law, Three Organs\n\nFollow one law, a rule that every scooter rider must wear a helmet. Parliament passes it, and the police carry it out on the road.\n\nA rider who is fined and thinks the fine is wrong can go to a court, and the court decides what the law means in that case.\n\n<!-- STEP id=\"no-concentration\" -->\n## Separation of Powers\n\nThis is called **separation of powers**: each organ has distinct responsibilities, so each can do its own work well.\n\n**Separation of powers prevents the concentration of power in any one organ.**\n\nThree separate organs could still each make mistakes, so something must keep them in check. We look at that next."
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L04/ThreeOrgansScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.514Z"
+  }
+}

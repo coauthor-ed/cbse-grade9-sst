@@ -1,0 +1,15 @@
+{
+  "id": "blk-l04-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L04/DrifterGameScene.js",
+  "objective": {
+    "en": "Choose the right sea to drop the buoy, so that the currents carry it on all three trips."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:34.781Z",
+    "reviewedBy": "review-bar"
+  }
+}

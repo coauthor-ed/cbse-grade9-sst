@@ -1,0 +1,29 @@
+{
+  "id": "blk-l06-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s05.md",
+  "image": {
+    "src": "media/L06/L06S05.jpg",
+    "alt": "A drawing of the Sanganakallu site in Karnataka: a rocky granite hill with natural terraces and large rounded boulders, above the Deccan plain.",
+    "position": "right"
+  },
+  "simulation": {
+    "src": "simulations/L06/NeolithicSpreadMapScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "simulationStep": 2,
+  "reveal": {
+    "images": {
+      "deccan": {
+        "src": "media/L06/L06S05-b2.jpg",
+        "alt": "A boulder-strewn Deccan landscape seen from the granite terraces of Sanganakallu: scattered grey boulders and dry scrubland stretching to the horizon."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "blk-l01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The crust melts, so the shell can slip"
+    },
+    {
+      "id": "b",
+      "text": "A hot, soft layer lies under the shell"
+    },
+    {
+      "id": "c",
+      "text": "The liquid outer core carries the shell"
+    },
+    {
+      "id": "d",
+      "text": "The whole mantle is a sea of liquid rock"
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L01/LayerProbeScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:14.297Z",
+    "reviewedBy": "review-bar"
+  }
+}

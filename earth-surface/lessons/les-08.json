@@ -1,0 +1,59 @@
+{
+  "id": "les-08",
+  "lessonId": "les-08",
+  "type": "lesson",
+  "title": {
+    "en": "What does wind do in a desert?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L08/blk-l08-s01.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s02.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s03.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s01.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s02.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s04.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s03.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s05.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s05.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s05b.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s04.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s08.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s09.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:46.378Z",
+    "reviewedBy": "review-bar"
+  }
+}

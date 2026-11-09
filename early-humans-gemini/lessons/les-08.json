@@ -1,0 +1,61 @@
+{
+  "id": "les-08",
+  "lessonId": "les-08",
+  "type": "lesson",
+  "title": {
+    "en": "The Worst Possible Place"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L08/blk-l08-s00.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s01.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s02.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s03.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-a1.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s04.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-a2.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s05.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-a3.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s05b.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s06.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s07.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s08.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s09.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

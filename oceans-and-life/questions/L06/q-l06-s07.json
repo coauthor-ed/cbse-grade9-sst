@@ -1,0 +1,93 @@
+{
+  "id": "q-l06-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Why are public awareness and training as important as the technology in a tsunami early warning system? Answer in two or three sentences."
+  },
+  "rubric": [
+    {
+      "id": "warning-only-works-if-understood",
+      "label": {
+        "en": "A warning helps only if the person who receives it knows how to respond."
+      },
+      "level1": {
+        "en": "Think about the last person in the chain, who is standing on the shore when the phone rings."
+      },
+      "clue": {
+        "en": "People who cannot interpret a warning cannot act on it, so officials and coastal communities are trained."
+      },
+      "level2Template": {
+        "en": "A warning helps only if the person who receives it ___."
+      },
+      "accepted": [
+        "knows how to respond",
+        "knows what to do",
+        "can interpret it and respond"
+      ]
+    },
+    {
+      "id": "training-is-part-of-the-system",
+      "label": {
+        "en": "Training is itself a part of the system, called capacity development."
+      },
+      "level1": {
+        "en": "One part of the system is about people rather than machines. What is it called?"
+      },
+      "clue": {
+        "en": "This part trains officials and coastal communities."
+      },
+      "level2Template": {
+        "en": "Such training is part of the system, under the name ___."
+      },
+      "accepted": [
+        "capacity development"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Two halves"
+      },
+      "text": {
+        "en": "A tsunami early warning system has two halves: the machines that detect the wave and send the alert, and the people who receive the alert and act on it."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Why people matter"
+      },
+      "text": {
+        "en": "A warning helps only if the person who receives it ___."
+      },
+      "rubricId": "warning-only-works-if-understood"
+    },
+    {
+      "eyebrow": {
+        "en": "Where it sits"
+      },
+      "text": {
+        "en": "Such training is part of the system, under the name ___."
+      },
+      "rubricId": "training-is-part-of-the-system"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:43.334Z",
+    "reviewedBy": "review-bar"
+  },
+  "explanation": {
+    "en": "An alert helps only if people understand it and know how to respond. So training officials and communities, called capacity development, is part of the system."
+  },
+  "mode": "coach"
+}

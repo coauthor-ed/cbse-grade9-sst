@@ -1,0 +1,76 @@
+{
+  "id": "q-l05-s03",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Between October and February, what is the pressure over India's land and the seas around it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "High over both land and seas"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The land and the seas do not cool equally, so the pressure differs."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Low over both land and seas"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The land and the seas do not cool equally, so the pressure differs."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "High over the land and low over the seas"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The land cools faster, so its air is cold and heavy."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Low over the land and high over the seas"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "That is the pattern in summer."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The Indian landmass cools faster than the oceans, creating high pressure over the land and low pressure over the seas. So cold, dry winds blow from land to sea."
+  },
+  "hints": [
+    {
+      "en": "Which cools faster in winter, land or sea?"
+    },
+    {
+      "en": "Cold, heavy air sinks and makes high pressure."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "monsoon",
+    "pressure",
+    "winter",
+    "north-east-monsoon"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:27.401Z",
+    "reviewedBy": "review-bar"
+  }
+}

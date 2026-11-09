@@ -1,0 +1,71 @@
+{
+  "id": "q-l03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Why do fishing communities often get a better catch at high tide?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Many fish move closer to shore for food and shelter"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The fish come closer, so they are easier to reach."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The water is warmer, and fish swim up to the warmth"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Warmth is not the reason. They come in for food and shelter."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The sea is calmer then, so nets are pulled more easily"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A high tide is not always a calm sea."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Fish cannot swim as fast when the water is deep"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Depth does not slow a fish."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "During high tide many fish move closer to the shore in search of food and shelter, and this gives fishing communities a better catch."
+  },
+  "hints": [
+    {
+      "en": "What brings the fish closer?"
+    }
+  ],
+  "tags": [
+    "tides",
+    "fishing",
+    "high-tide"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:30.294Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "q-l04-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "mode": "coach",
+  "prompt": {
+    "en": "Describe the role of the king and his important officers in early Indian states. Write about 100 words."
+  },
+  "rubric": [
+    {
+      "id": "king-role",
+      "label": {
+        "en": "The king protected people, gave justice, and held supreme authority"
+      },
+      "level1": {
+        "en": "What was the king expected to do?"
+      },
+      "clue": {
+        "en": "The king was responsible for protecting his subjects and administering justice."
+      },
+      "level2Template": {
+        "en": "The king was expected to ___ his subjects and give ___."
+      },
+      "accepted": [
+        "protect",
+        "protection",
+        "justice",
+        "supreme",
+        "swami",
+        "swāmi"
+      ]
+    },
+    {
+      "id": "not-alone",
+      "label": {
+        "en": "The king did not rule alone: the state had seven constituents that had to work together"
+      },
+      "level1": {
+        "en": "What does \"one wheel does not move the carriage\" say about the king?"
+      },
+      "clue": {
+        "en": "Sources show that the king did not rule alone. Kauṭilya named seven constituents of the state, which had to remain properly integrated."
+      },
+      "level2Template": {
+        "en": "The king did not rule ___. The state had ___ constituents."
+      },
+      "accepted": [
+        "alone",
+        "seven",
+        "saptanga",
+        "saptāṁga",
+        "integrated",
+        "cooperation",
+        "constituents",
+        "limbs"
+      ]
+    },
+    {
+      "id": "council",
+      "label": {
+        "en": "The council of ministers advised the king and could decide in his absence"
+      },
+      "level1": {
+        "en": "Who sat on the council, and what could it do?"
+      },
+      "clue": {
+        "en": "The council generally included the treasurer, the chief tax collector, the chief legal advisor and the commander-in-chief. It advised and supported the king, and an Aśhokan inscription shows it deciding in his absence."
+      },
+      "level2Template": {
+        "en": "The council of ministers advised the king and could decide in his ___."
+      },
+      "accepted": [
+        "council",
+        "ministers",
+        "mantri",
+        "advise",
+        "support",
+        "treasurer",
+        "tax collector",
+        "commander",
+        "absence"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The king"
+      },
+      "text": {
+        "en": "The king protected his subjects from threats and administered justice."
+      },
+      "rubricId": "king-role"
+    },
+    {
+      "eyebrow": {
+        "en": "Not alone"
+      },
+      "text": {
+        "en": "He did not rule alone: the state had seven constituents, which had to work together."
+      },
+      "rubricId": "not-alone"
+    },
+    {
+      "eyebrow": {
+        "en": "Officers"
+      },
+      "text": {
+        "en": "The council of ministers, with officers such as the treasurer and the commander-in-chief, advised the king and could decide in his absence."
+      },
+      "rubricId": "council"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:19.089Z",
+    "reviewedBy": "review-bar"
+  }
+}

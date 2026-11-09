@@ -1,0 +1,91 @@
+{
+  "id": "q-l04-s04",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each place by the pressure you would expect there."
+  },
+  "categories": [
+    {
+      "id": "low",
+      "label": {
+        "en": "Low pressure: air rising"
+      }
+    },
+    {
+      "id": "high",
+      "label": {
+        "en": "High pressure: air sinking"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-thar",
+      "text": {
+        "en": "The Thar Desert on a May afternoon"
+      },
+      "correctCategoryId": "low"
+    },
+    {
+      "id": "chip-plains",
+      "text": {
+        "en": "The north Indian plains in hot June"
+      },
+      "correctCategoryId": "low"
+    },
+    {
+      "id": "chip-storm",
+      "text": {
+        "en": "A sky of thick rain clouds"
+      },
+      "correctCategoryId": "low"
+    },
+    {
+      "id": "chip-ladakh",
+      "text": {
+        "en": "Ladakh in a cold, clear January"
+      },
+      "correctCategoryId": "high"
+    },
+    {
+      "id": "chip-antarctic",
+      "text": {
+        "en": "The Antarctic ice in winter"
+      },
+      "correctCategoryId": "high"
+    },
+    {
+      "id": "chip-clear",
+      "text": {
+        "en": "A week of clear, sunny skies"
+      },
+      "correctCategoryId": "high"
+    }
+  ],
+  "explanation": {
+    "en": "Where the ground is very hot, air heats up and rises, leaving low pressure, and rising air builds cloud. Where it is very cold, heavy air sinks, making high pressure and clear skies."
+  },
+  "hints": [
+    {
+      "en": "Is the air there warm and rising, or cold and sinking?"
+    },
+    {
+      "en": "Cloudy and wet goes with low pressure. Clear and sunny goes with high pressure."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "pressure",
+    "low-pressure",
+    "high-pressure",
+    "temperature"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:17.642Z",
+    "reviewedBy": "review-bar"
+  }
+}

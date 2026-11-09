@@ -1,0 +1,63 @@
+{
+  "id": "q-l08-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "The Tolkappiyam and the Pattinappalai are Sangam texts. What do they suggest about society in the Tamil region?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Society there had no occupations of any importance."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Society was organised more on occupation and economic functions than on a rigid varṇa classification."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "All people there were merchants."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The texts do not mention groups of people at all."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The Tolkappiyam's four-fold classification seems to be based on occupation. The Pattinappalai describes merchants, salt-makers, fishermen, artisans, agriculturists and warriors interacting actively, which suggests a society organised more on occupation and economic functions."
+  },
+  "hints": [
+    {
+      "en": "Think of the list of groups in the Pattinappalai."
+    },
+    {
+      "en": "What do Arasar, Vanigar and Velar name?"
+    }
+  ],
+  "tags": [
+    "ashrama",
+    "varṇa",
+    "dhamma",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:40.217Z",
+    "reviewedBy": "review-bar"
+  }
+}

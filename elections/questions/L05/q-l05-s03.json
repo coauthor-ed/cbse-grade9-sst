@@ -1,0 +1,65 @@
+{
+  "id": "q-l05-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Voting from home is for senior citizens above 85 and for Persons with Disabilities with a benchmark disability of 40%. Which of these voters can use it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A voter aged 84 who finds the walk hard"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A voter with a benchmark disability of 35%"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A voter aged 86 with no disability"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A voter who lives four hours from a booth"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Only the voter aged 86 meets a rule: above 85. Age 84 and a 35% disability both fall short of the numbers, and distance from a booth is not one of the two conditions."
+  },
+  "hints": [
+    {
+      "en": "Check each voter against the two numbers."
+    },
+    {
+      "en": "A hard journey is not one of the conditions."
+    }
+  ],
+  "tags": [
+    "home-voting",
+    "senior-citizens",
+    "pwd",
+    "benchmark-disability",
+    "eligibility",
+    "2024-general-elections"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:15.302Z",
+    "reviewedBy": "review-bar"
+  }
+}

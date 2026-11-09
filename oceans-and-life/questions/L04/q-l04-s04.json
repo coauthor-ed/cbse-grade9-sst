@@ -1,0 +1,71 @@
+{
+  "id": "q-l04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "On a map of ocean currents, the West Wind Drift is blue and the Gulf Stream is red. What decides the colour?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Whether the arrow points north or points south"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Colour has nothing to do with the direction of the arrow."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "How far the current travels from start to end"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Length does not decide colour. Some long currents are red and some are blue."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "How cold the coast is at the end of the arrow"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The current is named for the water it brings, not for the place it ends."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Where its water comes from: warmer or colder"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Currents from warmer regions are warm and drawn red, and currents from colder regions are cold and drawn blue."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Currents flowing from warmer regions are warm currents, and those flowing from colder regions are cold currents. Maps usually show warm in red and cold in blue. The Gulf Stream starts in the warm Gulf of Mexico, and the West Wind Drift runs through the cold seas of the far south."
+  },
+  "hints": [
+    {
+      "en": "A current is called warm or cold after the place its water comes from."
+    }
+  ],
+  "tags": [
+    "ocean-currents",
+    "west-wind-drift",
+    "warm-and-cold-currents"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:34.781Z",
+    "reviewedBy": "review-bar"
+  }
+}

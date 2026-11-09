@@ -1,0 +1,71 @@
+{
+  "id": "q-l05-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A forecast says a storm surge will lift the sea 3.2 metres above its usual level along one stretch of coast. Village P stands 2.4 metres above sea level and village Q stands 4.0 metres above it. If the forecast is right, whose ground goes under water?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Neither, as a surge stops at the shoreline"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A surge does not stop at the shoreline. It covers low ground, and that is why SSEWS forecasts how far the water will spread."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both, as the surge covers the whole coast"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Compare the heights. The sea at 3.2 metres stays below village Q's ground at 4.0 metres."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only village Q, as the surge hits high ground"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Water covers the lower ground first. Village Q is the higher of the two."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Only village P, as the sea rises above it"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. 3.2 metres is above P's ground at 2.4 metres and below Q's at 4.0 metres."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Ground goes under water when the sea rises above it. Here that is village P, at 2.4 metres. A forecast can be off, so everyone told to evacuate should still go, even from ground that looks high enough."
+  },
+  "hints": [
+    {
+      "en": "Compare each village's height with the height of the water."
+    }
+  ],
+  "tags": [
+    "storm-surge",
+    "ssews",
+    "evacuation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:39.278Z",
+    "reviewedBy": "review-bar"
+  }
+}

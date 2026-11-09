@@ -1,0 +1,120 @@
+{
+  "id": "q-l01-s03",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "prompt": {
+    "en": "Why do regular elections matter in a democracy? Write one line each on accountability, representation and legitimacy."
+  },
+  "rubric": [
+    {
+      "id": "accountability",
+      "label": {
+        "en": "Accountability: those elected must answer to the people"
+      },
+      "level1": {
+        "en": "Which idea says those elected must answer to the people?"
+      },
+      "clue": {
+        "en": "Think of what voters can do at the next election if they are unhappy with a representative."
+      },
+      "level2Template": {
+        "en": "___ means those elected must answer to the people."
+      },
+      "accepted": [
+        "accountability",
+        "answerability",
+        "holding to account"
+      ]
+    },
+    {
+      "id": "representation",
+      "label": {
+        "en": "Representation: those elected speak and decide for the people who chose them"
+      },
+      "level1": {
+        "en": "Which idea says those elected speak for the people who chose them?"
+      },
+      "clue": {
+        "en": "Think of a Member of Parliament speaking for the people of one constituency."
+      },
+      "level2Template": {
+        "en": "___ means those elected speak and decide for the people who chose them."
+      },
+      "accepted": [
+        "representation",
+        "speak for the people",
+        "speaking for the people",
+        "represent the people"
+      ]
+    },
+    {
+      "id": "legitimacy",
+      "label": {
+        "en": "Legitimacy: people accept a government's right to decide because they chose it"
+      },
+      "level1": {
+        "en": "Which idea says people accept a government's decisions because they chose that government?"
+      },
+      "clue": {
+        "en": "Think of why people accept a government they chose, and would not accept one that simply took power."
+      },
+      "level2Template": {
+        "en": "___ means people accept a government's right to decide because they chose it."
+      },
+      "accepted": [
+        "legitimacy",
+        "legitimate authority",
+        "acceptance of authority"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "rubricId": null,
+      "text": {
+        "en": "Regular elections matter for these three reasons:"
+      }
+    },
+    {
+      "rubricId": "accountability",
+      "text": {
+        "en": "Accountability - those elected must answer to the people, and at each election the people can keep them or replace them."
+      }
+    },
+    {
+      "rubricId": "representation",
+      "text": {
+        "en": "Representation - those elected speak and decide for the people who chose them."
+      }
+    },
+    {
+      "rubricId": "legitimacy",
+      "text": {
+        "en": "Legitimacy - people accept a government's right to decide because they chose it."
+      }
+    }
+  ],
+  "explanation": {
+    "en": "The four reasons named on the wheel are accountability, representation, equality and legitimacy. This question asks about three of them. Each one depends on the people choosing again and again."
+  },
+  "hints": [
+    {
+      "en": "Write the word first. Then say what it means for the people who vote."
+    }
+  ],
+  "tags": [
+    "accountability",
+    "representation",
+    "equality",
+    "legitimacy",
+    "periodic-elections"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:20:58.653Z",
+    "reviewedBy": "review-bar"
+  }
+}

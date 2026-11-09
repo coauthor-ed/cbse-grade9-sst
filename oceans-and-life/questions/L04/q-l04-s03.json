@@ -1,0 +1,71 @@
+{
+  "id": "q-l04-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The Humboldt (Peru) Current runs north along the west coast of South America, bringing water from colder regions. What does it do to the coast beside it?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It cools the coast, as its water is cold."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. A current tends to carry the warmth or cold of the place it came from, and this one came from a colder region."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It warms the coast, as all currents bring warmth."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Not all currents bring warmth. This one carries cold water, so it cools the coast."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It has no effect, as currents stay far out at sea."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Currents run along coasts and change their temperature, as the Gulf Stream does for Norway."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It warms the coast only in the hot months of the year."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Its water comes from colder regions, so it does not warm the coast."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The Humboldt (Peru) Current is a cold current. It brings water from colder regions, so it cools the coast it runs past. A current tends to carry the warmth or cold of the place it came from."
+  },
+  "hints": [
+    {
+      "en": "Ask where the water in this current was before it started running north."
+    }
+  ],
+  "tags": [
+    "ocean-currents",
+    "peru-current",
+    "cold-current"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:34.781Z",
+    "reviewedBy": "review-bar"
+  }
+}

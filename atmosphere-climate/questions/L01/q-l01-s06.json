@@ -1,0 +1,35 @@
+{
+  "id": "q-l01-s06",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Carbon dioxide makes up 0.04% of the air by volume. In a sample of 2500 cm3 of air, how many cm3 of it are carbon dioxide? Give the answer in cm3."
+  },
+  "expectedValue": 1,
+  "tolerance": 0.01,
+  "unit": "cm3",
+  "explanation": {
+    "en": "0.04 per cent means 0.04 parts in every 100. So 2500 x 0.04 / 100 = 1 cm3 of carbon dioxide."
+  },
+  "hints": [
+    {
+      "en": "Write 0.04 per cent as a fraction: 0.04/100."
+    },
+    {
+      "en": "Multiply that fraction by 2500."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "composition",
+    "carbon-dioxide",
+    "percentage"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:06.382Z",
+    "reviewedBy": "review-bar"
+  }
+}

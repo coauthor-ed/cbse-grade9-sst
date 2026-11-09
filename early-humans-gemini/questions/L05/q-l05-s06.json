@@ -1,0 +1,72 @@
+{
+  "id": "q-l05-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The picture shows a polished celt and a ring stone beside a flaked handaxe. Which feature marks a stone tool as Neolithic rather than Palaeolithic?"
+  },
+  "image": {
+    "src": "media/L05/L05S06.jpg",
+    "alt": "A drawing that compares tools: on the left a polished stone celt and a perforated ring stone, on the right a flaked pear-shaped handaxe.",
+    "position": "right"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It is smaller, because Neolithic tools are always smaller than Palaeolithic ones."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Middle Palaeolithic flakes and Mesolithic microliths are already smaller than a celt, so size does not mark the period."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It is made of a harder rock than Palaeolithic tools."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The rock is not the mark. Both periods used hard stone, and the difference is how it was shaped."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It is found in the same layer as animal bones."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Animal bones also lie beside Palaeolithic tools, so where a tool was found does not mark the period."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It is ground and polished for clearing and tilling, not only flaked for cutting."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A Neolithic stone tool is made for land and crop work. It is shaped by grinding and polishing, as a celt shows. Size, rock and the bones around it do not mark the period."
+  },
+  "hints": [
+    {
+      "en": "Ask how the surface of each tool was shaped, and what work it was shaped for."
+    }
+  ],
+  "tags": [
+    "neolithic",
+    "stone-tools",
+    "domestication"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

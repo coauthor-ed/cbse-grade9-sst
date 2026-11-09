@@ -1,0 +1,15 @@
+{
+  "id": "blk-l01-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L01/SonarSurveyGameScene.js",
+  "objective": {
+    "en": "Sail south-west from Mumbai with eight sonar pings, and tag the shelf edge, the abyssal plain, a seamount and the mid-ocean ridge where the depth and the shape fit."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:21.469Z",
+    "reviewedBy": "review-bar"
+  }
+}

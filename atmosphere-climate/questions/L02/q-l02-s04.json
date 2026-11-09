@@ -1,0 +1,60 @@
+{
+  "id": "q-l02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Why is the stratosphere ideal for flying aeroplanes?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Its air is warmer than the air at the ground."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Its air is denser than the air below it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It is free of clouds and other weather disturbances."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It holds most of the oxygen in the air."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Clouds, storms and nearly all other weather stay in the troposphere below, so the air in the stratosphere gives a smooth flight. Its air is thinner and colder than the air at the ground, and most of the oxygen lies lower down."
+  },
+  "hints": [
+    {
+      "en": "Think about what a pilot wants to stay away from."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "stratosphere",
+    "ozone",
+    "aeroplane"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:11.924Z",
+    "reviewedBy": "review-bar"
+  }
+}

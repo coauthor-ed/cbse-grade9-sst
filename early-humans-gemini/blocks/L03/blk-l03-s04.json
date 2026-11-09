@@ -1,0 +1,35 @@
+{
+  "id": "blk-l03-s04",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03/blk-l03-s04.md",
+  "image": {
+    "src": "media/L03/L03S04.jpg",
+    "alt": "An unlabelled plate of Acheulean stone tools: broad cleavers with straight transverse cutting edges beside pear-shaped handaxes, drawn against a dark background.",
+    "position": "right"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": "The chopper chops the meat, the handaxe's point digs the tubers, the scraper's edge cleans the hide, and the cleaver's straight edge splits the bone."
+    },
+    {
+      "id": "b",
+      "text": "The handaxe's point splits the bone, the cleaver digs the tubers, the chopper scrapes the hide, and the scraper chops the meat."
+    },
+    {
+      "id": "c",
+      "text": "The cleaver, the biggest blade, chops the meat, the handaxe splits the bone, the scraper digs the tubers, and the chopper scrapes the hide."
+    },
+    {
+      "id": "d",
+      "text": "The shapes are accidents of the stone. Any of the four tools could have done any of the four jobs."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

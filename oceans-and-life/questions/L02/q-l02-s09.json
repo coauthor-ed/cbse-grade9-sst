@@ -1,0 +1,71 @@
+{
+  "id": "q-l02-s09",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "At Dwarka the sea rises and falls about twice a day, even on calm days. What is the best reason to think wind is not the cause?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The sea at Dwarka is deeper than the open sea"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Depth does not tell us the cause, and this claim is not true."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It keeps to regular times in any weather"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Wind changes with the weather, but this rise and fall keeps its times."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The water at Dwarka is saltier than other seas"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Saltiness does not make the sea rise and fall twice a day."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The sea moves only along the temple pathway"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The whole coast rises and falls, not just the pathway."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Waves made by wind grow in a storm and die away in calm weather. A rise and fall that keeps to regular times on calm days as well must have some other cause."
+  },
+  "hints": [
+    {
+      "en": "Compare a windy day with a calm one."
+    }
+  ],
+  "tags": [
+    "dwarka",
+    "tides",
+    "closing-question"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:25.965Z",
+    "reviewedBy": "review-bar"
+  }
+}

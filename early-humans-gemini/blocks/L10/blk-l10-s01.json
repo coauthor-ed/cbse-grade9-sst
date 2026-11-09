@@ -1,0 +1,36 @@
+{
+  "id": "blk-l10-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L10/blk-l10-s01.md",
+  "image": {
+    "src": "media/L10/L10S01.jpg",
+    "alt": "A drawing of a wall covered in hieroglyphs",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "greek": {
+        "src": "media/L10/L10S01-b2.jpg",
+        "alt": "A drawing of a manuscript page in Greek"
+      },
+      "papyrus": {
+        "src": "media/L10/L10S01-b3.jpg",
+        "alt": "A drawing of a papyrus scroll, partly rolled, with hieroglyphs and a painted scene"
+      },
+      "temple": {
+        "src": "media/L10/L10S01-b4.jpg",
+        "alt": "A drawing of a temple front covered in painted figures and signs"
+      },
+      "wall": {
+        "src": "media/L10/L10S01.jpg",
+        "alt": "A drawing of a wall covered in hieroglyphs",
+        "position": "right"
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l04-s06",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Many Parties, One Majority Rule\n\n<!-- STEP id=\"crowd-of-voices\" -->\n## Many Parties, Many Voices\n\nIn a **multi-party system**, several parties contest elections, so people can choose those they consider most suitable. Each party is guided by its own ideas, values and principles.\n\nAll of them work within the rules of the **Representation of the People Act, 1951**.\n\n<!-- STEP id=\"fifty-percent-line\" -->\n## More Than Half the Seats\n\nThe party or **coalition**, a group of parties, with more than 50 per cent of the seats forms the government. The Lok Sabha has 543 seats, so it needs at least 272.\n\nThe largest opposing group becomes the **opposition**.\n\n**Move the slider to 272 and a government forms.**"
+  },
+  "simulation": {
+    "src": "simulations/L04/SeatCounterScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.514Z"
+  }
+}

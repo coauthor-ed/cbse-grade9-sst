@@ -1,0 +1,35 @@
+{
+  "id": "q-l04-s09",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Air presses with about the weight of 1 kg on each square centimetre at sea level. About how many kilograms of air press on a palm of 100 square centimetres?"
+  },
+  "expectedValue": 100,
+  "tolerance": 0.05,
+  "unit": "kg",
+  "explanation": {
+    "en": "The weight is for each square centimetre, so multiply: 1 kg × 100 = about 100 kg."
+  },
+  "hints": [
+    {
+      "en": "The figure is for one square centimetre. There are 100 of them."
+    },
+    {
+      "en": "Multiply 1 kg by 100."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "pressure",
+    "weight",
+    "sea-level"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:17.642Z",
+    "reviewedBy": "review-bar"
+  }
+}

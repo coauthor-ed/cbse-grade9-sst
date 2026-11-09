@@ -1,0 +1,15 @@
+{
+  "id": "blk-l10-s03b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L10/blk-l10-s03b.md",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-31T19:37:21.000Z",
+    "reviewedBy": "owner"
+  },
+  "simulation": {
+    "src": "simulations/L10/SchoolCompareScene.js",
+    "position": "right"
+  }
+}

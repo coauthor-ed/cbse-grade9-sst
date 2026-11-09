@@ -1,0 +1,36 @@
+{
+  "id": "blk-l09-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L09/blk-l09-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "It was a wrong aim, because wealth pulls a person away from dharma."
+    },
+    {
+      "id": "b",
+      "text": "It was a good aim, as long as dharma guided how he earned it."
+    },
+    {
+      "id": "c",
+      "text": "It was a good aim in every case, because artha is one of the goals."
+    },
+    {
+      "id": "d",
+      "text": "It was an aim for old age only, after the other three goals."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L09/PurusharthaScene.js",
+    "role": "setup",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:45.482Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "q-l08-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Wind blows loose sand out of a desert hollow. The hollow deepens until it reaches the water table, then stops. Why does it stop there?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The wind always dies down at the bottom of a hollow."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Wind still blows there. The change is in the ground, not in the wind."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Rain fills the hollow each year and keeps it level."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rain is rare in a desert. The water here comes from below the ground."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sand blows back in as fast as it is carried out."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "If that were so, the hollow would never have deepened in the first place."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Wet sand sticks together, so wind cannot lift it."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Wind lifts only dry, loose grains, so the wet layer stops the digging."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Wind lifts only dry, loose grains. At the water table the sand is wet and its grains stick together, so the hollow stops deepening. Water close to the surface lets plants grow, and this place is an oasis."
+  },
+  "hints": [
+    {
+      "en": "Think about what is different about the sand at that depth."
+    }
+  ],
+  "tags": [
+    "wind",
+    "oasis",
+    "deflation-hollow",
+    "water-table"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:46.378Z",
+    "reviewedBy": "review-bar"
+  }
+}

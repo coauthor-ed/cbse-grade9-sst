@@ -1,0 +1,58 @@
+{
+  "id": "q-l04-s12",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Parliament passes a law that does not agree with the Constitution. Which of these can declare the law unconstitutional?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The judiciary, because courts check laws against the Constitution."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The legislature, because the House that passed a law decides if it is valid."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The executive, because it can refuse to enforce a law it dislikes."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The voters, because they can choose a new government at the next election."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The judiciary has the power to declare a law unconstitutional if it does not agree with the Constitution. A legislature can change its own law, but that is a different thing from testing it against the Constitution. The executive implements laws; it does not judge them. An election chooses representatives; it does not test a law."
+  },
+  "hints": [
+    {
+      "en": "Which organ has the job of interpreting the Constitution and the laws?"
+    }
+  ],
+  "tags": [
+    "judiciary",
+    "checks-and-balances",
+    "rule-of-law"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.516Z"
+  }
+}

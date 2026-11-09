@@ -1,0 +1,16 @@
+{
+  "id": "blk-l03-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Nobody Is Above the Law\n\n<!-- STEP id=\"same-rules-for-all\" -->\n## The Captain and the Umpire\n\nIn cricket, a captain cannot overrule the umpire by shouting louder, because both follow the rules of the game. In the same way, the **Rule of Law** means that no one is above the law: a minister and a student follow the same law.\n\n<!-- STEP id=\"court-not-force\" -->\n## Disputes Go to Court\n\nWhen laws are violated, disputes are resolved in a court of law, not by force or personal influence. No citizen can be punished without following the procedure established by law, and everyone gets a fair chance to defend their rights.\n\n<!-- STEP id=\"what-about-the-powerful\" -->\n## What About Powerful People?\n\nA powerful person might ask an official to drop a case, perhaps in one phone call. Under the Rule of Law, that call must change nothing, because the case follows the same procedure.\n\n**The Rule of Law prevents misuse of power and protects people's rights.**"
+  },
+  "simulation": {
+    "src": "simulations/L03/RuleOfLawScalesScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.508Z"
+  }
+}

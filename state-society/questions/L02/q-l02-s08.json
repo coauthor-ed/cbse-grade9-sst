@@ -1,0 +1,53 @@
+{
+  "id": "q-l02-s08",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "statements": [
+    {
+      "id": "st1",
+      "text": {
+        "en": "By about 600 BCE, northern India had both monarchical states (rājyas) and republican states (gaṇas or saṁghas)."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "st2",
+      "text": {
+        "en": "All the states of northern India at this time were ruled by kings."
+      },
+      "isTrue": false
+    },
+    {
+      "id": "st3",
+      "text": {
+        "en": "A gaṇa, also called a saṁgha, was a republican state."
+      },
+      "isTrue": true
+    }
+  ],
+  "explanation": {
+    "en": "By about 600 BCE, the political landscape of northern India included different forms of organisation: monarchical states (rājyas) and republican states (gaṇas or saṁghas). So not every state was ruled by a king."
+  },
+  "hints": [
+    {
+      "en": "How many forms of state were there in northern India at this time?"
+    },
+    {
+      "en": "Rājya and gaṇa are two different forms."
+    }
+  ],
+  "tags": [
+    "rajya",
+    "gana",
+    "republic",
+    "evidence",
+    "statement-judgment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:09.784Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "q-l02-s01",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "assertion": {
+    "en": "Under First Past The Post, a party can win more than half of the seats with less than half of the votes."
+  },
+  "reason": {
+    "en": "Each constituency goes to the candidate with the most votes there, even if that candidate has less than 50 per cent."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both statements are true, but here the second does explain the first: small leads in many constituencies each win a whole seat."
+    },
+    "c": {
+      "en": "The assertion is true. A party can win 15 of 25 seats on 40 per cent of the votes."
+    },
+    "d": {
+      "en": "The reason is true. That is the rule of First Past The Post."
+    }
+  },
+  "explanation": {
+    "en": "Both are true, and the reason explains the assertion. Each constituency is won on its own, so a party that leads narrowly in many of them can hold most of the seats without most of the votes."
+  },
+  "hints": [
+    {
+      "en": "Check each statement alone first."
+    },
+    {
+      "en": "Think of a party that comes first in 15 of 25 constituencies with about 40 per cent in each."
+    }
+  ],
+  "tags": [
+    "proportional-representation",
+    "seats",
+    "majority",
+    "swarnalok"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:02.694Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L07/StationDiagnosisGameScene.js",
+  "objective": {
+    "en": "Which station is this? Read the climate graph, then pick the station from four."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:42.603Z",
+    "reviewedBy": "review-bar"
+  }
+}

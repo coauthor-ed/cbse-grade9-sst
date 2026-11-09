@@ -1,0 +1,67 @@
+{
+  "id": "q-l10-a2",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Egyptians called their land Kemet, \"the black\". What does the name point to?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The black stone of the Rosetta Stone"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The name is about the land. It has nothing to do with one stone found in 1799."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The dark rock used for the pyramids"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The pyramids in this chapter are built of pale limestone. The name is about soil."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The rich black soil left by the Nile"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The dark colour of the desert at night"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The name is for what is not desert: the river valley."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Every year the Nile flood left rich black mud on the fields. The land was named after the soil that fed it."
+  },
+  "hints": [
+    {
+      "en": "What did the flood leave behind on the fields?"
+    }
+  ],
+  "tags": [
+    "egypt",
+    "nile",
+    "kemet"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

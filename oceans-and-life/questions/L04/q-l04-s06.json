@@ -1,0 +1,131 @@
+{
+  "id": "q-l04-s06",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "On a map of ocean currents, one arrow in the Arabian Sea curves towards the southern tip of India, and one in the Bay of Bengal runs north-east. Both arrows are red. What is the nature of these two currents, and how does the map show it?"
+  },
+  "rubric": [
+    {
+      "id": "both-warm",
+      "label": {
+        "en": "Both currents near India are warm currents."
+      },
+      "level1": {
+        "en": "Are the two currents warm or cold?"
+      },
+      "clue": {
+        "en": "Both arrows near India show the same kind of current: warm."
+      },
+      "level2Template": {
+        "en": "The two currents near India are ___ currents."
+      },
+      "accepted": [
+        "warm",
+        "warmer"
+      ]
+    },
+    {
+      "id": "red-means-warm",
+      "label": {
+        "en": "Maps usually show warm currents in red and cold currents in blue, and both arrows are red."
+      },
+      "level1": {
+        "en": "What does the colour of an arrow tell you?"
+      },
+      "clue": {
+        "en": "On maps of ocean currents, red marks warm currents and blue marks cold currents."
+      },
+      "level2Template": {
+        "en": "Maps usually show warm currents in ___."
+      },
+      "accepted": [
+        "red",
+        "the colour red",
+        "a red colour"
+      ]
+    },
+    {
+      "id": "warmer-region",
+      "label": {
+        "en": "A warm current flows from a warmer region."
+      },
+      "level1": {
+        "en": "Where does the water of a warm current come from?"
+      },
+      "clue": {
+        "en": "A current is called warm because its water flows from a warmer region."
+      },
+      "level2Template": {
+        "en": "A warm current is one that flows from a ___ region."
+      },
+      "accepted": [
+        "warmer",
+        "warm",
+        "hotter"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The two arrows"
+      },
+      "text": {
+        "en": "On this map, two arrows lie close to the coasts of India, one in the Arabian Sea and one in the Bay of Bengal."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Their nature"
+      },
+      "text": {
+        "en": "The two currents near India are ___ currents."
+      },
+      "rubricId": "both-warm"
+    },
+    {
+      "eyebrow": {
+        "en": "The evidence"
+      },
+      "text": {
+        "en": "We can tell from the colour, because maps usually show warm currents in ___."
+      },
+      "rubricId": "red-means-warm"
+    },
+    {
+      "eyebrow": {
+        "en": "What the word means"
+      },
+      "text": {
+        "en": "A warm current is one that flows from a ___ region."
+      },
+      "rubricId": "warmer-region"
+    }
+  ],
+  "explanation": {
+    "en": "Both currents near India are warm. The map shows them in red, and red marks a current that flows from a warmer region."
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L04/exp-q-l04-s06.json"
+      }
+    ]
+  },
+  "tags": [
+    "ocean-currents",
+    "indian-coast",
+    "map-reading"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:34.781Z",
+    "reviewedBy": "review-bar"
+  },
+  "mode": "coach"
+}

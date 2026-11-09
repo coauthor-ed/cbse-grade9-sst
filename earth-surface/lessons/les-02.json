@@ -1,0 +1,53 @@
+{
+  "id": "les-02",
+  "lessonId": "les-02",
+  "type": "lesson",
+  "title": {
+    "en": "What are plates, and how do they meet?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L02/blk-l02-s03.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s04.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s02.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s01.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s02.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s01.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s05.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s03.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-a01.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s07.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s08.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s04.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:18.497Z",
+    "reviewedBy": "review-bar"
+  }
+}

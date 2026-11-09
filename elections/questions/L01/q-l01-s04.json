@@ -1,0 +1,95 @@
+{
+  "id": "q-l01-s04",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Sort each office into the way it is filled: a direct election, where your ballot names the holder, or an indirect one, where you choose representatives and they then choose."
+  },
+  "categories": [
+    {
+      "id": "direct",
+      "label": {
+        "en": "Direct - your ballot names the holder"
+      }
+    },
+    {
+      "id": "indirect",
+      "label": {
+        "en": "Indirect - representatives choose the holder"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-lok-sabha",
+      "text": {
+        "en": "Member of the Lok Sabha"
+      },
+      "correctCategoryId": "direct"
+    },
+    {
+      "id": "chip-vidhan-sabha",
+      "text": {
+        "en": "Member of the Vidhan Sabha"
+      },
+      "correctCategoryId": "direct"
+    },
+    {
+      "id": "chip-panchayat",
+      "text": {
+        "en": "Member of a Panchayat"
+      },
+      "correctCategoryId": "direct"
+    },
+    {
+      "id": "chip-municipal",
+      "text": {
+        "en": "Member of a municipal corporation"
+      },
+      "correctCategoryId": "direct"
+    },
+    {
+      "id": "chip-president",
+      "text": {
+        "en": "The President"
+      },
+      "correctCategoryId": "indirect"
+    },
+    {
+      "id": "chip-vice-president",
+      "text": {
+        "en": "The Vice President"
+      },
+      "correctCategoryId": "indirect"
+    },
+    {
+      "id": "chip-rajya-sabha",
+      "text": {
+        "en": "Member of the Rajya Sabha"
+      },
+      "correctCategoryId": "indirect"
+    }
+  ],
+  "explanation": {
+    "en": "Direct: the Lok Sabha, the Vidhan Sabha and members of local bodies such as Panchayats and municipal corporations. Indirect: the President, the Vice President and members of the Rajya Sabha, chosen by elected representatives. An indirect election still starts with votes of citizens."
+  },
+  "hints": [
+    {
+      "en": "Ask: do citizens vote for this person themselves, or do representatives make the choice?"
+    }
+  ],
+  "tags": [
+    "direct-election",
+    "indirect-election",
+    "lok-sabha",
+    "rajya-sabha",
+    "panchayat"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:20:58.653Z",
+    "reviewedBy": "review-bar"
+  }
+}

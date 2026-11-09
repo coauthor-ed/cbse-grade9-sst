@@ -1,0 +1,73 @@
+{
+  "id": "q-l10-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which of these reduces the friction that holds snow together on a slope?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A long spell of cold, calm weather"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Cold, calm weather melts nothing, so the grip between the grains stays."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A sudden rise in temperature"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Partial melting reduces the friction that holds the snow together."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Snow fences built on the slope"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Snow fences are a safety measure. They help to hold snow in place."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A forecast of more snow"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A forecast only warns people. It changes nothing in the snow."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A sudden rise in temperature causes partial melting, and that reduces the friction holding the snow together. Heavy snowfall adds weight, wind makes fragile layers, and vibrations can set the slope off."
+  },
+  "hints": [
+    {
+      "en": "Which option changes the snow itself?"
+    }
+  ],
+  "tags": [
+    "avalanche",
+    "landslide",
+    "snowpack",
+    "trigger",
+    "himalaya"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:56.194Z",
+    "reviewedBy": "review-bar"
+  }
+}

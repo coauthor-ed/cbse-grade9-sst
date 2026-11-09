@@ -1,0 +1,63 @@
+{
+  "id": "q-l02-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A parcel of air is lifted from 20 km to 30 km in the stratosphere and left there. It is not warmed on the way up. Which statement about it is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It becomes colder, because the air around it at 30 km is colder than the air at 20 km."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It becomes warmer, because the stratosphere is one of the two layers where temperature rises with altitude."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It stays at its original temperature, because a parcel of air carries its own heat with it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It becomes colder, because the air is thinner at 30 km and thinner air cannot hold heat."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "A lifted parcel takes on the temperature of the air it is lifted into, and in the stratosphere that temperature is higher at 30 km than at 20 km. The parcel-versus-column distinction is the whole point: the column's trace rises through this band, so a parcel placed higher in it ends up warmer."
+  },
+  "hints": [
+    {
+      "en": "Ask whether the temperature is rising or falling with altitude in the band the parcel is sitting in."
+    },
+    {
+      "en": "Two of the four segments of the line go up. Which two?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "layers",
+    "stratosphere",
+    "temperature"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:11.924Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-l01-s02",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "assertion": {
+    "en": "Periodic elections keep elected representatives accountable to the people."
+  },
+  "reason": {
+    "en": "At each election, voters can choose the same representative again or replace that person."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both statements are true, and here the second one does explain the first: the chance to replace someone is what makes that person answer to the voters."
+    },
+    "c": {
+      "en": "The assertion is true. Elected representatives are accountable to the people through periodic elections."
+    },
+    "d": {
+      "en": "The reason is true. At each election voters may keep a representative or choose someone else."
+    }
+  },
+  "explanation": {
+    "en": "Both statements are true, and the reason explains the assertion. Representatives must answer to voters because voters get a regular chance to keep or replace them."
+  },
+  "hints": [
+    {
+      "en": "Check each statement alone first. Then ask: does the second say why the first happens?"
+    }
+  ],
+  "tags": [
+    "accountability",
+    "mandate",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:20:58.653Z",
+    "reviewedBy": "review-bar"
+  }
+}

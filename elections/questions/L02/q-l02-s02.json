@@ -1,0 +1,35 @@
+{
+  "id": "q-l02-s02",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A country has 25 seats and uses First Past The Post. Party A wins 15 seats, Party B wins 7 and Party C wins 3. What percentage of the seats does Party A hold?"
+  },
+  "expectedValue": 60,
+  "tolerance": 0,
+  "unit": "per cent",
+  "explanation": {
+    "en": "15 out of 25 is 15 ÷ 25 = 0.6, which is 60 per cent. Party A can hold 60 per cent of the seats even if its share of the votes is much lower."
+  },
+  "hints": [
+    {
+      "en": "Divide the seats won by the total number of seats."
+    },
+    {
+      "en": "15 ÷ 25 = 0.6. Now write it as a percentage."
+    }
+  ],
+  "tags": [
+    "fptp",
+    "plurality",
+    "seats",
+    "haritbhumi"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:02.694Z",
+    "reviewedBy": "review-bar"
+  }
+}

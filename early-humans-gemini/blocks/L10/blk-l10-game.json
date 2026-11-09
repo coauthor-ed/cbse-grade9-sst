@@ -1,0 +1,14 @@
+{
+  "id": "blk-l10-game",
+  "type": "mini-game@1",
+  "src": "simulations/L10/KeepTheCalendarGame.js",
+  "objective": {
+    "en": "The calendar slips a quarter of a day every year. Run the years forward, then pick when it is a full month off."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

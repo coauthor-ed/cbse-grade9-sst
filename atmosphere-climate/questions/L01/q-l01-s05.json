@@ -1,0 +1,113 @@
+{
+  "id": "q-l01-s05",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each item: a main gas of the air, a gas found in tiny amounts, or not a gas at all."
+  },
+  "categories": [
+    {
+      "id": "constant",
+      "label": {
+        "en": "Main gases"
+      }
+    },
+    {
+      "id": "trace",
+      "label": {
+        "en": "Gases in tiny amounts"
+      }
+    },
+    {
+      "id": "notgas",
+      "label": {
+        "en": "Not a gas"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-nitrogen",
+      "text": {
+        "en": "Nitrogen"
+      },
+      "correctCategoryId": "constant"
+    },
+    {
+      "id": "chip-oxygen",
+      "text": {
+        "en": "Oxygen"
+      },
+      "correctCategoryId": "constant"
+    },
+    {
+      "id": "chip-argon",
+      "text": {
+        "en": "Argon"
+      },
+      "correctCategoryId": "trace"
+    },
+    {
+      "id": "chip-co2",
+      "text": {
+        "en": "Carbon dioxide"
+      },
+      "correctCategoryId": "trace"
+    },
+    {
+      "id": "chip-ozone",
+      "text": {
+        "en": "Ozone"
+      },
+      "correctCategoryId": "trace"
+    },
+    {
+      "id": "chip-xenon",
+      "text": {
+        "en": "Xenon"
+      },
+      "correctCategoryId": "trace"
+    },
+    {
+      "id": "chip-vapour",
+      "text": {
+        "en": "Water vapour"
+      },
+      "correctCategoryId": "trace"
+    },
+    {
+      "id": "chip-dust",
+      "text": {
+        "en": "Tiny dust particles"
+      },
+      "correctCategoryId": "notgas"
+    },
+    {
+      "id": "chip-drop",
+      "text": {
+        "en": "A falling raindrop"
+      },
+      "correctCategoryId": "notgas"
+    }
+  ],
+  "explanation": {
+    "en": "Nitrogen and oxygen together make up about 99 per cent of the air. Argon, carbon dioxide, ozone, xenon and water vapour are all gases, but each is under 1 per cent. Dust is solid and a raindrop is liquid, so neither is a gas."
+  },
+  "hints": [
+    {
+      "en": "First ask whether the item is a gas at all. Then ask whether its share is more than 1 per cent."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "composition",
+    "gases"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:06.382Z",
+    "reviewedBy": "review-bar"
+  }
+}

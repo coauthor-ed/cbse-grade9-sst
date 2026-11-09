@@ -1,0 +1,16 @@
+{
+  "id": "blk-l03-s09b",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Rights, Duties and Directive Principles\n\n<!-- STEP id=\"rights-card\" -->\n## Fundamental Rights\n\nThe Constitution sets out three different things. **Fundamental Rights** are claims that citizens can make, and a court can enforce them.\n\n<!-- STEP id=\"duties-card\" -->\n## Fundamental Duties\n\n**Fundamental Duties** are what the Constitution asks of citizens, such as respecting the Constitution and protecting public property.\n\n<!-- STEP id=\"principles-card\" -->\n## Directive Principles\n\n**Directive Principles of State Policy** guide the State when it makes policy, but a court does not enforce them. Article 46 is one, and you will meet it in Lesson 4.\n\n**Rights belong to citizens, duties are asked of citizens, and Directive Principles guide the State.**"
+  },
+  "simulation": {
+    "src": "simulations/L03/DutiesScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-11-01T00:00:00.000Z",
+    "flags": []
+  }
+}

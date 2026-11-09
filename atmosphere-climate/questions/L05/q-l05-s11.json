@@ -1,0 +1,84 @@
+{
+  "id": "q-l05-s11",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "tags": [
+    "atmosphere"
+  ],
+  "stem": {
+    "en": "Sort each statement by the monsoon it describes."
+  },
+  "categories": [
+    {
+      "id": "sw",
+      "label": {
+        "en": "South-west monsoon"
+      }
+    },
+    {
+      "id": "ne",
+      "label": {
+        "en": "North-east monsoon"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "c1",
+      "text": {
+        "en": "Blows from sea to land"
+      },
+      "correctCategoryId": "sw"
+    },
+    {
+      "id": "c2",
+      "text": {
+        "en": "June to September"
+      },
+      "correctCategoryId": "sw"
+    },
+    {
+      "id": "c3",
+      "text": {
+        "en": "Low pressure over the Indian subcontinent"
+      },
+      "correctCategoryId": "sw"
+    },
+    {
+      "id": "c4",
+      "text": {
+        "en": "Blows from land to sea"
+      },
+      "correctCategoryId": "ne"
+    },
+    {
+      "id": "c5",
+      "text": {
+        "en": "October to February"
+      },
+      "correctCategoryId": "ne"
+    },
+    {
+      "id": "c6",
+      "text": {
+        "en": "High pressure over the Indian landmass"
+      },
+      "correctCategoryId": "ne"
+    }
+  ],
+  "explanation": {
+    "en": "The south-west or summer monsoon blows from sea to land from June to September, towards low pressure over the land. The north-east or winter monsoon blows from land to sea from October to February, out of high pressure over the land."
+  },
+  "hints": [
+    {
+      "en": "Summer: is the land hot or cold? Which way does the air then move?"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T08:20:31.000Z",
+    "reviewedBy": "owner"
+  }
+}

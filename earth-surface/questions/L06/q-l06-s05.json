@@ -1,0 +1,96 @@
+{
+  "id": "q-l06-s05",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Did the sea build this landform by laying material down, or make it by wearing rock away?"
+  },
+  "categories": [
+    {
+      "id": "built",
+      "label": {
+        "en": "Built by deposition"
+      }
+    },
+    {
+      "id": "cut",
+      "label": {
+        "en": "Made by erosion"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Beach"
+      },
+      "correctCategoryId": "built"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Sand bar"
+      },
+      "correctCategoryId": "built"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Sea cliff"
+      },
+      "correctCategoryId": "cut"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Sea cave"
+      },
+      "correctCategoryId": "cut"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "Sea arch"
+      },
+      "correctCategoryId": "cut"
+    },
+    {
+      "id": "chip-6",
+      "text": {
+        "en": "Sea stack"
+      },
+      "correctCategoryId": "cut"
+    },
+    {
+      "id": "chip-7",
+      "text": {
+        "en": "Shore platform"
+      },
+      "correctCategoryId": "cut"
+    }
+  ],
+  "explanation": {
+    "en": "Beaches and sand bars are laid down from sand and pebbles. Cliffs, caves, arches and stacks are what remains after waves wear rock away, and a shore platform is left as a cliff retreats."
+  },
+  "hints": [
+    {
+      "en": "Is it made of loose sand, or is it solid rock with parts missing?"
+    }
+  ],
+  "tags": [
+    "coastal-erosion",
+    "deposition",
+    "beach",
+    "sand-bar",
+    "shore-platform",
+    "sea-arch"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:36.458Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "q-l03-s09b",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "tags": [
+    "tides",
+    "tidal-bulge"
+  ],
+  "stem": {
+    "en": "The Moon stands over one side of the Earth. Where does the sea bulge?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Only on the side facing the Moon"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. That gives one high tide a day, but most coasts have two."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Only on the side away from the Moon"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The water on the near side is pulled most, so it bulges too."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "On the two sides at right angles to it"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Those are the places with low tide."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "On the near side and the far side"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Near water is pulled ahead and far water is left behind."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The Moon pulls the near water most, the centre of the Earth less and the far water least. So the sea is stretched both ways into two bulges. As the Earth turns, a place meets both."
+  },
+  "hints": [
+    {
+      "en": "Compare the pull on the near water, the centre of the Earth and the far water."
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T15:43:10.000Z",
+    "reviewedBy": "owner"
+  }
+}

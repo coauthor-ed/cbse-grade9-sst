@@ -1,0 +1,71 @@
+{
+  "id": "q-l03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The Arthaśhāstra and the Śhānti Parva both describe a king's duties. What can a historian safely conclude from these texts alone?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Every king of the period protected his people and gave fair justice."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The authors expected a ruler to protect people and to ensure justice."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Kings wrote these texts to record what they had done."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No king of the period ever failed in his duties."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L03/exp-q-l03-s04.json"
+      }
+    ]
+  },
+  "explanation": {
+    "en": "These texts describe what a king should do, so they tell us about ideas of governance. They do not prove that every king acted in this way."
+  },
+  "hints": [
+    {
+      "en": "Does a text about what a king should do tell you what a king actually did?"
+    },
+    {
+      "en": "Look for the option that speaks about expectations."
+    }
+  ],
+  "tags": [
+    "justice",
+    "punishment",
+    "duties-of-the-king",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:14.624Z",
+    "reviewedBy": "review-bar"
+  }
+}

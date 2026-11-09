@@ -1,0 +1,123 @@
+{
+  "id": "q-l08-s04a",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "prompt": {
+    "en": "A chart compares three countries. Country A has voting rights, two or more parties and an average standard of living. Country B has voting rights, one party and an above-average standard of living. Country C has no voting rights, no party and a high standard of living. In three sentences, explain what the chart shows about voting rights and standard of living."
+  },
+  "rubric": [
+    {
+      "id": "highest-no-vote",
+      "label": {
+        "en": "Country C has the highest standard of living in the chart, yet it has no voting rights."
+      },
+      "level1": {
+        "en": "Which country has the highest standard of living? Can its people vote?"
+      },
+      "clue": {
+        "en": "Country C has a high standard of living, a monarchy, no voting rights and no political party."
+      },
+      "level2Template": {
+        "en": "Country ___ has the highest standard of living, yet it has no voting rights."
+      },
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "id": "a-b-differ",
+      "label": {
+        "en": "Countries A and B both have voting rights, but they differ in the choice of parties that voters have."
+      },
+      "level1": {
+        "en": "Both A and B have voting rights. What is different about them?"
+      },
+      "clue": {
+        "en": "Country A has a two-party or multi-party system. Country B has one political party."
+      },
+      "level2Template": {
+        "en": "Countries A and B both have voting rights, but they differ in the number of ___."
+      },
+      "accepted": [
+        "parties",
+        "political parties"
+      ]
+    },
+    {
+      "id": "separate",
+      "label": {
+        "en": "The standard of living in a country therefore does not tell us about its political rights."
+      },
+      "level1": {
+        "en": "Could you guess a country's voting rights from its standard of living in this chart?"
+      },
+      "clue": {
+        "en": "In the chart, the country with the highest standard of living has the fewest political rights."
+      },
+      "level2Template": {
+        "en": "The standard of living therefore does not tell us about a country's political ___."
+      },
+      "accepted": [
+        "rights",
+        "freedoms",
+        "choices"
+      ]
+    }
+  ],
+  "explanation": {
+    "en": "The chart keeps two things apart. The country with the highest standard of living has no voting rights, and the two countries with voting rights differ in their choice of parties. The chart does not say which country is best."
+  },
+  "hints": [
+    {
+      "en": "Look at each country's political side and economic side, one country at a time."
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "The highest standard"
+      },
+      "text": {
+        "en": "Country C has the highest standard of living in the chart, yet its people have no voting rights."
+      },
+      "rubricId": "highest-no-vote"
+    },
+    {
+      "eyebrow": {
+        "en": "Two with a vote"
+      },
+      "text": {
+        "en": "Countries A and B both have voting rights, but voters in A can choose between parties and voters in B have one party."
+      },
+      "rubricId": "a-b-differ"
+    },
+    {
+      "eyebrow": {
+        "en": "What follows"
+      },
+      "text": {
+        "en": "The standard of living in a country therefore does not tell us about its political rights."
+      },
+      "rubricId": "separate"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "three-countries",
+    "free-and-fair",
+    "comparative-table",
+    "question-9"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:29.638Z",
+    "reviewedBy": "review-bar"
+  }
+}

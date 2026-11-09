@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 660" role="img" font-family="Verdana, 'DejaVu Sans', sans-serif">
+  <title>Human brain, lateral view</title>
+  <defs>
+    <radialGradient id="brainG" cx="0.42" cy="0.38" r="0.85">
+      <stop offset="0" stop-color="#f3d3ca"/><stop offset="0.75" stop-color="#e3aeab"/><stop offset="1" stop-color="#d29a9c"/>
+    </radialGradient>
+    <linearGradient id="cblmG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e0a8a6"/><stop offset="1" stop-color="#c9838a"/>
+    </linearGradient>
+    <clipPath id="cerebrumClip">
+      <path d="M 138 296 C 134 236 168 168 240 128 C 316 88 420 76 510 88 C 596 99 668 134 716 186 C 752 224 772 272 770 316 C 768 354 750 388 716 408 C 700 418 680 424 660 424 C 650 446 630 462 606 466 C 590 470 574 468 562 460 C 520 472 470 478 424 472 C 380 466 344 452 318 434 C 282 442 240 432 208 406 C 168 374 142 338 138 296 Z"/>
+    </clipPath>
+  </defs>
+
+  <rect width="900" height="660" fill="#faf4ec"/>
+  <ellipse cx="460" cy="612" rx="320" ry="24" fill="#000" opacity="0.05"/>
+
+  <!-- brain stem (drawn first so cerebrum overlaps its top) -->
+  <g>
+    <path d="M 592 516 C 590 538 592 560 598 580 C 602 594 610 602 620 602 C 630 602 636 594 634 580 C 630 560 628 538 628 518 Z" fill="#eebfb4" stroke="#9c5f66" stroke-width="3"/>
+    <path d="M 606 600 C 606 618 608 634 612 650" stroke="#9c5f66" stroke-width="26" fill="none" stroke-linecap="round"/>
+    <path d="M 606 600 C 606 618 608 634 612 650" stroke="#eebfb4" stroke-width="20" fill="none" stroke-linecap="round"/>
+    <path d="M 574 434 C 570 468 578 500 598 518 C 606 526 616 526 622 518 C 634 502 636 476 628 450 C 622 432 610 422 598 422 C 586 422 578 426 574 434 Z" fill="#eebfb4" stroke="#9c5f66" stroke-width="3"/>
+    <path d="M 582 444 C 596 440 614 442 624 452 M 580 462 C 596 458 616 460 628 470 M 582 480 C 598 476 616 478 628 488 M 588 498 C 602 495 614 497 622 504" stroke="#c98d84" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- cerebellum -->
+  <g>
+    <path d="M 664 428 C 666 402 692 388 724 392 C 764 398 792 430 790 470 C 788 512 754 540 712 540 C 674 540 646 516 644 482 C 643 460 651 440 664 428 Z" fill="url(#cblmG)" stroke="#9c5f66" stroke-width="3"/>
+    <path d="M 652 452 C 684 438 738 436 780 456 M 648 478 C 684 464 744 462 786 482 M 652 504 C 686 492 740 490 778 506 M 668 526 C 696 516 736 514 764 524" stroke="#9c5f66" stroke-width="2" fill="none" opacity="0.6"/>
+    <path d="M 716 470 C 710 452 714 438 724 426 M 716 470 C 722 454 734 446 748 444 M 716 470 C 708 460 696 456 684 458" stroke="#f4ded8" stroke-width="4" fill="none" opacity="0.85"/>
+  </g>
+
+  <!-- cerebrum base -->
+  <path d="M 138 296 C 134 236 168 168 240 128 C 316 88 420 76 510 88 C 596 99 668 134 716 186 C 752 224 772 272 770 316 C 768 354 750 388 716 408 C 700 418 680 424 660 424 C 650 446 630 462 606 466 C 590 470 574 468 562 460 C 520 472 470 478 424 472 C 380 466 344 452 318 434 C 282 442 240 432 208 406 C 168 374 142 338 138 296 Z" fill="url(#brainG)"/>
+
+  <g clip-path="url(#cerebrumClip)">
+    <!-- lobe tints -->
+    <path d="M 138 296 C 134 236 168 168 240 128 C 300 100 360 90 410 92 C 420 140 416 200 400 250 C 390 300 372 350 350 396 C 340 416 330 428 318 434 C 282 442 240 432 208 406 C 168 374 142 338 138 296 Z" fill="#7fadd9" opacity="0.30"/>
+    <path d="M 410 92 C 470 86 540 96 596 112 C 640 150 660 200 656 252 C 640 300 600 330 560 344 C 520 356 470 350 440 330 C 416 300 406 260 402 220 C 399 176 402 132 410 92 Z" fill="#93c08b" opacity="0.30"/>
+    <path d="M 318 434 C 344 452 380 466 424 472 C 470 478 520 472 562 460 C 574 468 590 470 606 466 C 630 462 650 446 660 424 L 640 428 C 600 436 552 436 504 430 C 448 423 398 410 366 392 Z" fill="#e3b45f" opacity="0.32"/>
+    <path d="M 716 186 C 752 224 772 272 770 316 C 768 354 750 388 716 408 C 700 418 680 424 660 424 C 656 380 658 332 664 288 C 670 240 688 208 716 186 Z" fill="#a98fd0" opacity="0.35"/>
+    <ellipse cx="300" cy="190" rx="130" ry="60" fill="#ffffff" opacity="0.18" transform="rotate(-18 300 190)"/>
+
+    <!-- gyri (folds) -->
+    <g stroke="#a35b58" stroke-width="4" fill="none" opacity="0.5" stroke-linecap="round">
+      <path d="M 165 300 q 18 -20 36 -2 q 18 18 36 0 q 18 -18 36 -2 q 18 16 34 0"/>
+      <path d="M 175 250 q 16 -18 34 -4 q 18 14 36 -2 q 16 -16 34 -2 q 16 14 34 0"/>
+      <path d="M 192 202 q 16 -16 34 -4 q 16 12 34 -2 q 16 -14 34 -2"/>
+      <path d="M 225 158 q 16 -14 34 -4 q 16 12 34 -2 q 16 -12 34 -2 q 16 12 34 -2"/>
+      <path d="M 300 122 q 18 -12 36 -2 q 18 10 36 -2 q 18 -12 36 -2 q 18 10 36 -2"/>
+      <path d="M 405 104 q 20 -8 40 0 q 20 8 40 0 q 20 -8 40 0 q 20 8 40 0 q 20 -8 40 0"/>
+      <path d="M 435 152 q 20 -12 40 -2 q 20 10 40 -2 q 20 -12 40 -2 q 20 10 40 -2"/>
+      <path d="M 458 202 q 20 -14 40 -2 q 20 12 40 -2 q 20 -14 40 -2 q 20 12 40 -2"/>
+      <path d="M 462 254 q 20 -14 40 -2 q 20 12 40 -2 q 20 -14 40 -2 q 20 12 40 -2 q 20 -12 40 -2"/>
+      <path d="M 445 306 q 20 -12 40 -2 q 20 10 40 -2 q 20 -12 40 -2 q 20 10 40 -2"/>
+      <path d="M 330 420 q 20 -10 40 -2 q 20 8 40 -2 q 20 -10 40 -2 q 20 8 40 -2 q 20 -10 40 -2"/>
+      <path d="M 350 452 q 20 -8 40 -2 q 20 8 40 -2 q 20 -8 40 -2 q 20 8 40 -2"/>
+      <path d="M 596 300 q 20 -16 40 -2 q 20 14 40 -2 q 20 -16 40 -2 q 20 14 40 -2"/>
+      <path d="M 578 352 q 20 -14 40 -2 q 20 12 40 -2 q 20 -14 40 -2"/>
+      <path d="M 556 392 q 20 -12 40 -2 q 20 10 40 -2 q 20 -12 40 -2"/>
+    </g>
+
+    <!-- sulci -->
+    <path d="M 426 92 C 416 150 406 210 396 264 C 391 292 386 318 378 342" stroke="#8a4a48" stroke-width="5" fill="none" opacity="0.85" stroke-linecap="round"/>
+    <path d="M 298 394 C 356 414 436 424 504 418 C 548 414 578 400 592 378 C 597 369 601 359 602 350" stroke="#8a4a48" stroke-width="6" fill="none" opacity="0.85" stroke-linecap="round"/>
+  </g>
+
+  <!-- crisp outline on top -->
+  <path d="M 138 296 C 134 236 168 168 240 128 C 316 88 420 76 510 88 C 596 99 668 134 716 186 C 752 224 772 272 770 316 C 768 354 750 388 716 408 C 700 418 680 424 660 424 C 650 446 630 462 606 466 C 590 470 574 468 562 460 C 520 472 470 478 424 472 C 380 466 344 452 318 434 C 282 442 240 432 208 406 C 168 374 142 338 138 296 Z" fill="none" stroke="#a05f60" stroke-width="3"/>
+
+
+</svg>

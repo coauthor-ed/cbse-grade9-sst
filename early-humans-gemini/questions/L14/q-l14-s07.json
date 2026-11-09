@@ -1,0 +1,145 @@
+{
+  "id": "q-l14-s07",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Each of the four civilisations had its own achievements. Put each one under its civilisation."
+  },
+  "categories": [
+    {
+      "id": "sindhu-sarasvati",
+      "label": {
+        "en": "Sindhu–Sarasvatī Civilisation"
+      }
+    },
+    {
+      "id": "mesopotamian",
+      "label": {
+        "en": "Mesopotamian Civilisation"
+      }
+    },
+    {
+      "id": "egyptian",
+      "label": {
+        "en": "Egyptian Civilisation"
+      }
+    },
+    {
+      "id": "chinese",
+      "label": {
+        "en": "Chinese Civilisation"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-cuneiform",
+      "text": {
+        "en": "Cuneiform script"
+      },
+      "correctCategoryId": "mesopotamian"
+    },
+    {
+      "id": "chip-base-60",
+      "text": {
+        "en": "Base-60 mathematical system"
+      },
+      "correctCategoryId": "mesopotamian"
+    },
+    {
+      "id": "chip-ziggurat",
+      "text": {
+        "en": "Stepped mud-brick ziggurat"
+      },
+      "correctCategoryId": "mesopotamian"
+    },
+    {
+      "id": "chip-hammurabi",
+      "text": {
+        "en": "Code of Hammurabi"
+      },
+      "correctCategoryId": "mesopotamian"
+    },
+    {
+      "id": "chip-hieroglyphs",
+      "text": {
+        "en": "Hieroglyphs and papyrus scrolls"
+      },
+      "correctCategoryId": "egyptian"
+    },
+    {
+      "id": "chip-solar-calendar",
+      "text": {
+        "en": "365-day solar calendar"
+      },
+      "correctCategoryId": "egyptian"
+    },
+    {
+      "id": "chip-step-pyramid",
+      "text": {
+        "en": "Step Pyramid at Saqqara"
+      },
+      "correctCategoryId": "egyptian"
+    },
+    {
+      "id": "chip-oracle-bones",
+      "text": {
+        "en": "Oracle bone divination"
+      },
+      "correctCategoryId": "chinese"
+    },
+    {
+      "id": "chip-logographic",
+      "text": {
+        "en": "Characters that stand for whole words, still used today"
+      },
+      "correctCategoryId": "chinese"
+    },
+    {
+      "id": "chip-great-wall",
+      "text": {
+        "en": "The Great Wall frontier defence"
+      },
+      "correctCategoryId": "chinese"
+    },
+    {
+      "id": "chip-stone-weights",
+      "text": {
+        "en": "Cubical stone weights"
+      },
+      "correctCategoryId": "sindhu-sarasvati"
+    },
+    {
+      "id": "chip-gabarband",
+      "text": {
+        "en": "Gabarband check dams"
+      },
+      "correctCategoryId": "sindhu-sarasvati"
+    }
+  ],
+  "explanation": {
+    "en": "Mesopotamia: cuneiform, base 60, ziggurats and the Code of Hammurabi. Egypt: hieroglyphs on papyrus, the 365-day calendar and the Step Pyramid. China: oracle bones, a logographic script and the Great Wall. Sindhu-Sarasvati: cubical weights and gabarbands."
+  },
+  "hints": [
+    {
+      "en": "A reed pressed into clay and a temple that was also a treasury: which river plain had both?"
+    },
+    {
+      "en": "Cubical weights going up in doubling steps belong to which civilisation?"
+    }
+  ],
+  "tags": [
+    "ancient-civilisations",
+    "mesopotamia",
+    "egypt",
+    "china",
+    "indus-valley",
+    "innovations"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

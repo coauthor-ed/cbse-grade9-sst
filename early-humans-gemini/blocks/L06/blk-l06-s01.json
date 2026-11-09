@@ -1,0 +1,28 @@
+{
+  "id": "blk-l06-s01",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s01.md",
+  "image": {
+    "src": "media/L06/L06S01.jpg",
+    "alt": "A drawing of the excavated settlement at Mehrgarh from above: a grid of rectangular sun-dried brick walls, partitioned into small rooms and compartments.",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "reveal": {
+    "images": {
+      "bins": {
+        "src": "media/L06/L06S01-b2.jpg",
+        "alt": "A close view of excavated Mehrgarh walls: small rectangular mud-brick rooms beside long compartmentalised storage bins, all built of the same handmade sun-dried brick laid in even courses."
+      },
+      "valley": {
+        "src": "media/L06/L06S01-b3.jpg",
+        "alt": "The Bolan river valley in Baluchistan: a narrow green river corridor running down between arid rocky hills toward the open plain, with excavated mud-brick wall stumps in the foreground."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

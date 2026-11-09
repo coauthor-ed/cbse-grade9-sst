@@ -1,0 +1,14 @@
+{
+  "id": "blk-l04-game",
+  "type": "mini-game@1",
+  "src": "simulations/L04/KeepTheKitAliveGame.js",
+  "objective": {
+    "en": "Finish 5 hunts. There is only one spare handle in the kit, so keep it."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

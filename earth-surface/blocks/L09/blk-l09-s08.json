@@ -1,0 +1,15 @@
+{
+  "id": "blk-l09-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L09/RouteTheWaterScene.js",
+  "objective": {
+    "en": "Water only runs downhill, along open cracks. Tap its route from the rain to the cave mouth."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:51.498Z",
+    "reviewedBy": "review-bar"
+  }
+}

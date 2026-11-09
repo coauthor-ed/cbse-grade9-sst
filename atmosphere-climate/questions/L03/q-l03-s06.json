@@ -1,0 +1,35 @@
+{
+  "id": "q-l03-s06",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The Torrid Zone runs from the Tropic of Capricorn at 23½°S to the Tropic of Cancer at 23½°N. How many degrees of latitude does it cover?"
+  },
+  "expectedValue": 47,
+  "tolerance": 0.02,
+  "unit": "degrees",
+  "explanation": {
+    "en": "The two tropics lie on opposite sides of the equator, so add the two distances: 23.5 + 23.5 = 47 degrees of latitude."
+  },
+  "hints": [
+    {
+      "en": "One tropic is north of the equator and the other is south of it."
+    },
+    {
+      "en": "Add the distance from the equator to each tropic."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "temperature-zones",
+    "latitude",
+    "torrid-zone"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:22.666Z",
+    "reviewedBy": "review-bar"
+  }
+}

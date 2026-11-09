@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s07",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Case Study: Jethipura\n\n<!-- STEP id=\"meet-jethipura\" -->\n## An Award for Gram Sabhas\n\nJethipura Gram Panchayat, in Idar block, Sabarkantha, Gujarat, received the Nanaji Deshmukh Rashtriya Gaurav Gram Sabha Puraskar in 2019.\n\nIt held Gram Sabhas properly, kept records, and also organised Special Gram Sabhas.\n\n<!-- STEP id=\"quorum\" -->\n## Enough People in the Meeting\n\nA **quorum** is the minimum number of members needed to make a meeting valid. Jethipura ensured an adequate quorum.\n\nTry it: bring villagers until the meeting can decide. The numbers here are an example.\n\n<!-- STEP id=\"who-took-part\" -->\n## Who Took Part\n\nScheduled Castes, Scheduled Tribes and women took an active part, and women also met in **Mahila Sabhas**. The Panchayat acted in time on education, sanitation and the welfare of women and children.\n\n**A Gram Sabha works when all sections of the village take part.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/GramSabhaScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.521Z"
+  }
+}

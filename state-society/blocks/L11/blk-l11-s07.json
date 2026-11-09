@@ -1,0 +1,15 @@
+{
+  "id": "blk-l11-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L11/blk-l11-s07.md",
+  "simulation": {
+    "src": "simulations/L11/EndowmentScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z",
+    "reviewedBy": "review-bar"
+  }
+}

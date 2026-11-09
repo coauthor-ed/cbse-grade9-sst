@@ -1,0 +1,132 @@
+{
+  "id": "q-l07-s08",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Explain how developments during the Early Harappan stage led to the Mature Harappan cities. State three different factors."
+  },
+  "rubric": [
+    {
+      "id": "agricultural-surplus",
+      "label": {
+        "en": "Farming grew stronger through copper tools, fertile river plains, two crops from one field and check dams, which gave more food than people needed at once"
+      },
+      "level1": {
+        "en": "Farming intensified long before the mature cities existed. What changed in the fields and the water supply that let one harvest feed more people than before?"
+      },
+      "clue": {
+        "en": "Copper tools on the fertile plains, two crops from one field at Kalibangan and check dams (gabarbands) all helped people produce more food."
+      },
+      "level2Template": {
+        "en": "Farming improved through copper tools, check dams and growing two crops on one field, which gave a food ___."
+      },
+      "accepted": [
+        "surplus",
+        "food surplus",
+        "harvest surplus",
+        "crop surplus",
+        "prosperity"
+      ]
+    },
+    {
+      "id": "craft-specialisation",
+      "label": {
+        "en": "Crafts improved and were made on a large scale: pottery, semi-precious stone beads, shell bangles and copper work"
+      },
+      "level1": {
+        "en": "Beads, pottery, shell bangles - which of these were already being made at scale, long before any mature city stood?"
+      },
+      "clue": {
+        "en": "Regional pottery, stone beads (at Harappa, Kunal and Datrana), shell bangles and copper work all developed slowly."
+      },
+      "level2Template": {
+        "en": "Workshops improved crafts such as regional pottery, shell bangles and semi-precious stone ___ at sites like Harappa, Kunal and Datrana."
+      },
+      "accepted": [
+        "beads",
+        "beadmaking",
+        "bead production",
+        "stone beads"
+      ]
+    },
+    {
+      "id": "standardised-exchange",
+      "label": {
+        "en": "Regions became linked through trade, and early seals and marks on pots could be forerunners of the later seals and script"
+      },
+      "level1": {
+        "en": "Goods were moving between regions, and potters were marking their pots. What was linking these regions together?"
+      },
+      "clue": {
+        "en": "Early seals and graffiti on pots could be forerunners of the later seals and script, and goods such as shell moved between regions."
+      },
+      "level2Template": {
+        "en": "Regions were linked by ___, and early seals and marks on pots could be forerunners of the later seals and script."
+      },
+      "accepted": [
+        "trade",
+        "exchange",
+        "long-distance trade",
+        "economic integration",
+        "trade between regions"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "The Mature cities grew out of three main developments during the Early Harappan stage."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Agricultural foundation"
+      },
+      "text": {
+        "en": "Farming improved through copper tools, check dams and growing two crops on one field, which gave a food ___."
+      },
+      "rubricId": "agricultural-surplus"
+    },
+    {
+      "eyebrow": {
+        "en": "Craft specialisation"
+      },
+      "text": {
+        "en": "Workshops improved crafts such as regional pottery, shell bangles and semi-precious stone ___ at sites like Harappa, Kunal and Datrana."
+      },
+      "rubricId": "craft-specialisation"
+    },
+    {
+      "eyebrow": {
+        "en": "Links between regions"
+      },
+      "text": {
+        "en": "Regions were linked by ___, and early seals and marks on pots could be forerunners of the later seals and script."
+      },
+      "rubricId": "standardised-exchange"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "harappan",
+    "early-harappan",
+    "agriculture",
+    "trade",
+    "standardisation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

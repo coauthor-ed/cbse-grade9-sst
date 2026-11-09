@@ -1,0 +1,102 @@
+{
+  "id": "q-l11-s02",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Sort each item under the correct heading."
+  },
+  "categories": [
+    {
+      "id": "land",
+      "label": {
+        "en": "A type of village land"
+      }
+    },
+    {
+      "id": "chera",
+      "label": {
+        "en": "Rich in the Chera region"
+      }
+    },
+    {
+      "id": "deccan",
+      "label": {
+        "en": "Suited to the Deccan's black soil"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-fallow",
+      "text": {
+        "en": "Wasteland or fallow land"
+      },
+      "correctCategoryId": "land"
+    },
+    {
+      "id": "chip-dry",
+      "text": {
+        "en": "High and dry land"
+      },
+      "correctCategoryId": "land"
+    },
+    {
+      "id": "chip-groves",
+      "text": {
+        "en": "Groves"
+      },
+      "correctCategoryId": "land"
+    },
+    {
+      "id": "chip-jackfruit",
+      "text": {
+        "en": "Jackfruit"
+      },
+      "correctCategoryId": "chera"
+    },
+    {
+      "id": "chip-pepper",
+      "text": {
+        "en": "Pepper"
+      },
+      "correctCategoryId": "chera"
+    },
+    {
+      "id": "chip-turmeric",
+      "text": {
+        "en": "Turmeric"
+      },
+      "correctCategoryId": "chera"
+    },
+    {
+      "id": "chip-cotton",
+      "text": {
+        "en": "Cotton"
+      },
+      "correctCategoryId": "deccan"
+    }
+  ],
+  "explanation": {
+    "en": "Kauṭilya lists cultivated land, wasteland or fallow land, high and dry land, sown fields and groves as types of village land. Sangam texts describe the Chera region as rich in jackfruit, pepper and turmeric. The Deccan's black soil was particularly suitable for cotton."
+  },
+  "hints": [
+    {
+      "en": "Three of the items are kinds of ground, not crops."
+    },
+    {
+      "en": "Only one crop goes under the Deccan heading."
+    }
+  ],
+  "tags": [
+    "land",
+    "crops",
+    "match-categorize"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z",
+    "reviewedBy": "review-bar"
+  }
+}

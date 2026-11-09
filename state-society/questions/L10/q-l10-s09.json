@@ -1,0 +1,57 @@
+{
+  "id": "q-l10-s09",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "statements": [
+    {
+      "id": "st1",
+      "text": {
+        "en": "Centres of learning arose across the subcontinent before the second millennium CE."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "st2",
+      "text": {
+        "en": "Education in a gurukula was only a path to a career."
+      },
+      "isTrue": false
+    },
+    {
+      "id": "st3",
+      "text": {
+        "en": "Many knowledge traditions persisted despite the rise and fall of kingdoms."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "st4",
+      "text": {
+        "en": "Kālidāsa's Raghuvaṃśha belongs to the Tamil Sangam texts."
+      },
+      "isTrue": false
+    }
+  ],
+  "explanation": {
+    "en": "Institutions of higher learning arose before the second millennium CE, and many knowledge traditions persisted through political change. Education was a complete preparation for life, not just a path to a career. The Raghuvaṃśha is a Sanskrit poem by Kālidāsa, so it does not belong to the Tamil Sangam texts."
+  },
+  "hints": [
+    {
+      "en": "Check each statement against what you read about education and about the five shelves."
+    }
+  ],
+  "tags": [
+    "bhakti",
+    "centres-of-learning",
+    "sanskrit",
+    "evidence",
+    "statement-judgment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:49.938Z",
+    "reviewedBy": "review-bar"
+  }
+}

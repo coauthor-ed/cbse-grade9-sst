@@ -1,0 +1,61 @@
+{
+  "id": "q-l05-s06",
+  "type": "statement-judgment@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "statements": [
+    {
+      "id": "st1",
+      "text": {
+        "en": "The Pallavas combined a centralised monarchy with decentralised local governance."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "st2",
+      "text": {
+        "en": "A king who made a tax-free land grant stopped being the supreme head of the state."
+      },
+      "isTrue": false
+    },
+    {
+      "id": "st3",
+      "text": {
+        "en": "Villages that received tax-free land grants from the Pallavas were known as Brahmadeya villages."
+      },
+      "isTrue": true
+    },
+    {
+      "id": "st4",
+      "text": {
+        "en": "Some Chālukya agrahārams, such as those at Aihole and Badami, became prominent centres of learning."
+      },
+      "isTrue": true
+    }
+  ],
+  "explanation": {
+    "en": "The Pallava king stayed the supreme head of state while the kingdom was divided into provinces, districts, taluks and villages. His tax-free grants made Brahmadeya villages. The Chālukyas of Badami gave land to Brahmin settlements called agrahārams, and those at Aihole and Badami became prominent centres of learning."
+  },
+  "hints": [
+    {
+      "en": "A grant gave up the tax from one place. Ask whether that ended the king's position."
+    },
+    {
+      "en": "Brahmadeya is the Pallava word, and agrahāram is the Chālukya word."
+    }
+  ],
+  "tags": [
+    "pallava",
+    "chalukya",
+    "brahmadeya",
+    "agraharam",
+    "land-grant",
+    "statement-judgment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:24.273Z",
+    "reviewedBy": "review-bar"
+  }
+}

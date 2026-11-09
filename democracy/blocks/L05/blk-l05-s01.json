@@ -1,0 +1,16 @@
+{
+  "id": "blk-l05-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Forty Hands, or 96.8 Crore?\n\n<!-- STEP id=\"forty-hands\" -->\n## Forty Hands in One Room\n\nYour class must choose a place for the year-end trip. The teacher asks for a show of hands and counts them, and the class has decided. All forty of you took part yourselves.\n\n<!-- STEP id=\"crore-hands\" -->\n## Over 96.8 Crore Voters\n\nIndia has over 96.8 crore voters, living among mountains, deserts, forests, islands and big cities. No hall can hold them, and nobody could count so many hands.\n\nWe still call this a democracy, so the people must have some other way to hold power."
+  },
+  "simulation": {
+    "src": "simulations/L05/GatheringScaleScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.516Z"
+  }
+}

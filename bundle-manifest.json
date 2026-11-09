@@ -1,0 +1,29 @@
+{
+  "bundleManifestId": "cbse-grade9-sst",
+  "title": {
+    "en": "CBSE Grade 9 Social Science"
+  },
+  "sources": [
+    {
+      "manifestUrl": "democracy/manifest.json"
+    },
+    {
+      "manifestUrl": "early-humans-gemini/manifest.json"
+    },
+    {
+      "manifestUrl": "elections/manifest.json"
+    },
+    {
+      "manifestUrl": "atmosphere-climate/manifest.json"
+    },
+    {
+      "manifestUrl": "earth-surface/manifest.json"
+    },
+    {
+      "manifestUrl": "oceans-and-life/manifest.json"
+    },
+    {
+      "manifestUrl": "state-society/manifest.json"
+    }
+  ]
+}

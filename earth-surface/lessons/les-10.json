@@ -1,0 +1,68 @@
+{
+  "id": "les-10",
+  "lessonId": "les-10",
+  "type": "lesson",
+  "title": {
+    "en": "Which disasters come with which landforms, and how do we prepare?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L10/blk-l10-s01.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s02.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s03.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s01.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s02.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s07.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s07.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s04.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s03.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s05.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s04.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s06.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s06.json"
+    },
+    {
+      "blockRef": "questions/L10/q-l10-s05.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s09.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s11.json"
+    },
+    {
+      "blockRef": "blocks/L10/blk-l10-s10.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:56.194Z",
+    "reviewedBy": "review-bar"
+  }
+}

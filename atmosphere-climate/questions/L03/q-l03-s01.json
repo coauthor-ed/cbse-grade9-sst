@@ -1,0 +1,75 @@
+{
+  "id": "q-l03-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Two equal beams of sunlight reach the Earth at the same moment, one at the equator and one at 60°N. How do the two lit patches of ground compare?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The patch at the equator is smaller, so each part of it gets less energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The patch size is right, but a smaller patch packs the energy in, so each part gets more."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The patch at 60°N is smaller, so each part of it gets more energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "It is the other way round: a slanting beam spreads over a wider patch."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The two patches are equal, so each part gets the same energy."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Slant changes the patch. At 60°N the beam covers about twice as much ground."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The patch at the equator is smaller, so each part of it gets more energy."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The same energy falls on less ground."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A beam that strikes the ground straight on covers a small patch. A slanting beam spreads the same energy over a wider patch, so each part of the ground receives less. This is why insolation decreases from the equator towards the poles."
+  },
+  "hints": [
+    {
+      "en": "Shine a torch straight down on a table, then tilt it. What happens to the lit patch?"
+    },
+    {
+      "en": "The two beams carry equal energy. Which patch shares it among more ground?"
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "insolation",
+    "solar-angle",
+    "temperature"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:22.666Z",
+    "reviewedBy": "review-bar"
+  }
+}

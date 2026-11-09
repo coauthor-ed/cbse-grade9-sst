@@ -1,0 +1,10 @@
+{
+  "id": "blk-l08-s08",
+  "type": "content-block@1",
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T07:40:00.000Z", "reviewedBy": "owner"
+  },
+  "markdownRef": "blocks/L08/blk-l08-s08.md"
+}

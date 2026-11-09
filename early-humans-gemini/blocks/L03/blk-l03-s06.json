@@ -1,0 +1,33 @@
+{
+  "id": "blk-l03-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L03/blk-l03-s06.md",
+  "image": {
+    "src": "media/L03/L03S06.jpg",
+    "alt": "A plate of Middle Palaeolithic flake tools - scrapers, borers and pointed flakes in yellow-brown, red, brown and green fine-grained stone - arranged in rows against a dark background.",
+    "position": "right"
+  },
+  "simulation": {
+    "src": "simulations/L03/HaftedPointScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "simulationStep": 3,
+  "reveal": {
+    "images": {
+      "types": {
+        "src": "media/L03/L03S06-b2.jpg",
+        "alt": "A second plate of Middle Palaeolithic flake tools, arranged so the steep-edged scrapers, pointed borers and slim projectile points can be told apart by shape."
+      },
+      "point": {
+        "src": "media/L03/L03S06-b3.jpg",
+        "alt": "A single slim, sharply pointed stone flake lying beside a centimetre scale, small and light enough to balance on a fingertip."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

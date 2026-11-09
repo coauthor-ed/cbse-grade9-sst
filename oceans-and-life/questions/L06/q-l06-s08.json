@@ -1,0 +1,71 @@
+{
+  "id": "q-l06-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Seismic stations detect an undersea earthquake, but the recorders on the sea floor show no tsunami wave passing. What should the warning centre do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Send an alert, as every undersea earthquake makes a tsunami"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Not every undersea earthquake makes a tsunami. That is why the Confirmation stage exists."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Stop all checks at once and close the case for good"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The centre goes on watching. It does not stop."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Send no tsunami alert, and keep watching the sea"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The threat is not confirmed, so there is no tsunami alert, and watching goes on."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Warn only the nearest villages and leave the others"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The stage that decides is Confirmation, and it has found no wave to warn about."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Detection says the sea floor has moved, and Confirmation checks for tsunami waves. If the recorders show no wave, the threat is not confirmed, so the centre sends no tsunami alert and keeps watching."
+  },
+  "hints": [
+    {
+      "en": "Which stage comes before the alert, and what does it check?"
+    }
+  ],
+  "tags": [
+    "tsunami",
+    "obpr",
+    "confirmation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:43.334Z",
+    "reviewedBy": "review-bar"
+  }
+}

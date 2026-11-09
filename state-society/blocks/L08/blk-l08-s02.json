@@ -1,0 +1,36 @@
+{
+  "id": "blk-l08-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L08/blk-l08-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Occupations were not fixed by birth, since people in one family did different work."
+    },
+    {
+      "id": "b",
+      "text": "Every son had to follow the occupation of his father."
+    },
+    {
+      "id": "c",
+      "text": "This family must have been rare, since all occupations were fixed by birth."
+    },
+    {
+      "id": "d",
+      "text": "Only men were allowed to have an occupation."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L08/VarnaWheelScene.js",
+    "role": "setup",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:40.217Z",
+    "reviewedBy": "review-bar"
+  }
+}

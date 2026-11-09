@@ -1,0 +1,128 @@
+{
+  "id": "q-l09-s08",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Why are maritime rules important? Say what could happen without them and what they do for all who use the sea."
+  },
+  "rubric": [
+    {
+      "id": "why-the-rules-matter",
+      "label": {
+        "en": "Without rules the oceans could become dangerous and chaotic, with more pollution, accidents, collisions and disputes"
+      },
+      "level1": {
+        "en": "What could happen to the sea if there were no shared rules?"
+      },
+      "clue": {
+        "en": "Without such rules the oceans could become dangerous and chaotic, with increased pollution, accidents, collisions and disputes over resources."
+      },
+      "level2Template": {
+        "en": "Without rules there would be more pollution, accidents, ___ and disputes over resources."
+      },
+      "accepted": [
+        "collisions",
+        "collision",
+        "accidents",
+        "pollution",
+        "disputes"
+      ]
+    },
+    {
+      "id": "the-same-rules-for-every-ship",
+      "label": {
+        "en": "Common standards apply to all ships, regardless of the country they belong to"
+      },
+      "level1": {
+        "en": "Do the rules change with the country a ship belongs to?"
+      },
+      "clue": {
+        "en": "Maritime rules set common standards for all ships, regardless of the country they belong to."
+      },
+      "level2Template": {
+        "en": "Maritime rules set ___ standards for all ships, whichever country they belong to."
+      },
+      "accepted": [
+        "common",
+        "the same",
+        "shared",
+        "uniform"
+      ]
+    },
+    {
+      "id": "fair-use",
+      "label": {
+        "en": "The rules let countries use marine resources without conflict and protect marine life, ships, sailors and coastal communities"
+      },
+      "level1": {
+        "en": "What do the rules protect, and how do they help countries work together?"
+      },
+      "clue": {
+        "en": "The rules enable countries to cooperate in using marine resources without conflict, while protecting marine life, ships, sailors and coastal communities."
+      },
+      "level2Template": {
+        "en": "The rules help countries ___ in using marine resources without conflict."
+      },
+      "accepted": [
+        "cooperate",
+        "work together",
+        "share",
+        "co-operate"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Without rules"
+      },
+      "text": {
+        "en": "Without rules the oceans could become dangerous and chaotic, with more pollution, accidents, collisions and disputes over resources."
+      },
+      "rubricId": "why-the-rules-matter"
+    },
+    {
+      "eyebrow": {
+        "en": "The same for all"
+      },
+      "text": {
+        "en": "Maritime rules set common standards for all ships, regardless of the country they belong to."
+      },
+      "rubricId": "the-same-rules-for-every-ship"
+    },
+    {
+      "eyebrow": {
+        "en": "What they protect"
+      },
+      "text": {
+        "en": "So countries can cooperate in using marine resources without conflict, while marine life, ships, sailors and coastal communities stay protected."
+      },
+      "rubricId": "fair-use"
+    }
+  ],
+  "explanation": {
+    "en": "Maritime rules set common standards for all ships. They help keep the oceans safe, clean and open for trade and travel, and let countries use marine resources without conflict. Without them there would be more pollution, accidents, collisions and disputes."
+  },
+  "hints": [
+    {
+      "en": "Start with what could go wrong without rules."
+    },
+    {
+      "en": "Then say who the rules protect."
+    }
+  ],
+  "tags": [
+    "maritime-law",
+    "blue-economy",
+    "unclos",
+    "chapter-synthesis"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:57.623Z",
+    "reviewedBy": "review-bar"
+  },
+  "mode": "coach"
+}

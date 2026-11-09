@@ -1,0 +1,83 @@
+{
+  "id": "q-l05-s12",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Five democracies, three systems. Place each country under the system it follows."
+  },
+  "categories": [
+    {
+      "id": "parliamentary",
+      "label": {
+        "en": "Parliamentary democracy"
+      }
+    },
+    {
+      "id": "presidential",
+      "label": {
+        "en": "Presidential democracy"
+      }
+    },
+    {
+      "id": "direct",
+      "label": {
+        "en": "Direct democracy"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-india",
+      "text": {
+        "en": "India: a council of ministers headed by the Prime Minister"
+      },
+      "correctCategoryId": "parliamentary"
+    },
+    {
+      "id": "chip-canada",
+      "text": {
+        "en": "Canada: a Prime Minister as Head of Government"
+      },
+      "correctCategoryId": "parliamentary"
+    },
+    {
+      "id": "chip-uk",
+      "text": {
+        "en": "United Kingdom: a Monarch as Head of State"
+      },
+      "correctCategoryId": "parliamentary"
+    },
+    {
+      "id": "chip-switzerland",
+      "text": {
+        "en": "Switzerland: citizens take part directly in most decisions"
+      },
+      "correctCategoryId": "direct"
+    },
+    {
+      "id": "chip-usa",
+      "text": {
+        "en": "United States of America: executive power lies with the President"
+      },
+      "correctCategoryId": "presidential"
+    }
+  ],
+  "explanation": {
+    "en": "India, Canada and the United Kingdom are parliamentary democracies: executive power lies with the Prime Minister or a council headed by the Prime Minister. Canada's Head of State is the Monarch, who appoints a Governor-General on the advice of the Prime Minister. The United States of America is a presidential democracy, where the President holds executive power. Switzerland is a direct democracy, with executive power in its Federal Council."
+  },
+  "hints": [
+    {
+      "en": "For each country, ask who holds executive power: a Prime Minister, a President, or a council with citizens deciding directly."
+    }
+  ],
+  "tags": [
+    "types-of-democracy",
+    "comparative-government"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.520Z"
+  }
+}

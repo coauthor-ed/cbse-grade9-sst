@@ -1,0 +1,58 @@
+{
+  "id": "q-l01-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Which situation best reflects the idea of popular sovereignty?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A law is passed without public discussion"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Citizens vote to choose their representatives"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A court gives a final judgment"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A minister takes an independent decision"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Popular sovereignty means that the state gets its authority from the people. When citizens vote, they give that authority to the representatives they choose. A court's judgment and a minister's decision are the work of offices that already exist, and a law with no public discussion leaves the people out."
+  },
+  "hints": [
+    {
+      "en": "Ask in which situation the people themselves decide who will hold power."
+    }
+  ],
+  "tags": [
+    "popular-sovereignty",
+    "elections",
+    "democracy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.501Z"
+  }
+}

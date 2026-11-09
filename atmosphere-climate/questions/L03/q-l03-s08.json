@@ -1,0 +1,64 @@
+{
+  "id": "q-l03-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A beach and the sea water immediately beside it are taking sunlight at the same angle, at the same moment, on the same day. By late afternoon the sand is much hotter than the water. Which explanation accounts for that?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The sand is closer to the Sun than the water, so it receives a stronger beam at the same angle."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The sunlight reaching the sand passes through less of the atmosphere, so more of its energy survives to the ground."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both receive the same insolation, but the energy goes into a shallow layer of dark ground and a deep body of water, which do not release it at the same rate."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The water is reflecting most of the sunlight back to space, so the sand is being heated by the light the water threw back onto it."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The insolation is genuinely the same over both surfaces - same beam, same angle, same moment, and the atmosphere is transparent enough that the column overhead makes no difference. The difference is in what the energy goes into once it lands. A shallow layer of dark ground heats quickly and holds little of it, while a deep body of water warms slowly and gives up its heat slowly, which is exactly why the land is the warmer surface by afternoon and the sea is the warmer surface by night. That difference in temperature is what drives the sea breeze and the land breeze, and the same contrast on a continental scale is what the next lesson is about."
+  },
+  "hints": [
+    {
+      "en": "Two of the wrong options reach for the Sun again. The stem has already ruled that out - same angle, same moment."
+    },
+    {
+      "en": "The question is not how much light arrives but what happens to it after it lands. Compare a hand's depth of wet sand with a lake."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "insolation",
+    "land-sea-breeze",
+    "specific-heat",
+    "temperature"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:22.666Z",
+    "reviewedBy": "review-bar"
+  }
+}

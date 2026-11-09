@@ -1,0 +1,125 @@
+{
+  "id": "q-l05-s07",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Explain why the shift to farming is described as a revolution. State three connected consequences."
+  },
+  "rubric": [
+    {
+      "id": "reproduction",
+      "label": {
+        "en": "Domestication brought plant and animal reproduction under human control"
+      },
+      "level1": {
+        "en": "Is keeping a pet the same as domesticating a species? What is the difference?"
+      },
+      "clue": {
+        "en": "Domestication means control: people choose which plants are sown again and which animals are bred. Using a plant does not give that control."
+      },
+      "level2Template": {
+        "en": "Domestication brought the ___ of plants and animals under human control: people chose which plants were sown and which animals were bred."
+      },
+      "accepted": [
+        "reproduction",
+        "breeding",
+        "life cycle",
+        "breeding cycle"
+      ]
+    },
+    {
+      "id": "settled-surplus",
+      "label": {
+        "en": "Food production allowed permanent settlement and a stored surplus"
+      },
+      "level1": {
+        "en": "If you can grow enough grain to last a year, what does that let you do that a hunter-gatherer cannot?"
+      },
+      "clue": {
+        "en": "Stored food lasts through the lean season, so a family can stay in one place all year and a village can grow."
+      },
+      "level2Template": {
+        "en": "Food production allowed people to stay in one place all year and keep ___ for the lean months, which helped villages to grow."
+      },
+      "accepted": [
+        "surplus",
+        "a surplus",
+        "stored grain",
+        "stored food",
+        "a grain reserve"
+      ]
+    },
+    {
+      "id": "specialists",
+      "label": {
+        "en": "Surplus supported people doing work other than food-getting, which is the basis of villages and later towns"
+      },
+      "level1": {
+        "en": "A potter, a weaver and a smith all need to eat. If they do not grow food themselves, what must the village have?"
+      },
+      "clue": {
+        "en": "A stored surplus feeds more than the people who produced it, so the village can carry people whose work is pottery, weaving, metalwork, building or ritual. Historians see this as the beginning of towns."
+      },
+      "level2Template": {
+        "en": "The surplus supported ___ such as potters, weavers, smiths and builders, and this laid the basis for towns."
+      },
+      "accepted": [
+        "specialists",
+        "non-farming specialists",
+        "craftspeople",
+        "craft specialists",
+        "people doing other work"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "Three connected consequences follow from the same shift: control of plants and animals, a stored surplus, and specialists."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "First consequence"
+      },
+      "text": {
+        "en": "Domestication brought the ___ of plants and animals under human control: people chose which plants were sown and which animals were bred."
+      },
+      "rubricId": "reproduction"
+    },
+    {
+      "eyebrow": {
+        "en": "Second consequence"
+      },
+      "text": {
+        "en": "Food production allowed people to stay in one place all year and keep ___ for the lean months, which helped villages to grow."
+      },
+      "rubricId": "settled-surplus"
+    },
+    {
+      "eyebrow": {
+        "en": "Third consequence"
+      },
+      "text": {
+        "en": "The surplus supported ___ such as potters, weavers, smiths and builders, and this laid the basis for towns."
+      },
+      "rubricId": "specialists"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

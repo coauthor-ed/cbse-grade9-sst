@@ -1,0 +1,26 @@
+{
+  "id": "blk-l06-s04",
+  "type": "poe-predict@1",
+  "prompt": "## Is Voting the Last Step?\n\nYou have seen 96.8 crore voters and over 10 lakh polling stations. An election is so large and so visible that it is easy to think of it as the whole of democracy.\n\n**Predict:** Is voting the whole of democracy?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. After the election, running the country is the job of the government alone."
+    },
+    {
+      "id": "b",
+      "text": "No. Citizens also take part between elections, right down to village meetings."
+    },
+    {
+      "id": "c",
+      "text": "Only in India is there more to it. Elsewhere, democracy ends at the ballot box."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.521Z"
+  }
+}

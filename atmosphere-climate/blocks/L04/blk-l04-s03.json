@@ -1,0 +1,16 @@
+{
+  "id": "blk-l04-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s03.md",
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L04/PressureHeightScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:17.642Z",
+    "reviewedBy": "review-bar"
+  }
+}

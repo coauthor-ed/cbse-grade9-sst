@@ -1,0 +1,71 @@
+{
+  "id": "q-l06-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In 2004 the water reached Simeulue in minutes, but took about two hours to reach Chennai. What made the difference?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A line of islands held the wave back from Chennai"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Islands did not hold it back. The wave reached Chennai."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The wave began near Chennai and travelled east later"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The wave began off Sumatra, far from Chennai."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The low tide at Chennai slowed the wave for two hours"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A tsunami is not controlled by tides."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Simeulue lay far closer to the earthquake"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The wave spreads out from the earthquake, so places nearer to it are reached first."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The wave began where the sea floor moved off Sumatra and spread out from there. Simeulue lay close to that place, and Chennai lay across the Bay of Bengal. Distance from the earthquake decided how soon the water came."
+  },
+  "hints": [
+    {
+      "en": "Find where the wave began, and compare the two distances."
+    }
+  ],
+  "tags": [
+    "tsunami",
+    "warning-time",
+    "distance"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:43.334Z",
+    "reviewedBy": "review-bar"
+  }
+}

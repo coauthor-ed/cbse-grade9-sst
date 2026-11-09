@@ -1,0 +1,57 @@
+{
+  "id": "q-l04-s05b",
+  "type": "sequence-order@1",
+  "difficulty": "medium",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "The boulder at the foot of Girnar hill carries three inscriptions. Put them in the order they were cut, oldest first."
+  },
+  "items": [
+    {
+      "id": "layer-sanskrit-repair",
+      "text": {
+        "en": "A long Sanskrit inscription by a Western Satrap ruler, giving his military achievements and recording the repair of the Sudarshana Lake."
+      }
+    },
+    {
+      "id": "layer-prakrit-dhamma",
+      "text": {
+        "en": "Major Rock Edicts in Prakrit and Brahmi, spreading the message of Dhamma and moral governance."
+      }
+    },
+    {
+      "id": "layer-gupta-restoration",
+      "text": {
+        "en": "A Gupta emperor's record noting the restoration of the Sudarshana Lake after severe damage."
+      }
+    }
+  ],
+  "correctOrder": [
+    "layer-prakrit-dhamma",
+    "layer-sanskrit-repair",
+    "layer-gupta-restoration"
+  ],
+  "explanation": {
+    "en": "The Prakrit Major Rock Edicts come from Aśhoka in the 3rd century BCE. The Western Satrap ruler Rudradaman I added his inscription in about 150 CE, and the Gupta emperor Skandagupta added his in the 5th century CE."
+  },
+  "hints": [
+    {
+      "en": "Dhamma was the message of the Mauryan emperor Aśhoka."
+    },
+    {
+      "en": "The Guptas came after the Western Satraps."
+    }
+  ],
+  "tags": [
+    "girnar",
+    "inscriptions",
+    "chronology",
+    "sequence-order"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:19.089Z",
+    "reviewedBy": "review-bar"
+  }
+}

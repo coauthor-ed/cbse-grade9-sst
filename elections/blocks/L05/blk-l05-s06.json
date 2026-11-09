@@ -1,0 +1,24 @@
+{
+  "id": "blk-l05-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L05/blk-l05-s06.md",
+  "image": {
+    "src": "media/L05/home-voting-voter-living-room-bhopal-2023.jpg",
+    "alt": "An elderly voter seated in his living room beside a cardboard voting compartment printed with the Election Commission of India logo, holding a pink ballot paper.",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "compartment": {
+        "src": "media/L05/home-voting-inside-compartment-bhopal-2023.jpg",
+        "alt": "A voter seated behind a cardboard voting compartment set up in a home, marking a ballot out of sight. The side of the compartment carries the Election Commission of India logo and a form giving the State, the constituency and the date of the poll."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:15.302Z",
+    "reviewedBy": "review-bar"
+  }
+}

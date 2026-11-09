@@ -1,0 +1,161 @@
+{
+  "id": "q-l05-s05",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "prompt": {
+    "en": "Ishani votes for the first time. She registered online. At the polling station her disabled brother gets a wheelchair, and volunteers guide the family. She has forgotten her voter ID card and Aadhaar card, and her identity is verified with another document. Her grandmother, aged 89, votes from home. In three or four sentences, name the measures that helped these voters, and say what each one did."
+  },
+  "rubric": [
+    {
+      "id": "the-roll-had-her-first",
+      "label": {
+        "en": "Online registration put Ishani on the electoral roll before polling day"
+      },
+      "level1": {
+        "en": "How did Ishani get onto the roll?"
+      },
+      "clue": {
+        "en": "She used the ECI's online portal."
+      },
+      "level2Template": {
+        "en": "Ishani's ___ put her name on the roll before polling day."
+      },
+      "accepted": [
+        "online registration",
+        "registration",
+        "registering online",
+        "registering through the online portal"
+      ]
+    },
+    {
+      "id": "alternative-document-kept-the-vote",
+      "label": {
+        "en": "An alternative document verified her identity, so forgetting her cards did not stop her voting"
+      },
+      "level1": {
+        "en": "She forgot both cards. Why could she still vote?"
+      },
+      "clue": {
+        "en": "Her identity was verified in another way."
+      },
+      "level2Template": {
+        "en": "Her identity was verified with an ___, so she could still vote."
+      },
+      "accepted": [
+        "alternative document",
+        "another document",
+        "a different document",
+        "some other document",
+        "alternative proof"
+      ]
+    },
+    {
+      "id": "reaching-the-building-is-its-own-measure",
+      "label": {
+        "en": "The wheelchair and the volunteers helped the family, including her disabled brother, reach the booth"
+      },
+      "level1": {
+        "en": "What helped her brother reach the booth?"
+      },
+      "clue": {
+        "en": "Something was made available for him, and people guided the family."
+      },
+      "level2Template": {
+        "en": "A ___ and volunteers helped her brother reach the booth."
+      },
+      "accepted": [
+        "wheelchair"
+      ]
+    },
+    {
+      "id": "home-voting-is-the-same-measure-for-the-grandmother",
+      "label": {
+        "en": "Voting from home let her grandmother vote without travelling to a polling station"
+      },
+      "level1": {
+        "en": "How did her grandmother vote?"
+      },
+      "clue": {
+        "en": "She is above 85, and she did not go to a polling station."
+      },
+      "level2Template": {
+        "en": "Her grandmother, being above 85, could vote ___."
+      },
+      "accepted": [
+        "from home",
+        "at home",
+        "from her home",
+        "through home voting"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Getting onto the roll"
+      },
+      "text": {
+        "en": "Online registration put Ishani on the electoral roll before polling day."
+      },
+      "rubricId": "the-roll-had-her-first"
+    },
+    {
+      "eyebrow": {
+        "en": "Proving who she is"
+      },
+      "text": {
+        "en": "An alternative document verified her identity, so her forgotten cards did not stop her voting."
+      },
+      "rubricId": "alternative-document-kept-the-vote"
+    },
+    {
+      "eyebrow": {
+        "en": "Reaching the booth"
+      },
+      "text": {
+        "en": "A wheelchair and volunteers helped the family, including her disabled brother, reach the polling booth."
+      },
+      "rubricId": "reaching-the-building-is-its-own-measure"
+    },
+    {
+      "eyebrow": {
+        "en": "Voting at home"
+      },
+      "text": {
+        "en": "Voting from home let her grandmother, aged 89, vote without travelling to a polling station."
+      },
+      "rubricId": "home-voting-is-the-same-measure-for-the-grandmother"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "explanation": {
+    "en": "Online registration put Ishani on the roll. An alternative document verified her identity when she forgot her cards. A wheelchair and volunteers helped the family reach the booth. Voting from home let her grandmother vote without travelling. Each measure removed a different difficulty."
+  },
+  "hints": [
+    {
+      "en": "Go through the story in order, and ask what helped at each point."
+    },
+    {
+      "en": "Each voter faced a different difficulty."
+    }
+  ],
+  "tags": [
+    "case-study",
+    "electoral-roll",
+    "alternative-document",
+    "accessibility",
+    "home-voting"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:15.302Z",
+    "reviewedBy": "review-bar"
+  }
+}

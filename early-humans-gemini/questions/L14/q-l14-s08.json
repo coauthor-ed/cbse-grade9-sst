@@ -1,0 +1,210 @@
+{
+  "id": "q-l14-s08",
+  "type": "semantic-descriptive@1",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "\"Bronze Age civilisations developed independently but shared common features.\" Examine this statement with reference to the civilisations in the chapter."
+  },
+  "rubric": [
+    {
+      "id": "fertile-river-valleys",
+      "label": {
+        "en": "All four arose in fertile river plains: the Sindhu and Sarasvati, the Tigris and Euphrates, the Nile, and the Huang He"
+      },
+      "level1": {
+        "en": "The Sindhu-Sarasvati, the Tigris-Euphrates, the Nile, the Huang He - what do all four of these have in common as a place to live?"
+      },
+      "clue": {
+        "en": "All four arose in fertile river plains: the Sindhu and Sarasvati, the Tigris and Euphrates, the Nile, and the Huang He."
+      },
+      "level2Template": {
+        "en": "All four early world civilisations arose independently in fertile ___ with water and rich soil."
+      },
+      "accepted": [
+        "river valleys",
+        "river plains",
+        "river basins",
+        "river floodplains",
+        "alluvial plains"
+      ]
+    },
+    {
+      "id": "agricultural-surplus",
+      "label": {
+        "en": "Farming produced a surplus that could support people who did other work"
+      },
+      "level1": {
+        "en": "A city needs potters, priests and builders who never touch a field. What has to exist first for people like that to eat at all?"
+      },
+      "clue": {
+        "en": "Good land and better methods gave more food than the farmers needed, which supported artisans, traders and officials."
+      },
+      "level2Template": {
+        "en": "High agricultural productivity generated a dependable ___ that supported people who did not farm."
+      },
+      "accepted": [
+        "agricultural surplus",
+        "food surplus",
+        "crop surplus",
+        "grain surplus",
+        "surplus"
+      ]
+    },
+    {
+      "id": "urban-centres",
+      "label": {
+        "en": "Urban cities emerged in all these centres, each with its own kind of buildings"
+      },
+      "level1": {
+        "en": "Once there is a surplus, what grows up in all four regions?"
+      },
+      "clue": {
+        "en": "Cities grew in all four regions, but their plans and great buildings differed."
+      },
+      "level2Template": {
+        "en": "Economic growth led to the emergence of ___ in all these major centres."
+      },
+      "accepted": [
+        "urban centres",
+        "cities",
+        "urban cities",
+        "planned cities",
+        "city-states"
+      ]
+    },
+    {
+      "id": "writing-systems",
+      "label": {
+        "en": "Each developed writing, which recorded economic transactions and social activities and later carried literary texts"
+      },
+      "level1": {
+        "en": "All four had a script. Did it do the same first job everywhere?"
+      },
+      "clue": {
+        "en": "All four had writing, but it did different first jobs: lists of goods in Sumer and questions on bone in China. The Harappan script is unread."
+      },
+      "level2Template": {
+        "en": "Each society developed its own system of ___ to record economic transactions and social activities."
+      },
+      "accepted": [
+        "writing",
+        "writing systems",
+        "script",
+        "scripts",
+        "record-keeping"
+      ]
+    },
+    {
+      "id": "administration-stratification",
+      "label": {
+        "en": "Each developed social and administrative systems independently"
+      },
+      "level1": {
+        "en": "Canals and stores need organising. What did each civilisation develop to do this?"
+      },
+      "clue": {
+        "en": "Each developed ways of running the state and ordering society, with people at different levels."
+      },
+      "level2Template": {
+        "en": "To organise labour and keep order, each civilisation developed its own ___ and social levels."
+      },
+      "accepted": [
+        "administrative systems",
+        "administration",
+        "systems of government",
+        "forms of government"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "The major Bronze Age civilisations developed independently, yet they shared common features."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Geographical foundation"
+      },
+      "text": {
+        "en": "All four early world civilisations arose independently in fertile ___ with water and rich soil."
+      },
+      "rubricId": "fertile-river-valleys"
+    },
+    {
+      "eyebrow": {
+        "en": "Agricultural foundation"
+      },
+      "text": {
+        "en": "High agricultural productivity generated a dependable ___ that supported people who did not farm."
+      },
+      "rubricId": "agricultural-surplus"
+    },
+    {
+      "eyebrow": {
+        "en": "Urban growth"
+      },
+      "text": {
+        "en": "Economic growth led to the emergence of ___ in all these major centres."
+      },
+      "rubricId": "urban-centres"
+    },
+    {
+      "eyebrow": {
+        "en": "Information recording"
+      },
+      "text": {
+        "en": "Each society developed its own system of ___ to record economic transactions and social activities."
+      },
+      "rubricId": "writing-systems"
+    },
+    {
+      "eyebrow": {
+        "en": "Social organisation"
+      },
+      "text": {
+        "en": "To organise labour and keep order, each civilisation developed its own ___ and social levels."
+      },
+      "rubricId": "administration-stratification"
+    },
+    {
+      "eyebrow": {
+        "en": "Conclusion"
+      },
+      "text": {
+        "en": "Each civilisation reached these features in its own way, so they share a list and not a copy."
+      },
+      "rubricId": null
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "ancient-civilisations",
+    "bronze-age",
+    "comparative-history",
+    "river-valleys",
+    "convergence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L14/exp-q-l14-s08.json"
+      }
+    ]
+  }
+}

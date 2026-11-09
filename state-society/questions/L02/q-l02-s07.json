@@ -1,0 +1,63 @@
+{
+  "id": "q-l02-s07",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "The early kingdoms of Tamilakam each had a royal emblem. Which pair is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Chola: the bow"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Chera: the fish"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Pandya: the tiger"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Chera: the bow"
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The tiger was the emblem of the Cholas, the bow represented the Cheras, and the fish symbolised the Pandyas. Much of what we know about them comes from Sangam literature, dated between 300 BCE and 300 CE."
+  },
+  "hints": [
+    {
+      "en": "The Pandyas ruled the river valleys of the Tamraparni and the Vaigai. Which emblem belongs to the water?"
+    },
+    {
+      "en": "The Cholas had the tiger."
+    }
+  ],
+  "tags": [
+    "tamilakam",
+    "emblems",
+    "sangam",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:09.784Z",
+    "reviewedBy": "review-bar"
+  }
+}

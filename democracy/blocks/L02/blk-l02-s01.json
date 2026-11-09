@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A King Who Takes Advice\n\n<!-- STEP id=\"court-scene\" -->\n## In the King's Court\n\nImagine a kingdom in ancient India. The king plans a new land tax. Before he gives the order, he asks his assembly and his ministers what they think.\n\n<!-- STEP id=\"he-listens\" -->\n## He Listens\n\nThey tell him that the tax is too heavy after a poor harvest, so the king changes his order. He still wears the crown, but he did not decide alone.\n\n**So was ancient India already democratic? This lesson looks at the evidence.**"
+  },
+  "simulation": {
+    "src": "simulations/L02/AssemblyCourtScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.502Z"
+  }
+}

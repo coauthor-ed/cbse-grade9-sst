@@ -1,0 +1,16 @@
+{
+  "id": "blk-l08-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08/blk-l08-s07.md",
+  "image": {
+    "src": "media/L08/national-voters-day-pledge-administered-2012.jpg",
+    "alt": "The national function of National Voters' Day on a stage in New Delhi: the date January 25, 2012 is printed on the front panel beside the Election Commission of India's logo, and a row of participants stands with arms extended as the Voters' Pledge is administered.",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:29.638Z",
+    "reviewedBy": "review-bar"
+  }
+}

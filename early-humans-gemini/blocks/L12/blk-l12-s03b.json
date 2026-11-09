@@ -1,0 +1,15 @@
+{
+  "id": "blk-l12-s03b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L12/blk-l12-s03b.md",
+  "simulation": {
+    "src": "simulations/L12/QinCollapseChainScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

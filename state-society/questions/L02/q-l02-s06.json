@@ -1,0 +1,64 @@
+{
+  "id": "q-l02-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "In the first millennium BCE, more settlements were concentrated in the Ganga region than before. Which of these are the changes the sources point to?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Iron tools, more kinds of crop including paddy, and greater grain output."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A rise in the level of the sea, which drove people inland from the western coast."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The arrival of large trading ships on the upper Ganga."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A written order from the Mauryan emperor telling people to move east."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Finds from the Ganga region show iron tools, a wider variety of grain and new pottery. Texts of the period also mention expanding farming, more grain, more crop variety, especially paddy, and iron tools."
+  },
+  "hints": [
+    {
+      "en": "Think about the changes the sources point to: what do archaeologists and texts both mention?"
+    },
+    {
+      "en": "The Mauryan Empire began later, in 321 BCE."
+    }
+  ],
+  "tags": [
+    "iron-age",
+    "pgw",
+    "nbpw",
+    "evidence",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:09.784Z",
+    "reviewedBy": "review-bar"
+  }
+}

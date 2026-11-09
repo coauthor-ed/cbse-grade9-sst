@@ -1,0 +1,74 @@
+{
+  "id": "q-l09-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A tanker on the high seas has oily waste on board, and no coast is in sight. What is the right action?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Put it overboard, as no country owns the water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Ships are prohibited from polluting the seas, and that holds on the high seas too."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Put it overboard, as it is beyond 200 nautical miles."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Distance from the coast does not free a ship from the rule, and the current can carry oil a long way."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Keep it on board and hand it over at a port."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Ships are prohibited from polluting the seas, so the waste stays on board until a port facility takes it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Put it overboard, if no other ship can see it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Being seen is not the test. The pollution is the same either way."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Ships are prohibited from polluting the seas, and MARPOL is the agreement aimed at reducing pollution from ships. Oily waste should not be dumped: it stays on board and is handed over at a port facility. Being far from land does not change this."
+  },
+  "hints": [
+    {
+      "en": "Does the rule depend on who owns the water?"
+    },
+    {
+      "en": "Where can oily waste go safely?"
+    }
+  ],
+  "tags": [
+    "marpol",
+    "pollution",
+    "ships"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:57.623Z",
+    "reviewedBy": "review-bar"
+  }
+}

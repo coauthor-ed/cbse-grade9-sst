@@ -1,0 +1,26 @@
+{
+  "id": "blk-l02-s02",
+  "type": "poe-predict@1",
+  "prompt": "## Did the King Rule Alone?\n\nThe Vedic texts are among India's oldest writings. Historians read them to learn how kings governed.\n\n**Predict:** Did a king of the Vedic period rule alone?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. Whatever the king decided became the order, and he asked nobody."
+    },
+    {
+      "id": "b",
+      "text": "No. He worked in consultation with assemblies, ministers and officers."
+    },
+    {
+      "id": "c",
+      "text": "He answered only to priests, and assemblies played no part at all."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.503Z"
+  }
+}

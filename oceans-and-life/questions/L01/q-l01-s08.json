@@ -1,0 +1,71 @@
+{
+  "id": "q-l01-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A survey ship sends a sound pulse down and times the echo to find how deep the water is. What is this measuring and mapping of depth called?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Cartography"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Cartography is the making of maps in general."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Seismology"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Seismology is the study of earthquakes."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Oceanography"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Oceanography is the study of the whole ocean."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Bathymetry"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Bathymetry is measuring and mapping the depth of the sea floor."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Bathymetry is the measuring and mapping of the depth of the sea floor. The word comes from Greek words for \"deep\" and \"measure\". Sonar is the tool that many ships use for it."
+  },
+  "hints": [
+    {
+      "en": "The word is built from two old words: deep and measure."
+    }
+  ],
+  "tags": [
+    "bathymetry",
+    "sonar",
+    "ocean-relief"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:21.469Z",
+    "reviewedBy": "review-bar"
+  }
+}

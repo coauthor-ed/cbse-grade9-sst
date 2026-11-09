@@ -1,0 +1,72 @@
+{
+  "id": "q-l06-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Each wave carries sand up a beach and then runs back. Why can the beach still build up?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The sand is too heavy for waves to move at all."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Waves do move sand. That is how a beach forms."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The backwash is weaker, so some sand stays."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Part of the water sinks in, so less runs back."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The backwash carries more sand than the swash."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "If that were always so, the beach would shrink."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Waves stop moving when they reach the beach."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Water keeps running up and back on every wave."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The swash carries sand up the beach. Part of its water soaks into the sand, so the backwash is weaker and leaves some sand behind."
+  },
+  "hints": [
+    {
+      "en": "Compare the water going up with the water coming back."
+    }
+  ],
+  "tags": [
+    "waves-and-currents",
+    "beach",
+    "swash",
+    "backwash"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:36.458Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l01-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L01/blk-l01-s04.md",
+  "simulation": {
+    "src": "simulations/L01/DirectIndirectScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:20:58.653Z",
+    "reviewedBy": "review-bar"
+  }
+}

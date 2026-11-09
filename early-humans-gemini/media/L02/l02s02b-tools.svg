@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" font-family="Verdana, 'DejaVu Sans', sans-serif">
+  <title>Paleolithic food-processing tools</title>
+  <defs>
+    <linearGradient id="stoneA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#aaa398"/><stop offset="0.55" stop-color="#8d867b"/><stop offset="1" stop-color="#6c665c"/>
+    </linearGradient>
+    <linearGradient id="stoneB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b8b2a6"/><stop offset="1" stop-color="#847d72"/>
+    </linearGradient>
+    <linearGradient id="flint" x1="0" y1="0" x2="1" y2="0.3">
+      <stop offset="0" stop-color="#5a5a66"/><stop offset="0.5" stop-color="#43434e"/><stop offset="1" stop-color="#2f2f3a"/>
+    </linearGradient>
+    <linearGradient id="slab" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9d968a"/><stop offset="1" stop-color="#6f6a60"/>
+    </linearGradient>
+    <radialGradient id="meatG" cx="0.4" cy="0.4" r="0.9">
+      <stop offset="0" stop-color="#c95a52"/><stop offset="0.7" stop-color="#a83c38"/><stop offset="1" stop-color="#7e2a28"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="960" height="640" fill="#f3ecdc"/>
+  <rect x="12" y="12" width="936" height="616" fill="none" stroke="#d8cdb4" stroke-width="2"/>
+
+  <!-- shadows -->
+  <ellipse cx="160" cy="552" rx="95" ry="13" fill="#000" opacity="0.07"/>
+  <ellipse cx="480" cy="524" rx="175" ry="13" fill="#000" opacity="0.07"/>
+  <ellipse cx="810" cy="322" rx="85" ry="11" fill="#000" opacity="0.07"/>
+  <ellipse cx="812" cy="546" rx="90" ry="11" fill="#000" opacity="0.07"/>
+
+  <!-- Acheulean hand axe (biface) -->
+  <g stroke="#4f4a42" stroke-width="2" stroke-linejoin="round">
+    <path d="M 160 115 C 172 140 190 185 200 240 C 210 295 214 350 210 405 C 206 455 196 505 172 528 C 164 536 156 536 148 528 C 124 505 114 455 110 405 C 106 350 110 295 120 240 C 130 185 148 140 160 115 Z" fill="url(#stoneA)"/>
+    <path d="M 162 150 L 198 240 L 162 262 Z" fill="#9c958a" stroke-width="1.2"/>
+    <path d="M 158 150 L 122 240 L 158 262 Z" fill="#a49d92" stroke-width="1.2"/>
+    <path d="M 162 262 L 206 360 L 162 384 Z" fill="#8f887d" stroke-width="1.2"/>
+    <path d="M 158 262 L 114 360 L 158 384 Z" fill="#9a9388" stroke-width="1.2"/>
+    <path d="M 162 384 L 197 470 L 162 502 Z" fill="#a19a8f" stroke-width="1.2"/>
+    <path d="M 158 384 L 123 470 L 158 502 Z" fill="#8b8478" stroke-width="1.2"/>
+    <path d="M 160 130 L 160 522" stroke="#5d574e" stroke-width="1" fill="none" opacity="0.5"/>
+    <path d="M 126 205 Q 160 228 194 205 M 120 320 Q 160 344 200 320 M 126 428 Q 160 450 194 428" stroke="#5d574e" stroke-width="1" fill="none" opacity="0.5"/>
+  </g>
+
+  <!-- Flint knife with bound handle -->
+  <g>
+    <path d="M 300 178 C 290 178 284 186 284 197 L 284 216 C 284 227 290 235 300 235 L 356 236 L 356 178 Z" fill="#7a5a38" stroke="#5a4028" stroke-width="2"/>
+    <path d="M 296 182 L 292 231 M 310 181 L 306 233 M 324 180 L 320 234 M 338 179 L 335 235" stroke="#59422a" stroke-width="2.5"/>
+    <path d="M 352 182 C 430 166 510 168 566 184 C 596 192 618 200 630 207 C 618 216 596 224 566 231 C 510 246 430 248 352 232 Z" fill="url(#flint)" stroke="#23232c" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M 356 207 L 620 207" stroke="#83838f" stroke-width="1.6" opacity="0.7"/>
+    <path d="M 380 175 l 13 22 l -20 -8 z M 424 170 l 12 24 l -20 -9 z M 470 169 l 11 25 l -19 -10 z M 516 172 l 10 23 l -18 -9 z M 558 179 l 10 21 l -17 -9 z" fill="#6b6b78"/>
+    <path d="M 400 244 l 12 -22 l -19 8 z M 448 246 l 11 -23 l -18 9 z M 494 243 l 10 -22 l -17 9 z M 540 236 l 10 -20 l -16 9 z" fill="#565664"/>
+    <path d="M 360 184 C 430 170 505 172 560 187" stroke="#9a9aa6" stroke-width="1.4" fill="none" opacity="0.8"/>
+  </g>
+
+  <!-- End scraper -->
+  <g>
+    <path d="M 738 218 C 736 176 766 146 806 144 C 848 142 880 172 882 212 C 884 252 852 282 812 284 C 772 286 740 260 738 218 Z" fill="url(#stoneB)" stroke="#57524a" stroke-width="2"/>
+    <path d="M 758 190 C 762 166 784 152 808 152 C 838 152 860 170 866 196 C 870 214 862 232 848 242 C 838 220 822 202 800 192 C 786 186 770 186 758 190 Z" fill="#a79f93" opacity="0.8"/>
+    <path d="M 762 168 q 12 -12 26 -9 q 13 3 20 13 M 808 152 q 14 0 24 9 q 10 9 12 22 M 852 190 q 8 10 8 24 M 848 242 q -8 10 -22 13" stroke="#e5ded0" stroke-width="4" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Chopping tool (core chopper) -->
+  <g>
+    <path d="M 740 468 C 734 438 748 410 772 396 C 800 380 842 378 866 396 C 888 412 894 446 882 476 C 870 506 836 522 804 518 C 772 514 746 498 740 468 Z" fill="url(#stoneA)" stroke="#4a453e" stroke-width="2"/>
+    <path d="M 744 462 L 726 448 L 744 436 L 730 420 L 752 410 L 744 396" fill="none" stroke="#3d3933" stroke-width="3" stroke-linecap="round"/>
+    <path d="M 760 430 L 810 440 L 800 480 L 752 474 Z" fill="#948d81" opacity="0.8"/>
+    <path d="M 800 408 L 852 420 L 846 462 L 806 442 Z" fill="#a29b8f" opacity="0.8"/>
+    <path d="M 760 486 L 812 492 L 840 470 L 846 492 L 812 508 L 776 502 Z" fill="#8a8377" opacity="0.8"/>
+  </g>
+
+  <!-- Meat haunch on stone slab -->
+  <g>
+    <path d="M 322 486 C 314 462 336 446 372 441 L 598 424 C 630 422 648 436 647 458 C 646 480 626 494 594 498 L 364 514 C 334 516 328 508 322 486 Z" fill="url(#slab)" stroke="#57524a" stroke-width="2"/>
+    <path d="M 326 496 C 336 512 372 518 412 516 L 596 502 C 626 499 645 486 647 464 L 647 458 C 646 480 626 494 594 498 L 364 514 C 344 516 332 508 326 496 Z" fill="#6a655b"/>
+    <path d="M 380 452 C 372 410 400 376 446 368 C 498 358 556 370 584 398 C 608 422 602 456 570 472 C 530 491 470 493 430 481 C 402 472 386 464 380 452 Z" fill="url(#meatG)" stroke="#5f1f1d" stroke-width="2"/>
+    <path d="M 412 444 C 444 424 506 418 556 430" stroke="#f0e0d2" stroke-width="9" fill="none" stroke-linecap="round" opacity="0.9"/>
+    <path d="M 428 414 C 456 402 500 400 532 410" stroke="#e9cfc0" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.7"/>
+    <circle cx="586" cy="378" r="18" fill="#e8dcc8" stroke="#b7a586" stroke-width="2"/>
+    <circle cx="586" cy="378" r="8" fill="#f7efe2"/>
+    <path d="M 440 462 l 24 -34 M 470 466 l 24 -36 M 500 464 l 22 -34" stroke="#4a1715" stroke-width="2.5" opacity="0.75"/>
+  </g>
+
+</svg>

@@ -1,0 +1,19 @@
+{
+  "id": "blk-l07-game-forward",
+  "type": "mini-game@1",
+  "subject": "social-studies",
+  "grade": 9,
+  "chapterId": "democracy",
+  "topicId": "democratic-resilience",
+  "board": "CBSE",
+  "src": "simulations/L07/ForwardCheckGame.js",
+  "objective": {
+    "en": "A message arrives on your phone. Find what makes you doubt it, then choose Share or Check."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-11-01T00:00:00.000Z",
+    "flags": []
+  }
+}

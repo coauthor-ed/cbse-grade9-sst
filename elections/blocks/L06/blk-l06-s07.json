@@ -1,0 +1,15 @@
+{
+  "id": "blk-l06-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L06/FloorCrossingScene.js",
+  "objective": {
+    "en": "Decide six cases: is it defection, and who decides what happens next?"
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:19.438Z",
+    "reviewedBy": "review-bar"
+  }
+}

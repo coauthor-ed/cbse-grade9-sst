@@ -1,0 +1,35 @@
+{
+  "id": "blk-l04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04/blk-l04-s02.md",
+  "image": {
+    "src": "media/L04/L04S01.jpg",
+    "alt": "A dozen identical small geometric stone microblades laid against a printed centimetre scale, unlabelled.",
+    "position": "right"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": "Set them in a row along a groove cut into the wood or bone, and fix them with the gum, so that a dozen small edges line up into one long cutting edge."
+    },
+    {
+      "id": "b",
+      "text": "Use them one at a time as tiny knives held in the fingers, because a sharp edge still cuts."
+    },
+    {
+      "id": "c",
+      "text": "Grind all twelve together into one large blade."
+    },
+    {
+      "id": "d",
+      "text": "Throw the blades at an animal one by one, because they are light."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

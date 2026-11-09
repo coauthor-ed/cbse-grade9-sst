@@ -1,0 +1,71 @@
+{
+  "id": "les-08",
+  "lessonId": "les-08",
+  "type": "lesson",
+  "title": {
+    "en": "How are we changing the air, and what can we do?"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L08/blk-l08-s01.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s01.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s02.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s03.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s02.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s03b.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s07.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s03c.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s04.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s03.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s05.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s05.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s06.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s04.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-a01.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s09.json"
+    },
+    {
+      "blockRef": "blocks/L08/blk-l08-s10.json"
+    },
+    {
+      "blockRef": "questions/L08/q-l08-s10.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "review-bar",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:53.484Z"
+  }
+}

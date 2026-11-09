@@ -1,0 +1,14 @@
+{
+  "id": "blk-l08-game",
+  "type": "mini-game@1",
+  "src": "simulations/L08/SurviveTheFloodGame.js",
+  "objective": {
+    "en": "Six river events are coming, in a random order. You can see the next one. Build one canal or one dam each turn, and lose at most one field."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

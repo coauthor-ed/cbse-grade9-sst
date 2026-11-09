@@ -1,0 +1,17 @@
+{
+  "id": "blk-l07-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# What Stands in the Way\n\n<!-- STEP id=\"misinformation\" -->\n## False News Misleads\n\nCitizens choose using what they know, so false news can mislead them, at any time and not only during elections.\n\nIt can influence opinion, create confusion and even lead to conflict.\n\n<!-- STEP id=\"barriers\" -->\n## Other Barriers\n\nIndia has made significant progress, but barriers to equal participation remain: illiteracy, poverty, regionalism, gender inequality and social discrimination. Press Next barrier in the figure to see how each one can stop a citizen.\n\n<!-- STEP id=\"our-actions\" -->\n## Our Own Actions\n\nSome barriers come from our own actions: damaging public property, spreading misinformation and violating public rules. They weaken democratic values.\n\nIndifference means not caring about public issues, and it too can harm a democracy.\n\n<!-- STEP id=\"laws-on-paper\" -->\n## Laws That Do Not Reach People\n\nA good law helps only if it is carried out. Gaps in implementing laws and policies may reduce public trust in institutions.\n\n**Democracy requires constant care, awareness and active participation.**"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L07/ChallengeWallsScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.524Z"
+  }
+}

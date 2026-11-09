@@ -1,0 +1,1019 @@
+{
+  "terms": [
+    {
+      "id": "popular-sovereignty",
+      "term": "popular sovereignty",
+      "match": [
+        "popular sovereignty"
+      ],
+      "plain": {
+        "en": "the people hold the final power"
+      },
+      "means": {
+        "en": "The idea that the state gets its authority from the people."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "sovereignty",
+      "term": "sovereignty",
+      "match": [
+        "sovereignty"
+      ],
+      "plain": {
+        "en": "supreme power"
+      },
+      "means": {
+        "en": "From the Latin word superanus, meaning supreme. The supreme, final and independent legal authority of a State over its territory and citizens."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "universal-adult-franchise",
+      "term": "Universal Adult Franchise",
+      "match": [
+        "Universal Adult Franchise"
+      ],
+      "plain": {
+        "en": "every adult has a vote"
+      },
+      "means": {
+        "en": "The right of every citizen aged 18 years or above to vote through a secret ballot."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "rule-of-law",
+      "term": "Rule of Law",
+      "match": [
+        "Rule of Law"
+      ],
+      "plain": {
+        "en": "no one is above the law"
+      },
+      "means": {
+        "en": "The principle that the law applies equally to all, and that disputes are settled in court by procedure, not by force or influence."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "consultation",
+      "term": "consultation",
+      "match": [
+        "consultation"
+      ],
+      "plain": {
+        "en": "asking others before deciding"
+      },
+      "means": {
+        "en": "Asking other people what they think and listening to them before you decide."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "consensus",
+      "term": "consensus",
+      "match": [
+        "consensus"
+      ],
+      "plain": {
+        "en": "agreement of the whole group"
+      },
+      "means": {
+        "en": "An agreement that a whole group reaches together."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "sabha",
+      "term": "Sabhā",
+      "match": [
+        "Sabha",
+        "Sabhā"
+      ],
+      "plain": {
+        "en": "a Vedic assembly"
+      },
+      "means": {
+        "en": "An assembly of the Vedic period."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "samiti",
+      "term": "Samiti",
+      "match": [
+        "Samiti"
+      ],
+      "plain": {
+        "en": "a Vedic assembly"
+      },
+      "means": {
+        "en": "An assembly of the Vedic period."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "vidhata",
+      "term": "Vidhata",
+      "match": [
+        "Vidhata"
+      ],
+      "plain": {
+        "en": "a Vedic assembly"
+      },
+      "means": {
+        "en": "An assembly of the Vedic period."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "gana",
+      "term": "gaṇa",
+      "match": [
+        "gaṇa",
+        "gaṇas",
+        "saṁgha",
+        "saṁghas"
+      ],
+      "plain": {
+        "en": "an early republican state"
+      },
+      "means": {
+        "en": "An early republican state, where decisions were taken together."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "bauddha-samgha",
+      "term": "Bauddha Saṁgha",
+      "match": [
+        "Saṁgha"
+      ],
+      "plain": {
+        "en": "the Buddhist monastic community"
+      },
+      "means": {
+        "en": "A monastic community established by Gautama Buddha. Its members could choose their leader and decide by voting."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "aikyamatya",
+      "term": "Aikyamatya Sūktam",
+      "match": [
+        "Aikyamatya Sūktam"
+      ],
+      "plain": {
+        "en": "a hymn of unity"
+      },
+      "means": {
+        "en": "A hymn of the Ṛigveda that stresses thinking together and unity of purpose."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "rigveda",
+      "term": "Ṛigveda",
+      "match": [
+        "Ṛigveda"
+      ],
+      "plain": {
+        "en": "the oldest of the Vedas"
+      },
+      "means": {
+        "en": "A very old collection of hymns in Sanskrit."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "constituent-assembly",
+      "term": "Constituent Assembly",
+      "match": [
+        "Constituent Assembly"
+      ],
+      "plain": {
+        "en": "the body that wrote the Constitution"
+      },
+      "means": {
+        "en": "The body formed in 1946 to draft a constitution for India."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "amendment",
+      "term": "amendment",
+      "match": [
+        "amendments"
+      ],
+      "plain": {
+        "en": "a formal change"
+      },
+      "means": {
+        "en": "A formal change to the text of the Constitution, made under Article 368."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "fraternity",
+      "term": "fraternity",
+      "match": [
+        "fraternity"
+      ],
+      "plain": {
+        "en": "brotherhood among citizens"
+      },
+      "means": {
+        "en": "A feeling of brotherhood and sisterhood among all citizens."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "indivisible",
+      "term": "indivisible",
+      "match": [
+        "indivisible"
+      ],
+      "plain": {
+        "en": "cannot be split up"
+      },
+      "means": {
+        "en": "The rights work together, so you cannot keep some and drop others."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "inalienable",
+      "term": "inalienable",
+      "match": [
+        "inalienable"
+      ],
+      "plain": {
+        "en": "cannot be taken or given away"
+      },
+      "means": {
+        "en": "A right that cannot be taken away from you, and that you cannot give away."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "directive-principles",
+      "term": "Directive Principles",
+      "match": [
+        "Directive Principles of State Policy"
+      ],
+      "plain": {
+        "en": "guides for the State"
+      },
+      "means": {
+        "en": "Principles that guide the State when it makes policy. A court does not enforce them."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "fundamental-duties",
+      "term": "Fundamental Duties",
+      "match": [
+        "Fundamental Duties"
+      ],
+      "plain": {
+        "en": "what the Constitution asks of citizens"
+      },
+      "means": {
+        "en": "Duties that the Constitution asks citizens to follow, such as respecting the Constitution."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "fundamental-rights",
+      "term": "Fundamental Rights",
+      "match": [
+        "Fundamental Rights"
+      ],
+      "plain": {
+        "en": "rights a court can enforce"
+      },
+      "means": {
+        "en": "Six groups of rights that the Constitution guarantees to citizens. Courts of law enforce them."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "legislature",
+      "term": "legislature",
+      "match": [
+        "legislature"
+      ],
+      "plain": {
+        "en": "The organ of government that makes laws"
+      },
+      "means": {
+        "en": "The organ of government that makes laws."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "executive",
+      "term": "executive",
+      "match": [
+        "executive"
+      ],
+      "plain": {
+        "en": "The organ of government that puts laws into action"
+      },
+      "means": {
+        "en": "The organ of government that puts laws into action."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "judiciary",
+      "term": "judiciary",
+      "match": [
+        "judiciary"
+      ],
+      "plain": {
+        "en": "The courts, which say what laws mean"
+      },
+      "means": {
+        "en": "The courts, which say what laws mean."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "organ",
+      "term": "organ",
+      "match": [
+        "organ"
+      ],
+      "plain": {
+        "en": "One main part of government"
+      },
+      "means": {
+        "en": "One main part of government."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "separation-of-powers",
+      "term": "separation of powers",
+      "match": [
+        "separation of powers"
+      ],
+      "plain": {
+        "en": "Dividing the work of government among three organs"
+      },
+      "means": {
+        "en": "Dividing the work of government among three organs."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "checks-and-balances",
+      "term": "checks and balances",
+      "match": [
+        "checks and balances"
+      ],
+      "plain": {
+        "en": "Ways in which one organ can stop another from going too far"
+      },
+      "means": {
+        "en": "Ways in which one organ can stop another from going too far."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "unconstitutional",
+      "term": "unconstitutional",
+      "match": [
+        "unconstitutional"
+      ],
+      "plain": {
+        "en": "Going against the Constitution"
+      },
+      "means": {
+        "en": "Going against the Constitution."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "public-interest-litigation",
+      "term": "Public Interest Litigation",
+      "match": [
+        "Public Interest Litigation",
+        "PIL"
+      ],
+      "plain": {
+        "en": "A legal action started in a court for the enforcement of public interest"
+      },
+      "means": {
+        "en": "A legal action started in a court for the enforcement of public interest."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "accountability",
+      "term": "accountability",
+      "match": [
+        "accountability"
+      ],
+      "plain": {
+        "en": "A government's duty to answer to citizens for its work"
+      },
+      "means": {
+        "en": "A government's duty to answer to citizens for its work."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "transparency",
+      "term": "transparency",
+      "match": [
+        "transparency"
+      ],
+      "plain": {
+        "en": "People being able to see how the government works"
+      },
+      "means": {
+        "en": "People being able to see how the government works."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "question-hour",
+      "term": "Question Hour",
+      "match": [
+        "Question Hour"
+      ],
+      "plain": {
+        "en": "The first hour of a parliamentary session, when members ask the government questions"
+      },
+      "means": {
+        "en": "The first hour of a parliamentary session, when members ask the government questions."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "audit",
+      "term": "audit",
+      "match": [
+        "audit"
+      ],
+      "plain": {
+        "en": "An official check of accounts"
+      },
+      "means": {
+        "en": "An official check of accounts."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "right-to-information-rti-act",
+      "term": "Right to Information (RTI) Act",
+      "match": [
+        "Right to Information (RTI) Act"
+      ],
+      "plain": {
+        "en": "A law that allows citizens to seek information from government agencies"
+      },
+      "means": {
+        "en": "A law that allows citizens to seek information from government agencies."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "cag",
+      "term": "CAG",
+      "match": [
+        "CAG"
+      ],
+      "plain": {
+        "en": "Comptroller and Auditor General"
+      },
+      "means": {
+        "en": "Comptroller and Auditor General."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "cic",
+      "term": "CIC",
+      "match": [
+        "CIC"
+      ],
+      "plain": {
+        "en": "Central Information Commission"
+      },
+      "means": {
+        "en": "Central Information Commission."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "cvc",
+      "term": "CVC",
+      "match": [
+        "CVC"
+      ],
+      "plain": {
+        "en": "Central Vigilance Commission"
+      },
+      "means": {
+        "en": "Central Vigilance Commission."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "lokpal",
+      "term": "Lokpal",
+      "match": [
+        "Lokpal"
+      ],
+      "plain": {
+        "en": "A body that looks into complaints of corruption against public officials"
+      },
+      "means": {
+        "en": "A body that looks into complaints of corruption against public officials."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "multi-party-system",
+      "term": "multi-party system",
+      "match": [
+        "multi-party system"
+      ],
+      "plain": {
+        "en": "Several parties contest elections"
+      },
+      "means": {
+        "en": "Several parties contest elections."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "coalition",
+      "term": "coalition",
+      "match": [
+        "coalition"
+      ],
+      "plain": {
+        "en": "A group of parties working together"
+      },
+      "means": {
+        "en": "A group of parties working together."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "opposition",
+      "term": "opposition",
+      "match": [
+        "opposition"
+      ],
+      "plain": {
+        "en": "The largest group that opposes the government"
+      },
+      "means": {
+        "en": "The largest group that opposes the government."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "equitable",
+      "term": "equitable",
+      "match": [
+        "equitable"
+      ],
+      "plain": {
+        "en": "Giving each person what they need for a fair chance"
+      },
+      "means": {
+        "en": "Giving each person what they need for a fair chance."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "article-46",
+      "term": "Article 46",
+      "match": [
+        "Article 46"
+      ],
+      "plain": {
+        "en": "The part of the Constitution on the educational and economic interests of the weaker sections of the people"
+      },
+      "means": {
+        "en": "The part of the Constitution on the educational and economic interests of the weaker sections of the people."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "civil-society",
+      "term": "civil society",
+      "match": [
+        "civil society"
+      ],
+      "plain": {
+        "en": "Voluntary groups, NGOs and community associations that function interdependently within society"
+      },
+      "means": {
+        "en": "Voluntary groups, NGOs and community associations that function interdependently within society."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "representative-democracy",
+      "term": "representative democracy",
+      "match": [
+        "representative democracy"
+      ],
+      "plain": {
+        "en": "People elect representatives to govern for them"
+      },
+      "means": {
+        "en": "People elect representatives to govern for them; also called indirect democracy."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "direct-democracy",
+      "term": "direct democracy",
+      "match": [
+        "direct democracy"
+      ],
+      "plain": {
+        "en": "Citizens directly take part in most decisions"
+      },
+      "means": {
+        "en": "Citizens directly take part in most decisions."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "parliamentary-democracy",
+      "term": "parliamentary democracy",
+      "match": [
+        "parliamentary democracy"
+      ],
+      "plain": {
+        "en": "The executive is part of the legislature and answers to it"
+      },
+      "means": {
+        "en": "The executive is part of the legislature and answers to it."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "presidential-democracy",
+      "term": "presidential democracy",
+      "match": [
+        "presidential democracy"
+      ],
+      "plain": {
+        "en": "The President is elected by the people and answers to them"
+      },
+      "means": {
+        "en": "The President is elected by the people and answers to them."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "head-of-state",
+      "term": "Head of State",
+      "match": [
+        "Head of State"
+      ],
+      "plain": {
+        "en": "The formal head of a country"
+      },
+      "means": {
+        "en": "The formal head of a country."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "head-of-government",
+      "term": "Head of Government",
+      "match": [
+        "Head of Government"
+      ],
+      "plain": {
+        "en": "The person who leads the government"
+      },
+      "means": {
+        "en": "The person who leads the government."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "constitutional-monarchy",
+      "term": "constitutional monarchy",
+      "match": [
+        "constitutional monarchy"
+      ],
+      "plain": {
+        "en": "A country with a monarch as Head of State, where executive power lies with the Prime Minister"
+      },
+      "means": {
+        "en": "A country with a monarch as Head of State, where executive power lies with the Prime Minister."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "federalism",
+      "term": "federalism",
+      "match": [
+        "federalism"
+      ],
+      "plain": {
+        "en": "Power and responsibilities shared between the union and state governments"
+      },
+      "means": {
+        "en": "Power and responsibilities shared between the union and state governments."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "residual-power",
+      "term": "residual power",
+      "match": [
+        "residual power"
+      ],
+      "plain": {
+        "en": "Power over a subject in no list, which remains with the union government"
+      },
+      "means": {
+        "en": "Power over a subject in no list, which remains with the union government."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "representation",
+      "term": "representation",
+      "match": [
+        "representation"
+      ],
+      "plain": {
+        "en": "Many people speak through one elected member"
+      },
+      "means": {
+        "en": "Many people speak through one elected member."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "participatory-democracy",
+      "term": "participatory democracy",
+      "match": [
+        "participatory democracy"
+      ],
+      "plain": {
+        "en": "Citizens help to shape policies and governance, not only by voting"
+      },
+      "means": {
+        "en": "Citizens help to shape policies and governance, not only by voting."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "autonomous-district-council",
+      "term": "Autonomous District Council",
+      "match": [
+        "Autonomous District Council",
+        "ADC"
+      ],
+      "plain": {
+        "en": "A council in specific north-eastern regions with legislative and judicial authority to preserve tribal customs"
+      },
+      "means": {
+        "en": "A council in specific north-eastern regions with legislative and judicial authority to preserve tribal customs."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "pesa-act",
+      "term": "PESA Act",
+      "match": [
+        "PESA Act"
+      ],
+      "plain": {
+        "en": "Panchayats Extension to Scheduled Areas Act, 1996"
+      },
+      "means": {
+        "en": "Panchayats Extension to Scheduled Areas Act, 1996; makes the Gram Sabha the primary decision-making body in tribal areas of other states."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "gram-sabha",
+      "term": "Gram Sabha",
+      "match": [
+        "Gram Sabha",
+        "Gram Sabhas",
+        "Special Gram Sabhas"
+      ],
+      "plain": {
+        "en": "The village assembly"
+      },
+      "means": {
+        "en": "The village assembly."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "mahila-sabha",
+      "term": "Mahila Sabha",
+      "match": [
+        "Mahila Sabha",
+        "Mahila Sabhas"
+      ],
+      "plain": {
+        "en": "A meeting of women of the village"
+      },
+      "means": {
+        "en": "A meeting of women of the village."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "quorum",
+      "term": "quorum",
+      "match": [
+        "quorum"
+      ],
+      "plain": {
+        "en": "The minimum number of members who must be present to make a meeting valid"
+      },
+      "means": {
+        "en": "The minimum number of members who must be present to make a meeting valid."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "cooperative",
+      "term": "cooperative",
+      "match": [
+        "cooperative"
+      ],
+      "plain": {
+        "en": "A group formed by people to work together for a common benefit"
+      },
+      "means": {
+        "en": "A group formed by people to work together for a common benefit; members share profits and responsibilities equally."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "legislation",
+      "term": "legislation",
+      "match": [
+        "legislation"
+      ],
+      "plain": {
+        "en": "Laws made through the democratic process"
+      },
+      "means": {
+        "en": "Laws made through the democratic process, which help maintain order and regulate society."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "misinformation",
+      "term": "misinformation",
+      "match": [
+        "misinformation"
+      ],
+      "plain": {
+        "en": "False or misleading information that is spread"
+      },
+      "means": {
+        "en": "False or misleading information that is spread."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "national-emergency",
+      "term": "National Emergency",
+      "match": [
+        "National Emergency"
+      ],
+      "plain": {
+        "en": "A declaration under Article 352 of the Constitution"
+      },
+      "means": {
+        "en": "A declaration under Article 352 of the Constitution."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "civic-responsibility",
+      "term": "civic responsibility",
+      "match": [
+        "civic responsibility"
+      ],
+      "plain": {
+        "en": "Respecting others' rights, using social media responsibly, abiding by laws and rules, appreciating diversity, joining activities that strengthen unity"
+      },
+      "means": {
+        "en": "Respecting others' rights, using social media responsibly, abiding by laws and rules, appreciating diversity, joining activities that strengthen unity."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "vulnerability",
+      "term": "vulnerability",
+      "match": [
+        "vulnerability",
+        "vulnerabilities"
+      ],
+      "plain": {
+        "en": "The condition of being open to harm"
+      },
+      "means": {
+        "en": "The condition of being open to harm."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "resilience",
+      "term": "resilience",
+      "match": [
+        "resilience"
+      ],
+      "plain": {
+        "en": "The ability to recover"
+      },
+      "means": {
+        "en": "The ability to recover."
+      },
+      "lesson": 7,
+      "group": "concept"
+    }
+  ]
+}

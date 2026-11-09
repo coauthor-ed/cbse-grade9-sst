@@ -1,0 +1,94 @@
+{
+  "id": "q-l08-s03a",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "An election is held on time, but each case below reduces its democratic value. Sort each case by what has failed."
+  },
+  "categories": [
+    {
+      "id": "impartial",
+      "label": {
+        "en": "Impartial"
+      }
+    },
+    {
+      "id": "trustworthy",
+      "label": {
+        "en": "Trustworthy"
+      }
+    },
+    {
+      "id": "inclusive",
+      "label": {
+        "en": "Inclusive"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-favours",
+      "text": {
+        "en": "Candidates are influenced by personal favours"
+      },
+      "correctCategoryId": "impartial"
+    },
+    {
+      "id": "chip-gift",
+      "text": {
+        "en": "An officer on duty favours one candidate over the others"
+      },
+      "correctCategoryId": "impartial"
+    },
+    {
+      "id": "chip-accuracy",
+      "text": {
+        "en": "Votes are not counted accurately"
+      },
+      "correctCategoryId": "trustworthy"
+    },
+    {
+      "id": "chip-slip",
+      "text": {
+        "en": "Totals are added up wrongly and no one checks them"
+      },
+      "correctCategoryId": "trustworthy"
+    },
+    {
+      "id": "chip-access",
+      "text": {
+        "en": "A voter in a wheelchair cannot get into the polling station"
+      },
+      "correctCategoryId": "inclusive"
+    },
+    {
+      "id": "chip-distance",
+      "text": {
+        "en": "A voter who cannot see finds no Braille at the machine"
+      },
+      "correctCategoryId": "inclusive"
+    }
+  ],
+  "explanation": {
+    "en": "Favours mean the process is not impartial. A wrong count means the result cannot be trusted. A voter who cannot reach or use the booth has been left out, so the process is not inclusive."
+  },
+  "hints": [
+    {
+      "en": "Ask of each case: was someone favoured, was the count wrong, or was a voter left out?"
+    }
+  ],
+  "tags": [
+    "free-and-fair",
+    "accessibility",
+    "counting",
+    "inducement",
+    "vvpat"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:29.638Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "q-l08-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "The texts say that Śhūdras were expected to assist the other varṇas. What else do we learn about what they did in practice?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They took no part in economic life."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They were engaged in activities such as agriculture, animal husbandry, trade, and arts and crafts."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They were all employed as soldiers by kings."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They served only in the households of kings."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Śhūdras were expected to assist the other varṇas. However, in practice they were also engaged in various economic activities such as agriculture, animal husbandry, trade, and arts and crafts."
+  },
+  "hints": [
+    {
+      "en": "The expected role and the practice are two different things."
+    },
+    {
+      "en": "Think about economic activities."
+    }
+  ],
+  "tags": [
+    "varna",
+    "functional-division",
+    "overlap",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:40.217Z",
+    "reviewedBy": "review-bar"
+  }
+}

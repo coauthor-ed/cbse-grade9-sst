@@ -1,0 +1,72 @@
+{
+  "id": "q-l08-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "A strong wind blows across dry ground that has dust, sand and gravel on it. What happens to each?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Gravel rises highest, sand hops low, and dust stays down."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This is the wrong way round. Light grains go furthest, so dust rises and gravel stays."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Dust, sand and gravel all rise to about the same height."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Size decides how far each goes. Gravel is far too heavy to rise with the dust."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Dust rises high, sand hops low, and gravel stays down."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. The lighter the grain, the higher and further the wind takes it."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Sand rises highest, gravel hops low, and dust stays down."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sand is heavier than dust, so it hops near the ground while dust rises above it."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Wind moves only what it can lift, so size matters. Dust is so light that it rises high and travels far. Sand is heavier and hops along, mostly within a metre of the ground. Gravel is too heavy to lift and stays behind."
+  },
+  "hints": [
+    {
+      "en": "Think about which of the three is the lightest."
+    }
+  ],
+  "tags": [
+    "wind",
+    "wind-erosion",
+    "grain-size",
+    "deflation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:46.378Z",
+    "reviewedBy": "review-bar"
+  }
+}

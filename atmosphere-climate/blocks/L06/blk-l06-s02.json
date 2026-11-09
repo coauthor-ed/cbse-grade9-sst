@@ -1,0 +1,36 @@
+{
+  "id": "blk-l06-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06/blk-l06-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "On about the same day as Kerala"
+    },
+    {
+      "id": "b",
+      "text": "About one week after Kerala"
+    },
+    {
+      "id": "c",
+      "text": "About five weeks after Kerala"
+    },
+    {
+      "id": "d",
+      "text": "Before Kerala, as Rajasthan is hotter"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L06/MonsoonFrontMapScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:36.866Z",
+    "reviewedBy": "review-bar"
+  }
+}

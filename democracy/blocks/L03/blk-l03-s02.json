@@ -1,0 +1,26 @@
+{
+  "id": "blk-l03-s02",
+  "type": "poe-predict@1",
+  "prompt": "## A Very Big Win\n\nA party wins 400 of the 543 seats in the Lok Sabha. That is a very big majority.\n\n**Predict:** Can this party now do anything it wants?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. With so many seats, no rule and no court can stop it."
+    },
+    {
+      "id": "b",
+      "text": "No. Its power comes from the people, and the Constitution binds it."
+    },
+    {
+      "id": "c",
+      "text": "Only if every other party in the House agrees to each decision."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.507Z"
+  }
+}

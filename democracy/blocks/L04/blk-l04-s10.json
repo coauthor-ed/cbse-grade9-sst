@@ -1,0 +1,16 @@
+{
+  "id": "blk-l04-s10",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The Fourth Pillar\n\n<!-- STEP id=\"beside-three-pillars\" -->\n## Keeping People Informed\n\nCitizens cannot judge a government's work if they do not know about it. Newspapers, news channels and social media platforms keep people informed about developments around the world.\n\n<!-- STEP id=\"voice-of-the-masses\" -->\n## A Voice of the People\n\nThe media also serves as a voice of the masses. It raises issues concerning the public and helps to resolve them through the right channels.\n\n**Because of this role, the media is often called the fourth pillar of democracy.**"
+  },
+  "simulation": {
+    "src": "simulations/L04/MediaPillarScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.515Z"
+  }
+}

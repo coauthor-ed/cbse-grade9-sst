@@ -1,0 +1,39 @@
+{
+  "id": "blk-l14-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L14/blk-l14-s05.md",
+  "image": {
+    "src": "media/L14/L14S05.jpg",
+    "alt": "Isometric view of the Great Ziggurat of Ur with monumental stairways leading to the high shrine.",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "ziggurat": {
+        "src": "media/L14/L14S05.jpg",
+        "alt": "Isometric view of the Great Ziggurat of Ur with monumental stairways leading to the high shrine."
+      },
+      "pyramid": {
+        "src": "media/L14/L14S05-b2.jpg",
+        "alt": "Drawing of the six-tier limestone Step Pyramid of Djoser at Saqqara."
+      },
+      "harappan": {
+        "src": "media/L14/L14S05-b3.jpg",
+        "alt": "Excavated brick structures of the Harappan tidal dockyard and warehouse basin at Lothal."
+      },
+      "greatwall": {
+        "src": "media/L14/L14S05-b4.jpg",
+        "alt": "The Great Wall of China winding across steep mountain ridges with stone watchtowers."
+      },
+      "synthesis": {
+        "src": "media/L14/L14S05-b5.jpg",
+        "alt": "Four drawings side by side: the Ziggurat of Ur, the Step Pyramid at Saqqara, the Lothal dockyard and the Great Wall of China."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

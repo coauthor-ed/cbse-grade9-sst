@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# So That Every Citizen Can Vote\n\n<!-- STEP id=\"symbols\" -->\n## A Picture Beside Each Name\n\nNot every citizen can read. So each party or candidate has an election **symbol**, a picture on the ballot paper or voting machine. Real symbols are pictures of everyday things. These three are made up for this example.\n\nTry it: she wants the triangle. Press the button beside it.\n\n<!-- STEP id=\"within-reach\" -->\n## A Polling Station Within Reach\n\nPolling stations are set up in mountains, forests, deserts and on islands. In some cases one is created even for a single voter, as in the Gir forest.\n\n**Symbols help a voter choose, and nearby stations help a voter arrive.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/SymbolBallotScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.520Z"
+  }
+}

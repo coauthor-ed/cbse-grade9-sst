@@ -1,0 +1,60 @@
+{
+  "id": "q-l10-s09",
+  "type": "mcq-single@2",
+  "stem": {
+    "en": "The Egyptian year had 12 months of 30 days plus 5 extra days, 365 days in all. Why did it slowly slip behind the seasons?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "The months were of unequal length."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "All 12 months had 30 days, so the months were equal, and 5 extra days were added at the end."
+      }
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "The Nile flood came at a different time each year."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The flood could vary from year to year, but that would not push the calendar steadily in one direction."
+      }
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Sirius rose at a different time each year."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Sirius was what the Egyptians watched to fix the year. The fault was in counting 365 days, not in the star."
+      }
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "The real year is about a quarter of a day longer than 365 days."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "opt-4",
+  "explanation": {
+    "en": "The real year is about 365 and a quarter days, so a calendar of exactly 365 days falls one day behind every four years, and 30 days behind in 120 years."
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  },
+  "hints": [
+    {
+      "en": "Compare 365 with the true length of a year."
+    }
+  ]
+}

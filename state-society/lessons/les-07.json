@@ -1,0 +1,65 @@
+{
+  "id": "les-07",
+  "lessonId": "les-07",
+  "type": "lesson",
+  "title": {
+    "en": "What holds things up"
+  },
+  "blocks": [
+    {
+      "blockRef": "blocks/L07/blk-l07-s01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s02.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s03.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s01.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s02.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s03.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s03b.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s04.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s04.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s05b.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s05.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s05.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-a01.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-a01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s06.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "review-bar",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:34.561Z"
+  }
+}

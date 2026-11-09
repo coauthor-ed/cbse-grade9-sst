@@ -1,0 +1,17 @@
+{
+  "id": "blk-l05-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Two Ways to Run a Democracy\n\n<!-- STEP id=\"representative\" -->\n## People Elect Representatives\n\nThey elect representatives, who answer to them at regular elections. This is **representative democracy**, or indirect democracy, and **India** follows it.\n\nPeople do not directly govern, but the government is accountable to them.\n\n<!-- STEP id=\"direct\" -->\n## People Decide Directly\n\nIn a **direct democracy**, citizens directly take part in most decisions, and some features of representative democracy exist. It is difficult in large countries. **Switzerland** is the example.\n\nTap between the two pictures."
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L05/DirectVsRepScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.517Z"
+  }
+}

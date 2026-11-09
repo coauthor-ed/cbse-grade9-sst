@@ -1,0 +1,15 @@
+{
+  "id": "blk-l03-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L03/KingsJusticeGame.js",
+  "objective": {
+    "en": "Sort each matter into Protect or Judge, then choose the fair response."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:14.624Z",
+    "reviewedBy": "review-bar"
+  }
+}

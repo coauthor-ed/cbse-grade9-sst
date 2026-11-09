@@ -1,0 +1,16 @@
+{
+  "id": "blk-l01-s06",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The Constitution and Its Promises\n\n<!-- STEP id=\"two-dates\" -->\n## Two Dates\n\nThe Constitution of India was adopted on **26 November 1949**. It came into force on **26 January 1950**, the day we mark as Republic Day.\n\n<!-- STEP id=\"rights-guarantee\" -->\n## No Discrimination\n\nThe Constitution guarantees and protects the Fundamental Rights of all citizens. No citizen may be discriminated against on the basis of religion, race, caste, sex or place of birth. It also encourages citizens to take part in democratic processes at the national, state and local levels.\n\n<!-- STEP id=\"what-winners-may-not-do\" -->\n## What Winners May Not Do\n\nElections decide who governs. The Constitution decides what the winners must respect, whichever side wins.\n\n**The voter in Gir has the same rights whoever wins.**"
+  },
+  "simulation": {
+    "src": "simulations/L01/ConstitutionTimelineScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.501Z"
+  }
+}

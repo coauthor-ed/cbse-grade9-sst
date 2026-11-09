@@ -1,0 +1,62 @@
+{
+  "id": "q-l02-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The word janapada means where a people first set its feet. What does this name suggest about how people saw themselves between about 1000 BCE and 600 BCE?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They were connected by kinship and also by a sense of belonging to a land."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They had given up their kinship ties and thought only of land."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They were connected only by kinship, as in the earliest Vedic period."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They were moving all the time and felt no tie to any land."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The name marks a change from kinship-based identity to territorial identity, but kinship did not vanish. People were connected by kinship and also by a sense of belonging to a land, which gave them a more concrete sense of identity."
+  },
+  "hints": [
+    {
+      "en": "The word contains jana, a people, and it also speaks of feet on ground."
+    },
+    {
+      "en": "One option removes kinship and another removes land. The answer keeps both."
+    }
+  ],
+  "tags": [
+    "janapada",
+    "territorial-identity",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:09.784Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l06-s09",
+  "type": "mini-game@1",
+  "src": "simulations/L06/IsochroneDrawScene.js",
+  "objective": {
+    "en": "Read the date lines: find the date for each place, then say whether the monsoon is arriving or leaving."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:36.866Z",
+    "reviewedBy": "review-bar"
+  }
+}

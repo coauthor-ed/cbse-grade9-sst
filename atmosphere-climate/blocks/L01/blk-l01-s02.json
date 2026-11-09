@@ -1,0 +1,36 @@
+{
+  "id": "blk-l01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Oxygen"
+    },
+    {
+      "id": "b",
+      "text": "Nitrogen"
+    },
+    {
+      "id": "c",
+      "text": "Carbon dioxide"
+    },
+    {
+      "id": "d",
+      "text": "Water vapour"
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:06.382Z",
+    "reviewedBy": "review-bar"
+  },
+  "simulation": {
+    "src": "simulations/L01/GasSampleScene.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

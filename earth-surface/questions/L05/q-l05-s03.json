@@ -1,0 +1,72 @@
+{
+  "id": "q-l05-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A river has a large loop with a very narrow neck of land. A flood cuts across the neck. What is left behind?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A curved lake in the old loop, apart from the flow."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. The river takes the short way and leaves the old loop as an oxbow lake."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A waterfall where the river crosses the neck."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A waterfall needs a steep drop over hard rock, which a floodplain does not have."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A delta, because the river has met standing water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A delta forms at a river mouth, where the river enters a sea, ocean or lake."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A second loop that takes all the water from the first."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The river leaves the loop and takes the shorter path across the neck."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The river takes the shorter path across the neck. Sediment closes the ends of the old loop, and it stays behind as a curved oxbow lake."
+  },
+  "hints": [
+    {
+      "en": "Which path would water take once the neck is cut?"
+    }
+  ],
+  "tags": [
+    "meander",
+    "oxbow",
+    "middle-course",
+    "cutoff"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:31.657Z",
+    "reviewedBy": "review-bar"
+  }
+}

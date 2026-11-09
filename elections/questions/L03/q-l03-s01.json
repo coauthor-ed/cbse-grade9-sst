@@ -1,0 +1,35 @@
+{
+  "id": "q-l03-s01",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Two constituencies each send one Member of Parliament to Parliament. The first has 5,00,000 people. The second has 25,00,000 people. How many times as many people does the second Member of Parliament answer for, compared with the first?"
+  },
+  "expectedValue": 5,
+  "tolerance": 0,
+  "unit": "times",
+  "explanation": {
+    "en": "25,00,000 ÷ 5,00,000 = 5. Each seat sends one MP, so the second MP represents five times as many people as the first."
+  },
+  "hints": [
+    {
+      "en": "Divide the bigger number by the smaller one: 25,00,000 / 5,00,000."
+    },
+    {
+      "en": "One lakh is 1,00,000. Both numbers are in lakhs: 5 lakh and 25 lakh."
+    }
+  ],
+  "tags": [
+    "delimitation",
+    "constituency",
+    "representation",
+    "ratio"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:06.864Z",
+    "reviewedBy": "review-bar"
+  }
+}

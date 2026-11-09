@@ -1,0 +1,36 @@
+{
+  "id": "blk-l11-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L11/blk-l11-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Trade at the ports and along the great routes"
+    },
+    {
+      "id": "b",
+      "text": "Farming: the land and what grew on it"
+    },
+    {
+      "id": "c",
+      "text": "Tribute sent by weaker neighbouring kings"
+    },
+    {
+      "id": "d",
+      "text": "Taxes paid by guilds of craftspeople"
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L11/LandTaxScene.js",
+    "role": "setup",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z",
+    "reviewedBy": "review-bar"
+  }
+}

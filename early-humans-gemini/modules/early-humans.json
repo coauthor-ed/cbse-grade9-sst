@@ -1,0 +1,117 @@
+{
+  "id": "early-humans",
+  "moduleId": "early-humans",
+  "type": "module",
+  "authorId": "early-humans",
+  "title": {
+    "en": "Early Humans and Beginning of Civilisation"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "early-humans",
+      "human-evolution",
+      "stone-age",
+      "neolithic-revolution",
+      "sindhu-sarasvati-civilisation",
+      "mesopotamia",
+      "ancient-egypt",
+      "ancient-china",
+      "early-civilisations"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "What the Ground Can Tell Us"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "Four Skulls in One Drawer"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "Backwards Progress"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "The Tool That Was Only a Part"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "Six Bowls, Several Beginnings"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "A Village From 9,000 Years Ago"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "The Missing Run-Up"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08.json",
+      "title": {
+        "en": "The Worst Possible Place"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-09.json",
+      "title": {
+        "en": "The Oldest Writing on Earth Is a Receipt"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-10.json",
+      "title": {
+        "en": "Egypt's Lost Script"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-11.json",
+      "title": {
+        "en": "Everything But the Heart"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-12.json",
+      "title": {
+        "en": "The Bones That Only Asked Questions"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-13.json",
+      "title": {
+        "en": "Who Built the Great Wall?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-14.json",
+      "title": {
+        "en": "Copied, or Separate?"
+      }
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-09-03T09:28:45.203Z"
+  },
+  "subject": "social_science",
+  "grade": 9,
+  "bookCode": "iest1",
+  "chapterId": "iest1-ch4"
+}

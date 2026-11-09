@@ -1,0 +1,15 @@
+{
+  "id": "blk-l06-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s05.md",
+  "simulation": {
+    "src": "simulations/L06/WarningNetworkScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:43.334Z",
+    "reviewedBy": "review-bar"
+  }
+}

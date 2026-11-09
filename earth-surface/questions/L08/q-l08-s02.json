@@ -1,0 +1,72 @@
+{
+  "id": "q-l08-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Wind can shape solid rock in a desert. What does the cutting?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Clean moving air scrapes the rock away with nothing in it."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Air on its own hardly marks rock. It needs sand to cut with."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Sand grains in the wind hit the rock again and again."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Each grain removes very little, but thousands of years of grains wear rock away."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Hot wind melts the softer parts of the rock away."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Desert wind is hot, but nowhere near hot enough to melt rock."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Rain carried along in the wind dissolves the rock face."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Deserts get very little rain, and wind erosion works by grains hitting the rock."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Wind cuts rock by sandblasting. It carries sand, and the grains strike the rock thousands of times. Soft rock goes first, which leaves hard ridges called yardangs. A single stone worn the same way is a ventifact."
+  },
+  "hints": [
+    {
+      "en": "Ask what the wind is carrying near the ground."
+    }
+  ],
+  "tags": [
+    "wind",
+    "yardang",
+    "abrasion",
+    "wind-erosion"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:46.378Z",
+    "reviewedBy": "review-bar"
+  }
+}

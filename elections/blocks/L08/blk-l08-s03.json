@@ -1,0 +1,16 @@
+{
+  "id": "blk-l08-s03",
+  "type": "content-block@1",
+  "poeRole": "explain",
+  "markdownRef": "blocks/L08/blk-l08-s03.md",
+  "simulation": {
+    "src": "simulations/L08/FreeFairDeskScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:29.638Z",
+    "reviewedBy": "review-bar"
+  }
+}

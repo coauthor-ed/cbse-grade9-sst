@@ -1,0 +1,76 @@
+{
+  "id": "q-l06-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "On a map of the advancing monsoon, each line carries one date. Such a line is called an isochrone. What does one isochrone join?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Places that usually get the monsoon on the same date"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. All the places on one line usually get the monsoon on that date."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Places that get the same amount of rain in a year"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The line gives a date. It says nothing about how much rain falls."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Places that have the same temperature in June"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. A line of equal temperature would be a different map."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Places that lie at the same height above the sea"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Height is shown on a relief map, not on a map of dates."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Iso means same and chronos means time, so an isochrone joins places with the same time or date. On the monsoon map, one line joins places that usually get the monsoon on one date."
+  },
+  "hints": [
+    {
+      "en": "Look at what is printed on each line."
+    },
+    {
+      "en": "Each line carries a date, so it must join places that share that date."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "monsoon",
+    "onset",
+    "front",
+    "isochrone"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:36.866Z",
+    "reviewedBy": "review-bar"
+  }
+}

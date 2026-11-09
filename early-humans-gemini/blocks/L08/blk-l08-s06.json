@@ -1,0 +1,36 @@
+{
+  "id": "blk-l08-s06",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08/blk-l08-s06.md",
+  "image": {
+    "src": "media/L08/L08S06.jpg",
+    "alt": "A drawing, made for this course, based on a decorated box from Sumer: three rows of figures in shell and coloured stone on a dark background.",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "top": {
+        "src": "media/L08/L08S06-b2.jpg",
+        "alt": "Top row of the drawing: seated people drinking from cups at a feast."
+      },
+      "middle": {
+        "src": "media/L08/L08S06-b3.jpg",
+        "alt": "Middle row of the drawing: men leading sheep, goats and cattle."
+      },
+      "bottom": {
+        "src": "media/L08/L08S06-b4.jpg",
+        "alt": "Bottom row of the drawing: four-wheeled carts pulled by animals, with soldiers on foot."
+      },
+      "ornament": {
+        "src": "media/L08/L08S06-b5.jpg",
+        "alt": "Close view of the drawing, showing the detail of the patterned clothes and ornaments."
+      }
+    }
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

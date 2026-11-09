@@ -1,0 +1,35 @@
+{
+  "id": "blk-l01-s03",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-s03.md",
+  "image": {
+    "src": "media/L01/L01S03.jpg",
+    "alt": "An excavation trench with finds still in position: stone tools, animal bones and a dark ash-filled hearth exposed in the trench floor, each marked with a small numbered tag.",
+    "position": "right"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": "What they ate, and how they built."
+    },
+    {
+      "id": "b",
+      "text": "Only what they ate. Bones and seeds survive, but buildings leave no trace."
+    },
+    {
+      "id": "c",
+      "text": "What they ate, how they built, and who their ruler was."
+    },
+    {
+      "id": "d",
+      "text": "All four. A careful enough dig finds everything."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-l13-s07",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "assertion": {
+    "en": "The route between China and the west came to be called the Silk Route."
+  },
+  "reason": {
+    "en": "Silk became a major item of external trade during the Han dynasty, around the 2nd century BCE."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both statements are true, but the second does explain the first: the route took its name from the silk traded along it."
+    },
+    "c": {
+      "en": "The Reason is true. Silk did become a major item of external trade under the Han, around the 2nd century BCE."
+    },
+    "d": {
+      "en": "The Assertion is true. The route on which silk was traded did come to be known as the Silk Route."
+    }
+  },
+  "explanation": {
+    "en": "Both statements are true, and the Reason explains the Assertion. Silk became so important in external trade under the Han that the whole route was named after it."
+  },
+  "hints": [
+    {
+      "en": "First judge each statement by itself. Then ask whether the second explains the first."
+    }
+  ],
+  "tags": [
+    "silk-route",
+    "han-dynasty",
+    "trade",
+    "ancient-china"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "q-l10-s07",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "You are on a hill road and hear boulders knocking together on the slope above. What should you do, according to the NDMA landslide poster?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Stop where you are and watch which way the rocks are falling."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Unusual sounds are a warning sign. Do not wait, leave quickly."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Run on down the valley road, ahead of the falling rock and mud."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rock and mud travel into the valley below, so move away from it."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Move quickly away from the slide's path and the valley below."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Leave both, then inform the nearest Tehsil or District HQ."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Cross the loose rock quickly to reach the far side of the slide."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Stay off loose material. It can move again under your feet."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Unusual sounds, like trees cracking or boulders knocking together, are warning signs. The poster says to stay calm, stay with your companions, move quickly away from the slide's path and the valley below it, and inform the nearest Tehsil or District HQ."
+  },
+  "hints": [
+    {
+      "en": "Where do falling rock and mud go?"
+    }
+  ],
+  "tags": [
+    "landslide",
+    "safety"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedBy": "owner",
+    "reviewedAt": "2026-11-01T15:43:10.000Z"
+  }
+}

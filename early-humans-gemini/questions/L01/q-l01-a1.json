@@ -1,0 +1,84 @@
+{
+  "id": "q-l01-a1",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A dig finds objects but no writing. Sort each item by what it needs."
+  },
+  "categories": [
+    {
+      "id": "ground",
+      "label": {
+        "en": "Objects can show this"
+      }
+    },
+    {
+      "id": "writing",
+      "label": {
+        "en": "This usually needs writing"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-food",
+      "text": {
+        "en": "What people ate"
+      },
+      "correctCategoryId": "ground"
+    },
+    {
+      "id": "chip-tools",
+      "text": {
+        "en": "What tools people could make"
+      },
+      "correctCategoryId": "ground"
+    },
+    {
+      "id": "chip-house",
+      "text": {
+        "en": "The plan of a house"
+      },
+      "correctCategoryId": "ground"
+    },
+    {
+      "id": "chip-name",
+      "text": {
+        "en": "The name of a ruler"
+      },
+      "correctCategoryId": "writing"
+    },
+    {
+      "id": "chip-belief",
+      "text": {
+        "en": "What people believed"
+      },
+      "correctCategoryId": "writing"
+    },
+    {
+      "id": "chip-date",
+      "text": {
+        "en": "The exact date of a coronation"
+      },
+      "correctCategoryId": "writing"
+    }
+  ],
+  "explanation": {
+    "en": "Objects show what people did: bones and seeds show diet, tools show skill, and post holes show a plan. Names and exact dates usually come from written documents, because they leave no clear mark in the soil. Burials and paintings can hint at beliefs but cannot explain them."
+  },
+  "hints": [
+    {
+      "en": "Ask: is this something people did with their hands, or something they said or thought?"
+    }
+  ],
+  "tags": [
+    "archaeology",
+    "evidence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

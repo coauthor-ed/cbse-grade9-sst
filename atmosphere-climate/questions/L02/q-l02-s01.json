@@ -1,0 +1,60 @@
+{
+  "id": "q-l02-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Rain, fog and hail occur in one layer of the atmosphere. Which layer is it, and how high does it reach on average?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The troposphere, about 12 km"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The stratosphere, about 50 km"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The mesosphere, about 80 km"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The thermosphere, about 700 km"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Nearly all weather occurs in the troposphere, the lowest layer, because it holds most of the water vapour and clouds. Its average height is about 12 km."
+  },
+  "hints": [
+    {
+      "en": "It is the layer closest to the ground, the one you breathe in."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "layers",
+    "troposphere",
+    "weather"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:11.924Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "q-l06-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Which statement about village assemblies in the Chola empire is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They only carried out work handed to them by officers from the valanāḍu."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "They were responsible for local work such as revenue collection, irrigation and road construction, and were self-reliant."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They met only in the capital, and a village had no council of its own."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They depended on payments from the king to do their work."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Chola village assemblies were responsible for all local administrative functions, including revenue collection, land management, irrigation, road construction and record maintenance. They were independent, self-reliant institutions and did not depend on the government for patronage."
+  },
+  "hints": [
+    {
+      "en": "The Ur was the smallest level. Who did its work?"
+    },
+    {
+      "en": "\"Self-reliant\" is the important word here."
+    }
+  ],
+  "tags": [
+    "chola",
+    "mandalam",
+    "valanadu",
+    "nadu",
+    "ur",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:28.849Z",
+    "reviewedBy": "review-bar"
+  }
+}

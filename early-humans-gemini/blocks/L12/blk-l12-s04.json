@@ -1,0 +1,35 @@
+{
+  "id": "blk-l12-s04",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L12/blk-l12-s04.md",
+  "deferVerdict": true,
+  "options": [
+    {
+      "id": "opt-a",
+      "text": "What the people asking hoped for and feared."
+    },
+    {
+      "id": "opt-b",
+      "text": "Exact figures for harvests and for soldiers killed."
+    },
+    {
+      "id": "opt-c",
+      "text": "Proof that the predictions came true."
+    },
+    {
+      "id": "opt-d",
+      "text": "Nothing, because a question with no answer is not evidence."
+    }
+  ],
+  "correctOptionId": "opt-a",
+  "image": {
+    "src": "media/L12/L12S04.jpg",
+    "alt": "Inscribed Shang dynasty ox scapula oracle bone showing vertical columns of divination questions.",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

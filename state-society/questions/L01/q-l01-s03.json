@@ -1,0 +1,95 @@
+{
+  "id": "q-l01-s03",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Sort each description into the assembly it fits."
+  },
+  "categories": [
+    {
+      "id": "sabhā",
+      "label": {
+        "en": "sabhā"
+      }
+    },
+    {
+      "id": "samiti",
+      "label": {
+        "en": "samiti"
+      }
+    },
+    {
+      "id": "vidhata",
+      "label": {
+        "en": "vidhata"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "c1",
+      "text": {
+        "en": "Hears a case and gives a judgement"
+      },
+      "correctCategoryId": "sabhā"
+    },
+    {
+      "id": "c2",
+      "text": {
+        "en": "A smaller body of select elites"
+      },
+      "correctCategoryId": "sabhā"
+    },
+    {
+      "id": "c3",
+      "text": {
+        "en": "Focuses on policy decisions"
+      },
+      "correctCategoryId": "samiti"
+    },
+    {
+      "id": "c4",
+      "text": {
+        "en": "A larger assembly representing the broader population"
+      },
+      "correctCategoryId": "samiti"
+    },
+    {
+      "id": "c5",
+      "text": {
+        "en": "A forum for discussing war"
+      },
+      "correctCategoryId": "vidhata"
+    },
+    {
+      "id": "c6",
+      "text": {
+        "en": "A popular gathering of members of the janas"
+      },
+      "correctCategoryId": "vidhata"
+    }
+  ],
+  "explanation": {
+    "en": "The sabhā was a smaller body of select elites with a mainly judicial function. The samiti was a larger assembly that represented the broader population and focused on policy and political affairs. The vidhata was a popular gathering of members of the janas and a forum for discussing war and other political matters."
+  },
+  "hints": [
+    {
+      "en": "Three of these are about who attended each assembly. Start with the smallest."
+    },
+    {
+      "en": "Ask of each chip: is it about judging, about policy, or about discussing war?"
+    }
+  ],
+  "tags": [
+    "vedic-period",
+    "assemblies",
+    "match-categorize"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:04.889Z",
+    "reviewedBy": "review-bar"
+  }
+}

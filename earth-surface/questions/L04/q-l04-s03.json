@@ -1,0 +1,93 @@
+{
+  "id": "q-l04-s03",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Sort each event. Ask: was the material carried away?"
+  },
+  "categories": [
+    {
+      "id": "weathering",
+      "label": {
+        "en": "Weathering"
+      }
+    },
+    {
+      "id": "erosion",
+      "label": {
+        "en": "Erosion"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Frost splits a boulder; the pieces stay"
+      },
+      "correctCategoryId": "weathering"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Rain softens a stone carving"
+      },
+      "correctCategoryId": "weathering"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "A root splits a rock"
+      },
+      "correctCategoryId": "weathering"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "A stream carries pebbles downhill"
+      },
+      "correctCategoryId": "erosion"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "Wind blows sand across a plain"
+      },
+      "correctCategoryId": "erosion"
+    },
+    {
+      "id": "chip-6",
+      "text": {
+        "en": "Waves wash sand along a shore"
+      },
+      "correctCategoryId": "erosion"
+    },
+    {
+      "id": "chip-7",
+      "text": {
+        "en": "Moving ice drags rocks down a valley"
+      },
+      "correctCategoryId": "erosion"
+    }
+  ],
+  "explanation": {
+    "en": "Weathering breaks rock where it stands. Erosion carries material from one place to another, so it needs an agent such as water, wind, ice or waves."
+  },
+  "hints": [
+    {
+      "en": "Ignore how strong each event sounds. Look for movement of the material."
+    }
+  ],
+  "tags": [
+    "weathering",
+    "erosion",
+    "distinguishing-processes"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:27.289Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "q-l09-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A village drinks from a clear spring at a cave mouth in limestone hills. Why should this water be tested?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "All limestone water is poisonous, even after testing."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Limestone water is used by many people. The danger is what gets into it."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Stalactites give off a harmful gas into the water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Stalactites are a harmless mineral. The risk comes from the surface."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sea water always mixes into cave water."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The water in a limestone hill comes from rain, not from the sea."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Water in wide cracks is not filtered on its way."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Clear water can still carry dirt that came straight down from the surface."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Water in limestone moves quickly through wide cracks, so it is not filtered as it would be in sand. Dirt from the surface can reach a spring in a short time. Clear water can still be unsafe, so it should be tested."
+  },
+  "hints": [
+    {
+      "en": "Think about how fast the water travels through the rock."
+    }
+  ],
+  "tags": [
+    "karst",
+    "limestone",
+    "sinkhole",
+    "cave",
+    "underground-river"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:51.498Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "oceans-and-life",
+  "moduleId": "oceans-and-life",
+  "type": "module",
+  "authorId": "oceans-and-life",
+  "title": {
+    "en": "Oceans and Life"
+  },
+  "curriculumAlignment": "core",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "ocean-relief",
+      "bathymetry",
+      "waves",
+      "tides",
+      "ocean-currents",
+      "cyclones",
+      "storm-surge",
+      "tsunamis",
+      "early-warning-systems",
+      "blue-economy",
+      "marine-resources",
+      "maritime-zones",
+      "UNCLOS",
+      "COLREGs",
+      "MARPOL"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "What does the sea floor look like?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "What is a wave, and how do waves shape the coast?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "Why does the sea rise and fall twice a day?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "What are ocean currents, and what do they do?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "How are people warned of a cyclone?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "How does a tsunami warning reach people in time?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "What does the sea give us, and how do we keep it?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08.json",
+      "title": {
+        "en": "Who has which rights in the sea?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-09.json",
+      "title": {
+        "en": "What rules keep the open sea safe?"
+      }
+    }
+  ]
+}

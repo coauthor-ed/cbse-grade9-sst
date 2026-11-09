@@ -1,0 +1,35 @@
+{
+  "id": "q-l08-s04",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A student scores these habits: takes flights more than twice a year (4 points); leaves appliances on frequently (3 points); rarely thinks about saving water (3 points); sometimes uses disposable plastics (2 points). What is the total score?"
+  },
+  "expectedValue": 12,
+  "tolerance": 0.01,
+  "unit": "points",
+  "explanation": {
+    "en": "Add the four scores: 4 + 3 + 3 + 2 = 12. The highest possible total is 13."
+  },
+  "hints": [
+    {
+      "en": "Add the four numbers."
+    },
+    {
+      "en": "4 + 3 = 7. Now add 3 and then 2."
+    }
+  ],
+  "tags": [
+    "carbon-footprint",
+    "climate-change",
+    "greenhouse-gas",
+    "numeracy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:53.484Z",
+    "reviewedBy": "review-bar"
+  }
+}

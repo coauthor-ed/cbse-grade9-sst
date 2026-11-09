@@ -1,0 +1,95 @@
+{
+  "id": "q-l02-s11",
+  "type": "semantic-descriptive@1",
+  "answerMode": "text",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Describe two early democratic traditions in ancient India, and explain how each one practised collective decision-making."
+  },
+  "rubric": [
+    {
+      "id": "vedic-assemblies",
+      "label": {
+        "en": "Vedic assemblies (Sabhā, Samiti and Vidhata) involved collective decision-making, and the king worked in consultation with them"
+      },
+      "level1": {
+        "en": "In the Vedic period, who did the king consult, and what were the assemblies called?"
+      },
+      "clue": {
+        "en": "The king was not an independent ruler: he worked in consultation with assemblies, ministers and officers."
+      },
+      "level2Template": {
+        "en": "In the Vedic period, assemblies such as the ___ involved collective decision-making."
+      },
+      "accepted": [
+        "Sabhā",
+        "Sabhā and Samiti",
+        "Sabha",
+        "Sabha and Samiti",
+        "Sabha, Samiti, and Vidhata",
+        "Vidhata"
+      ]
+    },
+    {
+      "id": "sangha-voting",
+      "label": {
+        "en": "The Bauddha Saṁgha encouraged debate, and its members chose their leader and made decisions by voting"
+      },
+      "level1": {
+        "en": "How did members of the Bauddha Saṁgha choose their leader and settle a question?"
+      },
+      "clue": {
+        "en": "Members discussed matters through debate, then chose their leader and made decisions through voting."
+      },
+      "level2Template": {
+        "en": "In the Bauddha Saṁgha, members discussed matters and settled them by ___."
+      },
+      "accepted": [
+        "voting",
+        "a vote",
+        "voting after debate"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Setting the scene"
+      },
+      "text": {
+        "en": "Democratic habits in India grew out of several early traditions, each of which practised taking decisions together."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Tradition 1: the Vedic assemblies"
+      },
+      "text": {
+        "en": "In the Vedic period, assemblies such as the ___ made decisions through collective discussion, and even the king governed in consultation with the assemblies, ministers, and officers."
+      },
+      "rubricId": "vedic-assemblies"
+    },
+    {
+      "eyebrow": {
+        "en": "Tradition 2: the Bauddha Sangha"
+      },
+      "text": {
+        "en": "In the Bauddha Sangha, members debated questions openly, chose their own leader, and settled matters by ___, making collective decision-making a daily procedure rather than an ideal."
+      },
+      "rubricId": "sangha-voting"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.506Z"
+  }
+}

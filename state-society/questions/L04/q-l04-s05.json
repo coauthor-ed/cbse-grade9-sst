@@ -1,0 +1,65 @@
+{
+  "id": "q-l04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "What does the Junagadh Rock Inscription near Girnar preserve?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Records of the Maurya, Western Satrap and Gupta dynasties, spanning about 700 years."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Records of one dynasty, cut by a line of kings from father to son."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A list of all sixteen mahājanapadas."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A law code that all later rulers had to follow."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The rock preserves inscriptions of Aśhoka, Rudradaman I and Skandagupta. They span about 700 years and give valuable information about administration, public works and political history."
+  },
+  "hints": [
+    {
+      "en": "How many rulers inscribed this rock?"
+    },
+    {
+      "en": "The earliest inscription is from the 3rd century BCE and the latest from the 5th century CE."
+    }
+  ],
+  "tags": [
+    "junagadh",
+    "girnar",
+    "inscriptions",
+    "rudradaman",
+    "skandagupta",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:19.089Z",
+    "reviewedBy": "review-bar"
+  }
+}

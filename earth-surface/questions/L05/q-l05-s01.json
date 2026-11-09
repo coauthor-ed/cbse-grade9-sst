@@ -1,0 +1,72 @@
+{
+  "id": "q-l05-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which statement about a river is true?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It erodes only in the mountains and deposits only at the sea."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rivers erode and deposit along their whole length. Only the balance changes."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It drops its coarse load first because its water speeds up."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Rivers drop their load when the water slows down, not when it speeds up."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It makes the same landforms along its whole course."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Each course has its own landforms, such as waterfalls high up and deltas near the sea."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Its strongest cutting is usually in the steep upper course."
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Right. Steep slopes give the water strong erosive force."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The steep upper course has the strongest erosion, and it forms V-shaped valleys and waterfalls. As the land flattens the river loses energy and deposits more sediment."
+  },
+  "hints": [
+    {
+      "en": "Where is the slope steepest?"
+    }
+  ],
+  "tags": [
+    "running-water",
+    "river-courses",
+    "erosion",
+    "deposition"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:31.657Z",
+    "reviewedBy": "review-bar"
+  }
+}

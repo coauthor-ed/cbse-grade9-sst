@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07/blk-l07-s04.md",
+  "simulation": {
+    "src": "simulations/L07/CirqueScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:41.306Z",
+    "reviewedBy": "review-bar"
+  }
+}

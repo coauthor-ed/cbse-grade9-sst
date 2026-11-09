@@ -1,0 +1,77 @@
+{
+  "id": "q-l06-a2",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Sort each statement about Mehrgarh: is it what the ground shows, or is it a guess?"
+  },
+  "categories": [
+    {
+      "id": "ground",
+      "label": {
+        "en": "The ground shows"
+      }
+    },
+    {
+      "id": "guess",
+      "label": {
+        "en": "A guess"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-bins",
+      "text": {
+        "en": "Brick bins stood beside the rooms"
+      },
+      "correctCategoryId": "ground"
+    },
+    {
+      "id": "chip-bones",
+      "text": {
+        "en": "Bones of sheep, goats and cattle lay at the site"
+      },
+      "correctCategoryId": "ground"
+    },
+    {
+      "id": "chip-graves",
+      "text": {
+        "en": "The dead were buried in graves"
+      },
+      "correctCategoryId": "ground"
+    },
+    {
+      "id": "chip-power",
+      "text": {
+        "en": "Whoever guarded the bins had power over the others"
+      },
+      "correctCategoryId": "guess"
+    },
+    {
+      "id": "chip-beads",
+      "text": {
+        "en": "Beads were worn to show who was rich"
+      },
+      "correctCategoryId": "guess"
+    }
+  ],
+  "explanation": {
+    "en": "The first three are things that diggers found. Why people wore beads, and who had power over the food, are explanations. They may be right, but the ground does not say so."
+  },
+  "hints": [
+    {
+      "en": "Could a digger point to it in the trench? If not, it is an explanation of what was found."
+    }
+  ],
+  "tags": [
+    "mehrgarh",
+    "evidence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

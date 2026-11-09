@@ -1,0 +1,15 @@
+{
+  "id": "blk-l08-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L08/DuneShapeGame.js",
+  "objective": {
+    "en": "Read the wind, the sand and the plants, and name the dune. Then read a dune and find the wind."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:46.378Z",
+    "reviewedBy": "review-bar"
+  }
+}

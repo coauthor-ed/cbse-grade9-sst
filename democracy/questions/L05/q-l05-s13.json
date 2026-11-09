@@ -1,0 +1,57 @@
+{
+  "id": "q-l05-s13",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A country votes every year, but only candidates chosen by the ruler may contest, and critics of the ruler are punished. Is voting alone enough to make it democratic?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Yes, because the people vote every year, and voting makes a country democratic."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes, because a large turnout proves the people support the ruler."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No, because people have no real choice and cannot express their opinions freely."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No, because a real democracy has only one strong party."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Voting alone is not enough. A democracy also needs a real choice of candidates, freedom to express opinions and criticise the government, and limits on the power of the people who win. A large turnout does not prove free support where critics are punished, and a democracy does not need one strong party: many parties can compete."
+  },
+  "hints": [
+    {
+      "en": "Besides voting, what else must people be free to do?"
+    }
+  ],
+  "tags": [
+    "elections",
+    "democratic-principles"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-11-01T00:00:00.000Z",
+    "flags": []
+  }
+}

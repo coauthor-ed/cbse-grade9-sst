@@ -1,0 +1,47 @@
+{
+  "id": "q-l04-s03",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "assertion": {
+    "en": "A person who has just turned 18 can vote at any polling station, even if their name is not on the electoral roll."
+  },
+  "reason": {
+    "en": "Electoral rolls are organised polling station-wise, and only those whose names appear on the roll are allowed to vote."
+  },
+  "correctOptionId": "d",
+  "optionFeedback": {
+    "a": {
+      "en": "The Assertion is false. A person whose name is not on the roll cannot vote, so the Reason cannot explain it."
+    },
+    "b": {
+      "en": "The Assertion is false, so the two statements are not both true. The Reason says the opposite of the Assertion."
+    },
+    "c": {
+      "en": "The Reason is true: only names on the roll may vote. It is the Assertion that is false."
+    }
+  },
+  "explanation": {
+    "en": "The Assertion is false and the Reason is true. Turning 18 lets a citizen join the roll, but it does not put the name there. Only those whose names appear on the roll are allowed to vote."
+  },
+  "hints": [
+    {
+      "en": "Decide whether each statement is true by itself."
+    },
+    {
+      "en": "Can a person vote if their name is missing from the roll?"
+    }
+  ],
+  "tags": [
+    "electoral-roll",
+    "eligibility",
+    "polling-station",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:11.134Z",
+    "reviewedBy": "review-bar"
+  }
+}

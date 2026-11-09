@@ -1,0 +1,20 @@
+{
+  "id": "blk-l03-game",
+  "type": "mini-game@1",
+  "subject": "social-studies",
+  "grade": 9,
+  "chapterId": "democracy",
+  "topicId": "popular-sovereignty",
+  "board": "CBSE",
+  "src": "simulations/L03/RuleOfLawJudgeGame.js",
+  "objective": {
+    "en": "Eight cases. Decide whether the Rule of Law is kept or broken in each one."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

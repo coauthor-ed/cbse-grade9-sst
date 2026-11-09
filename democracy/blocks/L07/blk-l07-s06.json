@@ -1,0 +1,26 @@
+{
+  "id": "blk-l07-s06",
+  "type": "poe-predict@1",
+  "prompt": "## 1977\n\nThe Emergency was lifted in 1977, and general elections were held.\n\n**Predict:** What do you think was the result of the elections?",
+  "options": [
+    {
+      "id": "a",
+      "text": "The ruling government was elected again."
+    },
+    {
+      "id": "b",
+      "text": "The ruling government was defeated."
+    },
+    {
+      "id": "c",
+      "text": "People stayed away, so no result came."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.525Z"
+  }
+}

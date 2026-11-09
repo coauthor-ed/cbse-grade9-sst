@@ -1,0 +1,63 @@
+{
+  "id": "q-l05-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A king lives 500 km from one of his villages, and there is no fast way to send a message. How did early Indian kingdoms manage to govern such distant places?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The king visited every village in person once a year."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The kingdom was divided into provinces, divisions and districts, each with officers, down to the village."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Far villages were left outside the kingdom, because no order could reach them."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "All officers lived in the capital and governed the villages from there."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Early Indian kingdoms were generally divided into provinces, which were further divided into divisions and districts, with villages below them. Officers worked at provincial and local levels, while supreme authority rested with the king."
+  },
+  "hints": [
+    {
+      "en": "Think about what one person can do alone."
+    },
+    {
+      "en": "Where did the officers work?"
+    }
+  ],
+  "tags": [
+    "administration",
+    "ladder",
+    "decentralisation",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:24.273Z",
+    "reviewedBy": "review-bar"
+  }
+}

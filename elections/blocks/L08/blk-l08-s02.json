@@ -1,0 +1,36 @@
+{
+  "id": "blk-l08-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L08/blk-l08-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes, holding it on time is all that is needed"
+    },
+    {
+      "id": "b",
+      "text": "Yes, as long as more than one party took part"
+    },
+    {
+      "id": "c",
+      "text": "No, the whole process must also be fair"
+    },
+    {
+      "id": "d",
+      "text": "No, a large country can never hold a fair election"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L08/PotholeRoadScene-setup.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:29.638Z",
+    "reviewedBy": "review-bar"
+  }
+}

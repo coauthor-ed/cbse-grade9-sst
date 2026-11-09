@@ -1,0 +1,71 @@
+{
+  "id": "q-l02-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In deep water, how does a drop of water near the surface move as a wave passes?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "In a straight line towards the shore"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. That would carry the water along, and deep-water waves do not."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Straight up and down, never to the side"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. It also goes forward on the crest and back in the trough."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Forward with the wave across the whole sea"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. The energy goes across the sea. The water comes back to its place."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Round a small circle, back near its start"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Forward on the crest, back in the trough, and round again."
+      }
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A drop near the surface goes round a small circle: forward on the crest and back in the trough. Deeper down the circles are smaller. The drop ends up near where it began, and the energy goes on."
+  },
+  "hints": [
+    {
+      "en": "Think of the marked drops. Where did each one end up?"
+    }
+  ],
+  "tags": [
+    "waves",
+    "energy",
+    "push"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:25.965Z",
+    "reviewedBy": "review-bar"
+  }
+}

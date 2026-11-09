@@ -1,0 +1,36 @@
+{
+  "id": "blk-l04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04/blk-l04-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Hot days and cold nights crack a bare rock."
+    },
+    {
+      "id": "b",
+      "text": "A stream carries pebbles away."
+    },
+    {
+      "id": "c",
+      "text": "Acid in rain water slowly dissolves a limestone wall."
+    },
+    {
+      "id": "d",
+      "text": "Lichen, a thin plant-like growth, slowly crumbles a boulder."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L04/WeatheringBenchScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:27.289Z",
+    "reviewedBy": "review-bar"
+  }
+}

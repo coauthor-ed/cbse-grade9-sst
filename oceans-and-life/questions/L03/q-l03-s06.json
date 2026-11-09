@@ -1,0 +1,72 @@
+{
+  "id": "q-l03-s06",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each moon position into the kind of tide it gives."
+  },
+  "categories": [
+    {
+      "id": "spring",
+      "label": {
+        "en": "Spring tide (big range)"
+      }
+    },
+    {
+      "id": "neap",
+      "label": {
+        "en": "Neap tide (small range)"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-full",
+      "text": {
+        "en": "Full moon"
+      },
+      "correctCategoryId": "spring"
+    },
+    {
+      "id": "chip-new",
+      "text": {
+        "en": "New moon"
+      },
+      "correctCategoryId": "spring"
+    },
+    {
+      "id": "chip-first-quarter",
+      "text": {
+        "en": "First-quarter moon"
+      },
+      "correctCategoryId": "neap"
+    },
+    {
+      "id": "chip-third-quarter",
+      "text": {
+        "en": "Third-quarter moon"
+      },
+      "correctCategoryId": "neap"
+    }
+  ],
+  "explanation": {
+    "en": "At full moon and new moon the Sun, the Earth and the Moon lie in a straight line, so the tide is a spring tide. At the first and third quarter the pulls act in different directions, so it is a neap tide with a smaller range."
+  },
+  "hints": [
+    {
+      "en": "At which two positions are all three bodies in one straight line?"
+    }
+  ],
+  "tags": [
+    "tides",
+    "spring-tide",
+    "neap-tide"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:54:30.294Z",
+    "reviewedBy": "review-bar"
+  }
+}

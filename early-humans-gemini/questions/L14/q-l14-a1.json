@@ -1,0 +1,69 @@
+{
+  "id": "q-l14-a1",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "What does the book say about contact between the Harappans and the other three civilisations?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Strong contact with all three, through the sea"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Only Mesopotamia is named for strong contact. For Egypt and China the book says there is little tangible evidence."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Strong contact with Mesopotamia, and little tangible evidence of direct contact with Egypt and China"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No contact of any kind with anyone"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Trade with Mesopotamia is well recorded, and even for Egypt and China the book says little evidence, not none."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Strong contact with China, because both were in Asia"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Being in Asia does not show contact. The book says little tangible evidence for China."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Mesopotamia lay closer, and the book speaks of strong contacts and trade. For Egypt and China it says little tangible evidence of direct contact."
+  },
+  "hints": [
+    {
+      "en": "Which region do the Akkadian tablets link to Meluhha?"
+    },
+    {
+      "en": "Why does the book say little evidence, not none?"
+    }
+  ],
+  "tags": [
+    "bronze-age",
+    "contact"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

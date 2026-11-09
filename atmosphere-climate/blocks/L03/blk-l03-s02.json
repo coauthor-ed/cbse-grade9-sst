@@ -1,0 +1,32 @@
+{
+  "id": "blk-l03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03/blk-l03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "The Arctic is further from the Sun."
+    },
+    {
+      "id": "b",
+      "text": "Sunlight reaches the Arctic at a slant."
+    },
+    {
+      "id": "c",
+      "text": "The air over the Arctic is thinner."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L03/InsolationAngleScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:22.666Z",
+    "reviewedBy": "review-bar"
+  }
+}

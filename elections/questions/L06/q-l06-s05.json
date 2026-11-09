@@ -1,0 +1,59 @@
+{
+  "id": "q-l06-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which of these is defection?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A member elected on a party's ticket leaves it and joins another"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A person who was never elected leaves one party for another party"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A party in power changes a policy it announced before the polling"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A voter who backed one party chooses a different party the next time"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Defection needs a person elected on a party's ticket who then leaves it or acts against it. Anyone else can change parties freely. A party changing a policy, or a voter changing their mind, is not defection."
+  },
+  "hints": [
+    {
+      "en": "Find the person who was elected on a party's ticket."
+    }
+  ],
+  "tags": [
+    "defection",
+    "party-switching",
+    "multi-party-system"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:19.438Z",
+    "reviewedBy": "review-bar"
+  }
+}

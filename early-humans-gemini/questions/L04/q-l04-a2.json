@@ -1,0 +1,84 @@
+{
+  "id": "q-l04-a2",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each feature into the period it belongs to."
+  },
+  "categories": [
+    {
+      "id": "pal",
+      "label": {
+        "en": "Palaeolithic"
+      }
+    },
+    {
+      "id": "mes",
+      "label": {
+        "en": "Mesolithic"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-handaxe",
+      "text": {
+        "en": "Large handaxes and cleavers"
+      },
+      "correctCategoryId": "pal"
+    },
+    {
+      "id": "chip-marrow",
+      "text": {
+        "en": "Animal bones cleaved to reach the marrow"
+      },
+      "correctCategoryId": "pal"
+    },
+    {
+      "id": "chip-oldest",
+      "text": {
+        "en": "Attirampakkam, about 1.5 to 1.7 million years ago"
+      },
+      "correctCategoryId": "pal"
+    },
+    {
+      "id": "chip-fish",
+      "text": {
+        "en": "Fishing as the main source of food"
+      },
+      "correctCategoryId": "mes"
+    },
+    {
+      "id": "chip-warm",
+      "text": {
+        "en": "Forests and grasslands spreading after the climate warmed"
+      },
+      "correctCategoryId": "mes"
+    },
+    {
+      "id": "chip-boom",
+      "text": {
+        "en": "The first population explosion"
+      },
+      "correctCategoryId": "mes"
+    }
+  ],
+  "explanation": {
+    "en": "Palaeolithic people used large cutting tools, and the sites go back more than a million years. The Mesolithic began around 12,000 years ago, when a warmer climate brought new landscapes, more fishing and a sharp rise in population."
+  },
+  "hints": [
+    {
+      "en": "Ask whether the feature comes before or after the climate warmed about 12,000 years ago."
+    }
+  ],
+  "tags": [
+    "palaeolithic",
+    "mesolithic"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

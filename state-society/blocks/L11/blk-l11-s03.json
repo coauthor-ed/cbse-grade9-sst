@@ -1,0 +1,17 @@
+{
+  "id": "blk-l11-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L11/blk-l11-s03.md",
+  "poeRole": "explain",
+  "poeRecapStep": 0,
+  "simulation": {
+    "src": "simulations/L11/LandTaxScene-classes.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:54.370Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "q-l08-a3",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Entry to the top of a ziggurat was restricted to high priests and priestesses. What can a historian reasonably conclude from this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Sumerian society was divided into ranks."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Most Sumerians did not believe in the gods."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The opposite is more likely: every city built a grand temple for its chief god. Being kept out does not mean people did not believe."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The ziggurat was built mainly as a fort."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "The top was restricted because it was a holy place. The book calls the ziggurat a temple that also served as a treasury, not a fort."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Priests did no work for the rest of the city."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "This does not follow. The temple was tied to farming, trade and the transport of goods, so temple people had a large part in the city's work."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "When only a small group may enter the holiest place, that group stands above everyone else. The book says these priests were probably part of the ruling class."
+  },
+  "hints": [
+    {
+      "en": "Ask what it means when one small group may enter a place and everyone else may not."
+    }
+  ],
+  "tags": [
+    "mesopotamia",
+    "ziggurat",
+    "society"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

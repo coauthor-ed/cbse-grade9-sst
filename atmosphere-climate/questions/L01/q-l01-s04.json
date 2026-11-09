@@ -1,0 +1,59 @@
+{
+  "id": "q-l01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Wet clothes dry on a line on a still day. Afterwards the air near them holds more water vapour. Where did it come from?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Oxygen in the air turned into water vapour."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nitrogen in the air turned into water vapour."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Dust in the air melted into water vapour."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Water in the clothes evaporated into the air."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Water evaporates from wet clothes, the sea, rivers and wet ground, and this adds vapour to the air. That is why the amount of water vapour varies. One gas does not turn into another, and dust is solid."
+  },
+  "hints": [
+    {
+      "en": "Think about where the water in the clothes went."
+    }
+  ],
+  "tags": [
+    "atmosphere",
+    "water-vapour",
+    "evaporation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:06.382Z",
+    "reviewedBy": "review-bar"
+  }
+}

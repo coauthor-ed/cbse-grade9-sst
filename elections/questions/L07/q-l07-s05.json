@@ -1,0 +1,154 @@
+{
+  "id": "q-l07-s05",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "prompt": {
+    "en": "Party T won 3 Lok Sabha seats, all from one State, which is allotted 80 seats, and polled 4% of the valid votes in four States. It is not a recognised State party anywhere. In four sentences, explain why each of the three national routes fails, and say what Party T can still do."
+  },
+  "rubric": [
+    {
+      "id": "route-one",
+      "label": {
+        "en": "The first route fails because Party T polled less than 6% of the valid votes in the four States and won fewer than four Lok Sabha seats."
+      },
+      "level1": {
+        "en": "What two things does the first national route ask for?"
+      },
+      "clue": {
+        "en": "The first route asks for not less than 6% of valid votes in four or more States, and four Lok Sabha seats as well."
+      },
+      "level2Template": {
+        "en": "The first route fails because 4% is below ___ of the valid votes."
+      },
+      "accepted": [
+        "6%",
+        "six per cent",
+        "the 6% needed"
+      ]
+    },
+    {
+      "id": "route-two",
+      "label": {
+        "en": "The second route fails because 3 seats are far below 2% of the 543 Lok Sabha seats, and all of them come from one State."
+      },
+      "level1": {
+        "en": "How many seats is 2% of 543, and from how many States must they come?"
+      },
+      "clue": {
+        "en": "2% of 543 is about 11 seats, and the candidates must be elected from at least three States."
+      },
+      "level2Template": {
+        "en": "The second route fails because Party T needs about ___ seats from at least three States."
+      },
+      "accepted": [
+        "11",
+        "eleven"
+      ]
+    },
+    {
+      "id": "route-three",
+      "label": {
+        "en": "The third route fails because Party T is not recognised as a State party in any State, and the route needs four."
+      },
+      "level1": {
+        "en": "What does the third route ask a party to be already?"
+      },
+      "clue": {
+        "en": "The third route asks for recognition as a State party in at least four States."
+      },
+      "level2Template": {
+        "en": "The third route fails because Party T is a recognised State party in ___ State."
+      },
+      "accepted": [
+        "no",
+        "not a single"
+      ]
+    },
+    {
+      "id": "still-can",
+      "label": {
+        "en": "Party T remains a registered party and its candidates can still contest, but it is not allotted a reserved symbol."
+      },
+      "level1": {
+        "en": "Does failing to be recognised stop a party's candidates from contesting?"
+      },
+      "clue": {
+        "en": "Registered unrecognised parties can contest. Only national and State parties are allotted election symbols."
+      },
+      "level2Template": {
+        "en": "Party T remains registered and can still ___ elections, without a reserved symbol."
+      },
+      "accepted": [
+        "contest",
+        "take part in"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Route 1"
+      },
+      "text": {
+        "en": "The first national route fails, because Party T polled only 4% of the valid votes where 6% is needed, and it won 3 Lok Sabha seats where four are needed."
+      },
+      "rubricId": "route-one"
+    },
+    {
+      "eyebrow": {
+        "en": "Route 2"
+      },
+      "text": {
+        "en": "The second route fails, because 2% of the 543 Lok Sabha seats is about 11 seats and Party T won 3, all from one State rather than three."
+      },
+      "rubricId": "route-two"
+    },
+    {
+      "eyebrow": {
+        "en": "Route 3"
+      },
+      "text": {
+        "en": "The third route fails, because Party T is not recognised as a State party in any State and the route requires four."
+      },
+      "rubricId": "route-three"
+    },
+    {
+      "eyebrow": {
+        "en": "What remains"
+      },
+      "text": {
+        "en": "Party T therefore remains a registered party. Its candidates can still contest elections, but it is not allotted a reserved symbol."
+      },
+      "rubricId": "still-can"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "explanation": {
+    "en": "Each route fails on its own figure: 4% is below 6% with too few seats; 3 seats is below about 11; and no State record stands against the four needed. Party T stays registered, and its candidates can still contest."
+  },
+  "hints": [
+    {
+      "en": "Take the three national routes one at a time and write the figure each one needs."
+    }
+  ],
+  "tags": [
+    "recognition",
+    "rupp",
+    "state-party",
+    "criteria",
+    "delimitation",
+    "desk-record"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:24.206Z",
+    "reviewedBy": "review-bar"
+  }
+}

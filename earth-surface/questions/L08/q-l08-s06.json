@@ -1,0 +1,74 @@
+{
+  "id": "q-l08-s06",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Which of these landforms was not made by wind?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Barchan"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A barchan is a crescent of sand heaped up by wind."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yardang"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A yardang is a rock ridge carved by sand that the wind carries."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sea arch"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Waves cut a sea arch through a headland."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Deflation hollow"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A deflation hollow forms when wind blows loose material away."
+      }
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Barchans, yardangs and deflation hollows are all the work of wind. A sea arch is cut by waves, which wear through a headland at the coast."
+  },
+  "hints": [
+    {
+      "en": "Three of these are found in deserts."
+    }
+  ],
+  "tags": [
+    "wind",
+    "yardang",
+    "deflation-hollow",
+    "desert-pavement",
+    "barchan",
+    "dust-storm"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:52:46.378Z",
+    "reviewedBy": "review-bar"
+  }
+}

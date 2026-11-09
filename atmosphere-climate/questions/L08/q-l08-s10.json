@@ -1,0 +1,76 @@
+{
+  "id": "q-l08-s10",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A student writes: \"The greenhouse effect keeps Earth warm, so adding more carbon dioxide can only help.\" Which correction is right?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Some is needed, but added gases hold more heat"
+      },
+      "isCorrect": true,
+      "feedback": {
+        "en": "Yes. Without it Earth would be far colder, and more of it warms Earth further."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The greenhouse effect is harmful in every amount"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. Without it Earth's average would be about -18 °C."
+      }
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Carbon dioxide does not hold any heat"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. It is a greenhouse gas."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Carbon dioxide is the largest part of the air"
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "No. It is only about 0.04 per cent."
+      }
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The natural greenhouse effect keeps Earth's average at about 15 °C. Human activities add more of these gases, so more heat is held in and the climate changes."
+  },
+  "hints": [
+    {
+      "en": "Is the greenhouse effect bad in itself?"
+    },
+    {
+      "en": "What happens when more gas is added?"
+    }
+  ],
+  "tags": [
+    "greenhouse-gas",
+    "carbon-footprint",
+    "climate-change",
+    "atmosphere",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:23:53.484Z",
+    "reviewedBy": "review-bar"
+  }
+}

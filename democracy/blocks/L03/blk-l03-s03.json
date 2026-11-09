@@ -1,0 +1,17 @@
+{
+  "id": "blk-l03-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Power Comes From the People\n\n<!-- STEP id=\"not-anything\" -->\n## Not Anything It Wants\n\nNo, even 400 seats do not let a party do anything it wants, for four reasons:\n\n- its power comes from the people\n- the Constitution binds it\n- courts can review its actions\n- the people vote again\n\n<!-- STEP id=\"source-of-power\" -->\n## The People Are Sovereign\n\n**Sovereignty** comes from the Latin word *superanus*, meaning 'supreme'. Think of a class that chooses its monitor for one year: the monitor leads, but the choice stays with the class. In the same way, in a democracy the final source of power lies with the people.\n\n<!-- STEP id=\"one-vote-each\" -->\n## One Adult, One Secret Vote\n\nEvery citizen aged 18 years or above has the right to vote through a secret ballot. This right is called **Universal Adult Franchise**. The ballot is secret so that nobody can pressure a voter.\n\n<!-- STEP id=\"term-ends\" -->\n## Back to the People\n\nA government elected through free and fair elections makes policies and implements laws. When its term ends, the choice goes back to the people.\n\n**Think about it: why is it important that the final power rests with the people, and how does voting strengthen that power?**"
+  },
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L03/FranchiseScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.507Z"
+  }
+}

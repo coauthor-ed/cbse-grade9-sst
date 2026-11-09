@@ -1,0 +1,26 @@
+{
+  "id": "blk-l04-s02",
+  "type": "poe-predict@1",
+  "prompt": "## From a School to a Country\n\nThink of one organ, or part, of government that makes every law, puts every law into action, and judges every dispute about them.\n\n**Predict:** What is the biggest danger in this?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Nothing bad: decisions come quickly, because nobody has to wait for anyone."
+    },
+    {
+      "id": "b",
+      "text": "Not much changes: the work still gets shared out among many departments."
+    },
+    {
+      "id": "c",
+      "text": "Too much power sits in one place, and nobody is left to check or stop it."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.513Z"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "q-l01-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A jana is about to go to war with a neighbouring jana, and its members want to discuss the matter. According to the Vedic texts, which assembly was the forum for discussing war?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The sabhā, a smaller body of select elites that mainly served a judicial function."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The samiti, a larger assembly that focused on policy decisions and political affairs."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The vidhata, a popular gathering of members of the janas that discussed war and other political matters."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "None of them, because the rājā alone decided all matters of war."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The vidhata was the popular gathering attended by members of the janas, and it was a forum for discussions on warfare and other political matters. The sabhā was mainly judicial, and the samiti focused on policy decisions and political affairs."
+  },
+  "hints": [
+    {
+      "en": "Options a to c each describe one assembly truly. Find the one whose description mentions war."
+    },
+    {
+      "en": "The rājā led the group in war, but the texts still name a gathering where war was discussed."
+    }
+  ],
+  "tags": [
+    "vedic-period",
+    "assemblies",
+    "samiti",
+    "vidhata",
+    "sabhā"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:56:04.889Z",
+    "reviewedBy": "review-bar"
+  }
+}

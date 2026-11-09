@@ -1,0 +1,59 @@
+{
+  "id": "q-l01-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A government's five-year term ends. It says it did well and will stay on with no election. What is wrong with this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Nothing: a good record earns extra years."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It must first ask the President for more time."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It must first hold a debate in Parliament on its record."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The people have not given it a fresh mandate."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A government cannot continue beyond its term without seeking the people's mandate again. Doing well may help it win the next election, but it does not replace that election."
+  },
+  "hints": [
+    {
+      "en": "Who gives a government the right to continue, and how do they give it?"
+    }
+  ],
+  "tags": [
+    "mandate",
+    "accountability",
+    "term-end"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:20:58.653Z",
+    "reviewedBy": "review-bar"
+  }
+}

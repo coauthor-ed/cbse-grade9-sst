@@ -1,0 +1,33 @@
+{
+  "id": "blk-l08-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L08/blk-l08-s05.md",
+  "image": {
+    "src": "media/L08/L08S05.jpg",
+    "alt": "A drawing of how the great ziggurat of Ur may have looked: a stepped mud-brick tower with terraces and three stairways meeting at a gatehouse.",
+    "position": "right"
+  },
+  "simulation": {
+    "src": "simulations/L08/ZigguratFunctionsScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "simulationStep": 3,
+  "reveal": {
+    "images": {
+      "stairway": {
+        "src": "media/L08/L08S05-b2.jpg",
+        "alt": "A drawing of three stairways meeting at the entrance to the upper levels of a ziggurat."
+      },
+      "gate": {
+        "src": "media/L08/L08S05-b3.jpg",
+        "alt": "A drawing of the single entrance gate in the wall around a ziggurat."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

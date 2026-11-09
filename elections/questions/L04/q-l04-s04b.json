@@ -1,0 +1,63 @@
+{
+  "id": "q-l04-s04b",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Who appoints the Chief Electoral Officer of a State?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The State Government, acting entirely on its own"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The Governor, on the advice of the Chief Minister"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The ECI, in consultation with the State Government"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The District Magistrates of that State, by a vote among them"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The ECI appoints the Chief Electoral Officer from among the civil servants, in consultation with the State Government. So the State is consulted, but the ECI makes the appointment. District Magistrates work below this officer, so they cannot appoint the post."
+  },
+  "hints": [
+    {
+      "en": "Two bodies are involved. Which one appoints, and which one is consulted?"
+    },
+    {
+      "en": "District Magistrates are given election duties below the State level."
+    }
+  ],
+  "tags": [
+    "eci",
+    "chief-electoral-officer",
+    "state-government",
+    "appointment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:11.134Z",
+    "reviewedBy": "review-bar"
+  }
+}

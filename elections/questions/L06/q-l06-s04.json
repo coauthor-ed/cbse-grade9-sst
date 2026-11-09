@@ -1,0 +1,60 @@
+{
+  "id": "q-l06-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A party has lost a general election and is now the opposition. What is its work until the next election?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It has no work at all until the next election is called"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It shares in forming the government with the winning party"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It decides the country's policies and puts them into practice"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It ensures accountability, in debates and committees"
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The winning party forms the government and makes policy. The opposition has work of its own: it ensures accountability and takes part in debates and committees."
+  },
+  "hints": [
+    {
+      "en": "Two paths come after the result. Which one is the opposition's?"
+    }
+  ],
+  "tags": [
+    "opposition",
+    "accountability",
+    "committees",
+    "party-functions"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T18:21:19.438Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "q-l03-a2",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Attirampakkam in Tamil Nadu is dated to about 1.5 to 1.7 million years ago, and Isampur in Karnataka to 1.2 million years ago. What do these dates show?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Farming began in southern India more than a million years ago."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "These are Palaeolithic sites of hunter-gatherers. Farming came far later, in the Neolithic."
+      }
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "People were using stone tools in southern India more than a million years ago."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Isampur is older than Attirampakkam."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "A smaller number of years ago means more recent, so Isampur is the younger of the two."
+      }
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The first humans in the world evolved in southern India."
+      },
+      "isCorrect": false,
+      "feedback": {
+        "en": "Our earliest ancestors evolved in Africa. The oldest human settlement in the subcontinent dates to about 2 million years ago, well after that."
+      }
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Both sites have large stone tools with animal fossils, and both dates are more than a million years ago. So people were using stone tools in southern India long before anyone farmed."
+  },
+  "hints": [
+    {
+      "en": "Are these sites from the age of hunting or the age of farming?"
+    }
+  ],
+  "tags": [
+    "sites",
+    "palaeolithic"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

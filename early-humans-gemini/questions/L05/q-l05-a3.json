@@ -1,0 +1,77 @@
+{
+  "id": "q-l05-a3",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "After people started farming, life changed. Which of these do historians count as a gain, and which as a cost?"
+  },
+  "categories": [
+    {
+      "id": "easier",
+      "label": {
+        "en": "A gain"
+      }
+    },
+    {
+      "id": "harder",
+      "label": {
+        "en": "A cost"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-store",
+      "text": {
+        "en": "Food could be stored for the months when nothing grew"
+      },
+      "correctCategoryId": "easier"
+    },
+    {
+      "id": "chip-home",
+      "text": {
+        "en": "A family had a fixed home"
+      },
+      "correctCategoryId": "easier"
+    },
+    {
+      "id": "chip-hours",
+      "text": {
+        "en": "Fields took more hours of work"
+      },
+      "correctCategoryId": "harder"
+    },
+    {
+      "id": "chip-bad",
+      "text": {
+        "en": "One bad harvest could hurt the whole village"
+      },
+      "correctCategoryId": "harder"
+    },
+    {
+      "id": "chip-few",
+      "text": {
+        "en": "People ate fewer kinds of food"
+      },
+      "correctCategoryId": "harder"
+    }
+  ],
+  "explanation": {
+    "en": "Farming gave people stored food and a fixed home. It also meant long hours of work, a narrower diet and the danger of one bad harvest. There are good reasons on both sides of the book's question."
+  },
+  "hints": [
+    {
+      "en": "For each change, ask whether a farming family would be glad of it or worried by it."
+    }
+  ],
+  "tags": [
+    "neolithic",
+    "book-q1"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

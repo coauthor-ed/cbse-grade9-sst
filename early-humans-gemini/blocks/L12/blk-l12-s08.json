@@ -1,0 +1,31 @@
+{
+  "id": "blk-l12-s08",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L12/blk-l12-s08.md",
+  "image": {
+    "src": "media/L12/L12S08.jpg",
+    "alt": "Ancient Neolithic C-shaped celadon jade dragon carving from the Hongshan culture.",
+    "position": "right"
+  },
+  "reveal": {
+    "images": {
+      "jade-pendant": {
+        "src": "media/L12/L12S08-b2.jpg",
+        "alt": "Ribbed coiled yellow jade dragon pendant from the Zhou dynasty."
+      },
+      "bronze-vessel": {
+        "src": "media/L12/L12S08-b3.jpg",
+        "alt": "Elaborate Shang dynasty cast-bronze ritual wine pouring vessel with taotie beast masks."
+      },
+      "jade-chime": {
+        "src": "media/L12/L12S08-b4.jpg",
+        "alt": "Carved musical jade chime shaped like a fish tied with a cord."
+      }
+    }
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-11-01T03:37:53.000Z"
+  }
+}

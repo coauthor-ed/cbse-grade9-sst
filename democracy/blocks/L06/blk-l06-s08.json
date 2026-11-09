@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s08",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Case Study: South Manubankul\n\n<!-- STEP id=\"meet-south-manubankul\" -->\n## A Women-Friendly Panchayat\n\nSouth Manubankul Gram Panchayat is in Rupaichari Block, under the Tripura Tribal Areas Autonomous District Council. It promotes women's participation in decision-making, and the Ministry of Panchayati Raj has recognised it as a **\"women-friendly panchayat\"** at the national level.\n\n<!-- STEP id=\"what-it-does\" -->\n## What the Panchayat Does\n\nIt provides facilities for health, sanitation and livelihoods, supports self-help groups, and sees that government schemes are carried out well.\n\n**Cases like these show that democracy is not limited to voting during elections.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/WomenPanchayatScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:19:57.522Z"
+  }
+}
