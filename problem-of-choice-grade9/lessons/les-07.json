@@ -1,0 +1,50 @@
+{
+  "id": "les-07",
+  "lessonId": "les-07",
+  "type": "lesson",
+  "title": {
+    "en": "Who decides?"
+  },
+  "chapterId": "iest1-ch8",
+  "blocks": [
+    {
+      "blockRef": "blocks/L07/blk-l07-s00.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s01.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s02.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s03.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s04.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s05.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s06.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-s07.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s08.json"
+    },
+    {
+      "blockRef": "questions/L07/q-l07-s09.json"
+    },
+    {
+      "blockRef": "blocks/L07/blk-l07-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.380Z"
+  }
+}

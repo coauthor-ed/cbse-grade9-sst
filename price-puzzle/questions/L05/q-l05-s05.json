@@ -1,0 +1,57 @@
+{
+  "id": "q-l05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In early 2020, face masks suddenly sold at much higher prices. Which explanation fits best?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Supply rose sharply first, so sellers raised the price to slow buying."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Demand fell while supply also fell, so masks became costlier."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sellers agreed on one high price, and buyers had no other choice."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Demand rose sharply, and supply could not keep up at first."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Demand rose much faster than makers could produce masks, so there was a shortage and the price rose. Later, supply rose and the price fell again."
+  },
+  "hints": [
+    {
+      "en": "Which side of the market changed first? Could the other side change at once?"
+    }
+  ],
+  "tags": [
+    "equilibrium-adjustment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:04.705Z",
+    "reviewedBy": "review-bar"
+  }
+}

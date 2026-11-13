@@ -5,6 +5,7 @@
   "title": {
     "en": "A clan, a chief, and a fire"
   },
+  "chapterId": "iest1-ch5",
   "blocks": [
     {
       "blockRef": "blocks/L01/blk-l01-s00.json"

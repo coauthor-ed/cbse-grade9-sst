@@ -22,6 +22,62 @@
   "banks": [],
   "generatedAt": "2026-10-24T13:31:51.205Z",
   "glossary": "glossary.json",
+  "blurb": {
+    "en": "Air, pressure and winds, and how they bring the monsoon to India."
+  },
+  "highlights": [
+    {
+      "en": "Find out what each gas in the air does"
+    },
+    {
+      "en": "See why some places are hot and others cold"
+    },
+    {
+      "en": "Watch the winds turn around each year and bring the monsoon"
+    },
+    {
+      "en": "Compare the climates of ten Indian weather stations"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "Nitrogen fills most of the air"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "Why Delhi is coldest when the Earth is nearest the Sun"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "Cold, dry winds blow from land to sea"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "India's four seasons"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "Greenhouse gases: a natural blanket of heat"
+      }
+    }
+  ],
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "cover": "showcase/cover.jpg",
+  "estHours": 4,
+  "sizeMB": 1.4,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -37,10 +93,58 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "atmosphere-climate",
+        "title": "The Blanket: Air, Pressure and the Monsoon",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "What is the air made of?"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "How is the air layered, and what does each layer do?"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "Why are some places hot and others cold?"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "What makes the air move?"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "Why does the wind turn around each year?"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "When does the monsoon come and go?"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "Why do ten Indian stations have ten climates?"
+          },
+          {
+            "ref": "lessons/les-08.json",
+            "title": "How are we changing the air, and what can we do?"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 8,
+    "narrated": false,
+    "chapterIds": [
+      "iest1-ch3"
+    ]
   }
 }

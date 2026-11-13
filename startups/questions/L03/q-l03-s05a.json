@@ -1,0 +1,60 @@
+{
+  "id": "q-l03-s05a",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "ABC Bakery packs its pastries in sealed boxes with the bakery's name on them, not in loose paper. Which two things does this help with?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "The pastries look better and stay fresh for longer."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "The bakery needs fewer bakers and fewer helpers."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "The pastries cost less to make and less to sell."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Customers cannot compare its prices with other shops."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-1",
+  "explanation": {
+    "en": "The book asks what kind of packaging can make bakery goods more attractive and give them a longer shelf-life. A sealed box with the bakery's name does both."
+  },
+  "hints": [
+    {
+      "en": "Think about how a box looks, and what it does to the pastry inside."
+    }
+  ],
+  "tags": [
+    "business-plan",
+    "promotion",
+    "packaging",
+    "brand"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

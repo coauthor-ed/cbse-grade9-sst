@@ -1,0 +1,58 @@
+{
+  "id": "q-l01-s03",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A classmate says, \"I really want a new phone, so I am part of the demand for phones.\" Which reply matches the chapter?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Yes: wanting something strongly is the same as demand for it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Only when phones are on sale at a low price."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Only if you can also pay: demand means willing and able to buy."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No: demand counts only people who have already bought one."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Demand needs two things at a given price: wanting to buy, and having the money to pay (purchasing power). A strong wish without the money does not count. Demand is about what buyers would buy at a price, so it does not wait until they have paid."
+  },
+  "hints": [
+    {
+      "en": "Demand has two parts. Which reply keeps both?"
+    }
+  ],
+  "tags": [
+    "demand",
+    "purchasing-power"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:47.993Z",
+    "reviewedBy": "review-bar"
+  }
+}

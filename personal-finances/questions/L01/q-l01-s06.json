@@ -1,0 +1,59 @@
+{
+  "id": "q-l01-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "In month 4 Meera's bus fare rises from ₹300 to ₹350, so her board is ₹50 over her ₹1,500. Her other rows are savings ₹500, stationery ₹200, lunch ₹300 and snacks ₹200. She still wants the bicycle in month six. Which cut keeps her budget working?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Take ₹50 from savings, because the bicycle can still be bought a little later."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Take ₹50 from lunch, because she can eat a little less at school for a month."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Take ₹50 from snacks, because a want can wait and the goal stays on time."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Borrow ₹50 from a friend, so that the board stays exactly as it was written."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Bus fare and lunch are needs, and the savings row is the goal, so the want gives way: snacks drop to ₹150. Taking from savings pushes the bicycle back, cutting lunch breaks a need, and borrowing spends next month's money before it comes."
+  },
+  "hints": [
+    {
+      "en": "Which of her rows is a want?"
+    }
+  ],
+  "tags": [
+    "budget",
+    "needs-and-wants",
+    "review"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

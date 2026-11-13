@@ -1,0 +1,18 @@
+{
+  "id": "blk-l08-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# India and 1991\n\n<!-- STEP id=\"start\" -->\nFor many years after Independence, India followed a state-led approach, similar to a planned economy. Firms needed licences and permits from the government. Banking, transport and heavy industries were mostly in the public sector.\n\n<!-- STEP id=\"crisis\" -->\nBy 1991, the country faced serious economic difficulties. As a result, the government made major economic reforms.\n\n<!-- STEP id=\"reform\" -->\nThe reforms cut excessive rules, encouraged private enterprise, opened the economy to trade and investment with other countries, and increased competition. India moved towards a more market-oriented system. The government still kept an important role.\n\n**India changed the balance between government and market. The government kept an important role.**"
+  },
+  "simulation": {
+    "src": "simulations/L08/IndiaReformScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.384Z"
+  }
+}

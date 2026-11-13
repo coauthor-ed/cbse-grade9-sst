@@ -5,6 +5,11 @@
   "title": {
     "en": "Why does the sea rise and fall twice a day?"
   },
+  "chapterId": "kegy2-ch13",
+  "topicIds": [
+    "tidal-bulges",
+    "tide-height-variations"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L03/blk-l03-s01.json"

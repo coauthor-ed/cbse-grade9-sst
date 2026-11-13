@@ -1,0 +1,18 @@
+{
+  "id": "blk-l02-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# One Load of Steel\n\n<!-- STEP id=\"pile\" -->\nSteel has many uses. The same steel can make medical equipment, aircraft or refrigerators.\n\n<!-- STEP id=\"competing\" -->\nThe steel can be shared out, but each bar used for one job cannot be used for another. More steel for aircraft means less for medical equipment or refrigerators.\n\n**Resources have other uses, so using them one way means giving up another.**"
+  },
+  "simulation": {
+    "src": "simulations/L02/SteelSplitScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.362Z"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "q-l04-s07",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "Who prepares the Economic Survey of India, and when is it presented?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The Reserve Bank of India, along with its reviews of interest rates."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The Election Commission, before each general election."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The Ministry of Finance, in Parliament before the Union Budget."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The Ministry of Finance, after Parliament has passed the Budget."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The Ministry of Finance prepares the Economic Survey every year and presents it in Parliament before the Union Budget, so it can help shape the Budget (c). The Reserve Bank does not prepare it (a), the Election Commission runs elections (b), and a Survey after the Budget could not help shape it (d)."
+  },
+  "hints": [
+    {
+      "en": "The Survey is meant to inform the Budget — so which must come first?"
+    }
+  ],
+  "tags": [
+    "economic-survey",
+    "union-budget"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.375Z"
+  }
+}

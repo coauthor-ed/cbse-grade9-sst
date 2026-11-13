@@ -1,0 +1,60 @@
+{
+  "id": "q-l04-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "On Monday ABC Bakery threw away 30 unsold loaves. On Tuesday it had no bread left by ten in the morning. Which job of operations would help on both days?"
+  },
+  "explanation": {
+    "en": "Operations plans daily production so that fresh bread is ready without delay or waste. Better planning means fewer loaves thrown away and fewer empty shelves."
+  },
+  "hints": [
+    {
+      "en": "Too much bread one day and too little the next: what was not planned well?"
+    }
+  ],
+  "tags": [
+    "operations",
+    "sequence",
+    "production",
+    "quality-control"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Posting more photos of the bread on social media"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Planning how much bread to bake each day"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Hiring a cashier for the front counter"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Taking a bigger loan from the bank"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-2"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-l02-s05a",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "assertion": {
+    "en": "In 1934, Mohan Singh Oberoi mortgaged his wife's jewellery and put in all his savings to buy a small hotel."
+  },
+  "reason": {
+    "en": "An entrepreneur takes risks by putting money and time into a business."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both are true, and the Reason explains the Assertion: putting the jewellery and all his savings into the hotel was the risk an entrepreneur takes."
+    },
+    "c": {
+      "en": "The Reason is true: taking risks with money and time is one of the tasks of an entrepreneur."
+    },
+    "d": {
+      "en": "The Assertion is true: in 1934 Oberoi mortgaged his wife's jewellery and used all his savings to buy a small hotel."
+    }
+  },
+  "explanation": {
+    "en": "Both are true, and the Reason explains the Assertion. Oberoi risked his savings and his wife's jewellery on one small hotel, which is the kind of risk an entrepreneur takes."
+  },
+  "hints": [
+    {
+      "en": "Remember the five tasks of an entrepreneur. Which one did Oberoi carry out in 1934?"
+    }
+  ],
+  "tags": [
+    "risk",
+    "oberoi",
+    "mortgage",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

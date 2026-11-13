@@ -1,0 +1,58 @@
+{
+  "id": "q-l05-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "In the mango market at ₹50 per kg, buyers want 18 kg but sellers offer only 6 kg. What is likely to happen next?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The price falls further, because buyers want more mangoes at a low price."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Buyers who cannot get mangoes are ready to pay more, so the price rises towards ₹100."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Sellers bring 18 kg at once, and the price stays at ₹50."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Nothing changes, because the market is already in equilibrium."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "At ₹50 there is a shortage of 12 kg. Buyers who cannot get mangoes are ready to pay more, so the price rises. As it rises, buyers want less and sellers offer more, until both are 12 kg at ₹100."
+  },
+  "hints": [
+    {
+      "en": "Compare 18 kg wanted with 6 kg offered. Which side is left wanting?"
+    }
+  ],
+  "tags": [
+    "excess-demand",
+    "equilibrium-adjustment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:04.705Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "q-l02-s05b",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "What is a mortgage?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Money from the government that never has to be paid back."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "A plan that pays the owner back if the business makes a loss."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "A loan to buy a house or land, with something valuable as security."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "An agreement between two shops to sell the same goods at one fixed price."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-3",
+  "explanation": {
+    "en": "A mortgage is a special type of loan used to buy a house or land, with something valuable kept as security. Oberoi mortgaged his wife's jewellery to buy his first hotel."
+  },
+  "hints": [
+    {
+      "en": "Think about what Oberoi gave as security to get the money for the hotel."
+    }
+  ],
+  "tags": [
+    "mortgage",
+    "definition",
+    "oberoi",
+    "finance"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -5,6 +5,11 @@
   "title": {
     "en": "A Village From 9,000 Years Ago"
   },
+  "chapterId": "iest1-ch4",
+  "topicIds": [
+    "agriculture-emergence",
+    "cultural-adaptations"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L06/blk-l06-s01.json"

@@ -1,0 +1,19 @@
+{
+  "id": "blk-l08-s02",
+  "type": "content-block@1",
+  "poeRole": "explain",
+  "markdown": {
+    "en": "# Most Economies Mix\n\n<!-- STEP id=\"mixed\" -->\nIn real life, most economies are not purely planned or purely market. They allow private ownership, with some regulation by the government. This is a **mixed economy**: the government and private firms both make economic choices.\n\n<!-- STEP id=\"even\" -->\nIn a mixed economy, the government makes rules for private firms and also runs large public sector companies. The book names India (after 1991), China (after 1978), Germany and Sweden as mixed economies. Even market economies such as the United States of America and Singapore have a lot of government involvement.\n\n**Almost all economies are mixed.**"
+  },
+  "simulation": {
+    "src": "simulations/L08/MixBinsScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.383Z"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "q-l04-s04b",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "ABC Bakery sells 40 mini cake jars a day at ₹50 each. Each jar costs ₹25 to make. For a festival week it offers the jars at ₹40, and 70 people buy one each day. What is the profit from the jars on one day of the offer, in rupees? (These are made-up numbers.)"
+  },
+  "expectedValue": 1050,
+  "tolerance": 0,
+  "unit": "rupees",
+  "explanation": {
+    "en": "With the offer, each jar leaves ₹40 - ₹25 = ₹15, and 70 × ₹15 = ₹1,050. Before the offer it was 40 × ₹25 = ₹1,000. The offer brought 30 more buyers but only ₹50 more profit, so marketing and finance have to plan an offer together."
+  },
+  "hints": [
+    {
+      "en": "First find what one jar leaves at the offer price: ₹40 minus ₹25."
+    },
+    {
+      "en": "Then multiply by the 70 jars sold."
+    }
+  ],
+  "tags": [
+    "marketing",
+    "finance",
+    "discount"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -5,6 +5,7 @@
   "title": {
     "en": "The Worst Possible Place"
   },
+  "chapterId": "iest1-ch4",
   "blocks": [
     {
       "blockRef": "blocks/L08/blk-l08-s00.json"

@@ -1,0 +1,58 @@
+{
+  "id": "q-l04-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "This season, the price of chickpeas rises a lot, while the price of wheat stays the same. Farmers can grow either crop. What is likely to happen to the supply of wheat next season?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It stays the same, because the price of wheat has not changed."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It rises, because farmers grow more of every crop when any crop price rises."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It falls, because buyers want less wheat when chickpeas cost more."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It falls, because some farmers use their fields for chickpeas, which now earn more."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "A field can grow one crop at a time. When chickpeas earn more, some farmers move their land from wheat to chickpeas, so the supply of wheat falls even though its own price has not changed. The idea that buyers want less wheat is about buyers, but this change starts with the sellers."
+  },
+  "hints": [
+    {
+      "en": "A field can grow only one crop at a time. Which crop would a farmer choose now?"
+    }
+  ],
+  "tags": [
+    "related-goods",
+    "determinants-of-supply"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:00.562Z",
+    "reviewedBy": "review-bar"
+  }
+}

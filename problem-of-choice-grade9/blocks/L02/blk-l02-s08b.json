@@ -1,0 +1,19 @@
+{
+  "id": "blk-l02-s08b",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Time Is Scarce Too\n\n<!-- STEP id=\"day\" -->\nEvery day has 24 hours, for everyone. Sleep, school, travel, homework and meals take most of Meera's day. About 2 free hours are left.\n\n<!-- STEP id=\"hour\" -->\nAn hour spent playing is an hour not spent reading, helping at home or resting. **Time is a scarce resource, and every use of it has an opportunity cost.**\n\nYour turn: ask your parents about one everyday choice they made. What did they give up?"
+  },
+  "simulation": {
+    "src": "simulations/L02/TimeDayScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "reviewedAt": "2026-11-11T00:00:00.000Z",
+    "flags": []
+  }
+}

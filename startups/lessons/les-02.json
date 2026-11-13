@@ -1,0 +1,69 @@
+{
+  "id": "les-02",
+  "lessonId": "les-02",
+  "type": "lesson",
+  "title": {
+    "en": "Something from almost nothing"
+  },
+  "chapterId": "kebs1-ch9",
+  "blocks": [
+    {
+      "blockRef": "blocks/L02/blk-l02-s01.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s02.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s03.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s03a.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s03b.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s04.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s04.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s05.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s05a.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s05b.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s07a.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s06b.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s06.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s06.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s07.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s07b.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s08.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

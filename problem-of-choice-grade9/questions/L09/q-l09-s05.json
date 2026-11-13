@@ -1,0 +1,30 @@
+{
+  "id": "q-l09-s05",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The farmer's plot can grow these combinations: A, 0 kg barley and 100 kg wheat; B, 25 kg barley and 90 kg wheat; C, 50 kg barley and 70 kg wheat; D, 75 kg barley and 40 kg wheat; E, 100 kg barley and 0 kg wheat. The farmer moves from A to C and gains 50 kg of barley. How many kilograms of wheat does the farmer give up?"
+  },
+  "expectedValue": 30,
+  "tolerance": 0.1,
+  "unit": "kg",
+  "explanation": {
+    "en": "Wheat falls from 100 kg at A to 70 kg at C, so 50 kg of barley costs 100 − 70 = 30 kg of wheat. The first 25 kg of barley cost 10 kg of wheat, and the next 25 kg cost 20 kg: the sacrifice grows."
+  },
+  "hints": [
+    {
+      "en": "Only two numbers matter: the wheat at A and the wheat at C."
+    }
+  ],
+  "tags": [
+    "ppc",
+    "opportunity-cost",
+    "review"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.386Z"
+  }
+}

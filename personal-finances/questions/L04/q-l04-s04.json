@@ -1,0 +1,62 @@
+{
+  "id": "q-l04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A mutual fund holds the shares of forty companies. One of those companies collapses and its shares become worthless. Why does the fund's value fall by less than the whole amount?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The fund manager repays the lost amount out of the fee that investors pay him each year."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Only a small part of the basket was in that company, so the loss is spread across the whole pool."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The bonds in the fund rise whenever a share in the basket falls, so the two always cancel out."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Mutual funds are guaranteed, so the manager makes up any loss from the pool's own reserves."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Diversification means the pool is spread over many investments, so one company's collapse touches only its own slice of the basket. The other thirty-nine holdings are unaffected, so the fall is small. Nothing is guaranteed, and the manager's fee does not repay losses, which is why the advertisement says the fund is subject to market risks."
+  },
+  "hints": [
+    {
+      "en": "Ask how much of the basket sat in that one company. That fraction is what the fund can lose from that collapse."
+    },
+    {
+      "en": "Look back at the advertisement line on the slide: is the manager promising to repay anything?"
+    }
+  ],
+  "tags": [
+    "mutual-fund",
+    "diversification",
+    "risk"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

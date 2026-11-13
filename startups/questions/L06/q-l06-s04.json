@@ -1,0 +1,43 @@
+{
+  "id": "q-l06-s04",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "assertion": {
+    "en": "In the game, putting the first year's profit back into trade made the second year's profit bigger."
+  },
+  "reason": {
+    "en": "The firm earns its profit on its trade money, so more trade money brings more profit."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both are true, and the Reason explains the Assertion: ₹1,20,000 of trade money earns ₹24,000, while ₹1,00,000 earns only ₹20,000."
+    },
+    "c": {
+      "en": "The Reason is true: in the game, every ₹100 of trade money earns ₹20 a year."
+    },
+    "d": {
+      "en": "The Assertion is true: the second year's profit rose from ₹20,000 to ₹24,000."
+    }
+  },
+  "explanation": {
+    "en": "Both are true, and the Reason explains the Assertion. Putting the first ₹20,000 back into trade made the trade money ₹1,20,000, which earned ₹24,000 in the second year instead of ₹20,000."
+  },
+  "hints": [
+    {
+      "en": "What is the profit worked out from, each year?"
+    }
+  ],
+  "tags": [
+    "reinvestment",
+    "profit",
+    "chettiar"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

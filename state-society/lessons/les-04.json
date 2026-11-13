@@ -5,6 +5,7 @@
   "title": {
     "en": "Seven limbs and a table of elders"
   },
+  "chapterId": "iest1-ch5",
   "blocks": [
     {
       "blockRef": "blocks/L04/blk-l04-s01.json"

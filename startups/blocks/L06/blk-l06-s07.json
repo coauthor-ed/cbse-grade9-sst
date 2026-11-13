@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s07.md",
+  "simulation": {
+    "src": "simulations/L06/SixContributionsScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  },
+  "mediaStep": 0
+}

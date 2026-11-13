@@ -5,6 +5,7 @@
   "title": {
     "en": "When does the monsoon come and go?"
   },
+  "chapterId": "iest1-ch3",
   "blocks": [
     {
       "blockRef": "blocks/L06/blk-l06-s02.json"

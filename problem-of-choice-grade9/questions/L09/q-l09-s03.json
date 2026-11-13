@@ -1,0 +1,123 @@
+{
+  "id": "q-l09-s03",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Big Question 3: How do different economic systems answer the three key questions? For a market, a planned and a mixed economy, say who decides what, how and for whom to produce. (3 marks)"
+  },
+  "rubric": [
+    {
+      "id": "what-to-produce",
+      "label": {
+        "en": "Market economy: private owners decide, through demand and supply"
+      },
+      "level1": {
+        "en": "In a market economy, who owns most factories and shops, and what sets prices?"
+      },
+      "clue": {
+        "en": "Think of the umbrella sellers: no official set the new price."
+      },
+      "level2Template": {
+        "en": "In a market economy, private owners answer the three questions, mostly through ___ and supply."
+      },
+      "accepted": [
+        "demand"
+      ]
+    },
+    {
+      "id": "how-to-produce",
+      "label": {
+        "en": "Planned economy: the government's planning authority decides"
+      },
+      "level1": {
+        "en": "In a planned economy, who writes the plan?"
+      },
+      "clue": {
+        "en": "Think of the planning office and its plan sheet: how many umbrellas, at what price, for whom."
+      },
+      "level2Template": {
+        "en": "In a planned economy, a central planning authority of the ___ decides what, how and for whom to produce."
+      },
+      "accepted": [
+        "government",
+        "the government",
+        "state",
+        "the state"
+      ]
+    },
+    {
+      "id": "for-whom",
+      "label": {
+        "en": "Mixed economy: the government and private firms both decide"
+      },
+      "level1": {
+        "en": "In a mixed economy, which two sides make economic choices?"
+      },
+      "clue": {
+        "en": "Think of the two sides: the government side and the market side."
+      },
+      "level2Template": {
+        "en": "In a mixed economy, both the government and ___ firms make these decisions, and the government regulates the firms."
+      },
+      "accepted": [
+        "private",
+        "private sector"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Introduction"
+      },
+      "text": {
+        "en": "Each economic system gives a different answer to who decides."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Market economy"
+      },
+      "text": {
+        "en": "In a market economy, private owners answer the three questions, mostly through ___ and supply."
+      },
+      "rubricId": "what-to-produce"
+    },
+    {
+      "eyebrow": {
+        "en": "Planned economy"
+      },
+      "text": {
+        "en": "In a planned economy, a central planning authority of the ___ decides what, how and for whom to produce."
+      },
+      "rubricId": "how-to-produce"
+    },
+    {
+      "eyebrow": {
+        "en": "Mixed economy"
+      },
+      "text": {
+        "en": "In a mixed economy, both the government and ___ firms make these decisions, and the government regulates the firms."
+      },
+      "rubricId": "for-whom"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "economic-systems",
+    "big-question",
+    "review",
+    "3-marks"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.386Z"
+  }
+}

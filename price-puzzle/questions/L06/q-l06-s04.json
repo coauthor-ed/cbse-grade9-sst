@@ -1,0 +1,57 @@
+{
+  "id": "q-l06-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "In a town, only one company supplies cooking gas, and people have no other fuel they can easily use instead. If nobody checks this company, what is it most likely to do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Lower its price, so that more families buy gas from it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Charge the same price as a market with many sellers."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Supply more gas than buyers want, so there is a surplus."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Charge a higher price and supply less than many sellers would."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "This company is a monopoly: one seller and no close substitute. With no other seller to compete with, it can charge a higher price and supply less. This is why the government keeps such sellers in check."
+  },
+  "hints": [
+    {
+      "en": "Who could the families buy from if the company raised its price?"
+    }
+  ],
+  "tags": [
+    "monopoly"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "reviewedAt": "2026-11-11T00:00:00.000Z",
+    "flags": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "les-09",
+  "lessonId": "les-09",
+  "type": "lesson",
+  "title": {
+    "en": "Putting it all together"
+  },
+  "chapterId": "iest1-ch8",
+  "blocks": [
+    {
+      "blockRef": "blocks/L09/blk-l09-s01.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-s02.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-s03.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-s04.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-s05.json"
+    },
+    {
+      "blockRef": "questions/L09/q-l09-s06.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-game.json"
+    },
+    {
+      "blockRef": "blocks/L09/blk-l09-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.385Z"
+  }
+}

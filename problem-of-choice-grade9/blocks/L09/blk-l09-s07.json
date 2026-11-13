@@ -1,0 +1,19 @@
+{
+  "id": "blk-l09-s07",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The Big Questions, Answered\n\n<!-- STEP id=\"answers\" -->\nAt the start of this chapter we asked three big questions. Now you can answer them.\n\n1. What does economics deal with? How people and societies choose to use limited resources to satisfy unlimited wants. Every choice has an opportunity cost.\n2. What are the key questions in economics? What to produce, how to produce, and for whom to produce.\n3. How do economic systems answer them? Market economies rely on private decisions and demand and supply. Planned economies depend on government control. Mixed economies combine both."
+  },
+  "simulation": {
+    "src": "simulations/L09/BigAnswersScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "reviewedAt": "2026-11-11T00:00:00.000Z",
+    "flags": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "q-l02-s03",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A cricket bat costs ₹800 in a sports shop. A student keeps exactly ₹800 in a sealed gullak for a year, and during that year the general level of prices rises by 6%. What is true at the end of the year?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The ₹800 is now worth about ₹848, because money kept aside grows along with prices."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The ₹800 still buys the bat, because a shop cannot charge more than the price the student saw first."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The ₹800 buys less than a bat, because the bat now costs about ₹848 while the money stayed at ₹800."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The ₹800 buys more than a bat, because a bat that stays unsold in a shop is usually sold cheaper."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Money in a gullak does not grow with prices. 6% of ₹800 is ₹48, so the same bat costs about ₹848 a year later, while the ₹800 is unchanged. The rupees were never lost, but their purchasing power fell: the same ₹800 now covers a little over nine-tenths of the bat."
+  },
+  "hints": [
+    {
+      "en": "Work out the bat's new price first, then compare it with the ₹800 in the gullak."
+    },
+    {
+      "en": "The gullak keeps rupees. Purchasing power is about what those rupees can buy."
+    }
+  ],
+  "tags": [
+    "inflation",
+    "purchasing-power",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

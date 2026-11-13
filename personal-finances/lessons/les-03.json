@@ -1,0 +1,51 @@
+{
+  "id": "les-03",
+  "lessonId": "les-03",
+  "type": "lesson",
+  "title": {
+    "en": "Ten years late"
+  },
+  "chapterId": "personal-finances/ch1",
+  "blocks": [
+    {
+      "blockRef": "blocks/L03/blk-l03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s02.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s02.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s03.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s03.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s04.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s04.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s04b.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s05b.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s05.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s06.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "q-l04-s02a",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "The book gives budgeting, reporting and cash flow as examples of the work of one functional area. Which area is it?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Management and operations"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Finance and accounting"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Human resources"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Marketing and sales"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-2",
+  "explanation": {
+    "en": "Finance and accounting manages the money of a business. Making a budget, writing reports and keeping track of money coming in and going out are all part of its work."
+  },
+  "hints": [
+    {
+      "en": "Which area manages the money?"
+    }
+  ],
+  "tags": [
+    "functional-areas",
+    "business-failure",
+    "pillars",
+    "interdependence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

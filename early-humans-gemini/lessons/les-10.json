@@ -4,6 +4,10 @@
   "title": {
     "en": "Egypt's Lost Script"
   },
+  "chapterId": "iest1-ch4",
+  "topicIds": [
+    "ancient-writing-systems"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L10/blk-l10-s00.json"

@@ -1,0 +1,62 @@
+{
+  "id": "q-l04-s02",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A family has ₹50,000 that it will need in exactly three years, and it cannot afford to get back less than it puts in. Which arrangement does what a three-year fixed deposit promises?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The money is spread across shares and bonds, so a fall in any one company affects only a small part of it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The money is lent to a company, which pays a higher interest because it might fail to repay the loan."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The rate is fixed on the day of deposit, and the lump sum comes back with interest on the maturity date."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The money buys a part of the bank, so it is worth more whenever other buyers want that part."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A fixed deposit is a lump sum left with a bank for a period chosen in advance. The rate is fixed on the day of deposit and does not move with the market, and the maturity date is the date the money comes back with its interest. Spreading money, lending to a company for extra interest and buying a part of a business are the mutual fund, the company bond and the share."
+  },
+  "hints": [
+    {
+      "en": "Two things in the question matter: the date the money is needed, and the promise that it cannot come back smaller."
+    },
+    {
+      "en": "Which of the four arrangements has a date written on it in advance?"
+    }
+  ],
+  "tags": [
+    "fixed-deposit",
+    "maturity",
+    "assured-return"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

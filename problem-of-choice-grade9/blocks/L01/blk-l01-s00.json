@@ -1,0 +1,19 @@
+{
+  "id": "blk-l01-s00",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Choices Everywhere\n\n<!-- STEP id=\"choosers\" -->\nEveryone makes choices. Meera chooses between buying snacks and saving for new shoes. A farmer chooses which crop to grow. The government chooses between building a highway and building a hospital.\n\n<!-- STEP id=\"questions\" -->\nThese are **economic choices**. This chapter asks three big questions:\n\n1. What does economics deal with?\n2. What are the key questions in economics?\n3. How do different economic systems answer these questions?"
+  },
+  "simulation": {
+    "src": "simulations/L01/ChoicesScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "reviewedAt": "2026-11-11T00:00:00.000Z",
+    "flags": []
+  }
+}

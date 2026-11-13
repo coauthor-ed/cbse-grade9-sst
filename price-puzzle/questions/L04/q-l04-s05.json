@@ -1,0 +1,58 @@
+{
+  "id": "q-l04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A farmer used to water his field by hand. He puts in drip irrigation, which cuts his water use by 40 per cent and raises his crop by 30 per cent. If many farmers do the same, what happens?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The cost of each kilogram rises, because the new pipes cost money, so market supply falls."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing changes in the market, because the price of the crop is still the same."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The cost of each kilogram falls, and the market supply rises at every price."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Market supply falls, because the fields now get less water."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Less water and labour, and a bigger crop, mean each kilogram costs less to produce. Each farmer is willing to supply more at every price, and when many farmers do this, the market supply curve moves to the right. The price did not need to change first."
+  },
+  "hints": [
+    {
+      "en": "Think about the cost of growing one kilogram before and after drip irrigation."
+    }
+  ],
+  "tags": [
+    "technology",
+    "determinants-of-supply"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:00.562Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -5,6 +5,11 @@
   "title": {
     "en": "What the Ground Can Tell Us"
   },
+  "chapterId": "iest1-ch4",
+  "topicIds": [
+    "early-human-evolution",
+    "cultural-adaptations"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L01/blk-l01-s01.json"

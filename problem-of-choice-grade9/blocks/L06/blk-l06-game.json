@@ -1,0 +1,20 @@
+{
+  "id": "blk-l06-game",
+  "type": "mini-game@1",
+  "subject": "social-science",
+  "grade": 9,
+  "chapterId": "problem-of-choice",
+  "topicId": "how-to-produce",
+  "board": "CBSE",
+  "src": "simulations/L06/HandsOrMachinesGame.js",
+  "objective": {
+    "en": "Six orders, each with its own conditions. For each one, decide: more workers or more machines? Look at costs, technology, the product and laws."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

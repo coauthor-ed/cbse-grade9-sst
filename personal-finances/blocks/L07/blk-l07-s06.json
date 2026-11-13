@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L07/SlabGame.js",
+  "objective": {
+    "en": "Split each of the three incomes into its slabs until all three tax totals are exact."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

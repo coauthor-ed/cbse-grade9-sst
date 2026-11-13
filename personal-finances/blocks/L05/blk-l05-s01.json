@@ -1,0 +1,31 @@
+{
+  "id": "blk-l05-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05/blk-l05-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Shares, because over many years they have given the highest return."
+    },
+    {
+      "id": "b",
+      "text": "A mutual fund, because it holds many shares, so its value cannot fall."
+    },
+    {
+      "id": "c",
+      "text": "A fixed deposit or savings account, because the money stays safe and is ready on the day."
+    },
+    {
+      "id": "d",
+      "text": "A five-year bond, because its price cannot change before the fee is due."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

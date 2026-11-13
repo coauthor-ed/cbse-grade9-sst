@@ -1,0 +1,32 @@
+{
+  "id": "blk-l04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04/blk-l04-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "More wheat, because he has always grown wheat on this field."
+    },
+    {
+      "id": "b",
+      "text": "More chickpeas, because chickpeas now earn him more from the same field."
+    },
+    {
+      "id": "c",
+      "text": "The same amount of each, because the field suits both crops."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L04/CropChoiceScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:00.562Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "q-l01-s06b",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Imagine a jute bag maker. She buys jute cloth, rents sewing machines and hires tailors from her area. Her bags replace plastic bags that were thrown on the streets. Which two tasks of an entrepreneur does this show?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Making key decisions and taking risks with borrowed money."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Finding a problem and leaving every decision to the tailors."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Taking risks with money and doing all the selling herself."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Combining factors of production and adding to society's welfare."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "opt-4",
+  "explanation": {
+    "en": "Cloth, machines and tailors are factors of production, the things a business needs, and she brings them together. Bags that replace plastic litter add to the welfare of society."
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L01/exp-q-l01-s06b.json"
+      }
+    ]
+  },
+  "hints": [
+    {
+      "en": "Look at what she brings together, and at what changes on the streets."
+    }
+  ],
+  "tags": [
+    "entrepreneur",
+    "tasks",
+    "factors-of-production",
+    "society"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

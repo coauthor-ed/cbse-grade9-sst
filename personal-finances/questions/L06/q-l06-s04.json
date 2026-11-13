@@ -1,0 +1,34 @@
+{
+  "id": "q-l06-s04",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A refrigerator priced at ₹30,000 is bought on an EMI of ₹3,000 a month for 12 months. How many rupees more than the price of the fridge does the family pay in total?"
+  },
+  "expectedValue": 6000,
+  "tolerance": 0,
+  "unit": "₹",
+  "explanation": {
+    "en": "Twelve payments of ₹3,000 come to ₹36,000. The family pays ₹36,000 - ₹30,000 = ₹6,000 more than the price on the fridge, and that extra is the interest charged for paying over the year."
+  },
+  "hints": [
+    {
+      "en": "First find the total paid over the year: 12 payments of ₹3,000."
+    },
+    {
+      "en": "Subtract the price of the fridge from that total. The answer is what the interest costs."
+    }
+  ],
+  "tags": [
+    "emi",
+    "principal",
+    "interest"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

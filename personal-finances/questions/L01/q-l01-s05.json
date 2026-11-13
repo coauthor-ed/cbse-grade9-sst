@@ -1,0 +1,62 @@
+{
+  "id": "q-l01-s05",
+  "type": "sequence-order@1",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "A budget is built in four steps. Put them in the order they are carried out, starting from the first step."
+  },
+  "items": [
+    {
+      "id": "step-identify",
+      "text": {
+        "en": "Identify your expenses: write down everything the month has to pay for."
+      }
+    },
+    {
+      "id": "step-goal",
+      "text": {
+        "en": "Set a savings goal: decide the amount to keep aside before any spending starts."
+      }
+    },
+    {
+      "id": "step-track",
+      "text": {
+        "en": "Track your spending: check each payment against the plan while the month runs."
+      }
+    },
+    {
+      "id": "step-review",
+      "text": {
+        "en": "Review and adjust your budget: compare the plan with what actually happened, and change it."
+      }
+    }
+  ],
+  "correctOrder": [
+    "step-identify",
+    "step-goal",
+    "step-track",
+    "step-review"
+  ],
+  "explanation": {
+    "en": "The savings goal comes second, because the amount kept aside has to be fixed before the spending begins; a goal set at the end of the month can only be what is left. Tracking comes while the month runs, and the review closes it and feeds the next month's plan."
+  },
+  "hints": [
+    {
+      "en": "You cannot decide what to keep aside before you know what the month must pay for."
+    },
+    {
+      "en": "The last step looks backwards at the month that has just finished."
+    }
+  ],
+  "tags": [
+    "budget",
+    "steps"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-24T13:55:06.791Z",
+    "reviewedBy": "review-bar"
+  }
+}

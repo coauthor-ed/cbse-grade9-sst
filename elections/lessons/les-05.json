@@ -5,6 +5,10 @@
   "title": {
     "en": "How does every voter get to vote?"
   },
+  "chapterId": "iest1-ch7",
+  "topicIds": [
+    "voter-participation-role"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L05/blk-l05-s02.json"

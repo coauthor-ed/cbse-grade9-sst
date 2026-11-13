@@ -1,0 +1,42 @@
+{
+  "id": "q-l03-s04",
+  "type": "plot-function@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Now a different made-up farm, growing rice or pulses, where every extra 50 kg of rice always costs exactly 50 kg of pulses. We change farms on purpose: our farmer's sacrifices grow, this farm's stay the same. Its combinations are 0 kg rice with 200 kg pulses, 50 and 150, 100 and 100, 150 and 50, and 200 and 0. Plot all five (rice along the bottom, pulses up the side)."
+  },
+  "targetFunction": "200 - x",
+  "xLabel": "Rice (kg)",
+  "yLabel": "Pulses (kg)",
+  "xDomain": [
+    0,
+    230
+  ],
+  "yDomain": [
+    0,
+    230
+  ],
+  "minPoints": 5,
+  "tolerance": 8,
+  "snapStep": 5,
+  "connectPoints": true,
+  "explanation": {
+    "en": "Each combination gives up the same amount it gains: 200−x. Because every 50 kg step costs exactly 50 kg, the curve is a straight line from (0, 200) down to (200, 0). A straight-line PPC means constant opportunity cost — unlike the farmer's bowed curve, this farm's land suits both crops equally well."
+  },
+  "hints": [
+    {
+      "en": "Start with the two ends: 0 rice means 200 pulses; 200 rice leaves 0 pulses. Then fill in equal steps between them."
+    }
+  ],
+  "tags": [
+    "ppc",
+    "constant-opportunity-cost",
+    "plotting"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.371Z"
+  }
+}

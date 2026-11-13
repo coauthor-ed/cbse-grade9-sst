@@ -1,0 +1,58 @@
+{
+  "id": "q-l01-s05b",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "remember",
+  "stem": {
+    "en": "What is entrepreneurship?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "A plan in which the government gives each person a business to run."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "A process through which a person or a group turns an idea into a business."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "A way of earning money that carries no risk of loss at all."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Work that only very large companies with thousands of workers can do."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-2",
+  "explanation": {
+    "en": "Entrepreneurship is the process through which a person, or a group of people, turns an idea into a business, by planning, organising and learning by doing. A class team at a festival stall is doing it too."
+  },
+  "hints": [
+    {
+      "en": "Think of what you and your classmates did with the nimbu pani idea."
+    }
+  ],
+  "tags": [
+    "entrepreneurship",
+    "definition"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

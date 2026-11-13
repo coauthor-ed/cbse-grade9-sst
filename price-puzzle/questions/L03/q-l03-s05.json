@@ -1,0 +1,57 @@
+{
+  "id": "q-l03-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Seller A's supply curve and the market supply curve are drawn on one graph with the same scales. Which statement about the two curves is true?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The market supply curve slopes down, because more sellers means lower prices."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both slope up, and the market supply curve is flatter."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The market supply curve is steeper, because it adds the supply of three sellers."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The two curves are the same line, because every seller follows the Law of Supply."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Both curves follow the Law of Supply, so both slope up. The market curve adds every seller, so the same rise in price brings a much bigger change in quantity: 6 to 18 kg against Seller A's 1 to 3 kg. That makes it flatter, not steeper."
+  },
+  "hints": [
+    {
+      "en": "Compare how many kilograms each curve adds when the price rises from ₹50 to ₹150."
+    }
+  ],
+  "tags": [
+    "market-supply-curve"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:56.369Z",
+    "reviewedBy": "review-bar"
+  }
+}

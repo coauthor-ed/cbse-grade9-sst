@@ -1,0 +1,15 @@
+{
+  "id": "blk-l03-s05",
+  "type": "mini-game@1",
+  "src": "simulations/L03/StartAgeGame.js",
+  "objective": {
+    "en": "For ₹50,000, ₹1,00,000 and ₹1,50,000, find the latest age you can start saving ₹1,000 a year at 7% and still reach the target by 65."
+  },
+  "xp": 60,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

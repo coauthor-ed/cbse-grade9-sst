@@ -1,0 +1,15 @@
+{
+  "id": "blk-l04-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L04/BakeryWeekGame.js",
+  "objective": {
+    "en": "In each of four weeks, share out the hours so every area gets its time and any extra goes where the week needs it."
+  },
+  "xp": 40,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

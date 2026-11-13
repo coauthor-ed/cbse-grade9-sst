@@ -1,0 +1,15 @@
+{
+  "id": "blk-l06-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L06/ActionMatchGameScene.js",
+  "objective": {
+    "en": "For each of the six cases, choose the government action that fits: a highest price, a lowest price, a regulator, the government provides it, or leave the market alone. Win when every case has the right action."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:08.672Z",
+    "reviewedBy": "review-bar"
+  }
+}

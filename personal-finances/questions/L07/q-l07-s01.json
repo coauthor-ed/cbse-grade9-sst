@@ -1,0 +1,62 @@
+{
+  "id": "q-l07-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A shop adds GST to the price of every item it sells, while an employer takes income tax out of a salary before paying it. Which statement describes the two taxes correctly?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Income tax is a direct tax, because it is paid directly on the income a person earns."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Income tax is an indirect tax, because its rate is announced by the government every year."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "GST is a direct tax, because the shopkeeper hands the collected amount to the government."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "GST is an income tax, because it is charged only on the goods a person needs."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The difference is what the tax is charged on, not who hands the money over. Income tax is charged on the income a person earns, so it is direct. GST is charged on the price of a good or service, so it is indirect, even though the shopkeeper collects it and passes it on."
+  },
+  "hints": [
+    {
+      "en": "Ask what each tax is charged on: the money a person earns, or the price of something they buy?"
+    },
+    {
+      "en": "Who hands the money to the government is not the test. A shopkeeper collects GST from the buyer and passes it on."
+    }
+  ],
+  "tags": [
+    "direct-tax",
+    "indirect-tax",
+    "gst"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

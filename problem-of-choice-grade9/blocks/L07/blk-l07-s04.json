@@ -1,0 +1,18 @@
+{
+  "id": "blk-l07-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Competition\n\n<!-- STEP id=\"rivals\" -->\nIn a market economy, many sellers offer similar goods. On one street, three umbrella sellers compete for the same buyers. Each one tries to offer a lower price or a better umbrella.\n\n<!-- STEP id=\"ideas\" -->\nCompetition pushes sellers to improve. One seller brings a folding umbrella that fits in a school bag, and the others soon follow. The book names the United States of America, Japan and Hong Kong as market economies. Even there, the government plays an important role.\n\n**Competition encourages better quality, lower prices and new ideas.**"
+  },
+  "simulation": {
+    "src": "simulations/L07/StallStreetScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.381Z"
+  }
+}

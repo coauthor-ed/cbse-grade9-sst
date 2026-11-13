@@ -5,6 +5,11 @@
   "title": {
     "en": "What are ocean currents, and what do they do?"
   },
+  "chapterId": "kegy2-ch13",
+  "topicIds": [
+    "ocean-currents",
+    "wind-driven-motion"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L04/blk-l04-s01.json"

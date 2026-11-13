@@ -5,6 +5,10 @@
   "title": {
     "en": "Four Skulls in One Drawer"
   },
+  "chapterId": "iest1-ch4",
+  "topicIds": [
+    "early-human-evolution"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L02/blk-l02-s01.json"

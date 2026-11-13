@@ -1,0 +1,18 @@
+{
+  "id": "blk-l04-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# A Greek Word\n\n<!-- STEP id=\"split\" -->\nThe word economics comes from the Greek word **oikonomia**. It joins two words: **oikos**, the household, and **nemein**, management. So economics first meant managing a household.\n\n<!-- STEP id=\"scale\" -->\nA family has limited money and many wants, so it plans. A country has limited resources and many wants too, so it must also plan.\n\n**Economics studies how choices are made when limited resources must meet needs and wants.**"
+  },
+  "simulation": {
+    "src": "simulations/L04/GreekWordScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.373Z"
+  }
+}

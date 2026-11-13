@@ -1,0 +1,31 @@
+{
+  "id": "q-l02-s03b",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Eight craftspeople start a cooperative in which, as at Lijjat, profits are shared equally. In its first month the cooperative makes a profit of ₹24,000 after paying all its costs. How many rupees does each member get? These are made-up numbers."
+  },
+  "expectedValue": 3000,
+  "tolerance": 0,
+  "unit": "₹",
+  "explanation": {
+    "en": "The profit is shared equally among 8 members: ₹24,000 ÷ 8 = ₹3,000 each."
+  },
+  "hints": [
+    {
+      "en": "Share ₹24,000 equally among the 8 members."
+    }
+  ],
+  "tags": [
+    "cooperative",
+    "profit-sharing",
+    "calculation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

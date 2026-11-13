@@ -1,0 +1,57 @@
+{
+  "id": "q-l09-s04",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A student has ₹100 and must choose between buying a notebook now or saving the money to buy a tennis racket later. Which economic concept best explains this situation?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Demand — the notebook is cheaper, so more students buy it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Opportunity cost — giving up the racket for now."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Production — the shop must decide how many notebooks to stock."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Inflation — prices will rise and shrink the value of the ₹100."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Money is limited, so the student must pick one of two wants. Whichever is chosen, the other is given up: that is the opportunity cost (b). Demand is about how much buyers want to buy (a), production is about making goods (c), and inflation is a general rise in prices (d). None of them names what this student gives up."
+  },
+  "hints": [
+    {
+      "en": "Ask what the student gives up by buying the notebook now."
+    }
+  ],
+  "tags": [
+    "opportunity-cost",
+    "review"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.386Z"
+  }
+}

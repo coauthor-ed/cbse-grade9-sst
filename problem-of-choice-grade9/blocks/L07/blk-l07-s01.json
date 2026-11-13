@@ -1,0 +1,26 @@
+{
+  "id": "blk-l07-s01",
+  "type": "poe-predict@1",
+  "prompt": "# The Umbrella Forecast\n\nIn a market economy, umbrella shops are owned by private sellers, and each seller sets their own prices. This year the monsoon arrives early, and twice as many people want umbrellas. The shops cannot get more umbrellas quickly.\n\n**Predict:** What happens to the price of an umbrella?",
+  "options": [
+    {
+      "id": "a",
+      "text": "It rises, because more buyers want the same umbrellas."
+    },
+    {
+      "id": "b",
+      "text": "It stays the same, because prices are fixed for the whole season."
+    },
+    {
+      "id": "c",
+      "text": "It falls, because sellers now have more buyers than before."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.380Z"
+  }
+}

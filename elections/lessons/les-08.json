@@ -5,6 +5,10 @@
   "title": {
     "en": "What makes an election free and fair?"
   },
+  "chapterId": "iest1-ch7",
+  "topicIds": [
+    "free-and-fair-elections"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L08/blk-l08-s01.json"

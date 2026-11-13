@@ -1,0 +1,36 @@
+{
+  "id": "blk-l05-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L05/blk-l05-s01.md",
+  "options": [
+    {
+      "id": "opt-1",
+      "text": "All ₹2,95,000, because that is what the customers paid."
+    },
+    {
+      "id": "opt-2",
+      "text": "About ₹1,95,000, after paying for the flour and sugar."
+    },
+    {
+      "id": "opt-3",
+      "text": "About ₹73,000, before the tax is paid."
+    },
+    {
+      "id": "opt-4",
+      "text": "About ₹60,000, after every expense and the tax."
+    }
+  ],
+  "correctOptionId": "opt-4",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  },
+  "simulation": {
+    "src": "simulations/L05/BakeryMarchSetupScene.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

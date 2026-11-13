@@ -1,0 +1,124 @@
+{
+  "id": "q-l02-s09",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "prompt": {
+    "en": "A student has ₹100 and must choose between buying a notebook now or saving the money towards a tennis racket later. Which economic concept best explains this situation? Name the concept and explain why it applies here. (3 marks)"
+  },
+  "rubric": [
+    {
+      "id": "concept-named",
+      "label": {
+        "en": "Correctly names opportunity cost as the concept at work"
+      },
+      "level1": {
+        "en": "Whichever way the ₹100 goes, what exactly does the student lose? The chapter has a name for that loss."
+      },
+      "clue": {
+        "en": "It is the idea Riya met behind the two doors: the best option she said no to."
+      },
+      "level2Template": {
+        "en": "The economic concept that explains this situation is ___."
+      },
+      "accepted": [
+        "opportunity cost"
+      ]
+    },
+    {
+      "id": "next-best-definition",
+      "label": {
+        "en": "States its meaning — the value of the next-best alternative given up when a choice is made"
+      },
+      "level1": {
+        "en": "Is the real cost just the ₹100 note — or something else? Remember, the ₹100 leaves the pocket either way."
+      },
+      "clue": {
+        "en": "Opportunity cost is not the money spent; it is whichever single unchosen option disappears."
+      },
+      "level2Template": {
+        "en": "Opportunity cost is the value of the ___ alternative sacrificed when a choice is made."
+      },
+      "accepted": [
+        "next-best",
+        "next best",
+        "best"
+      ]
+    },
+    {
+      "id": "scenario-applied",
+      "label": {
+        "en": "Applies it to both sides of the scenario — choosing the notebook makes the delayed racket the cost, and saving for the racket means doing without the notebook"
+      },
+      "level1": {
+        "en": "Say the student buys the notebook: state precisely what was sacrificed. Now say the student saves instead: what is sacrificed then?"
+      },
+      "clue": {
+        "en": "Each route has its own invisible price tag: notebook chosen, racket postponed; racket fund chosen, pages unwritten."
+      },
+      "level2Template": {
+        "en": "If the notebook is bought, the postponed ___ constitutes the opportunity cost of the decision."
+      },
+      "accepted": [
+        "tennis racket",
+        "tennis-racket purchase",
+        "racket"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Introduction"
+      },
+      "text": {
+        "en": "The situation described above illustrates how every choice imposes a real cost upon the decision-maker."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Identification of the concept"
+      },
+      "text": {
+        "en": "The economic concept that explains this situation is ___."
+      },
+      "rubricId": "concept-named"
+    },
+    {
+      "eyebrow": {
+        "en": "Meaning of the concept"
+      },
+      "text": {
+        "en": "Opportunity cost is the value of the ___ alternative sacrificed when a choice is made."
+      },
+      "rubricId": "next-best-definition"
+    },
+    {
+      "eyebrow": {
+        "en": "Application to the situation"
+      },
+      "text": {
+        "en": "If the notebook is bought, the postponed ___ constitutes the opportunity cost of the decision."
+      },
+      "rubricId": "scenario-applied"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "opportunity-cost",
+    "review",
+    "3-marks",
+    "coach"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.368Z"
+  }
+}

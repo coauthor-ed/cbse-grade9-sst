@@ -1,0 +1,103 @@
+{
+  "id": "q-l03-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "The dots show the farmer's five combinations: barley along the bottom, wheat up the side. Moving from B to C gives 25 kg more barley. How much wheat is given up?"
+  },
+  "graph": {
+    "points": [
+      {
+        "x": 0,
+        "y": 100,
+        "label": "A"
+      },
+      {
+        "x": 25,
+        "y": 90,
+        "label": "B"
+      },
+      {
+        "x": 50,
+        "y": 70,
+        "label": "C"
+      },
+      {
+        "x": 75,
+        "y": 40,
+        "label": "D"
+      },
+      {
+        "x": 100,
+        "y": 0,
+        "label": "E"
+      }
+    ],
+    "xLabel": "Barley (kg)",
+    "yLabel": "Wheat (kg)",
+    "xDomain": [
+      0,
+      105
+    ],
+    "yDomain": [
+      0,
+      110
+    ],
+    "functions": [
+      {
+        "expression": "100 - 0.2*x - 0.008*x^2",
+        "label": "PPC"
+      }
+    ]
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "10 kg: the same as the previous step from A to B."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "30 kg: that is what the following step, C to D, will cost."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "20 kg: wheat drops from 90 to 70 between B and C."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "25 kg: the sacrifice must equal the barley gained."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "At B the farmer grows 90 kg of wheat; at C only 70 kg. So the extra 25 kg of barley costs 90 − 70 = 20 kg of wheat. Option (a) is the cost of the step before, (b) is the cost of the next step, and (d) wrongly assumes one kilogram of wheat for each kilogram of barley."
+  },
+  "hints": [
+    {
+      "en": "Read the wheat at B and at C, then subtract."
+    }
+  ],
+  "tags": [
+    "ppc",
+    "opportunity-cost",
+    "reading-graphs"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.370Z"
+  }
+}

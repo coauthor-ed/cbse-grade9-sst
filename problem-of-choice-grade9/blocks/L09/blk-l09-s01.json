@@ -1,0 +1,18 @@
+{
+  "id": "blk-l09-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# One Chain\n\n<!-- STEP id=\"clash\" -->\nOur wants have no end, but resources such as money, time, land and steel are limited. When unlimited wants meet limited resources, we face **scarcity**.\n\n<!-- STEP id=\"choice\" -->\nScarcity forces us to choose. Meera chooses how to spend her money, the farmer chooses a crop, and the government chooses what to build. Every choice has an opportunity cost: the next-best thing we give up.\n\n<!-- STEP id=\"three\" -->\nFor a whole economy, these choices become three key questions: what to produce, how to produce, and for whom to produce. Economic systems answer them in different ways, and most economies today mix the market and the government.\n\n**Scarcity, choice and opportunity cost are the building blocks of economics.**"
+  },
+  "simulation": {
+    "src": "simulations/L09/OneChainScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.385Z"
+  }
+}

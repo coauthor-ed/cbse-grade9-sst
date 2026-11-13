@@ -1,0 +1,20 @@
+{
+  "id": "blk-l05-game",
+  "type": "mini-game@1",
+  "subject": "social-science",
+  "grade": 9,
+  "chapterId": "problem-of-choice",
+  "topicId": "three-economic-questions",
+  "board": "CBSE",
+  "src": "simulations/L05/KeyQuestionGame.js",
+  "objective": {
+    "en": "Six problems. Sort each one by the key question it asks: what to produce, how to produce, or for whom to produce."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

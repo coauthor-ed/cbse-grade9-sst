@@ -1,0 +1,91 @@
+{
+  "bundleId": "personal-finances",
+  "title": {
+    "en": "Managing Your Personal Finances"
+  },
+  "subject": "social-science",
+  "grade": 9,
+  "modules": [
+    "modules/personal-finances.json"
+  ],
+  "lessons": [
+    "lessons/les-01.json",
+    "lessons/les-02.json",
+    "lessons/les-03.json",
+    "lessons/les-04.json",
+    "lessons/les-05.json",
+    "lessons/les-06.json",
+    "lessons/les-07.json"
+  ],
+  "tests": [],
+  "banks": [],
+  "generatedAt": "2026-10-24T13:35:13.929Z",
+  "glossary": "glossary.json",
+  "schemaVersion": 1,
+  "audience": "school",
+  "board": "CBSE",
+  "subjects": [
+    "social-science"
+  ],
+  "languages": [
+    "en"
+  ],
+  "repository": {
+    "url": "https://github.com/coauthor-ed/cbse-grade9-sst",
+    "issues": "https://github.com/coauthor-ed/cbse-grade9-sst/issues"
+  },
+  "license": "CC-BY-4.0",
+  "version": "1.0.0",
+  "updatedAt": "2026-11-13",
+  "features": {
+    "story": false,
+    "games": true,
+    "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "personal-finances",
+        "title": "Managing Your Personal Finances",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "Where did the money go?"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "Is the gullak safe?"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "Ten years late"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "Where can savings grow?"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "Choosing where money waits"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "Insurance and borrowing"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "Income tax"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 7,
+    "narrated": false,
+    "chapterIds": [
+      "personal-finances/ch1"
+    ]
+  },
+  "sizeMB": 0.7,
+  "estHours": 2.5
+}

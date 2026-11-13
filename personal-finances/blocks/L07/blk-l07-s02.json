@@ -1,0 +1,31 @@
+{
+  "id": "blk-l07-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L07/blk-l07-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "₹1,98,750, which is 15% of her taxable income of ₹13,25,000."
+    },
+    {
+      "id": "b",
+      "text": "₹2,10,000, which is 15% of her whole salary of ₹14,00,000."
+    },
+    {
+      "id": "c",
+      "text": "₹78,750, because each slab has its own rate for its own part."
+    },
+    {
+      "id": "d",
+      "text": "Nothing, because ₹14,00,000 a year is below the tax limit."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

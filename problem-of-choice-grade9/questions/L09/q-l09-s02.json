@@ -1,0 +1,186 @@
+{
+  "id": "q-l09-s02",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Pure economic systems rarely exist in real life. Examine the limitations of a purely planned and a purely market economy, and explain why a mixed economy is often seen as more practical. (5 marks)"
+  },
+  "rubric": [
+    {
+      "id": "planned-limits",
+      "label": {
+        "en": "Planned economies have few rivals, so little push to improve or innovate"
+      },
+      "level1": {
+        "en": "If the plan fixes a factory's target and price, what reason does it have to improve?"
+      },
+      "clue": {
+        "en": "Remember the planned umbrellas: when buyers wanted more, nothing changed until the next plan."
+      },
+      "level2Template": {
+        "en": "In a planned economy, firms follow targets and have few rivals, so there is little push to improve quality or ___."
+      },
+      "accepted": [
+        "innovate",
+        "try new ideas",
+        "improve efficiency",
+        "become more efficient"
+      ]
+    },
+    {
+      "id": "market-limits",
+      "label": {
+        "en": "Pure markets provide too few public goods"
+      },
+      "level1": {
+        "en": "Which useful things does no private seller provide, because nobody can be made to pay for each use?"
+      },
+      "clue": {
+        "en": "Remember the street light: everyone walking by uses it, and no seller can charge them."
+      },
+      "level2Template": {
+        "en": "Private sellers cannot charge each user for ___, such as street lights and roads, so a pure market economy provides too few of them."
+      },
+      "accepted": [
+        "public goods",
+        "public services"
+      ]
+    },
+    {
+      "id": "reality-mixes",
+      "label": {
+        "en": "Almost all real economies are mixed, even market ones"
+      },
+      "level1": {
+        "en": "Does the book name any market economy where the government plays no part?"
+      },
+      "clue": {
+        "en": "The book says even the USA and Singapore have significant government involvement in the market."
+      },
+      "level2Template": {
+        "en": "Almost all real economies are ___: even market economies such as the USA and Singapore have a lot of government involvement."
+      },
+      "accepted": [
+        "mixed",
+        "combined"
+      ]
+    },
+    {
+      "id": "mixed-benefits",
+      "label": {
+        "en": "A mixed economy combines what each side does well"
+      },
+      "level1": {
+        "en": "What does each side bring to a mixed economy?"
+      },
+      "clue": {
+        "en": "The government side: fair rules, consumer protection, public goods, welfare. The market side: profit-making firms, competition, new ideas."
+      },
+      "level2Template": {
+        "en": "A mixed economy combines government rules, public goods and welfare with private firms, competition and ___."
+      },
+      "accepted": [
+        "innovation",
+        "new ideas",
+        "efficiency",
+        "better products"
+      ]
+    },
+    {
+      "id": "india-adapts",
+      "label": {
+        "en": "The mix can change over time, as India's did after 1991"
+      },
+      "level1": {
+        "en": "Did India give up the government's role in 1991? What changed?"
+      },
+      "clue": {
+        "en": "The reforms cut excessive rules and let in more private firms and competition, but the government kept an important role."
+      },
+      "level2Template": {
+        "en": "After 1991, India moved towards a more market-oriented system while keeping an important role for the ___."
+      },
+      "accepted": [
+        "government",
+        "the government",
+        "state",
+        "the state"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Introduction"
+      },
+      "text": {
+        "en": "Pure economic systems are rare, and each one has limitations."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Limitations of planning"
+      },
+      "text": {
+        "en": "In a planned economy, firms follow targets and have few rivals, so there is little push to improve quality or ___."
+      },
+      "rubricId": "planned-limits"
+    },
+    {
+      "eyebrow": {
+        "en": "Limitations of markets"
+      },
+      "text": {
+        "en": "Private sellers cannot charge each user for ___, such as street lights and roads, so a pure market economy provides too few of them."
+      },
+      "rubricId": "market-limits"
+    },
+    {
+      "eyebrow": {
+        "en": "Evidence from reality"
+      },
+      "text": {
+        "en": "Almost all real economies are ___: even market economies such as the USA and Singapore have a lot of government involvement."
+      },
+      "rubricId": "reality-mixes"
+    },
+    {
+      "eyebrow": {
+        "en": "Advantages of mixing"
+      },
+      "text": {
+        "en": "A mixed economy combines government rules, public goods and welfare with private firms, competition and ___."
+      },
+      "rubricId": "mixed-benefits"
+    },
+    {
+      "eyebrow": {
+        "en": "India's experience"
+      },
+      "text": {
+        "en": "After 1991, India moved towards a more market-oriented system while keeping an important role for the ___."
+      },
+      "rubricId": "india-adapts"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "economic-systems",
+    "mixed-economy",
+    "review",
+    "5-marks",
+    "coach"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.385Z"
+  }
+}

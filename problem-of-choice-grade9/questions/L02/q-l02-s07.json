@@ -1,0 +1,57 @@
+{
+  "id": "q-l02-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "A city government builds a stadium on a public park. The construction money would have been spent on the stadium regardless of location. What is the opportunity cost of building it on the park site?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The park, with its green space and shade."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing, because the construction budget was already committed."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The stadium itself, since that is what was chosen."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Only whatever admission fee the park used to charge visitors."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Opportunity cost is the value of the next-best option given up. The money was going to be spent either way (b mistakes accounting cost for opportunity cost), the chosen option can't be its own cost (c), and a public park's value is far more than any fee it might collect (d). What the city truly gave up by picking this site is the park itself."
+  },
+  "hints": [
+    {
+      "en": "Ask what existed at that site before, and what the city lost by replacing it."
+    }
+  ],
+  "tags": [
+    "opportunity-cost",
+    "public-choices"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.367Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l02-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-s03.md",
+  "poeRole": "observe",
+  "simulation": {
+    "src": "simulations/L02/LijjatGrowthTimelineScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

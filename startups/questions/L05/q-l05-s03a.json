@@ -1,0 +1,71 @@
+{
+  "id": "q-l05-s03a",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Sort each cost of ABC Bakery into fixed costs or variable costs."
+  },
+  "categories": [
+    {
+      "id": "cat-fixed",
+      "label": {
+        "en": "Fixed cost"
+      }
+    },
+    {
+      "id": "cat-variable",
+      "label": {
+        "en": "Variable cost"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Rent of ₹40,000 for the shop each month"
+      },
+      "correctCategoryId": "cat-fixed"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Flour and sugar for the day's bread"
+      },
+      "correctCategoryId": "cat-variable"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "A box for every cake that is sold"
+      },
+      "correctCategoryId": "cat-variable"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Ovens and mixers for the kitchen"
+      },
+      "correctCategoryId": "cat-fixed"
+    }
+  ],
+  "explanation": {
+    "en": "Rent and equipment such as ovens and mixers stay the same however much the bakery bakes, so they are fixed costs. Flour, sugar and boxes go up and down with the number of loaves and cakes, so they are variable costs."
+  },
+  "hints": [
+    {
+      "en": "If the bakery bakes twice as much, does this cost grow too?"
+    }
+  ],
+  "tags": [
+    "fixed-cost",
+    "variable-cost"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

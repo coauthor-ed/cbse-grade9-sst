@@ -1,0 +1,69 @@
+{
+  "id": "les-05",
+  "lessonId": "les-05",
+  "type": "lesson",
+  "title": {
+    "en": "Where demand and supply meet: equilibrium"
+  },
+  "chapterId": "iest1-ch9",
+  "topicIds": [
+    "market-equilibrium"
+  ],
+  "blocks": [
+    {
+      "blockRef": "blocks/L05/blk-l05-s01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s02.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s03.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s03.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s04.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s07.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s08.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s09.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s09.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s05.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s05.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s06.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s06.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s07.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-y01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s10.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:04.705Z",
+    "reviewedBy": "review-bar"
+  }
+}

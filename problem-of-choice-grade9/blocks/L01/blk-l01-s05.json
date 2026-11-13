@@ -1,0 +1,19 @@
+{
+  "id": "blk-l01-s05",
+  "type": "content-block@1",
+  "poeRole": "explain",
+  "markdown": {
+    "en": "# Wants Keep Coming\n\n<!-- STEP id=\"regenerate\" -->\nWhen one want is met, a new one usually appears. Wants also change as we grow older, as new things are made and as fashions change.\n\n<!-- STEP id=\"unlimited\" -->\nNeeds are a short list that we must meet. Wants have no end.\n\n**Human wants are unlimited.**"
+  },
+  "simulation": {
+    "src": "simulations/L01/WantsListScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.358Z"
+  }
+}

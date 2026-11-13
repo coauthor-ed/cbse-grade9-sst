@@ -1,0 +1,126 @@
+{
+  "id": "q-l05-s04",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 150,
+  "prompt": {
+    "en": "Explain why there is no single best investment for every family. State any three factors a family should weigh before deciding where to keep its money."
+  },
+  "rubric": [
+    {
+      "id": "goal-and-horizon",
+      "label": {
+        "en": "What the money is for and when it will be needed"
+      },
+      "level1": {
+        "en": "Think about the date the money has to be spent, not only about the return."
+      },
+      "clue": {
+        "en": "Money needed in three months has no time to recover from a fall, while money needed after fifteen years does."
+      },
+      "level2Template": {
+        "en": "The family should first decide what the money is for and ___ it will be needed."
+      },
+      "accepted": [
+        "when",
+        "by when",
+        "how soon",
+        "the date on which"
+      ]
+    },
+    {
+      "id": "risk-capacity",
+      "label": {
+        "en": "The amount of risk the family is able to bear"
+      },
+      "level1": {
+        "en": "Could the family manage if part of this money disappeared for a year or two?"
+      },
+      "clue": {
+        "en": "A higher return is possible only by accepting a chance of loss, so the family must know how big a loss it can bear."
+      },
+      "level2Template": {
+        "en": "It should also weigh the amount of ___ it is willing to take."
+      },
+      "accepted": [
+        "risk",
+        "risk in the investment"
+      ]
+    },
+    {
+      "id": "liquidity",
+      "label": {
+        "en": "How quickly the money can be turned into cash"
+      },
+      "level1": {
+        "en": "If the money is needed without warning, which places can give it in cash, and which have to be sold first?"
+      },
+      "clue": {
+        "en": "Liquidity is how easily an asset becomes cash when needed, and money kept for an emergency has to be liquid."
+      },
+      "level2Template": {
+        "en": "Finally, it should check how easily the money can be converted into ___ when needed."
+      },
+      "accepted": [
+        "cash",
+        "cash at short notice"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Why there is no single best"
+      },
+      "text": {
+        "en": "Families differ in their goals, so the same option can be right for one and wrong for another."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "First factor"
+      },
+      "text": {
+        "en": "The family should first decide what the money is for and ___ it will be needed."
+      },
+      "rubricId": "goal-and-horizon"
+    },
+    {
+      "eyebrow": {
+        "en": "Second factor"
+      },
+      "text": {
+        "en": "It should also weigh the amount of ___ it is willing to take."
+      },
+      "rubricId": "risk-capacity"
+    },
+    {
+      "eyebrow": {
+        "en": "Third factor"
+      },
+      "text": {
+        "en": "Finally, it should check how easily the money can be converted into ___ when needed."
+      },
+      "rubricId": "liquidity"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "choice-of-investment",
+    "time-horizon",
+    "risk",
+    "liquidity"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

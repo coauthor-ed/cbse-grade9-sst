@@ -1,0 +1,58 @@
+{
+  "id": "q-l04-s04",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "At ₹100 per kg, Sellers A, B and C offer 2 kg, 4 kg and 6 kg, and buyers want 12 kg. Seller C closes her stall for the season. What is the market supply at ₹100 now, and what is likely to happen to the price?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "6 kg, and the price is likely to rise, because buyers want more than is for sale."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "12 kg, and nothing changes, because the price of mangoes is the same."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "6 kg, and the price is likely to fall, because fewer mangoes are sold."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "10 kg, and the price is likely to rise, because one seller has left."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Without Seller C, the market supply at ₹100 is 2 + 4 = 6 kg. Buyers still want 12 kg, so there are not enough mangoes for everyone, and the price tends to rise. Fewer sellers means less supply, even though no seller changed his own price."
+  },
+  "hints": [
+    {
+      "en": "Add only the sellers who are still there. Then compare it with the 12 kg that buyers want."
+    }
+  ],
+  "tags": [
+    "number-of-sellers",
+    "determinants-of-supply"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:00.562Z",
+    "reviewedBy": "review-bar"
+  }
+}

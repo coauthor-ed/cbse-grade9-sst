@@ -1,0 +1,30 @@
+{
+  "id": "q-l03-s06",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "From the farmer's table: B is 25 kg of barley with 90 kg of wheat; D is 75 kg of barley with 40 kg of wheat. Moving from B to D gives 50 kg more barley. How much wheat is given up in total, in kg?"
+  },
+  "expectedValue": 50,
+  "tolerance": 0.1,
+  "unit": "kg",
+  "explanation": {
+    "en": "Wheat falls from 90 kg at B to 40 kg at D: 90 − 40 = 50 kg given up. The first half of the move (B to C) costs 20 kg and the second half (C to D) costs 30 kg, because the strips that grow little wheat are switched first."
+  },
+  "hints": [
+    {
+      "en": "Only the wheat matters: subtract the wheat at D from the wheat at B."
+    }
+  ],
+  "tags": [
+    "ppc",
+    "opportunity-cost",
+    "numeric"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.372Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "blk-l01-s02",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Needs and Wants\n\n<!-- STEP id=\"needs\" -->\n**Needs** are what we must have to live: food, clean water, shelter and clothing.\n\n<!-- STEP id=\"wants\" -->\n**Wants** make life more comfortable or more fun: a new phone, a video game, a trip to a water park. We can live without them.\n\n<!-- STEP id=\"context\" -->\nThe same thing can be either. A bicycle Meera rides to school every day does the job of a need. The same bicycle, used only for weekend fun, is a want.\n\nAsk what job it does, not what it is."
+  },
+  "simulation": {
+    "src": "simulations/L01/NeedsWantsScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.355Z"
+  }
+}

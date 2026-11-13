@@ -25,6 +25,62 @@
   "banks": [],
   "generatedAt": "2026-10-05T13:27:16.821Z",
   "glossary": "glossary.json",
+  "blurb": {
+    "en": "How states and societies grew in India up to 1000 CE, from clans to kingdoms."
+  },
+  "highlights": [
+    {
+      "en": "Trace the change from a clan and its chief to a kingdom"
+    },
+    {
+      "en": "Learn the seven limbs of the state"
+    },
+    {
+      "en": "See how a village governed itself"
+    },
+    {
+      "en": "Find out how guilds, families and teachers held society together"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "How we know: the earliest texts we can read"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "The whole subcontinent as one idea"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "Three powers fight over one city"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "Women in the sources: learning and public life"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "Guilds: people of one trade"
+      }
+    }
+  ],
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "cover": "showcase/cover.jpg",
+  "estHours": 5.5,
+  "sizeMB": 1,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -40,10 +96,70 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "state-society",
+        "title": "State and Society up to 1000 CE",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "A clan, a chief, and a fire"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "Where a people first set its feet"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "What a king owes, and how far he reaches"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "Seven limbs and a table of elders"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "The ladder from the capital to the village"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "The village that governs itself"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "What holds things up"
+          },
+          {
+            "ref": "lessons/les-08.json",
+            "title": "Who belongs where"
+          },
+          {
+            "ref": "lessons/les-09.json",
+            "title": "The smallest unit and the whole life"
+          },
+          {
+            "ref": "lessons/les-10.json",
+            "title": "The teacher's house"
+          },
+          {
+            "ref": "lessons/les-11.json",
+            "title": "The ground under all of it"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 11,
+    "narrated": false,
+    "chapterIds": [
+      "iest1-ch5"
+    ]
   }
 }

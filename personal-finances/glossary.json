@@ -1,0 +1,789 @@
+{
+  "terms": [
+    {
+      "id": "personal-finance",
+      "term": "personal finance",
+      "plain": {
+        "en": "managing your own money"
+      },
+      "means": {
+        "en": "Deciding how much to spend, how much to save, where to invest, and how to prepare for future needs."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "income",
+      "term": "income",
+      "match": [
+        "incomes"
+      ],
+      "plain": {
+        "en": "money coming in"
+      },
+      "means": {
+        "en": "Money a person receives, regularly or now and then, for work done or goods sold. Salary, business profit, rent, interest and dividends are all income."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "salary",
+      "term": "salary",
+      "match": [
+        "salaries"
+      ],
+      "plain": {
+        "en": "pay for a job"
+      },
+      "means": {
+        "en": "A fixed amount an employer pays a worker, usually every month."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "budget",
+      "term": "budget",
+      "match": [
+        "budgets",
+        "budgeting"
+      ],
+      "plain": {
+        "en": "a money plan"
+      },
+      "means": {
+        "en": "A plan of the money coming in and how it will be spent and saved over a period."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "savings-goal",
+      "term": "savings goal",
+      "match": [
+        "savings goals"
+      ],
+      "plain": {
+        "en": "something you save for"
+      },
+      "means": {
+        "en": "An amount you want to have by a date, such as a bicycle in six months."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "saving",
+      "term": "saving",
+      "plain": {
+        "en": "keeping money aside"
+      },
+      "means": {
+        "en": "Keeping a part of your income for later use. Savings build up over time."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "gullak",
+      "term": "gullak",
+      "match": [
+        "gullaks"
+      ],
+      "plain": {
+        "en": "a piggy bank"
+      },
+      "means": {
+        "en": "A clay or tin pot with a slot for coins, broken or opened to count the savings."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "inflation",
+      "term": "inflation",
+      "plain": {
+        "en": "prices rising"
+      },
+      "means": {
+        "en": "A rise in the prices of goods and services over time."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "purchasing-power",
+      "term": "purchasing power",
+      "plain": {
+        "en": "what money can buy"
+      },
+      "means": {
+        "en": "How much a sum of money can buy. It falls when prices rise and the money does not grow."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "investing",
+      "term": "investing",
+      "match": [
+        "invest",
+        "invested",
+        "investment",
+        "investments"
+      ],
+      "plain": {
+        "en": "putting savings to work"
+      },
+      "means": {
+        "en": "Putting savings into assets such as a bank deposit, gold or shares, to protect their value and earn a return."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "asset",
+      "term": "asset",
+      "match": [
+        "assets"
+      ],
+      "plain": {
+        "en": "something of value you own"
+      },
+      "means": {
+        "en": "Something you own that has value, such as money in a bank, gold, land or shares."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "liquidity",
+      "term": "liquidity",
+      "match": [
+        "liquid"
+      ],
+      "plain": {
+        "en": "how fast it turns into cash"
+      },
+      "means": {
+        "en": "How easily something can be turned into cash when needed, without losing value. Cash is the most liquid."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "interest",
+      "term": "interest",
+      "plain": {
+        "en": "payment for the use of money"
+      },
+      "means": {
+        "en": "Money a bank or borrower pays for the use of your money, or that you pay when you borrow."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "compounding",
+      "term": "compounding",
+      "match": [
+        "compound interest"
+      ],
+      "plain": {
+        "en": "interest on interest"
+      },
+      "means": {
+        "en": "Interest left in the account earns interest of its own, so the money grows faster each year."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "principal",
+      "term": "principal",
+      "plain": {
+        "en": "the money first put in"
+      },
+      "means": {
+        "en": "The amount first deposited or borrowed, before any interest."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "fixed-deposit",
+      "term": "fixed deposit",
+      "match": [
+        "fixed deposits",
+        "FD",
+        "FDs"
+      ],
+      "plain": {
+        "en": "money left in a bank for a fixed time"
+      },
+      "means": {
+        "en": "A lump sum kept with a bank or post office for a fixed period at a rate fixed on the first day."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "lump-sum",
+      "term": "lump sum",
+      "plain": {
+        "en": "a whole amount at once"
+      },
+      "means": {
+        "en": "A whole amount of money paid or deposited at one time."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "maturity-period",
+      "term": "maturity period",
+      "match": [
+        "maturity date",
+        "maturity"
+      ],
+      "plain": {
+        "en": "the time until the money comes back"
+      },
+      "means": {
+        "en": "The time from the day money is put in to the day it is paid back."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "bond",
+      "term": "bond",
+      "match": [
+        "bonds"
+      ],
+      "plain": {
+        "en": "a loan you give"
+      },
+      "means": {
+        "en": "A way to lend money to a government or a company for a fixed period. The borrower pays interest and returns the money on the maturity date."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "corporate-bond",
+      "term": "corporate bond",
+      "match": [
+        "corporate bonds",
+        "company bond",
+        "company bonds"
+      ],
+      "plain": {
+        "en": "a loan to a company"
+      },
+      "means": {
+        "en": "A bond issued by a company to raise money. It usually pays more than a government bond because it carries more risk."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "share",
+      "term": "shares",
+      "match": [
+        "stocks",
+        "equity"
+      ],
+      "plain": {
+        "en": "a small part of a company"
+      },
+      "means": {
+        "en": "A small part of the ownership of a company. Its price goes up and down."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "dividend",
+      "term": "dividend",
+      "match": [
+        "dividends"
+      ],
+      "plain": {
+        "en": "a part of company profit"
+      },
+      "means": {
+        "en": "A part of a company's profit paid to the people who own its shares."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "sensex",
+      "term": "SENSEX",
+      "plain": {
+        "en": "a number for the share market"
+      },
+      "means": {
+        "en": "An index of the Bombay Stock Exchange that follows 30 large companies from different parts of the economy."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "mutual-fund",
+      "term": "mutual fund",
+      "match": [
+        "mutual funds"
+      ],
+      "plain": {
+        "en": "many people's money pooled"
+      },
+      "means": {
+        "en": "A pool of money from many investors, invested by a professional fund manager in shares, bonds or other assets."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "fund-manager",
+      "term": "fund manager",
+      "match": [
+        "fund managers"
+      ],
+      "plain": {
+        "en": "the person who invests the pool"
+      },
+      "means": {
+        "en": "A professional who decides where a mutual fund's money is invested."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "diversification",
+      "term": "diversification",
+      "plain": {
+        "en": "spreading the money"
+      },
+      "means": {
+        "en": "Putting money in many different investments, so one fall cannot sink it all."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "risk",
+      "term": "risk",
+      "plain": {
+        "en": "the chance of losing"
+      },
+      "means": {
+        "en": "The chance of losing money."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "time-horizon",
+      "term": "time horizon",
+      "plain": {
+        "en": "how long money can wait"
+      },
+      "means": {
+        "en": "The length of time money can stay invested before you need it."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "insurance",
+      "term": "insurance",
+      "plain": {
+        "en": "paying a little to cover a big loss"
+      },
+      "means": {
+        "en": "A legal contract: you pay a regular premium to an insurance company, and it pays for the losses your policy covers."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "premium",
+      "term": "premium",
+      "match": [
+        "premiums"
+      ],
+      "plain": {
+        "en": "the regular insurance payment"
+      },
+      "means": {
+        "en": "The regular amount paid to an insurance company for cover."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "claim",
+      "term": "claim",
+      "match": [
+        "claims"
+      ],
+      "plain": {
+        "en": "asking the insurer to pay"
+      },
+      "means": {
+        "en": "A request to the insurance company to pay for a loss the policy covers."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "risk-sharing",
+      "term": "risk sharing",
+      "plain": {
+        "en": "many people share a loss"
+      },
+      "means": {
+        "en": "Many people pay into a common pool, and those who meet a loss are paid from it."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "loan",
+      "term": "loan",
+      "match": [
+        "loans"
+      ],
+      "plain": {
+        "en": "borrowed money"
+      },
+      "means": {
+        "en": "Money borrowed now and paid back later, usually with interest."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "debt",
+      "term": "debt",
+      "match": [
+        "debts"
+      ],
+      "plain": {
+        "en": "money owed"
+      },
+      "means": {
+        "en": "Money owed to somebody."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "emi",
+      "term": "EMI",
+      "match": [
+        "EMIs",
+        "equated monthly instalment"
+      ],
+      "plain": {
+        "en": "a fixed monthly loan payment"
+      },
+      "means": {
+        "en": "A fixed amount paid every month to repay a loan. Each EMI includes part of the principal and the interest."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "tax",
+      "term": "tax",
+      "match": [
+        "taxes"
+      ],
+      "plain": {
+        "en": "a compulsory payment to the government"
+      },
+      "means": {
+        "en": "A compulsory payment by people and businesses to the government, to pay for public services."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "income-tax",
+      "term": "income tax",
+      "plain": {
+        "en": "tax on what you earn"
+      },
+      "means": {
+        "en": "A direct tax paid on the income a person earns in a financial year."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "direct-tax",
+      "term": "direct tax",
+      "match": [
+        "direct taxes"
+      ],
+      "plain": {
+        "en": "tax on income"
+      },
+      "means": {
+        "en": "A tax paid directly on a person's income or a business's profit."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "indirect-tax",
+      "term": "indirect tax",
+      "match": [
+        "indirect taxes"
+      ],
+      "plain": {
+        "en": "tax inside a price"
+      },
+      "means": {
+        "en": "A tax added to the price of goods and services, such as GST."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "gst",
+      "term": "GST",
+      "match": [
+        "Goods and Services Tax"
+      ],
+      "plain": {
+        "en": "tax on things you buy"
+      },
+      "means": {
+        "en": "Goods and Services Tax: an indirect tax added to the price of goods and services."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "standard-deduction",
+      "term": "standard deduction",
+      "plain": {
+        "en": "an amount taken off before tax"
+      },
+      "means": {
+        "en": "A fixed amount salaried people and pensioners subtract from their income before tax is worked out."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "taxable-income",
+      "term": "taxable income",
+      "plain": {
+        "en": "the income the tax is worked on"
+      },
+      "means": {
+        "en": "Income left after deductions. The tax slabs are applied to this amount."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "tax-slab",
+      "term": "tax slab",
+      "match": [
+        "tax slabs",
+        "slab",
+        "slabs"
+      ],
+      "plain": {
+        "en": "an income range with one rate"
+      },
+      "means": {
+        "en": "A range of taxable income taxed at one rate. Each part of the income is taxed at its own slab's rate."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "progressive-taxation",
+      "term": "progressive taxation",
+      "match": [
+        "progressive tax"
+      ],
+      "plain": {
+        "en": "higher incomes pay a higher rate"
+      },
+      "means": {
+        "en": "A system where tax rises with income, so people with more can give a larger share."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "itr",
+      "term": "income tax return",
+      "match": [
+        "ITR",
+        "income tax returns"
+      ],
+      "plain": {
+        "en": "the yearly tax form"
+      },
+      "means": {
+        "en": "A yearly statement of how much a person earned and how much tax is due."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "financial-year",
+      "term": "financial year",
+      "plain": {
+        "en": "the tax year"
+      },
+      "means": {
+        "en": "The year used for tax: 1 April to 31 March."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "health-insurance",
+      "term": "health insurance",
+      "plain": {
+        "en": "insurance for medical costs"
+      },
+      "means": {
+        "en": "Covers medical costs such as hospital stays, medicines, tests and treatment."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "life-insurance",
+      "term": "life insurance",
+      "plain": {
+        "en": "support if the earner dies"
+      },
+      "means": {
+        "en": "Pays the family if the person who earns for it dies, to meet daily expenses, schooling and loans."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "general-insurance",
+      "term": "general insurance",
+      "plain": {
+        "en": "insurance for property"
+      },
+      "means": {
+        "en": "Covers vehicles, homes, businesses, crops, animals and other property."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "government-bond",
+      "term": "government bond",
+      "match": [
+        "government bonds"
+      ],
+      "plain": {
+        "en": "a loan to the government"
+      },
+      "means": {
+        "en": "A bond issued by the government. It is generally safer than a company bond and pays a steadier, lower rate."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "savings-account",
+      "term": "savings account",
+      "plain": {
+        "en": "a bank account for keeping money"
+      },
+      "means": {
+        "en": "A bank account where money stays safe, earns a small interest, and can be taken out on any day."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "ppf",
+      "term": "Public Provident Fund",
+      "match": [
+        "PPF"
+      ],
+      "plain": {
+        "en": "a long-term government savings scheme"
+      },
+      "means": {
+        "en": "A savings scheme backed by the government. Money is put in for 15 years and earns a fixed rate of interest."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "nsc",
+      "term": "National Savings Certificate",
+      "match": [
+        "NSC"
+      ],
+      "plain": {
+        "en": "a government savings certificate"
+      },
+      "means": {
+        "en": "A savings certificate sold at post offices. The money stays for five years and earns a fixed rate of interest."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "sukanya",
+      "term": "Sukanya Samriddhi Yojana",
+      "plain": {
+        "en": "a government savings scheme for a girl child"
+      },
+      "means": {
+        "en": "A savings scheme backed by the government in which parents save for a daughter's education or marriage, at a fixed rate of interest."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "cover",
+      "term": "cover",
+      "plain": {
+        "en": "what the insurance will pay for"
+      },
+      "means": {
+        "en": "The losses an insurance policy promises to pay for, up to a set amount, while the premium is paid."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "education-loan",
+      "term": "education loan",
+      "match": [
+        "education loans"
+      ],
+      "plain": {
+        "en": "a loan to pay for studies"
+      },
+      "means": {
+        "en": "A loan taken to pay for a course. It is paid back later, often from the higher income the course helps the student earn."
+      },
+      "lesson": 6,
+      "group": "concept"
+    }
+  ]
+}

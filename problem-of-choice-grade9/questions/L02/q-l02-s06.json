@@ -1,0 +1,29 @@
+{
+  "id": "q-l02-s06",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "With all 4 strips in wheat, the farmer's plot gives combination A: 0 kg of barley and 100 kg of wheat. With one strip switched to barley, it gives combination B: 25 kg of barley and 90 kg of wheat. How many kilograms of wheat does the farmer give up to get those 25 kg of barley?"
+  },
+  "expectedValue": 10,
+  "tolerance": 0.1,
+  "unit": "kg",
+  "explanation": {
+    "en": "Wheat falls from 100 kg at A to 90 kg at B. So the first 25 kg of barley costs 100 − 90 = 10 kg of wheat. That 10 kg of wheat is the opportunity cost of the first 25 kg of barley."
+  },
+  "hints": [
+    {
+      "en": "Compare only the wheat at A and at B: 100 kg becomes how much?"
+    }
+  ],
+  "tags": [
+    "opportunity-cost",
+    "ppc-table"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.366Z"
+  }
+}

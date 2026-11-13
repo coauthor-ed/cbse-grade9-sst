@@ -1,0 +1,36 @@
+{
+  "id": "blk-l02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02/blk-l02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "They took a bank loan and rented a small factory nearby."
+    },
+    {
+      "id": "b",
+      "text": "Each took dough home and brought back papads by evening."
+    },
+    {
+      "id": "c",
+      "text": "They paid cooks in a hotel kitchen to roll the papads."
+    },
+    {
+      "id": "d",
+      "text": "They bought papads from shops and packed them as their own."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  },
+  "simulation": {
+    "src": "simulations/L02/LijjatRooftopSetupScene.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

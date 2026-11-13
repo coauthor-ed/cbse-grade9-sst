@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-s07",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A company pays for a free health camp in a village and plants trees near its factory. Which of the six contributions of businesses is this?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Producing goods and services"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Corporate social responsibility"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Paying taxes that fund roads and hospitals"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Creating jobs and income for households"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-2",
+  "explanation": {
+    "en": "Through corporate social responsibility, businesses support education, the environment and healthcare. A health camp is healthcare, and planting trees helps the environment."
+  },
+  "hints": [
+    {
+      "en": "Health camps and trees: which contribution covers healthcare and the environment?"
+    }
+  ],
+  "tags": [
+    "contributions",
+    "csr",
+    "society",
+    "ethics",
+    "welfare"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

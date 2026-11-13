@@ -5,6 +5,10 @@
   "title": {
     "en": "Who runs an election?"
   },
+  "chapterId": "iest1-ch7",
+  "topicIds": [
+    "election-machinery-role"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L04/blk-l04-s04.json"

@@ -5,6 +5,11 @@
   "title": {
     "en": "How is the air layered, and what does each layer do?"
   },
+  "chapterId": "iest1-ch3",
+  "topicIds": [
+    "atmospheric-layers-overview",
+    "troposphere-characteristics"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L02/blk-l02-s02.json"

@@ -1,0 +1,36 @@
+{
+  "id": "blk-l01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Buy 1 kg each time, because her family needs the same amount."
+    },
+    {
+      "id": "b",
+      "text": "Buy less, because a lower price must mean poorer mangoes."
+    },
+    {
+      "id": "c",
+      "text": "Buy more, because at a lower price her money buys more mangoes."
+    },
+    {
+      "id": "d",
+      "text": "Buy nothing, and wait for the price to fall even further."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L01/MangoBuyerScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:47.993Z",
+    "reviewedBy": "review-bar"
+  }
+}

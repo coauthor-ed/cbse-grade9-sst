@@ -1,0 +1,31 @@
+{
+  "id": "blk-l03-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03/blk-l03-s01.md",
+  "deferVerdict": true,
+  "options": [
+    {
+      "id": "a",
+      "text": "About 75% of Bhavisha's amount, because he pays in for 30 of her 40 years."
+    },
+    {
+      "id": "b",
+      "text": "The same amount, because he pays in the same ₹1,000 every year."
+    },
+    {
+      "id": "c",
+      "text": "Less than half of Bhavisha's amount, although he pays in for 30 of her 40 years."
+    },
+    {
+      "id": "d",
+      "text": "About 10% less, because he misses ten deposits of ₹1,000."
+    }
+  ],
+  "correctOptionId": "c",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

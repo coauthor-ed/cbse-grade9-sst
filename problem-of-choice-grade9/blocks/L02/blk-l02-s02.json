@@ -1,0 +1,18 @@
+{
+  "id": "blk-l02-s02",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Resources\n\n<!-- STEP id=\"factors\" -->\n**Resources** are the things we use to produce goods and services. Some are natural, like water and coal. Some are made by people, like machines and technology.\n\n<!-- STEP id=\"alternative\" -->\nEconomists group them as the factors of production: land, labour, capital and technology. Each is limited, and each has many uses. The same land can grow barley or wheat. The same engineer can design a bridge or write software.\n\n**Limited resources with many uses: that is why we must choose.**"
+  },
+  "simulation": {
+    "src": "simulations/L02/ResourcesScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.362Z"
+  }
+}

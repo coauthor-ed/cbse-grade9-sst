@@ -1,0 +1,20 @@
+{
+  "id": "blk-l07-game",
+  "type": "mini-game@1",
+  "subject": "social-science",
+  "grade": 9,
+  "chapterId": "problem-of-choice",
+  "topicId": "markets-and-prices",
+  "board": "CBSE",
+  "src": "simulations/L07/UmbrellaPriceGame.js",
+  "objective": {
+    "en": "An extra game, beyond the book. You sell umbrellas on a rainy day. Set a price. Too high, and umbrellas stay unsold. Too low, and they sell out while buyers are still waiting. Find the price where every umbrella sells and no buyer is left waiting."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l05-s05",
+  "type": "mini-game@1",
+  "src": "simulations/L05/FiveClientsGame.js",
+  "objective": {
+    "en": "Choose a place for each of the five people so that each has the full amount on their date in all three market paths, and the two long goals grow faster than prices."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "q-l01-s09",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Human wants are unlimited and always growing. How does this constant desire for more put pressure on the environment? In your view, can people meet their wants and still take only what nature can replace? Give reasons for your answer. (3 marks)"
+  },
+  "rubric": [
+    {
+      "id": "extraction-mechanism",
+      "label": {
+        "en": "Traces the chain from endless wants to ever-more production, which pulls ever-more raw material out of nature"
+      },
+      "level1": {
+        "en": "Pick one gadget you use and trace it backwards: where did its metal, water and energy come from?"
+      },
+      "clue": {
+        "en": "Every extra want means someone, somewhere digs more, pumps more or clears more land — nature supplies the inputs for every product."
+      },
+      "level2Template": {
+        "en": "The continuous pursuit of new wants makes people take out ___ amounts of minerals, water, fuel and timber."
+      },
+      "accepted": [
+        "ever-larger",
+        "greater and greater",
+        "more and more"
+      ]
+    },
+    {
+      "id": "environmental-damage",
+      "label": {
+        "en": "Names real harm to nature such as groundwater running low, polluted air and water, shrinking forests and habitat loss"
+      },
+      "level1": {
+        "en": "What is left behind when a forest is cleared or a river is pumped past its limits?"
+      },
+      "clue": {
+        "en": "Falling water tables, smoky air, poor soil and fewer wild animals are what endless wants leave behind."
+      },
+      "level2Template": {
+        "en": "Taking out so much leads to ___, environmental pollution and the destruction of forests and wildlife habitats."
+      },
+      "accepted": [
+        "water scarcity",
+        "depleted groundwater",
+        "soil degradation",
+        "falling water tables"
+      ]
+    },
+    {
+      "id": "balanced-position",
+      "label": {
+        "en": "Takes a reasoned position on whether balance is possible — e.g. yes, if needs come first and extraction is kept low through less waste, recycling and renewables; or no, while wants stay unlimited"
+      },
+      "level1": {
+        "en": "Could people keep satisfying wants forever with today's rate of digging and pumping — or would something have to change?"
+      },
+      "clue": {
+        "en": "Either defend balance (needs before wants, efficient technology, recycling, renewable substitutes) or argue why unlimited wants defeat any balance — but give reasons."
+      },
+      "level2Template": {
+        "en": "A balance is possible only if ___ are placed before endless wants and the rate of extraction is kept within what nature can replace."
+      },
+      "accepted": [
+        "needs",
+        "human needs",
+        "essential needs",
+        "our needs"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Introduction"
+      },
+      "text": {
+        "en": "Unlimited wants put pressure on the environment through production."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Mechanism of pressure"
+      },
+      "text": {
+        "en": "The continuous pursuit of new wants makes people take out ___ amounts of minerals, water, fuel and timber."
+      },
+      "rubricId": "extraction-mechanism"
+    },
+    {
+      "eyebrow": {
+        "en": "Environmental consequences"
+      },
+      "text": {
+        "en": "Taking out so much leads to ___, environmental pollution and the destruction of forests and wildlife habitats."
+      },
+      "rubricId": "environmental-damage"
+    },
+    {
+      "eyebrow": {
+        "en": "Possibility of balance"
+      },
+      "text": {
+        "en": "A balance is possible only if ___ are placed before endless wants and the rate of extraction is kept within what nature can replace."
+      },
+      "rubricId": "balanced-position"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "unlimited-wants",
+    "environment",
+    "sustainability",
+    "review",
+    "3-marks",
+    "coach"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.361Z"
+  }
+}

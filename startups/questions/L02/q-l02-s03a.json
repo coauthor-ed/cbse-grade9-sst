@@ -1,0 +1,60 @@
+{
+  "id": "q-l02-s03a",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In the Lijjat cooperative, who owns the business and how are the profits shared?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "The seven founders own it, and new members earn a daily wage."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Outside investors own it, and members get a small part of sales."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Every member is an equal owner, and profits are shared equally."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Senior members own more of it, so they take a larger share."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-3",
+  "explanation": {
+    "en": "Lijjat is a cooperative society. Every member who joins is an equal owner, and profits are shared equally, whether a member is senior or new."
+  },
+  "hints": [
+    {
+      "en": "Think about what the women decided when they started a cooperative society."
+    }
+  ],
+  "tags": [
+    "cooperative",
+    "ownership",
+    "profit-sharing",
+    "lijjat"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

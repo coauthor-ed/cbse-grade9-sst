@@ -1,0 +1,26 @@
+{
+  "id": "blk-l03-s01",
+  "type": "poe-predict@1",
+  "prompt": "# Is Fifty and Fifty Possible?\n\nThe farmer's table lists combination C: 50 kg of barley with 70 kg of wheat. C uses all the land, water and labour the plot has.\n\n**Predict:** Can the farmer grow 50 kg of barley *and* 50 kg of wheat instead?",
+  "options": [
+    {
+      "id": "a",
+      "text": "No. Only the combinations in the table can happen."
+    },
+    {
+      "id": "b",
+      "text": "Yes, but some land or labour would stay idle."
+    },
+    {
+      "id": "c",
+      "text": "Yes, and with extra effort the plot can also give much more of both."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.370Z"
+  }
+}

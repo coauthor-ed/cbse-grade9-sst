@@ -21,6 +21,62 @@
   "tests": [],
   "banks": [],
   "generatedAt": "2026-10-07T16:47:27.181Z",
+  "blurb": {
+    "en": "How Indian elections work, from the voter list to the counting of votes."
+  },
+  "highlights": [
+    {
+      "en": "See how votes turn into seats"
+    },
+    {
+      "en": "Follow the Election Commission as it runs an election"
+    },
+    {
+      "en": "Help a first-time voter get ready to vote"
+    },
+    {
+      "en": "Sort fair practices from misconduct"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "Psephology: a word in two pieces"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "The election laws and what each one covers"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "Ishani votes for the first time"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "Many parties, free to join or leave"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "Misconduct Sort: a catch-and-sort game"
+      }
+    }
+  ],
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "cover": "showcase/cover.jpg",
+  "estHours": 3.5,
+  "sizeMB": 2.3,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -36,10 +92,58 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "elections",
+        "title": "Elections",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "Why do elections have to happen again?"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "How do votes become seats?"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "What do the election laws say?"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "Who runs an election?"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "How does every voter get to vote?"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "What do political parties do?"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "How are parties recognised?"
+          },
+          {
+            "ref": "lessons/les-08.json",
+            "title": "What makes an election free and fair?"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 8,
+    "narrated": false,
+    "chapterIds": [
+      "iest1-ch7"
+    ]
   }
 }

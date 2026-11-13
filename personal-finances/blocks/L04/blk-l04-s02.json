@@ -1,0 +1,31 @@
+{
+  "id": "blk-l04-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04/blk-l04-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. Shares have grown more than a fixed deposit, so the money will be larger by then."
+    },
+    {
+      "id": "b",
+      "text": "Yes, if the companies they hold have done well so far."
+    },
+    {
+      "id": "c",
+      "text": "No. The price may fall before the fee is due, and the fee cannot wait."
+    },
+    {
+      "id": "d",
+      "text": "No. Shares always lose money in the end."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

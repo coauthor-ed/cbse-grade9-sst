@@ -1,0 +1,131 @@
+{
+  "id": "q-l05-s09",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "How can a country's economic choices today shape its future? Why should it think about future results when it decides today? (3 marks)"
+  },
+  "rubric": [
+    {
+      "id": "choices-commit-resources",
+      "label": {
+        "en": "Explains that today's allocation of scarce resources commits land, labour and capital for years — building capacity or locking in losses"
+      },
+      "level1": {
+        "en": "A factory or a forest takes years, not days. So what does choosing between them today do to tomorrow's options?"
+      },
+      "clue": {
+        "en": "Whatever a country builds, grows or extracts now fixes what its people can produce — and what they will lack — for decades."
+      },
+      "level2Template": {
+        "en": "Present choices shape the future because the resources committed today determine the country's ___ for years to come."
+      },
+      "accepted": [
+        "productive capacity",
+        "production capacity",
+        "future capacity",
+        "capacity"
+      ]
+    },
+    {
+      "id": "long-term-example",
+      "label": {
+        "en": "Gives a concrete example such as investing in education/health versus quick-profit crops, or conserving soil/water versus exhausting them"
+      },
+      "level1": {
+        "en": "Recall sugarcane versus millets: one pays now, the other keeps paying for many years. Which choice still matters years later?"
+      },
+      "clue": {
+        "en": "Money put into schools and hospitals returns as skilled, healthy workers; water mined today returns as empty wells tomorrow."
+      },
+      "level2Template": {
+        "en": "For example, expenditure on ___ builds future capacity, whereas the exhaustion of resources today creates shortages tomorrow."
+      },
+      "accepted": [
+        "education and health",
+        "schools and hospitals",
+        "infrastructure",
+        "skill development"
+      ]
+    },
+    {
+      "id": "future-consequences-reasoned",
+      "label": {
+        "en": "Argues why future consequences must be weighed — some costs last for many years and many choices are hard to undo"
+      },
+      "level1": {
+        "en": "If a bad choice could be undone next year, thinking ahead would hardly matter. Why can countries not simply undo theirs?"
+      },
+      "clue": {
+        "en": "A cut forest, used-up underground water, children who missed school — some costs cannot be undone later."
+      },
+      "level2Template": {
+        "en": "Future results must be weighed because many decisions, once taken, are ___."
+      },
+      "accepted": [
+        "difficult to reverse",
+        "hard to reverse",
+        "irreversible",
+        "permanent"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Introduction"
+      },
+      "text": {
+        "en": "Economic choices made today shape the economy for many years, so their future results need careful thought."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Present choices and future capacity"
+      },
+      "text": {
+        "en": "Present choices shape the future because the resources committed today determine the country's ___ for years to come."
+      },
+      "rubricId": "choices-commit-resources"
+    },
+    {
+      "eyebrow": {
+        "en": "Illustration"
+      },
+      "text": {
+        "en": "For example, expenditure on ___ builds future capacity, whereas the exhaustion of resources today creates shortages tomorrow."
+      },
+      "rubricId": "long-term-example"
+    },
+    {
+      "eyebrow": {
+        "en": "Need to consider future consequences"
+      },
+      "text": {
+        "en": "Future results must be weighed because many decisions, once taken, are ___."
+      },
+      "rubricId": "future-consequences-reasoned"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "what-to-produce",
+    "opportunity-cost",
+    "sustainability",
+    "review",
+    "3-marks",
+    "coach"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.378Z"
+  }
+}

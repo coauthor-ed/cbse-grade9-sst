@@ -1,0 +1,58 @@
+{
+  "id": "q-l04-s03b",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "tags": [
+    "finance",
+    "accounting"
+  ],
+  "stem": {
+    "en": "Every evening, one of the friends writes down each sale and each bill of ABC Bakery in a book, and checks that the records are correct. Which functional area is this?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Management and operations"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Finance and accounting"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Human resources"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Marketing and sales"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-2",
+  "explanation": {
+    "en": "Recording the money that comes in and goes out, and keeping the records correct, is accounting. It is part of finance and accounting."
+  },
+  "hints": [
+    {
+      "en": "The friend is keeping track of money."
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

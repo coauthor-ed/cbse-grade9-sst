@@ -1,0 +1,63 @@
+{
+  "id": "les-01",
+  "lessonId": "les-01",
+  "type": "lesson",
+  "title": {
+    "en": "Is a good recipe enough?"
+  },
+  "chapterId": "kebs1-ch9",
+  "blocks": [
+    {
+      "blockRef": "blocks/L01/blk-l01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s03.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s03.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s04a.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s04b.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s04.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s04.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s05.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s05a.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s05b.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s06.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s06a.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s06b.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s06c.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

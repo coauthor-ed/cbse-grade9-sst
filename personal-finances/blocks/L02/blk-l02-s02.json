@@ -1,0 +1,31 @@
+{
+  "id": "blk-l02-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02/blk-l02-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "She buys the bag, because her ₹1,000 is the same ₹1,000 it was a year ago."
+    },
+    {
+      "id": "b",
+      "text": "She buys the bag and has change left, because the shop wants to clear its old stock."
+    },
+    {
+      "id": "c",
+      "text": "She is about ₹60 short, because the bag costs more and her money stayed the same."
+    },
+    {
+      "id": "d",
+      "text": "The bag costs less than ₹1,000, because it has been in the shop for a whole year."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

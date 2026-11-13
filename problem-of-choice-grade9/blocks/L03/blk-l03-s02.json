@@ -1,0 +1,19 @@
+{
+  "id": "blk-l03-s02",
+  "type": "content-block@1",
+  "poeRole": "observe",
+  "markdown": {
+    "en": "# The Production Possibility Curve\n\n<!-- STEP id=\"curve\" -->\nHere is the farmer's table as five points, A to E. Barley is along the bottom; wheat is up the side.\n\n<!-- STEP id=\"inside\" -->\nJoin the points and you get a curve. Every point on it uses all the plot's land, water and labour.\n\n<!-- STEP id=\"beyond\" -->\n50 kg of barley with 50 kg of wheat lies inside the curve: possible, but some land or labour stays idle. 75 kg of barley with 60 kg of wheat lies outside: this plot cannot grow it.\n\n**This curve is the Production Possibility Curve (PPC): every combination of two goods that the resources can produce when fully used.**"
+  },
+  "simulation": {
+    "src": "simulations/L03/PPCCurveScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.370Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "blk-l01-s06",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# ₹500 for the Week\n\n<!-- STEP id=\"budget\" -->\nMeera has ₹500 for the week. Her list: snacks ₹150, a film ticket ₹200, a game top-up ₹150 and a birthday gift for her brother ₹250. The list adds up to ₹750.\n\n<!-- STEP id=\"gap\" -->\nShe cannot buy everything, so she must choose what to leave out.\n\nWherever she buys, in a shop or on an app, she is in a **market**: any place where things are bought and sold.\n\n**Limited money and many wants force a choice.**"
+  },
+  "simulation": {
+    "src": "simulations/L01/BudgetWeekScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.359Z"
+  }
+}

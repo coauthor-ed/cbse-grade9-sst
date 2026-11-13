@@ -1,0 +1,19 @@
+{
+  "id": "blk-l07-s00",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Economic Systems\n\n<!-- STEP id=\"systems\" -->\nEvery economy must answer the three key questions: what to produce, how to produce, and for whom to produce. Who answers them depends on how a country organises its resources. This way of organising production, use and sharing is the country's **economic system**. There are three kinds: a **planned economy**, a **market economy** and a **mixed economy**."
+  },
+  "simulation": {
+    "src": "simulations/L07/WhoDecidesScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "reviewedAt": "2026-11-11T00:00:00.000Z",
+    "flags": []
+  }
+}

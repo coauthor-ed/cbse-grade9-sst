@@ -1,0 +1,16 @@
+{
+  "id": "blk-l06-s03",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L06/blk-l06-s03.md",
+  "poeRole": "explain",
+  "simulation": {
+    "src": "simulations/L06/CeilingFloorScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:08.672Z",
+    "reviewedBy": "review-bar"
+  }
+}

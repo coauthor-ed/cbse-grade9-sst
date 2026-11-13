@@ -1,0 +1,44 @@
+{
+  "id": "les-03",
+  "lessonId": "les-03",
+  "type": "lesson",
+  "title": {
+    "en": "Can one graph hold every possible farm?"
+  },
+  "chapterId": "iest1-ch8",
+  "topicIds": [
+    "production-possibility-curve"
+  ],
+  "blocks": [
+    {
+      "blockRef": "blocks/L03/blk-l03-s01.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s02.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s03.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s04.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s05.json"
+    },
+    {
+      "blockRef": "questions/L03/q-l03-s06.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-s07.json"
+    },
+    {
+      "blockRef": "blocks/L03/blk-l03-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.369Z"
+  }
+}

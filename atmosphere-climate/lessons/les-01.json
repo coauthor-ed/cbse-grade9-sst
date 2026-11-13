@@ -5,6 +5,10 @@
   "title": {
     "en": "What is the air made of?"
   },
+  "chapterId": "iest1-ch3",
+  "topicIds": [
+    "atmospheric-composition"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L01/blk-l01-s01.json"

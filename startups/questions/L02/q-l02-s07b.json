@@ -1,0 +1,60 @@
+{
+  "id": "q-l02-s07b",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "What do the young man in the Jataka tale, the Lijjat founders and Mohan Singh Oberoi have in common?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Each was born rich and used family money to start a business."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Each began with very little and grew one step at a time."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Each began with money from investors who owned the business."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Each worked alone and never needed help from other people."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-2",
+  "explanation": {
+    "en": "The young man began with a dead mouse, the Lijjat founders with ₹80, and Oberoi as a clerk on ₹50 a month. Each grew step by step from that small start."
+  },
+  "hints": [
+    {
+      "en": "Look at how each of the three stories begins."
+    }
+  ],
+  "tags": [
+    "entrepreneurship",
+    "synthesis",
+    "reinvestment",
+    "value-creation"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

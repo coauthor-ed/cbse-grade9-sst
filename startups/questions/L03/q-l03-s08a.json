@@ -1,0 +1,68 @@
+{
+  "id": "q-l03-s08a",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Six months after ABC Bakery opens, a large bakery opens across the road and sells sweet cakes at very low prices. The friends go back to their business plan. Which change makes the most sense?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Sell the same cakes below what they cost, until the rival leaves."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Keep the plan exactly as it is, since a plan is written only once."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Bake whole wheat breads and other goods the rival does not sell."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Stop all promotion at once, since the rival is far bigger."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-3",
+  "explanation": {
+    "en": "A plan changes when the facts change. Selling below cost only adds to the losses, so the friends offer something their customers want that the rival does not sell."
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L03/exp-q-l03-s08a.json"
+      }
+    ]
+  },
+  "hints": [
+    {
+      "en": "Selling below cost means a loss on every cake. What else could the friends change?"
+    }
+  ],
+  "tags": [
+    "business-plan",
+    "competition",
+    "adaptation",
+    "living-roadmap"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "blk-l08-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Two Sides\n\n<!-- STEP id=\"govt\" -->\nIn a mixed economy, the government side makes fair rules for competition and protects consumers. It makes sure firms share honest information (transparency). It provides public goods, such as roads and street lights, and runs welfare programmes.\n\n<!-- STEP id=\"market\" -->\nThe market side has businesses that work for profit. They compete with each other, and competition brings new ideas. The two sides exist side by side and compete with each other in the market. The government also regulates the private firms.\n\n**In a mixed economy, the government and the market both have a part to play.**"
+  },
+  "simulation": {
+    "src": "simulations/L08/TwoSidesScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.383Z"
+  }
+}

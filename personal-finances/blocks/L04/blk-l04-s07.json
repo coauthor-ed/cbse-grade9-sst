@@ -1,0 +1,15 @@
+{
+  "id": "blk-l04-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L04/SpreadBasketGame.js",
+  "objective": {
+    "en": "Split ₹10,000 across four companies so the basket never falls more than 10% in any one year, and still ends above ₹10,000 after ten years."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "q-l06-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "In one month, a farmer's cow dies and a storm damages the roof of the family's shop. Which two kinds of policy answer these two losses?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Health insurance for the cow and life insurance for the shop roof, because both are losses to the family."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Cattle insurance for the cow and property insurance for the shop roof, because each kind covers its own loss."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Crop insurance for the cow and motor insurance for the roof, because both count as farm and vehicle damage."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Life insurance for the cow and cattle insurance for the roof, because both payments go to the family."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Cattle insurance covers the death or disability of farm animals, and property insurance covers a home or business damaged by fire, theft, flood, an earthquake or another disaster. Health, life and motor policies answer different losses, so neither event falls under them."
+  },
+  "hints": [
+    {
+      "en": "Start with the loss itself, not with the family's need: which policy names a dead animal, and which names a damaged building?"
+    },
+    {
+      "en": "Life insurance pays when a person dies, and motor insurance pays for a vehicle. Do either of those fit here?"
+    }
+  ],
+  "tags": [
+    "general-insurance",
+    "cattle",
+    "property"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

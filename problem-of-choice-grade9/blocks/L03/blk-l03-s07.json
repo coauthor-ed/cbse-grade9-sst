@@ -1,0 +1,18 @@
+{
+  "id": "blk-l03-s07",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# What the Curve Is For\n\n<!-- STEP id=\"assumption\" -->\nEvery point on the curve assumes nothing is idle. If one strip lies empty this season, the farm grows less, and its point drops inside the curve.\n\n<!-- STEP id=\"planning\" -->\nFarmers, enterprises and governments use curves like this to see the most their resources can produce.\n\n**On the curve: all resources used. Inside: some resources wasted. Outside: not possible with the resources we have now.**"
+  },
+  "simulation": {
+    "src": "simulations/L03/IdleStripScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.372Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "blk-l04-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L04/blk-l04-s01.md",
+  "options": [
+    {
+      "id": "opt-1",
+      "text": "All four jobs, because good cakes bring in money for everything."
+    },
+    {
+      "id": "opt-2",
+      "text": "Only the baking. The money, the people and the customers need work too."
+    },
+    {
+      "id": "opt-3",
+      "text": "The baking and the mango cake, because good cakes tell people about themselves."
+    },
+    {
+      "id": "opt-4",
+      "text": "The baking and the rent, because those two jobs cost the bakery the most money."
+    }
+  ],
+  "correctOptionId": "opt-2",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L04/BakeryJobsSetupScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "q-l02-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A classmate says, \"When people earn more, the demand for every good always rises.\" Which reply fits the chapter best?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Usually, but not always: people may buy less of a plain, cheaper good and switch to a better one."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Yes: with more money, people buy more of every good."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No: income does not change demand at all; only the price does."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No: when people earn more, the demand for every good falls."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "A rise in income usually raises demand, because people can afford more at the same prices. But not for every good: a family that earns more may buy less of a plain, cheaper good and buy a better one instead. Income does change demand, so price is not the only thing that matters."
+  },
+  "hints": [
+    {
+      "en": "Think of a cheap good that a family might buy less of once it earns more."
+    }
+  ],
+  "tags": [
+    "income",
+    "determinants-of-demand"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "reviewedAt": "2026-11-11T00:00:00.000Z",
+    "flags": []
+  }
+}

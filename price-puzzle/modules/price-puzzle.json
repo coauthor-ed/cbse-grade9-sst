@@ -1,0 +1,65 @@
+{
+  "id": "price-puzzle",
+  "moduleId": "price-puzzle",
+  "type": "module",
+  "authorId": "price-puzzle",
+  "title": {
+    "en": "The Price Puzzle: What Drives the Market"
+  },
+  "curriculumAlignment": "core",
+  "chapterId": "iest1-ch9",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "demand-and-purchasing-power",
+      "law-of-demand",
+      "market-demand",
+      "determinants-of-demand",
+      "law-of-supply",
+      "market-supply",
+      "determinants-of-supply",
+      "market-equilibrium",
+      "excess-demand-and-excess-supply",
+      "price-ceiling-and-price-floor",
+      "role-of-government-and-monopoly",
+      "public-goods"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "Demand: one buyer, one curve"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "Market demand, and what else changes it"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "Supply: from one seller to the market"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "What else changes supply"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "Where demand and supply meet: equilibrium"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "The government and the market"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "q-l07-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Anil's taxable income rises from ₹16,00,000 to ₹16,10,000, so part of it now falls in the 20% slab. What happens to his income tax?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It rises by ₹3,22,000, because 20% is now charged on the whole ₹16,10,000."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It rises by ₹2,000, because only the extra ₹10,000 is taxed at 20%."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It stays the same, because the standard deduction grows with every raise."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It falls, because the 15% slab no longer applies to any part of his income."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Each slab charges its own rate on the part of the income inside it. At ₹16,00,000 the tax is ₹20,000 + ₹40,000 + ₹60,000 = ₹1,20,000. At ₹16,10,000 the same ₹1,20,000 is due, plus 20% of the extra ₹10,000, which is ₹2,000. So the tax rises by ₹2,000 and he keeps ₹8,000 of the raise."
+  },
+  "hints": [
+    {
+      "en": "Work out the tax at ₹16,00,000 slab by slab, then add the tax on the extra ₹10,000."
+    },
+    {
+      "en": "Only the part above ₹16,00,000 is in the 20% slab."
+    }
+  ],
+  "tags": [
+    "tax-slab",
+    "progressive-taxation",
+    "misconception"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

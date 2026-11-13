@@ -1,0 +1,58 @@
+{
+  "id": "q-l08-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Why did the government of India make major economic reforms in 1991?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The economy was growing so fast that rules were no longer needed."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "All planning targets were met early, so planning was not needed."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Private firms already owned all banking, transport and heavy industry."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "By 1991 the country faced serious economic difficulties."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The book says that by 1991 India faced serious economic difficulties, and as a result the government made major reforms (d). The reforms did not come from fast growth (a) or from targets being met (b). Before 1991, banking, transport and heavy industries were mostly in the public sector, not owned by private firms (c)."
+  },
+  "hints": [
+    {
+      "en": "What does the book say India faced by 1991?"
+    }
+  ],
+  "tags": [
+    "india-1991",
+    "mixed-economy",
+    "reforms"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.384Z"
+  }
+}

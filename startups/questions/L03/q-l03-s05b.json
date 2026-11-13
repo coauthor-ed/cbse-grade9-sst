@@ -1,0 +1,83 @@
+{
+  "id": "q-l03-s05b",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Match each question the friends ask about ABC Bakery to the part of the business plan it belongs to."
+  },
+  "explanation": {
+    "en": "The book puts selling online under location, a range of prices under pricing, social media under promotion, and perishable goods under challenges and risks. These parts are not steps in an order: a plan answers all of them."
+  },
+  "hints": [
+    {
+      "en": "Where the goods are sold, including online, is part of location."
+    }
+  ],
+  "tags": [
+    "business-plan",
+    "considerations"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  },
+  "categories": [
+    {
+      "id": "cat-location",
+      "label": {
+        "en": "Location"
+      }
+    },
+    {
+      "id": "cat-pricing",
+      "label": {
+        "en": "Pricing and profits"
+      }
+    },
+    {
+      "id": "cat-promotion",
+      "label": {
+        "en": "Promotion"
+      }
+    },
+    {
+      "id": "cat-risks",
+      "label": {
+        "en": "Challenges and risks"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Should we also take orders through a mobile app?"
+      },
+      "correctCategoryId": "cat-location"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Will cheaper mini cake jars bring in more buyers?"
+      },
+      "correctCategoryId": "cat-pricing"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Should we post photos of our cakes on social media?"
+      },
+      "correctCategoryId": "cat-promotion"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "What do we do with bread that is not sold by evening?"
+      },
+      "correctCategoryId": "cat-risks"
+    }
+  ]
+}

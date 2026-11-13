@@ -1,0 +1,26 @@
+{
+  "id": "blk-l05-s03",
+  "type": "poe-predict@1",
+  "prompt": "# The Dry District\n\nIn a dry district, the water under the ground sinks lower every year. Farmers can grow sugarcane, which needs a lot of water but earns well and supplies the sugar mill. Or they can grow millets and pulses, which need little water.\n\nThe district chooses sugarcane.\n\n**Predict:** What does this choice give up?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Only the seeds, fertiliser and labour that any crop would need."
+    },
+    {
+      "id": "b",
+      "text": "Water that could have stayed underground, and healthier soil."
+    },
+    {
+      "id": "c",
+      "text": "Nothing, because the crop that earns the most has no cost."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.377Z"
+  }
+}

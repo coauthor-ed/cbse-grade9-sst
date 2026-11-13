@@ -1,0 +1,58 @@
+{
+  "id": "q-l06-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The government sets a highest price for wheat of ₹20 per kg, while the market price is ₹30 per kg. What is likely to happen over the next few seasons?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Farmers grow less wheat, and there may be a shortage."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Farmers grow more wheat, because more buyers now want it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Nothing changes, because the market price is still ₹30."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Buyers want less wheat, so a surplus of wheat is left unsold."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "At ₹20 farmers earn less than at the market price of ₹30, so they may grow less. Buyers want more at the lower price. Less is offered and more is wanted, so there may be a shortage. Farmers may also stop spending on better seeds or irrigation."
+  },
+  "hints": [
+    {
+      "en": "At a lower price, does a seller offer more or less?"
+    }
+  ],
+  "tags": [
+    "intervention-costs",
+    "book-q7"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:08.672Z",
+    "reviewedBy": "review-bar"
+  }
+}

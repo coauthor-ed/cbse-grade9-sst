@@ -1,0 +1,129 @@
+{
+  "id": "q-l09-s06",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Can good economic decisions be made without reliable data? Support your answer with an example. (3 marks)"
+  },
+  "rubric": [
+    {
+      "id": "position-reason",
+      "label": {
+        "en": "Takes a clear position: decisions need reliable data, or scarce resources are wasted"
+      },
+      "level1": {
+        "en": "If a family plans its spending without knowing its income or prices, what happens to its money?"
+      },
+      "clue": {
+        "en": "Remember Meera's wish list of ₹750 against her ₹500: she needed the numbers before she could choose."
+      },
+      "level2Template": {
+        "en": "Without reliable data, decisions rest on ___, and scarce resources can be wasted."
+      },
+      "accepted": [
+        "guesswork",
+        "guesses",
+        "hunches",
+        "assumptions"
+      ]
+    },
+    {
+      "id": "example-family-govt",
+      "label": {
+        "en": "Gives an example: a family, a firm or the government using data before spending"
+      },
+      "level1": {
+        "en": "Name one decision maker and say what they look at before they spend."
+      },
+      "clue": {
+        "en": "Families check prices and needs. The government reads the Economic Survey before the Union Budget."
+      },
+      "level2Template": {
+        "en": "For example, ___ looks at its income, prices and needs before deciding how to spend."
+      },
+      "accepted": [
+        "a family",
+        "a household",
+        "a government",
+        "an enterprise",
+        "a company"
+      ]
+    },
+    {
+      "id": "data-sources",
+      "label": {
+        "en": "Names sources of reliable data: surveys and financial statements"
+      },
+      "level1": {
+        "en": "Where can a decision maker find numbers they can trust?"
+      },
+      "clue": {
+        "en": "The Ministry of Finance publishes the Economic Survey every year. Companies publish financial statements."
+      },
+      "level2Template": {
+        "en": "Reliable data comes from economic ___ and from the financial statements of companies."
+      },
+      "accepted": [
+        "surveys",
+        "survey",
+        "survey reports"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Introduction"
+      },
+      "text": {
+        "en": "Reliable data helps people, firms and governments choose well."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Position and reason"
+      },
+      "text": {
+        "en": "Without reliable data, decisions rest on ___, and scarce resources can be wasted."
+      },
+      "rubricId": "position-reason"
+    },
+    {
+      "eyebrow": {
+        "en": "Illustration"
+      },
+      "text": {
+        "en": "For example, ___ looks at its income, prices and needs before deciding how to spend."
+      },
+      "rubricId": "example-family-govt"
+    },
+    {
+      "eyebrow": {
+        "en": "Sources of reliable data"
+      },
+      "text": {
+        "en": "Reliable data comes from economic ___ and from the financial statements of companies."
+      },
+      "rubricId": "data-sources"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "data-and-decisions",
+    "review",
+    "3-marks",
+    "coach"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.386Z"
+  }
+}

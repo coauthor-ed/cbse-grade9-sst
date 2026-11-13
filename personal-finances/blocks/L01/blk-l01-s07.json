@@ -1,0 +1,15 @@
+{
+  "id": "blk-l01-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L01/SchoolListGame.js",
+  "objective": {
+    "en": "Put all six needs in the bag, keep the total within ₹3,000, and keep what is left as savings."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

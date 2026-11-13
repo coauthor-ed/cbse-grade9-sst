@@ -1,0 +1,18 @@
+{
+  "id": "blk-l05-s06",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# For Whom to Produce\n\n<!-- STEP id=\"buyers\" -->\nA shoe maker must ask: who will wear these shoes? People have different needs, incomes and tastes. Students, office workers, players and families all need shoes, but not the same shoes.\n\n<!-- STEP id=\"shoes\" -->\nSchool shoes are simple, strong and cheap. Office shoes look formal and often use leather. Sports shoes have rubber soles that grip and bend. Slippers are comfortable and cheap.\n\n**The answer to 'for whom' decides the design and the material.**"
+  },
+  "simulation": {
+    "src": "simulations/L05/ShoeBuyersScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.377Z"
+  }
+}

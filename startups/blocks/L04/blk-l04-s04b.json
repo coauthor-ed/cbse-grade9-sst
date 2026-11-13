@@ -1,0 +1,16 @@
+{
+  "id": "blk-l04-s04b",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L04/blk-l04-s04b.md",
+  "simulation": {
+    "src": "simulations/L04/BakeryMarketingScene.js",
+    "position": "right"
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

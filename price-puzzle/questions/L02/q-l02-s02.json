@@ -1,0 +1,59 @@
+{
+  "id": "q-l02-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Suppose the price of petrol doubles. Which change in demand is most likely?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The demand for electric cars rises, because they do not need petrol."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The demand for petrol cars rises, because petrol has become more valuable."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The demand for buses and trains falls, because all travel now costs more."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "No other demand changes, because only the price of petrol has changed."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Petrol and petrol cars are complementary goods, so costlier petrol makes petrol cars less attractive. Electric cars, buses and trains can replace a petrol car, so they are substitutes, and the demand for them is likely to rise. The price of one good can change the demand for other goods."
+  },
+  "hints": [
+    {
+      "en": "Which goods are used with petrol, and which can replace a petrol car?"
+    }
+  ],
+  "tags": [
+    "related-goods",
+    "substitutes",
+    "complements"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:52.209Z",
+    "reviewedBy": "review-bar"
+  }
+}

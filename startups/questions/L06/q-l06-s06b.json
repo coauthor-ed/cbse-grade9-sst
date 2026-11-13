@@ -1,0 +1,69 @@
+{
+  "id": "q-l06-s06b",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "How is Startup India linked to Atmanirbhar Bharat?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Startup India is the new name given to Atmanirbhar Bharat in 2047."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Atmanirbhar Bharat is a startup valued at over 1 billion dollars."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Startup India is a scheme that supports Atmanirbhar Bharat."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Startup India asks Indian startups to buy more goods from abroad."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-3",
+  "explanation": {
+    "en": "Startup India is one of the government's schemes to promote entrepreneurship, and it supports the vision of Atmanirbhar Bharat: a self-reliant India that makes more at home and depends less on imports."
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L06/exp-q-l06-s06b.json"
+      }
+    ]
+  },
+  "hints": [
+    {
+      "en": "One is a scheme, and the other is a national policy framework."
+    }
+  ],
+  "tags": [
+    "atmanirbhar-bharat",
+    "viksit-bharat-2047",
+    "self-reliance",
+    "national-policy",
+    "manufacturing"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

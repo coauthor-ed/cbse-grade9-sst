@@ -1,0 +1,119 @@
+{
+  "id": "q-l05-s02",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "easy",
+  "bloomLevel": "remember",
+  "prompt": {
+    "en": "State the three key questions that scarcity forces every economy to answer."
+  },
+  "rubric": [
+    {
+      "id": "what-to-produce",
+      "label": {
+        "en": "What to produce — which goods and services, and in what quantities"
+      },
+      "level1": {
+        "en": "With limited resources, the first decision is about the output itself. What has to be decided first?"
+      },
+      "clue": {
+        "en": "Think of the farmer choosing barley or wheat: the question begins with 'what…'."
+      },
+      "level2Template": {
+        "en": "___ to produce — that is, which goods and services should be produced, and in what quantities."
+      },
+      "accepted": [
+        "what"
+      ]
+    },
+    {
+      "id": "how-to-produce",
+      "label": {
+        "en": "How to produce — by which method, using which mix of resources and technology"
+      },
+      "level1": {
+        "en": "Once we know the product, a second choice remains about the production process itself. What is it?"
+      },
+      "clue": {
+        "en": "Think of a factory choosing between hiring more workers and buying more machines."
+      },
+      "level2Template": {
+        "en": "___ to produce — that is, by which combination of factors of production and techniques."
+      },
+      "accepted": [
+        "how"
+      ]
+    },
+    {
+      "id": "for-whom",
+      "label": {
+        "en": "For whom to produce — who will get the goods and services produced"
+      },
+      "level1": {
+        "en": "Goods exist to reach someone. What is the final distribution question?"
+      },
+      "clue": {
+        "en": "School shoes, office shoes, sports shoes — each is made with a particular group in mind."
+      },
+      "level2Template": {
+        "en": "___ to produce — that is, for which sections of society the produced output is intended."
+      },
+      "accepted": [
+        "for whom"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Introduction"
+      },
+      "text": {
+        "en": "Scarcity never goes away, so every economy must keep answering three key questions about its limited resources."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "First key question"
+      },
+      "text": {
+        "en": "___ to produce — that is, which goods and services should be produced, and in what quantities."
+      },
+      "rubricId": "what-to-produce"
+    },
+    {
+      "eyebrow": {
+        "en": "Second key question"
+      },
+      "text": {
+        "en": "___ to produce — that is, by which combination of factors of production and techniques."
+      },
+      "rubricId": "how-to-produce"
+    },
+    {
+      "eyebrow": {
+        "en": "Third key question"
+      },
+      "text": {
+        "en": "___ to produce — that is, for which sections of society the produced output is intended."
+      },
+      "rubricId": "for-whom"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "key-questions",
+    "scarcity",
+    "coach"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.376Z"
+  }
+}

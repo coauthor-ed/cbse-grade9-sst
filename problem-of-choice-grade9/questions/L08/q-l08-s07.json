@@ -1,0 +1,125 @@
+{
+  "id": "q-l08-s07",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Which economic system, market, planned or mixed, do you think gives people the most freedom? Which system is best suited for promoting innovation? Why? Give reasons from the chapter. (3 marks)"
+  },
+  "rubric": [
+    {
+      "id": "freedom-system-justified",
+      "label": {
+        "en": "Names a system for freedom with a reason from the book: in a market economy private owners decide"
+      },
+      "level1": {
+        "en": "In which system do shop owners, farmers and buyers decide for themselves, without waiting for a plan?"
+      },
+      "clue": {
+        "en": "In a market economy, demand and supply mostly decide. In a planned economy, the planning office decides."
+      },
+      "level2Template": {
+        "en": "In a ___ economy, individuals and private companies own factories, shops and land, and they decide what to produce and what to buy."
+      },
+      "accepted": [
+        "market",
+        "free market"
+      ]
+    },
+    {
+      "id": "innovation-system-justified",
+      "label": {
+        "en": "Names competition as what drives new ideas"
+      },
+      "level1": {
+        "en": "On the street of umbrella sellers, why did one seller bring a folding umbrella?"
+      },
+      "clue": {
+        "en": "Each seller wants the buyers. A better or cheaper umbrella wins them, so sellers keep improving."
+      },
+      "level2Template": {
+        "en": "In a market economy, ___ between sellers pushes them to improve quality, lower prices and try new ideas."
+      },
+      "accepted": [
+        "competition",
+        "rivalry",
+        "market competition"
+      ]
+    },
+    {
+      "id": "tradeoff-weighed",
+      "label": {
+        "en": "Compares the other systems: little push to improve when planned; a mixed economy combines both"
+      },
+      "level1": {
+        "en": "What about the other systems? Why do firms in a planned economy try few new ideas, and what does a mixed economy keep?"
+      },
+      "clue": {
+        "en": "Planned firms have few rivals. A mixed economy keeps private firms that compete, and the government still provides public goods."
+      },
+      "level2Template": {
+        "en": "In a planned economy, firms follow targets and have little reason to try new ideas. A ___ economy keeps competition and also gives the government a role in public goods and welfare."
+      },
+      "accepted": [
+        "mixed"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Introduction"
+      },
+      "text": {
+        "en": "This answer is your own opinion, but each part needs a reason from the chapter."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "System ensuring freedom"
+      },
+      "text": {
+        "en": "In a ___ economy, individuals and private companies own factories, shops and land, and they decide what to produce and what to buy."
+      },
+      "rubricId": "freedom-system-justified"
+    },
+    {
+      "eyebrow": {
+        "en": "Source of innovation"
+      },
+      "text": {
+        "en": "In a market economy, ___ between sellers pushes them to improve quality, lower prices and try new ideas."
+      },
+      "rubricId": "innovation-system-justified"
+    },
+    {
+      "eyebrow": {
+        "en": "Limitations and the mixed solution"
+      },
+      "text": {
+        "en": "In a planned economy, firms follow targets and have little reason to try new ideas. A ___ economy keeps competition and also gives the government a role in public goods and welfare."
+      },
+      "rubricId": "tradeoff-weighed"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "economic-systems",
+    "market-economy",
+    "mixed-economy",
+    "review",
+    "3-marks",
+    "coach"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.385Z"
+  }
+}

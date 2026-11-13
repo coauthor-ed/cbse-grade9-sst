@@ -1,0 +1,91 @@
+{
+  "id": "q-l07-s08",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each item. Is it a public good, there for everyone with no one left out, like a street light? Or a private good, sold to each buyer, like a samosa from a shop?"
+  },
+  "categories": [
+    {
+      "id": "public",
+      "label": {
+        "en": "Public goods"
+      }
+    },
+    {
+      "id": "private",
+      "label": {
+        "en": "Private goods"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-streetlight",
+      "text": {
+        "en": "Street lighting on a public road"
+      },
+      "correctCategoryId": "public"
+    },
+    {
+      "id": "chip-police",
+      "text": {
+        "en": "Police patrols keeping a neighbourhood safe"
+      },
+      "correctCategoryId": "public"
+    },
+    {
+      "id": "chip-park",
+      "text": {
+        "en": "An open public park"
+      },
+      "correctCategoryId": "public"
+    },
+    {
+      "id": "chip-education",
+      "text": {
+        "en": "Basic education provided to every child"
+      },
+      "correctCategoryId": "public"
+    },
+    {
+      "id": "chip-dinner",
+      "text": {
+        "en": "A restaurant dinner"
+      },
+      "correctCategoryId": "private"
+    },
+    {
+      "id": "chip-phone",
+      "text": {
+        "en": "A smartphone"
+      },
+      "correctCategoryId": "private"
+    },
+    {
+      "id": "chip-shoes",
+      "text": {
+        "en": "A pair of sports shoes"
+      },
+      "correctCategoryId": "private"
+    }
+  ],
+  "explanation": {
+    "en": "Public goods are available to everyone, and one person's use does not stop others from using them: street lights, police patrols, parks and basic education. Private goods such as a restaurant dinner, a phone or a pair of shoes go only to the people who buy them."
+  },
+  "hints": [
+    {
+      "en": "Ask two questions. Could a seller keep out people who do not pay? Does one person's use leave less for others?"
+    }
+  ],
+  "tags": [
+    "public-goods",
+    "market-economy"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.382Z"
+  }
+}

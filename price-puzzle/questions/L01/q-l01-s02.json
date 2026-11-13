@@ -1,0 +1,58 @@
+{
+  "id": "q-l01-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Srivalli's demand schedule is: ₹150 per kg, 1 kg; ₹100 per kg, 2 kg; ₹50 per kg, 3 kg. Which point is NOT on her demand curve?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "2 kg at ₹100 per kg"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "3 kg at ₹50 per kg"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "1 kg at ₹150 per kg"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "3 kg at ₹150 per kg"
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Her curve passes through 1 kg at ₹150, 2 kg at ₹100 and 3 kg at ₹50. At ₹150 she buys only 1 kg, so 3 kg at ₹150 is not on her curve."
+  },
+  "hints": [
+    {
+      "en": "Check each pair of price and quantity against her table."
+    }
+  ],
+  "tags": [
+    "demand-curve",
+    "demand-schedule"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:47.993Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "q-l02-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Israt eats mangoes one after another. The first tastes delicious, the second is good, and she hardly wants the third. The price has not changed. Which idea explains this?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The Law of Demand: she buys less because the price went up."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Substitute goods: she wants a banana in place of the third mango."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Diminishing marginal utility: each extra mango gives her less extra satisfaction."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Seasonality: mangoes taste good only at the start of the season."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The price did not change, so the Law of Demand does not explain it, and nothing in the story is about bananas or the season. Each extra mango simply adds less extra satisfaction than the one before. That is diminishing marginal utility, and it is why she would pay less for an extra mango."
+  },
+  "hints": [
+    {
+      "en": "Nothing changed except how many mangoes she has already eaten."
+    }
+  ],
+  "tags": [
+    "diminishing-marginal-utility"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:52.209Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -5,6 +5,7 @@
   "title": {
     "en": "What do political parties do?"
   },
+  "chapterId": "iest1-ch7",
   "blocks": [
     {
       "blockRef": "blocks/L06/blk-l06-s01.json"

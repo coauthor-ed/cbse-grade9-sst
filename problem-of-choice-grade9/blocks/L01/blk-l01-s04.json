@@ -1,0 +1,26 @@
+{
+  "id": "blk-l01-s04",
+  "type": "poe-predict@1",
+  "prompt": "# Meera's Phone\n\nMeera's family gets a basic phone. A year later Meera wants a smartphone. Soon after, she wants one with a bigger screen and a better camera.\n\n**Predict:** When does this wanting stop?",
+  "options": [
+    {
+      "id": "a",
+      "text": "It stops once she has a good phone. People who have enough stop wanting."
+    },
+    {
+      "id": "b",
+      "text": "It stops when she sees fewer advertisements."
+    },
+    {
+      "id": "c",
+      "text": "It never fully stops. Each want that is met makes room for a new one."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.358Z"
+  }
+}

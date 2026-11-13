@@ -1,0 +1,62 @@
+{
+  "id": "q-l06-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A thousand families each pay ₹500 a month into a common health fund. In one year, 25 families are treated in hospital and the other 975 never claim. Which statement best explains why the 975 families still gained?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "They will get their own premiums back at the end of the year, because families that do not claim are refunded."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The company invests the premiums during the year and shares the profit with every family that paid."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "They bought the right to have a large hospital bill paid, so a loss that would empty one family's savings is shared across many."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "They gained nothing, because only the families that actually received money from the fund gained anything."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "A premium buys cover, not a refund. The small regular payments of many families make a large loss payable. So a family that falls ill does not have to spend its savings. Every family that paid holds that same right, whether or not it claimed."
+  },
+  "hints": [
+    {
+      "en": "Think about what each family bought with its ₹500, rather than about what it received back this year."
+    },
+    {
+      "en": "Which family is protected next year: the one that claimed, the one that did not claim, or both?"
+    }
+  ],
+  "tags": [
+    "insurance",
+    "premium",
+    "risk-sharing"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

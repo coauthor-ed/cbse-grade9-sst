@@ -1,0 +1,58 @@
+{
+  "id": "q-l05-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "During online festival sales, the prices of many products are very low. Which explanation fits demand and supply best?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Only buyers gain, because sellers lose money on everything they sell."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Sellers have extra stock, and a lower price helps them sell more of it."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Prices are low because the demand for these products has fallen to zero."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The government fixes low prices for festivals, and sellers must follow."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "At the usual price, sellers would be left with a surplus. A lower price makes buyers want more, so more is sold. Buyers pay less, and sellers sell all their stock and can still earn money, so both can gain."
+  },
+  "hints": [
+    {
+      "en": "At the usual price, would the sellers sell all their stock?"
+    }
+  ],
+  "tags": [
+    "surplus",
+    "equilibrium-adjustment"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "reviewedAt": "2026-11-11T00:00:00.000Z",
+    "flags": []
+  }
+}

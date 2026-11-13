@@ -5,6 +5,7 @@
   "title": {
     "en": "The village that governs itself"
   },
+  "chapterId": "iest1-ch5",
   "blocks": [
     {
       "blockRef": "blocks/L06/blk-l06-s01.json"

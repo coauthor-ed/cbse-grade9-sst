@@ -5,6 +5,11 @@
   "title": {
     "en": "How are people warned of a cyclone?"
   },
+  "chapterId": "kegy1-ch6",
+  "topicIds": [
+    "cyclones",
+    "natural-disaster-mitigation"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L05/blk-l05-s01.json"

@@ -1,0 +1,36 @@
+{
+  "id": "blk-l06-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06/blk-l06-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "A surplus: sellers bring more mangoes than buyers want."
+    },
+    {
+      "id": "b",
+      "text": "A shortage: buyers want more mangoes than sellers offer."
+    },
+    {
+      "id": "c",
+      "text": "Nothing changes: buyers and sellers still trade 12 kg."
+    },
+    {
+      "id": "d",
+      "text": "Buyers want fewer mangoes, because the price is lower."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L06/CeilingFloorScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:08.672Z",
+    "reviewedBy": "review-bar"
+  }
+}

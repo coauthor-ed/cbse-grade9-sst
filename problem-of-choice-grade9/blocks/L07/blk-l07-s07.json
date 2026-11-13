@@ -1,0 +1,18 @@
+{
+  "id": "blk-l07-s07",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Public Goods\n\n<!-- STEP id=\"light\" -->\nA street light lights the road for everyone who walks by. One person's use does not stop anyone else from using it. No seller can make each walker pay for the light.\n\n<!-- STEP id=\"goods\" -->\nGoods like this are **public goods**: available to everyone, with no one left out. Parks, roads, police services, street lights and basic education are examples. A private seller cannot charge each user, so the government provides public goods from taxes, even in market economies.\n\n**Even a market economy needs the government to provide public goods.**"
+  },
+  "simulation": {
+    "src": "simulations/L07/StreetLampScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.382Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "q-l06-s03b",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort these into where the Chettiars worked outside India and what they dealt in."
+  },
+  "explanation": {
+    "en": "Outside India, the Chettiars worked in Sri Lanka, Burma (now Myanmar), Malaysia and other parts of Southeast Asia. They built their wealth through trade in salt, rice and textiles, and through finance."
+  },
+  "hints": [
+    {
+      "en": "Three are countries. The other four are things they dealt in."
+    }
+  ],
+  "tags": [
+    "chettiar",
+    "traditional-communities"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  },
+  "categories": [
+    {
+      "id": "cat-place",
+      "label": {
+        "en": "Where they worked"
+      }
+    },
+    {
+      "id": "cat-trade",
+      "label": {
+        "en": "What they dealt in"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Sri Lanka"
+      },
+      "correctCategoryId": "cat-place"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Burma (now Myanmar)"
+      },
+      "correctCategoryId": "cat-place"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Malaysia"
+      },
+      "correctCategoryId": "cat-place"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Salt"
+      },
+      "correctCategoryId": "cat-trade"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "Rice"
+      },
+      "correctCategoryId": "cat-trade"
+    },
+    {
+      "id": "chip-6",
+      "text": {
+        "en": "Textiles"
+      },
+      "correctCategoryId": "cat-trade"
+    },
+    {
+      "id": "chip-7",
+      "text": {
+        "en": "Finance: lending money"
+      },
+      "correctCategoryId": "cat-trade"
+    }
+  ]
+}

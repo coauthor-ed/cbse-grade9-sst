@@ -1,0 +1,53 @@
+{
+  "id": "les-02",
+  "lessonId": "les-02",
+  "type": "lesson",
+  "title": {
+    "en": "One plot, two crops: what does a choice really cost?"
+  },
+  "chapterId": "iest1-ch8",
+  "topicIds": [
+    "opportunity-cost"
+  ],
+  "blocks": [
+    {
+      "blockRef": "blocks/L02/blk-l02-s01.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s02.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s03.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s04.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s05.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s06.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s07.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s08.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s08b.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s10.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.361Z"
+  }
+}

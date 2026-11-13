@@ -1,0 +1,20 @@
+{
+  "id": "blk-l04-game",
+  "type": "mini-game@1",
+  "subject": "social-science",
+  "grade": 9,
+  "chapterId": "problem-of-choice",
+  "topicId": "household-vs-nation",
+  "board": "CBSE",
+  "src": "simulations/L04/WhoChoosesGame.js",
+  "objective": {
+    "en": "Each card is a choice. Who makes it: a person or family, an enterprise (a farm, a shop or a firm), or the government? Sort all six cards."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

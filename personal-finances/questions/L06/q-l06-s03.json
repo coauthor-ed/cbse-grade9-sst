@@ -1,0 +1,62 @@
+{
+  "id": "q-l06-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Two families each borrow ₹50,000. One pays for a daughter's nursing course; the other buys a new phone and a television. Which statement best explains why only one of these loans is called productive?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Only the nursing loan is productive, because the qualification can raise the daughter's income for years and help repay what was borrowed."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Only the nursing loan is productive, because banks charge a lower rate of interest on a course than on a phone or a television."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Both loans are productive, because a phone and a television are used every day by the whole family."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Neither loan is productive, because any loan that has to be repaid leaves a family in debt."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Borrowing is productive when what it buys can earn later. The nursing qualification can raise the daughter's income and help pay the loan back. The phone and television lose value while the payments continue, so that loan is a burden on future income, not a help."
+  },
+  "hints": [
+    {
+      "en": "Ask what each family still has after two years: a qualification that earns, or goods that have lost most of their value?"
+    },
+    {
+      "en": "The rate of interest is not the test. What was the money spent on?"
+    }
+  ],
+  "tags": [
+    "borrowing",
+    "debt",
+    "productive-loan"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

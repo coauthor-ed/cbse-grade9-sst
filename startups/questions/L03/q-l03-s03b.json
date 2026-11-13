@@ -1,0 +1,70 @@
+{
+  "id": "q-l03-s03b",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The book gives examples of customers a bakery might serve. Match each group to the goods the book pairs with it."
+  },
+  "categories": [
+    {
+      "id": "cat-children",
+      "label": {
+        "en": "Children"
+      }
+    },
+    {
+      "id": "cat-young",
+      "label": {
+        "en": "Young adults"
+      }
+    },
+    {
+      "id": "cat-families",
+      "label": {
+        "en": "Families"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Cakes and cupcakes"
+      },
+      "correctCategoryId": "cat-children"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Savoury snacks"
+      },
+      "correctCategoryId": "cat-young"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Everyday bread"
+      },
+      "correctCategoryId": "cat-families"
+    }
+  ],
+  "explanation": {
+    "en": "The book's examples are cakes and cupcakes for children, savoury snacks for young adults, and everyday breads for families. Choosing the customers first tells you what to bake."
+  },
+  "hints": [
+    {
+      "en": "Think of what a family buys every day, and what a child would pick as a treat."
+    }
+  ],
+  "tags": [
+    "business-plan",
+    "customers"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

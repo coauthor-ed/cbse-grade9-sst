@@ -1,0 +1,81 @@
+{
+  "id": "problem-of-choice-grade9",
+  "moduleId": "problem-of-choice-grade9",
+  "type": "module",
+  "authorId": "problem-of-choice-grade9",
+  "title": {
+    "en": "Building Blocks in Economics: The Problem of Choice"
+  },
+  "curriculumAlignment": "core",
+  "chapterId": "iest1-ch8",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "scarcity",
+      "needs-and-wants",
+      "opportunity-cost",
+      "production-possibility-curve",
+      "key-economic-questions",
+      "economic-systems"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "Why can't everyone get everything?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "One plot, two crops: what does a choice really cost?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "Can one graph hold every possible farm?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "What does running a country share with running a home?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "Three questions every economy must answer"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "Hands or machines: who should stitch your shirt?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "Who decides what gets made — and at what price?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-08.json",
+      "title": {
+        "en": "Is any economy purely planned or purely free?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-09.json",
+      "title": {
+        "en": "Putting the pieces together"
+      }
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedAt": "2026-08-25T21:18:38.350Z"
+  }
+}

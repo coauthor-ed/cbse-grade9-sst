@@ -1,0 +1,67 @@
+{
+  "id": "les-02",
+  "lessonId": "les-02",
+  "type": "lesson",
+  "title": {
+    "en": "Market demand, and what else changes it"
+  },
+  "chapterId": "iest1-ch9",
+  "topicIds": [
+    "market-demand",
+    "demand-curve"
+  ],
+  "blocks": [
+    {
+      "blockRef": "blocks/L02/blk-l02-s01.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s02.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s01.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s03.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s04.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s02.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-a01.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s05.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s05.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s06.json"
+    },
+    {
+      "blockRef": "questions/L02/q-l02-s03.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-y01.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s07.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s08.json"
+    },
+    {
+      "blockRef": "blocks/L02/blk-l02-s09.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:52.209Z",
+    "reviewedBy": "review-bar"
+  }
+}

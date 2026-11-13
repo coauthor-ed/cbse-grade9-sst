@@ -1,0 +1,20 @@
+{
+  "id": "blk-l03-game",
+  "type": "mini-game@1",
+  "subject": "social-science",
+  "grade": 9,
+  "chapterId": "problem-of-choice",
+  "topicId": "production-possibility-curve",
+  "board": "CBSE",
+  "src": "simulations/L03/ReadCurveGame.js",
+  "objective": {
+    "en": "Move from C to D on the farmer's curve. How much wheat does the farmer give up for the 25 kg of barley gained? Read it from the curve."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

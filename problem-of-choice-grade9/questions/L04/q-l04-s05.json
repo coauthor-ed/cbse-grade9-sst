@@ -1,0 +1,96 @@
+{
+  "id": "q-l04-s05",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Each task below is work for one kind of economist. Sort each task into the right kind of work."
+  },
+  "categories": [
+    {
+      "id": "policy",
+      "label": {
+        "en": "Policy-making"
+      }
+    },
+    {
+      "id": "finance",
+      "label": {
+        "en": "Finance"
+      }
+    },
+    {
+      "id": "research",
+      "label": {
+        "en": "Research and education"
+      }
+    },
+    {
+      "id": "consulting",
+      "label": {
+        "en": "Business consulting"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-gst",
+      "text": {
+        "en": "Suggesting which goods a new tax should leave out, to help family budgets"
+      },
+      "correctCategoryId": "policy"
+    },
+    {
+      "id": "chip-welfare",
+      "text": {
+        "en": "Advising the government how much to spend on a welfare scheme for farmers"
+      },
+      "correctCategoryId": "policy"
+    },
+    {
+      "id": "chip-invest",
+      "text": {
+        "en": "Advising a family whether to keep its savings in a bank or invest them"
+      },
+      "correctCategoryId": "finance"
+    },
+    {
+      "id": "chip-column",
+      "text": {
+        "en": "Teaching a college class on how prices are set"
+      },
+      "correctCategoryId": "research"
+    },
+    {
+      "id": "chip-survey",
+      "text": {
+        "en": "Studying twenty years of survey data on village incomes"
+      },
+      "correctCategoryId": "research"
+    },
+    {
+      "id": "chip-factory",
+      "text": {
+        "en": "Helping a shoe factory plan to grow without wasting material"
+      },
+      "correctCategoryId": "consulting"
+    }
+  ],
+  "explanation": {
+    "en": "Policy-making guides governments on taxes and welfare spending. Finance advises people on where to invest. Research and education studies trends and teaches others. Business consulting helps firms plan growth or work better. In all four, economists compare choices using data."
+  },
+  "hints": [
+    {
+      "en": "Ask who the work is for: a government, someone with money to invest, students and the public, or a firm."
+    }
+  ],
+  "tags": [
+    "economists",
+    "scope-of-work"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.375Z"
+  }
+}

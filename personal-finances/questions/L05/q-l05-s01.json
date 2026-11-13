@@ -1,0 +1,62 @@
+{
+  "id": "q-l05-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Aarav's ₹50,000 is due for a college fee in three months, yet his uncle advises him to keep it in shares. Which statement best explains why that advice is a poor match for this money?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The return on shares is too small over three months, so the money would not grow enough to be worth the trouble."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Shares must be held for at least five years, so he would not be allowed to sell them on the day the fee is due."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Share prices can end far above or far below where they started, and three months is too short a time horizon for a fall to recover before the fee is paid."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Shares carry almost no risk, so there is nothing to gain by waiting the three months before selling them."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The length of time the money can stay invested decides how much a fall matters. Three months leaves no room to wait for prices to recover, so the fee needs a place that keeps the rupees safe and lets him withdraw on the day it has to be paid."
+  },
+  "hints": [
+    {
+      "en": "Ask the four questions in order: how long is the money invested, how safe does it need to be, what return is possible, and how easily can it be turned into cash?"
+    },
+    {
+      "en": "The fee date does not move. What does that say about the time horizon, whatever the return has been in other decades?"
+    }
+  ],
+  "tags": [
+    "time-horizon",
+    "risk",
+    "liquidity"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

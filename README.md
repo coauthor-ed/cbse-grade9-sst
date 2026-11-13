@@ -1,4 +1,4 @@
-# CBSE Grade 9 Social Science
+# Class 9 Social Science
 
 Courses for [CoAuthor](https://coauthor-ed.github.io/coauthor/), an offline-capable learning app.
 
@@ -10,6 +10,10 @@ Courses for [CoAuthor](https://coauthor-ed.github.io/coauthor/), an offline-capa
 - Shaping of the Earth's Surface (`earth-surface`)
 - Oceans and Life (`oceans-and-life`)
 - State and Society up to 1000 CE (`state-society`)
+- Building Blocks in Economics: The Problem of Choice (`problem-of-choice-grade9`)
+- The Price Puzzle: What Drives the Market (`price-puzzle`)
+- Managing Your Personal Finances (`personal-finances`)
+- From Ideas to Startups (`startups`)
 
 ## Add these courses
 1. Open the app: https://coauthor-ed.github.io/coauthor/

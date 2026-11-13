@@ -1,0 +1,92 @@
+{
+  "id": "q-l02-s04",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Lijjat grew in stages. Put each fact under the right time."
+  },
+  "categories": [
+    {
+      "id": "cat-1959",
+      "label": {
+        "en": "1959: the start"
+      }
+    },
+    {
+      "id": "cat-1980s",
+      "label": {
+        "en": "1980s and 90s"
+      }
+    },
+    {
+      "id": "cat-2023",
+      "label": {
+        "en": "By 2023"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Seven homemakers meet on a chawl rooftop"
+      },
+      "correctCategoryId": "cat-1959"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "₹80, borrowed equipment and a recipe"
+      },
+      "correctCategoryId": "cat-1959"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Flour, masalas and soaps are added"
+      },
+      "correctCategoryId": "cat-1980s"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Exports begin and turnover crosses ₹100 crore"
+      },
+      "correctCategoryId": "cat-1980s"
+    },
+    {
+      "id": "chip-5",
+      "text": {
+        "en": "Over 45,000 women members in 83 branches"
+      },
+      "correctCategoryId": "cat-2023"
+    },
+    {
+      "id": "chip-6",
+      "text": {
+        "en": "A turnover of ₹1,600 crore a year"
+      },
+      "correctCategoryId": "cat-2023"
+    }
+  ],
+  "explanation": {
+    "en": "Lijjat began in 1959 with seven women, ₹80, borrowed equipment and a recipe. In the 1980s and 90s it added flour, masalas and soaps, began exports and crossed ₹100 crore. By 2023 it had over 45,000 members, 83 branches and ₹1,600 crore a year."
+  },
+  "hints": [
+    {
+      "en": "The business grew from ₹80 to ₹100 crore to ₹1,600 crore."
+    }
+  ],
+  "tags": [
+    "lijjat",
+    "cooperative",
+    "timeline"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "les-01",
+  "lessonId": "les-01",
+  "type": "lesson",
+  "title": {
+    "en": "Why can't everyone get everything?"
+  },
+  "chapterId": "iest1-ch8",
+  "topicIds": [
+    "scarce-resources",
+    "resource-allocation"
+  ],
+  "blocks": [
+    {
+      "blockRef": "blocks/L01/blk-l01-s00.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s02.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s03.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s04.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s06.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-game.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s07.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s07b.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s08.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s09.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.353Z"
+  }
+}

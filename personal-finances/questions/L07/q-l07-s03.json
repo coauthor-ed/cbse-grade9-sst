@@ -1,0 +1,34 @@
+{
+  "id": "q-l07-s03",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A taxpayer's taxable income for the year is ₹9,50,000. Using the slabs of the new tax regime, how much income tax is due for the year, in rupees?"
+  },
+  "expectedValue": 35000,
+  "tolerance": 0,
+  "unit": "rupees",
+  "explanation": {
+    "en": "The first ₹4,00,000 is taxed at 0%, so ₹0. The next ₹4,00,000 is taxed at 5%, which is ₹20,000. The remaining ₹1,50,000 falls in the 10% slab, which is ₹15,000. The three amounts add to ₹35,000, and the income above ₹8,00,000 is never charged at one flat rate."
+  },
+  "hints": [
+    {
+      "en": "Break ₹9,50,000 into the portions the slabs set: up to ₹4,00,000, then the next ₹4,00,000, then whatever is left."
+    },
+    {
+      "en": "Charge each portion at its own slab rate, then add the three amounts."
+    }
+  ],
+  "tags": [
+    "tax-slab",
+    "income-tax",
+    "arithmetic"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

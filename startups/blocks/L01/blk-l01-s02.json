@@ -1,0 +1,36 @@
+{
+  "id": "blk-l01-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Stall A, because it sold 200 glasses and Stall B sold only 80."
+    },
+    {
+      "id": "b",
+      "text": "Stall B, because each of its glasses sells for more than it costs."
+    },
+    {
+      "id": "c",
+      "text": "Both the same, because Stall A's crowd makes up for its low price."
+    },
+    {
+      "id": "d",
+      "text": "Neither, because both stalls spent more than they collected."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L01/TwoStallsSetupScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

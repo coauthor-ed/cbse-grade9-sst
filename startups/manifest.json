@@ -1,0 +1,86 @@
+{
+  "bundleId": "startups",
+  "title": {
+    "en": "From Ideas to Startups"
+  },
+  "subject": "social-science",
+  "grade": 9,
+  "modules": [
+    "modules/startups.json"
+  ],
+  "lessons": [
+    "lessons/les-01.json",
+    "lessons/les-02.json",
+    "lessons/les-03.json",
+    "lessons/les-04.json",
+    "lessons/les-05.json",
+    "lessons/les-06.json"
+  ],
+  "tests": [],
+  "banks": [],
+  "glossary": "glossary.json",
+  "generatedAt": "2026-10-30T19:13:20.711Z",
+  "schemaVersion": 1,
+  "audience": "school",
+  "board": "CBSE",
+  "subjects": [
+    "social-science"
+  ],
+  "languages": [
+    "en"
+  ],
+  "repository": {
+    "url": "https://github.com/coauthor-ed/cbse-grade9-sst",
+    "issues": "https://github.com/coauthor-ed/cbse-grade9-sst/issues"
+  },
+  "license": "CC-BY-4.0",
+  "version": "1.0.0",
+  "updatedAt": "2026-11-13",
+  "features": {
+    "story": false,
+    "games": true,
+    "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "startups",
+        "title": "From Ideas to Startups",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "Is a good recipe enough?"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "Something from almost nothing"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "A road map before opening day"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "Four pillars"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "Is the bakery making money?"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "Old roots, new startups"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 6,
+    "narrated": false,
+    "chapterIds": [
+      "kebs1-ch9"
+    ]
+  },
+  "sizeMB": 0.9,
+  "estHours": 3
+}

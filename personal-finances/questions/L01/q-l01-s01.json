@@ -1,0 +1,58 @@
+{
+  "id": "q-l01-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Meera's ₹2,000 Diwali gift is gone after three weeks, and nothing she bought cost more than ₹250. Which explanation fits what happened?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "One purchase took most of the money, and a few small payments used up the rest."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Many small payments added up to the whole gift, and none of them felt big."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Small payments cannot use up ₹2,000, so the money must still be in the house."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "She spent only on wants, and a want always costs more than a need."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Twelve payments between ₹60 and ₹250 add up to ₹2,000. Each one was small, so none of them felt like spending much. A plan made before the money is spent shows where it will go."
+  },
+  "hints": [
+    {
+      "en": "Add up what she spent in one week, then think about three weeks."
+    }
+  ],
+  "tags": [
+    "personal-finance",
+    "spending"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

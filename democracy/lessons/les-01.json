@@ -5,6 +5,10 @@
   "title": {
     "en": "Why build a voting booth for one voter?"
   },
+  "chapterId": "iest1-ch6",
+  "topicIds": [
+    "evolution-of-democracy"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L01/blk-l01-s01.json"

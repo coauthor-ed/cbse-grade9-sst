@@ -1,0 +1,18 @@
+{
+  "id": "blk-l04-s04",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Where Economists Work\n\n<!-- STEP id=\"policy\" -->\nEconomists compare the choices, what each one costs, and what may happen next. They work in many places. In **policy-making**, they guide governments on taxes and welfare spending. In **finance**, they advise people on where to invest.\n\n<!-- STEP id=\"research\" -->\nIn **research and education**, they study economic trends and teach others. In **business consulting**, they help firms plan growth or work better. They use data from government reports and from companies' financial statements."
+  },
+  "simulation": {
+    "src": "simulations/L04/EconomistWorkScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.374Z"
+  }
+}

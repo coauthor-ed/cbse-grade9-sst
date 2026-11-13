@@ -1,0 +1,62 @@
+{
+  "id": "q-l03-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Bhavisha and Dhruv each paid ₹1,000 at the end of every year into a scheme that pays 7% a year, and both stopped at age 65. Bhavisha started at 25 and paid in ₹40,000 in all; Dhruv started at 35 and paid in ₹30,000. At 65 Bhavisha has ₹1,99,635 and Dhruv has ₹94,461. Why is Dhruv's amount under half of hers, rather than about three quarters?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A smaller balance earns a lower rate of interest, so Dhruv's scheme paid him less each year than Bhavisha's scheme paid her."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Dhruv's last deposits had only a few years to grow, so his total should be 75% of hers and the printed amounts must be rounded."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Interest left in the account earns interest of its own, so Bhavisha's ten extra years worked on her earnings and not only on her deposits."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Bhavisha paid in ₹10,000 more than Dhruv, and that ₹10,000 alone, without any interest, makes up the ₹1,05,174 gap between them."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "The rate is the same for both cousins, so the difference cannot come from a lower rate, and each of Dhruv's deposits really does earn less time than Bhavisha's. The size of the gap is what settles it: the two sets of deposits differ by ₹10,000, but the final amounts differ by ₹1,05,174. Only interest that stays in the account and earns interest itself can make a ₹10,000 difference in deposits turn into a ₹1,05,174 difference in the end amount. That is why ten extra years are worth more than the last ten deposits: they act on everything the account has already earned."
+  },
+  "hints": [
+    {
+      "en": "Compare two numbers: the difference between their deposits, and the difference between their final amounts."
+    },
+    {
+      "en": "The deposits differ by ₹10,000. Work out ₹1,99,635 − ₹94,461 and see how far apart those two numbers are."
+    }
+  ],
+  "tags": [
+    "compounding",
+    "early-start",
+    "interest-on-interest"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

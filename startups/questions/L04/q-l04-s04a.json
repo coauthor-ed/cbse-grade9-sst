@@ -1,0 +1,60 @@
+{
+  "id": "q-l04-s04a",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Two helpers at ABC Bakery keep arguing about who should wash the trays, and the work slows down. Which functional area should deal with this?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Human resources"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Management and operations"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Finance and accounting"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Marketing and sales"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-1",
+  "explanation": {
+    "en": "Settling quarrels at work is one of the jobs of human resources. A team that works well together helps the business grow."
+  },
+  "hints": [
+    {
+      "en": "The problem is between two people who work at the bakery."
+    }
+  ],
+  "tags": [
+    "human-resources",
+    "training",
+    "hygiene",
+    "quality"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

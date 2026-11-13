@@ -5,6 +5,10 @@
   "title": {
     "en": "How do votes become seats?"
   },
+  "chapterId": "iest1-ch7",
+  "topicIds": [
+    "electoral-systems-choice"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L02/blk-l02-s01.json"

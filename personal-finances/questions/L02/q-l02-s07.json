@@ -1,0 +1,62 @@
+{
+  "id": "q-l02-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Sameer's ₹500 earned ₹40 in its first year at 8% a year. He leaves the whole ₹540 in for a second year at the same rate. How much interest does the second year add?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "₹40, because the rate has not changed and the money he put in is still ₹500."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "₹43.20, because the second year's 8% is worked out on ₹540 and not on ₹500."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "₹80, because two years at 8% on the same ₹500 must give ₹40 in each of the years."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "₹3.20, because that is what the second year adds over and above the first year's interest."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The second year starts from the ₹540 that was in the scheme after year one, so 8% of ₹540 = ₹43.20. The ₹3.20 is the difference between the two years' interest - the amount that year one's ₹40 earned in year two - not the second year's interest itself. This is why interest that stays in keeps growing."
+  },
+  "hints": [
+    {
+      "en": "Ask what amount the 8% is calculated on at the start of the second year."
+    },
+    {
+      "en": "8% of ₹540 is more than 8% of ₹500. The extra is the first year's interest earning something itself."
+    }
+  ],
+  "tags": [
+    "interest",
+    "purchasing-power",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "q-l07-s05",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "prompt": {
+    "en": "Explain how a market economy answers the question 'what to produce'. Include the role of demand and supply, and what the government does instead of setting production targets."
+  },
+  "rubric": [
+    {
+      "id": "demand-supply-signal",
+      "label": {
+        "en": "Producers follow demand and supply: prices show what people want"
+      },
+      "level1": {
+        "en": "When umbrellas sell out in the rain, who decides that more should be made, and how do they know?"
+      },
+      "clue": {
+        "en": "No official announces anything. Sellers see shelves empty and buyers paying a little more."
+      },
+      "level2Template": {
+        "en": "Producers watch ___ and supply: when prices rise and shelves empty, they know which goods to make more of."
+      },
+      "accepted": [
+        "demand"
+      ]
+    },
+    {
+      "id": "profit-motive",
+      "label": {
+        "en": "The chance of profit pulls producers towards goods people want"
+      },
+      "level1": {
+        "en": "Why does a seller bother to notice what buyers want?"
+      },
+      "clue": {
+        "en": "The seller who brings in more umbrellas first sells the most and earns the most."
+      },
+      "level2Template": {
+        "en": "Selling goods that people want earns ___, so producers make those goods without being told to."
+      },
+      "accepted": [
+        "a profit",
+        "profit",
+        "profits"
+      ]
+    },
+    {
+      "id": "govt-referee",
+      "label": {
+        "en": "The government acts like a referee: law and order and safety, not prices or targets"
+      },
+      "level1": {
+        "en": "Is the government missing from this market? What does it still do?"
+      },
+      "clue": {
+        "en": "Think of a football referee: he does not score goals, but he makes sure the rules are followed."
+      },
+      "level2Template": {
+        "en": "The government ensures safety and ___, but leaves prices and production to the market."
+      },
+      "accepted": [
+        "law and order",
+        "order"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Introduction"
+      },
+      "text": {
+        "en": "In a market economy, many private buyers and sellers answer what to produce, not one central office."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Role of demand and supply"
+      },
+      "text": {
+        "en": "Producers watch ___ and supply: when prices rise and shelves empty, they know which goods to make more of."
+      },
+      "rubricId": "demand-supply-signal"
+    },
+    {
+      "eyebrow": {
+        "en": "Profit motive"
+      },
+      "text": {
+        "en": "Selling goods that people want earns ___, so producers make those goods without being told to."
+      },
+      "rubricId": "profit-motive"
+    },
+    {
+      "eyebrow": {
+        "en": "Role of the government"
+      },
+      "text": {
+        "en": "The government ensures safety and ___, but leaves prices and production to the market."
+      },
+      "rubricId": "govt-referee"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "market-economy",
+    "what-to-produce",
+    "coach"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.381Z"
+  }
+}

@@ -23,6 +23,62 @@
   "banks": [],
   "generatedAt": "2026-10-24T13:34:59.144Z",
   "glossary": "glossary.json",
+  "blurb": {
+    "en": "The sea floor, waves, tides and currents, and how people use and protect the sea."
+  },
+  "highlights": [
+    {
+      "en": "Explore the shape of the sea floor"
+    },
+    {
+      "en": "See why the sea rises and falls twice a day"
+    },
+    {
+      "en": "Follow a cyclone or tsunami warning as it reaches people"
+    },
+    {
+      "en": "Learn who has which rights in the sea"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "Everest would fit in the Mariana Trench"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "High tide helps ships into harbour"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "Only the near boat gets the warning"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "Resources from the sea"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "Why a wave breaks"
+      }
+    }
+  ],
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "cover": "showcase/cover.jpg",
+  "estHours": 4.5,
+  "sizeMB": 0.8,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -38,10 +94,64 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "oceans-and-life",
+        "title": "Oceans and Life",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "What does the sea floor look like?"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "What is a wave, and how do waves shape the coast?"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "Why does the sea rise and fall twice a day?"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "What are ocean currents, and what do they do?"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "How are people warned of a cyclone?"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "How does a tsunami warning reach people in time?"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "What does the sea give us, and how do we keep it?"
+          },
+          {
+            "ref": "lessons/les-08.json",
+            "title": "Who has which rights in the sea?"
+          },
+          {
+            "ref": "lessons/les-09.json",
+            "title": "What rules keep the open sea safe?"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 9,
+    "narrated": false,
+    "chapterIds": [
+      "kegy2-ch12",
+      "kegy2-ch13",
+      "kegy1-ch6"
+    ]
   }
 }

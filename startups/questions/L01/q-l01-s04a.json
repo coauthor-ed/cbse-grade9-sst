@@ -1,0 +1,59 @@
+{
+  "id": "q-l01-s04a",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Two stalls sell handmade greeting cards. Stall X sells 100 cards at ₹10 each, and each card costs ₹8 to make. Stall Y sells 40 cards at ₹25 each, and each card costs ₹10 to make. Which statement is true?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Stall Y made ₹400 more profit, though both collected ₹1,000."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Both did equally well, because both stalls collected ₹1,000."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Stall X did better, because it sold more than twice as many cards."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Stall X did better, because each of its cards cost less to make."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-1",
+  "explanation": {
+    "en": "Both stalls collected ₹1,000. Stall X spent 100 × ₹8 = ₹800, so its profit was ₹200. Stall Y spent 40 × ₹10 = ₹400, so its profit was ₹600. Stall Y made ₹400 more."
+  },
+  "hints": [
+    {
+      "en": "Work out the money collected and the costs for each stall before you compare them."
+    }
+  ],
+  "tags": [
+    "profit",
+    "revenue",
+    "costs"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

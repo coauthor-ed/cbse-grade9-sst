@@ -1,0 +1,18 @@
+{
+  "id": "blk-l05-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# From Scarcity to Three Questions\n\n<!-- STEP id=\"meet\" -->\nWants are unlimited. Resources are limited. When the two meet, we get **scarcity**: there is not enough to satisfy every want.\n\n<!-- STEP id=\"choices\" -->\nScarcity forces us to choose. Rich countries and poor countries both face it, and so do rich and poor families.\n\n<!-- STEP id=\"branch\" -->\nSo every economy must answer three key questions: **what** to produce, **how** to produce it, and **for whom** to produce it."
+  },
+  "simulation": {
+    "src": "simulations/L05/ScarcityTreeScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.376Z"
+  }
+}

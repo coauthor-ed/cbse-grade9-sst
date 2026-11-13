@@ -1,0 +1,62 @@
+{
+  "id": "q-l05-s03",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A farmer keeps ₹20,000 aside for seeds and medicine, and may need it in any week of the year. Which place fits this money's time horizon and its need for cash?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A fifteen-year deposit, because a longer period earns the highest return of the four places."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Shares, because they can always be sold on the market on any morning the money is wanted."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A five-year bond, because it pays a steady interest every year until the money is needed."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A savings account, because it can be turned into cash on the same day the need arises."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Money that may be needed in any week has a time horizon of nearly zero, so liquidity decides the choice. A savings account gives cash the same day, while a deposit, a bond or shares may cost time or value when sold early."
+  },
+  "hints": [
+    {
+      "en": "Start with the horizon, not the return. How much warning will the farmer have before he needs this money?"
+    },
+    {
+      "en": "Which of the four places gives him the full amount in cash on the day he asks for it, with no price to negotiate?"
+    }
+  ],
+  "tags": [
+    "liquidity",
+    "time-horizon",
+    "savings-account"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

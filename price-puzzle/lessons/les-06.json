@@ -1,0 +1,69 @@
+{
+  "id": "les-06",
+  "lessonId": "les-06",
+  "type": "lesson",
+  "title": {
+    "en": "The government and the market"
+  },
+  "chapterId": "iest1-ch9",
+  "blocks": [
+    {
+      "blockRef": "blocks/L06/blk-l06-s01.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s02.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s03.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s03.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s04.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s04.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s10.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s05.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s05.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-y01.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s06.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s06.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-a01.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s07.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s08.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-y02.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s09.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:08.672Z",
+    "reviewedBy": "review-bar"
+  }
+}

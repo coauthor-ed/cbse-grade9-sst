@@ -1,0 +1,15 @@
+{
+  "id": "blk-l05-s09",
+  "type": "mini-game@1",
+  "src": "simulations/L05/BalanceGameScene.js",
+  "objective": {
+    "en": "For each price, choose shortage, surplus or equilibrium. Then tap the point where the two curves cross. Win when all three prices and the point are right."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:04.705Z",
+    "reviewedBy": "review-bar"
+  }
+}

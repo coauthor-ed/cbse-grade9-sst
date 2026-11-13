@@ -1,0 +1,18 @@
+{
+  "id": "blk-l07-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Planned Economy\n\n<!-- STEP id=\"plan\" -->\nIn a **planned economy**, a central planning authority of the government, such as a planning commission, decides what and how much to produce, how to produce it, who gets it, and at what price. The government owns most land, factories, banks and transport. Firms need permits and licences to produce.\n\n<!-- STEP id=\"demand\" -->\nFirms follow the plan's targets, not what buyers want. If buyers suddenly want more umbrellas, nothing changes until the next plan, so the shops run out. With few rivals, firms have little reason to improve quality or try new ideas. Examples are the former Soviet Union, North Korea and Cuba."
+  },
+  "simulation": {
+    "src": "simulations/L07/PlanSheetScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.381Z"
+  }
+}

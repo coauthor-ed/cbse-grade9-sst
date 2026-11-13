@@ -1,0 +1,57 @@
+{
+  "id": "q-l02-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "At ₹150 per kg, Srivalli buys 1 kg, Alex buys 2 kg and Israt buys 3 kg. A fourth buyer comes to the same market and buys 4 kg at that price. What is the market demand at ₹150 per kg now?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "6 kg, the same as in the table, because the price has not changed."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "2.5 kg, the average amount that one of the four buyers buys."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "4 kg, because the newest buyer buys the most."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "10 kg, because we add what all four buyers buy at that price."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Market demand adds what every buyer wants at the same price: 1 + 2 + 3 + 4 = 10 kg. A new buyer adds to the total even though the price stays the same. An average describes one typical buyer, not the whole market."
+  },
+  "hints": [
+    {
+      "en": "Stay at one price, and add what every buyer buys there."
+    }
+  ],
+  "tags": [
+    "market-demand"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:52.209Z",
+    "reviewedBy": "review-bar"
+  }
+}

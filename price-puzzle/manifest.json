@@ -1,0 +1,86 @@
+{
+  "bundleId": "price-puzzle",
+  "title": {
+    "en": "The Price Puzzle: What Drives the Market"
+  },
+  "subject": "social-science",
+  "grade": 9,
+  "modules": [
+    "modules/price-puzzle.json"
+  ],
+  "lessons": [
+    "lessons/les-01.json",
+    "lessons/les-02.json",
+    "lessons/les-03.json",
+    "lessons/les-04.json",
+    "lessons/les-05.json",
+    "lessons/les-06.json"
+  ],
+  "tests": [],
+  "banks": [],
+  "generatedAt": "2026-10-24T13:35:46.969Z",
+  "glossary": "glossary.json",
+  "schemaVersion": 1,
+  "audience": "school",
+  "board": "CBSE",
+  "subjects": [
+    "social-science"
+  ],
+  "languages": [
+    "en"
+  ],
+  "repository": {
+    "url": "https://github.com/coauthor-ed/cbse-grade9-sst",
+    "issues": "https://github.com/coauthor-ed/cbse-grade9-sst/issues"
+  },
+  "license": "CC-BY-4.0",
+  "version": "1.0.0",
+  "updatedAt": "2026-11-13",
+  "features": {
+    "story": false,
+    "games": true,
+    "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "price-puzzle",
+        "title": "The Price Puzzle: What Drives the Market",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "Demand: one buyer, one curve"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "Market demand, and what else changes it"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "Supply: from one seller to the market"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "What else changes supply"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "Where demand and supply meet: equilibrium"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "The government and the market"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 6,
+    "narrated": false,
+    "chapterIds": [
+      "iest1-ch9"
+    ]
+  },
+  "sizeMB": 1.5,
+  "estHours": 2.5
+}

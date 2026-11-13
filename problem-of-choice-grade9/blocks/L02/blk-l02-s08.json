@@ -1,0 +1,18 @@
+{
+  "id": "blk-l02-s08",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Now or Later\n\n<!-- STEP id=\"envelopes\" -->\nMeera has ₹1,000. She can buy football shoes now, or save the money for a tennis racket later.\n\n<!-- STEP id=\"time\" -->\nIf she buys the shoes, she has the shoes but no money for the racket. If she saves, she keeps her ₹1,000 but has no new shoes for now.\n\n**Each choice gives up the other. The racket is the opportunity cost of the shoes.**"
+  },
+  "simulation": {
+    "src": "simulations/L02/NowOrLaterScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.367Z"
+  }
+}

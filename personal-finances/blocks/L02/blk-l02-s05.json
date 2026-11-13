@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s05",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-s05.md",
+  "simulation": {
+    "src": "simulations/L02/HouseholdSplitScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

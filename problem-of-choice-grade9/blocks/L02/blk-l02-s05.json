@@ -1,0 +1,18 @@
+{
+  "id": "blk-l02-s05",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The Farmer's Plot\n\n<!-- STEP id=\"plot\" -->\nA made-up example. A farmer has one plot in 4 strips. This season each strip can grow wheat or barley, not both.\n\n<!-- STEP id=\"tradeoff\" -->\nTap a strip to switch it from wheat to barley. The farmer switches the strip that grows the least wheat first. The farmer gains barley and loses the wheat that strip would have grown.\n\n**More barley is paid for in wheat. That wheat is the opportunity cost.**"
+  },
+  "simulation": {
+    "src": "simulations/L02/FarmPlotScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.366Z"
+  }
+}

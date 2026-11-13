@@ -5,6 +5,11 @@
   "title": {
     "en": "What does the sea floor look like?"
   },
+  "chapterId": "kegy2-ch12",
+  "topicIds": [
+    "ocean-submarine-relief",
+    "continental-shelf-features"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L01/blk-l01-s01.json"

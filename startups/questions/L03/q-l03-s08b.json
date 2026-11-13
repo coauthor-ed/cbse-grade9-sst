@@ -1,0 +1,43 @@
+{
+  "id": "q-l03-s08b",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "assertion": {
+    "en": "A business plan should be changed when the facts around the business change."
+  },
+  "reason": {
+    "en": "After a business opens, things such as the cost of raw materials, rival shops and what customers like can change."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both are true, and the Reason explains the Assertion: the plan is changed because these things change."
+    },
+    "c": {
+      "en": "The Reason is true: raw materials can get costlier, new rivals can open, and customers' tastes can change."
+    },
+    "d": {
+      "en": "The Assertion is true: a business plan guides the business while it runs, so it is changed when needed."
+    }
+  },
+  "explanation": {
+    "en": "Both are true, and the Reason explains the Assertion. Costs, rivals and customers' tastes change after opening day, so the plan is changed to match them."
+  },
+  "hints": [
+    {
+      "en": "Think of what happened when a big rival opened across the road from ABC Bakery."
+    }
+  ],
+  "tags": [
+    "business-plan",
+    "adaptation",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

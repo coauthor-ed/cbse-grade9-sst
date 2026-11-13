@@ -1,0 +1,18 @@
+{
+  "id": "blk-l05-s08",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Think About It\n\n<!-- STEP id=\"split\" -->\nThe government's budget is limited. Should it give more to **health and education**, or to **defence and space**? Move the budget from one side to the other and see what each side can do.\n\n<!-- STEP id=\"cost\" -->\nEvery split has a cost. Whichever side gets more, what the other side could have done with that money is the opportunity cost. There is no single right answer. What would you choose, and what would you give up?"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.378Z"
+  },
+  "simulation": {
+    "src": "simulations/L05/BudgetSplitScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0
+}

@@ -1,0 +1,57 @@
+{
+  "id": "q-l06-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A neighbourhood needs a park. If each family pays ₹5,000, it can be built, but many families think, \"If others pay, I can use the park without paying.\" If the park is left to the families alone, what is the most likely result?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Every family pays at once, because everyone needs the park."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A private company builds the park and earns a large profit from it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Not enough money is collected, and the park is never built."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "The park is built, but only rich families are allowed to use it."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Each family hopes that others will pay, so not enough money is collected and the park is never built. This is why the government usually provides or pays for public goods like parks."
+  },
+  "hints": [
+    {
+      "en": "What does each family wait for before it pays?"
+    }
+  ],
+  "tags": [
+    "public-goods"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:08.672Z",
+    "reviewedBy": "review-bar"
+  }
+}

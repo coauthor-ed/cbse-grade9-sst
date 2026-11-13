@@ -5,6 +5,7 @@
   "title": {
     "en": "Who belongs where"
   },
+  "chapterId": "iest1-ch5",
   "blocks": [
     {
       "blockRef": "blocks/L08/blk-l08-s01.json"

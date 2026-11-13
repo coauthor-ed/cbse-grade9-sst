@@ -1,0 +1,134 @@
+{
+  "id": "q-l02-s11",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "prompt": {
+    "en": "Can you think of a resource in your region that is scarce but used wastefully? Identify the resource, describe how it is wasted, and suggest how it could be managed better. (3 marks)"
+  },
+  "rubric": [
+    {
+      "id": "resource-identified",
+      "label": {
+        "en": "Identifies a specific locally relevant scarce resource — water, electricity, fuel, fertile soil, groundwater and similar"
+      },
+      "level1": {
+        "en": "What is one thing your region never seems to have enough of — in summer, or during exams?"
+      },
+      "clue": {
+        "en": "Think of what gets rationed, cut or argued over locally: drinking water, power cuts, petrol prices, vanishing farmland."
+      },
+      "level2Template": {
+        "en": "A scarce resource in my region is ___, which remains in short supply during the summer months."
+      },
+      "accepted": [
+        "water",
+        "groundwater",
+        "electricity",
+        "power",
+        "fuel",
+        "petrol",
+        "fertile soil",
+        "firewood"
+      ]
+    },
+    {
+      "id": "waste-described",
+      "label": {
+        "en": "Describes concrete wasteful use — running taps, idle pumps, lights left on, stubble burning, leaky pipes and similar evidence"
+      },
+      "level1": {
+        "en": "Where have you actually seen this resource slip away unused — at home, on the street, on a farm?"
+      },
+      "clue": {
+        "en": "Look for the small leaks: taps left running, shop shutters open with AC blasting, crop residue burnt instead of returned to the soil."
+      },
+      "level2Template": {
+        "en": "It is wasted when people leave ___ running, when leaks go unrepaired, and when fields receive more water than the crop actually requires."
+      },
+      "accepted": [
+        "taps",
+        "the tap",
+        "taps and showers",
+        "lights and fans"
+      ]
+    },
+    {
+      "id": "management-improved",
+      "label": {
+        "en": "Suggests realistic management steps such as pricing/rationing, repair and maintenance, recycling or reuse, efficient technology, or awareness campaigns"
+      },
+      "level1": {
+        "en": "What single rule, repair or habit would save the most of it first?"
+      },
+      "clue": {
+        "en": "Better management can mean fixing leaks, metering and fair pricing, harvesting rainwater, reusing waste, or simply teaching users why every drop counts."
+      },
+      "level2Template": {
+        "en": "It can be managed better by ___, together with public education in its economical use."
+      },
+      "accepted": [
+        "repairing leaks",
+        "metering supplies",
+        "harvesting rainwater",
+        "recycling used water"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Introduction"
+      },
+      "text": {
+        "en": "A resource can be scarce and still be wasted. Water is a common example in many regions."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Identification of the resource"
+      },
+      "text": {
+        "en": "A scarce resource in my region is ___, which remains in short supply during the summer months."
+      },
+      "rubricId": "resource-identified"
+    },
+    {
+      "eyebrow": {
+        "en": "Nature of wasteful use"
+      },
+      "text": {
+        "en": "It is wasted when people leave ___ running, when leaks go unrepaired, and when fields receive more water than the crop actually requires."
+      },
+      "rubricId": "waste-described"
+    },
+    {
+      "eyebrow": {
+        "en": "Measures for better management"
+      },
+      "text": {
+        "en": "It can be managed better by ___, together with public education in its economical use."
+      },
+      "rubricId": "management-improved"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "scarcity",
+    "resource-management",
+    "review",
+    "3-marks",
+    "coach"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.369Z"
+  }
+}

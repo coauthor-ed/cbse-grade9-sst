@@ -1,0 +1,68 @@
+{
+  "id": "q-l02-s07a",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "What made Mohan Singh Oberoi different when he worked as a hotel desk clerk for ₹50 a month?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "He had a business degree and savings from his rich family."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "He learned every part of hotel work, beyond his own duties."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "He stayed at the desk and did only the work he was given."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "He owned a share of the hotel from his very first month there."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-2",
+  "explanation": {
+    "en": "Oberoi did not stop at his own duties. He learned every part of hotel work, from guest service to billing and administration, and his dedication, curiosity and willingness to act without being told made him different."
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L02/exp-q-l02-s07a.json"
+      }
+    ]
+  },
+  "hints": [
+    {
+      "en": "Think about what Oberoi learned beyond the work at the desk."
+    }
+  ],
+  "tags": [
+    "oberoi",
+    "operations",
+    "management",
+    "hospitality"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "q-l05-s02a",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "What is the difference between a bakery's revenue and its profit?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Revenue is all money from sales; profit is what is left after expenses."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Revenue and profit are two names for the same money from sales."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Revenue is the money left after tax; profit is all the money from sales."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Profit is the money from sales before any of the expenses are paid."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-1",
+  "explanation": {
+    "en": "Revenue is the total money earned from selling goods and services. Profit is what is left after the expenses are taken away: Profit = Total Revenue - Total Expenses."
+  },
+  "hints": [
+    {
+      "en": "ABC Bakery's revenue in March was ₹2,95,000. Was its profit the same?"
+    }
+  ],
+  "tags": [
+    "revenue",
+    "profit",
+    "accounting",
+    "income"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

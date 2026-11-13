@@ -5,6 +5,10 @@
   "title": {
     "en": "Six Bowls, Several Beginnings"
   },
+  "chapterId": "iest1-ch4",
+  "topicIds": [
+    "agriculture-emergence"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L05/blk-l05-s01.json"

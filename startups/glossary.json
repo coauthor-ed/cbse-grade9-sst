@@ -1,0 +1,632 @@
+{
+  "terms": [
+    {
+      "id": "profit",
+      "term": "profit",
+      "match": [
+        "profits"
+      ],
+      "plain": {
+        "en": "money left after costs"
+      },
+      "means": {
+        "en": "The money earned in trade or business after paying the costs of producing and selling goods and services."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "loss",
+      "term": "loss",
+      "match": [
+        "losses"
+      ],
+      "plain": {
+        "en": "spending more than you earn"
+      },
+      "means": {
+        "en": "What a business has when it spends more than it collects."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "entrepreneurship",
+      "term": "entrepreneurship",
+      "plain": {
+        "en": "turning an idea into a business"
+      },
+      "means": {
+        "en": "The process through which a person, or a group of people, turns an idea into a business."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "entrepreneur",
+      "term": "entrepreneur",
+      "match": [
+        "entrepreneurs"
+      ],
+      "plain": {
+        "en": "a person who starts a business"
+      },
+      "means": {
+        "en": "A person who turns an idea into a business: spots a problem, takes risks, makes the key decisions, brings together the factors of production and adds to the welfare of society."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "innovation",
+      "term": "innovation",
+      "plain": {
+        "en": "a new idea put to use"
+      },
+      "means": {
+        "en": "A new product, recipe or way of working, such as nimbu pani with mint."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "jataka-tales",
+      "term": "Jataka Tales",
+      "plain": {
+        "en": "old Indian stories"
+      },
+      "means": {
+        "en": "A collection of old Indian stories. One tells how a poor young man built a fortune starting from a dead mouse."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "chawl",
+      "term": "chawl",
+      "match": [
+        "chawls"
+      ],
+      "plain": {
+        "en": "an old building of small homes"
+      },
+      "means": {
+        "en": "An old building of many floors, with small one-room homes."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "cooperative-society",
+      "term": "cooperative society",
+      "match": [
+        "cooperative"
+      ],
+      "plain": {
+        "en": "a business owned equally by its members"
+      },
+      "means": {
+        "en": "A business in which every member is an equal owner and profits are shared equally, as at Lijjat Papad."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "turnover",
+      "term": "turnover",
+      "plain": {
+        "en": "total money from sales"
+      },
+      "means": {
+        "en": "The total money a business gets from its sales."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "financially-independent",
+      "term": "financially independent",
+      "plain": {
+        "en": "earning and deciding about your own money"
+      },
+      "means": {
+        "en": "Able to earn your own money and decide how to use it."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "mortgage",
+      "term": "mortgage",
+      "plain": {
+        "en": "a loan to buy a house or land"
+      },
+      "means": {
+        "en": "A special type of loan used to buy a house or land, with something valuable kept as security."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "business-plan",
+      "term": "business plan",
+      "match": [
+        "business plans"
+      ],
+      "plain": {
+        "en": "a written plan for a business"
+      },
+      "means": {
+        "en": "A written document that explains the goals of a business and the steps to reach them."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "initial-investment",
+      "term": "initial investment",
+      "plain": {
+        "en": "the money needed to start"
+      },
+      "means": {
+        "en": "The first amount of money a business needs to start, for equipment, rent, salaries, ingredients and packaging."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "accounting",
+      "term": "accounting",
+      "plain": {
+        "en": "keeping records of money"
+      },
+      "means": {
+        "en": "Recording, organising and reporting the money a business takes in and pays out, so the owner knows how it is doing."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "promotion",
+      "term": "promotion",
+      "plain": {
+        "en": "spreading the word"
+      },
+      "means": {
+        "en": "Telling people about a business, for example on social media, on posters, with special offers or in advertisements."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "inventory",
+      "term": "inventory",
+      "plain": {
+        "en": "goods and materials a business holds"
+      },
+      "means": {
+        "en": "The goods, materials and other things a business holds to make products or to sell them."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "functional-areas",
+      "term": "functional areas",
+      "match": [
+        "functional area"
+      ],
+      "plain": {
+        "en": "the four main areas of a business"
+      },
+      "means": {
+        "en": "Management and operations, finance and accounting, human resources, and marketing and sales."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "management",
+      "term": "management",
+      "plain": {
+        "en": "planning and guiding the work"
+      },
+      "means": {
+        "en": "Planning, organising and guiding the use of resources to reach the goals of the business."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "operations",
+      "term": "operations",
+      "plain": {
+        "en": "making and delivering the goods"
+      },
+      "means": {
+        "en": "Producing goods or services and delivering them well and on time."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "finance",
+      "term": "finance",
+      "plain": {
+        "en": "managing a business's money"
+      },
+      "means": {
+        "en": "Planning, getting and using money so the business can run and grow."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "revenue",
+      "term": "revenue",
+      "plain": {
+        "en": "money coming in"
+      },
+      "means": {
+        "en": "The total money a business earns from selling its goods and services."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "expenses",
+      "term": "expenses",
+      "match": [
+        "expense"
+      ],
+      "plain": {
+        "en": "money going out"
+      },
+      "means": {
+        "en": "The money a business spends on running, such as rent, salaries and raw materials."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "cash-flow",
+      "term": "cash flow",
+      "plain": {
+        "en": "money in and out"
+      },
+      "means": {
+        "en": "The money coming into a business and going out of it."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "profit-and-loss-account",
+      "term": "profit and loss account",
+      "plain": {
+        "en": "a record of profit or loss"
+      },
+      "means": {
+        "en": "A record that shows whether a business made a profit or a loss over a time, such as a month or a year."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "human-resources",
+      "term": "human resources",
+      "plain": {
+        "en": "the people in a business"
+      },
+      "means": {
+        "en": "The people an entrepreneur employs, who add to the business."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "marketing-and-sales",
+      "term": "marketing and sales",
+      "match": [
+        "marketing"
+      ],
+      "plain": {
+        "en": "bringing in customers"
+      },
+      "means": {
+        "en": "The work of bringing in customers and persuading them to buy."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "profit-before-tax",
+      "term": "profit before tax",
+      "plain": {
+        "en": "profit before paying tax"
+      },
+      "means": {
+        "en": "Total revenue minus total expenses, before tax is paid."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "profit-after-tax",
+      "term": "profit after tax",
+      "plain": {
+        "en": "the profit the business keeps"
+      },
+      "means": {
+        "en": "The profit left after tax is paid to the government."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "fixed-costs",
+      "term": "fixed costs",
+      "match": [
+        "fixed cost",
+        "overhead costs"
+      ],
+      "plain": {
+        "en": "costs that stay the same"
+      },
+      "means": {
+        "en": "Costs that do not change with how much a business makes, such as rent and equipment. Also called overhead costs."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "variable-costs",
+      "term": "variable costs",
+      "match": [
+        "variable cost"
+      ],
+      "plain": {
+        "en": "costs that grow with output"
+      },
+      "means": {
+        "en": "Costs that rise when a business makes more, such as raw materials and packaging."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "investment",
+      "term": "investment",
+      "match": [
+        "invest"
+      ],
+      "plain": {
+        "en": "putting money in for the future"
+      },
+      "means": {
+        "en": "Putting money or other resources into something, such as a machine or a business, in the hope that it brings income, profit or a rise in value later."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "interest",
+      "term": "interest",
+      "plain": {
+        "en": "extra paid for a loan"
+      },
+      "means": {
+        "en": "Extra money paid for the use of a loan."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "chettiar",
+      "term": "Chettiar",
+      "match": [
+        "Chettiars"
+      ],
+      "plain": {
+        "en": "a traditional business community"
+      },
+      "means": {
+        "en": "The Nattukottai Chettiars of Tamil Nadu, a well-known traditional business community of traders, bankers and moneylenders."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "business-ethics",
+      "term": "business ethics",
+      "plain": {
+        "en": "honest, fair business"
+      },
+      "means": {
+        "en": "Honest and fair ways of doing business."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "trust-based-lending",
+      "term": "trust-based lending",
+      "plain": {
+        "en": "lending to people you trust"
+      },
+      "means": {
+        "en": "Lending money to people the lender trusts, who trust the lender in return."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "startup",
+      "term": "startup",
+      "match": [
+        "startups"
+      ],
+      "plain": {
+        "en": "a young new company"
+      },
+      "means": {
+        "en": "A young, early-stage company started by entrepreneurs to offer a new product or service."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "perseverance",
+      "term": "perseverance",
+      "plain": {
+        "en": "not giving up"
+      },
+      "means": {
+        "en": "Going on working hard even when things are difficult."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "startup-ecosystem",
+      "term": "startup ecosystem",
+      "match": [
+        "ecosystem"
+      ],
+      "plain": {
+        "en": "startups and the help around them"
+      },
+      "means": {
+        "en": "A country's startups and everything around them that helps them grow."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "unicorn",
+      "term": "unicorn",
+      "match": [
+        "unicorns"
+      ],
+      "plain": {
+        "en": "a very large startup"
+      },
+      "means": {
+        "en": "A startup valued at over 1 billion dollars."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "startup-india",
+      "term": "Startup India",
+      "plain": {
+        "en": "a government scheme for startups"
+      },
+      "means": {
+        "en": "A government scheme that supports entrepreneurship and new startups."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "atmanirbhar-bharat",
+      "term": "Atmanirbhar Bharat",
+      "plain": {
+        "en": "a self-reliant India"
+      },
+      "means": {
+        "en": "A national policy framework launched by the government in 2020 to make India self-reliant through innovation and local solutions."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "viksit-bharat-2047",
+      "term": "Viksit Bharat 2047",
+      "plain": {
+        "en": "a developed India by 2047"
+      },
+      "means": {
+        "en": "The government's vision to make India a fully developed nation by 2047, 100 years after independence."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "corporate-social-responsibility",
+      "term": "corporate social responsibility",
+      "match": [
+        "CSR"
+      ],
+      "plain": {
+        "en": "companies helping society"
+      },
+      "means": {
+        "en": "Work by companies that supports society, such as education, the environment and healthcare."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "factors-of-production",
+      "term": "factors of production",
+      "plain": {
+        "en": "what a business needs to make things"
+      },
+      "means": {
+        "en": "The things a business needs, such as land, materials, machines, money and workers."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "welfare",
+      "term": "welfare",
+      "plain": {
+        "en": "the well-being of people"
+      },
+      "means": {
+        "en": "The well-being of people. An entrepreneur adds to the welfare of society."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "collateral",
+      "term": "collateral",
+      "plain": {
+        "en": "something valuable kept as security"
+      },
+      "means": {
+        "en": "Something valuable kept as security until a loan is paid back."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "income-statement",
+      "term": "income statement",
+      "plain": {
+        "en": "another name for the profit and loss account"
+      },
+      "means": {
+        "en": "Another name for the profit and loss account, which shows whether a business made a profit or a loss over a period of time."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "sustainability",
+      "term": "sustainability",
+      "plain": {
+        "en": "meeting today's needs without harming the future"
+      },
+      "means": {
+        "en": "Meeting today's needs without harming the future."
+      },
+      "lesson": 6,
+      "group": "concept"
+    }
+  ]
+}

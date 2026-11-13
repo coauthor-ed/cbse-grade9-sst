@@ -1,0 +1,19 @@
+{
+  "id": "blk-l06-s00",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# How to Produce\n\n<!-- STEP id=\"factors\" -->\nAfter deciding what to produce, a producer must decide **how to produce** it. Every producer mixes four **factors of production**: land, labour, capital and technology. Production can be **labour-intensive**, with more workers and fewer machines, or **capital-intensive**, with more machines and fewer workers.\n\n<!-- STEP id=\"examples\" -->\nFarming and handicrafts usually depend more on workers. Industries such as steel and car making depend more on machines.\n\n**How to produce means choosing the mix of workers and machines.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/FactorsScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "reviewedAt": "2026-11-11T00:00:00.000Z",
+    "flags": []
+  }
+}

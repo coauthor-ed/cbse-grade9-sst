@@ -1,0 +1,18 @@
+{
+  "id": "blk-l04-s03",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Plans Need Data\n\n<!-- STEP id=\"family\" -->\nA family plans its money. Some goes to things it must have, like food, medicines and school supplies. Some goes to things it would like, such as a meal out. Some is saved.\n\n<!-- STEP id=\"data\" -->\nGovernments plan how to spend tax money on roads, schools and welfare. Enterprises (farms, shops and firms) study what customers buy before they make more. Good plans use **data**: facts and numbers collected for study. Much data comes from **surveys**, which collect and study facts in a planned way.\n\n**Good decisions rely on data, not guesswork.**"
+  },
+  "simulation": {
+    "src": "simulations/L04/PlanSplitScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.374Z"
+  }
+}

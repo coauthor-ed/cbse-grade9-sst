@@ -1,0 +1,15 @@
+{
+  "id": "blk-l04-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L04/SupplyMoveGameScene.js",
+  "objective": {
+    "en": "For each change, choose: supply curve moves right, supply curve moves left, or a move along the curve. Win when every card is right."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:00.562Z",
+    "reviewedBy": "review-bar"
+  }
+}

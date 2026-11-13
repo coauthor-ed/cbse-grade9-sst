@@ -1,0 +1,136 @@
+{
+  "id": "q-l07-s09",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "prompt": {
+    "en": "Find a news article about a product, such as vegetables, fruits, fuel or electronics, where producers or companies are deciding how much to produce or supply. In 2 or 3 sentences, name the product and its producers, state their decision, and explain why they made it. (3 marks)"
+  },
+  "rubric": [
+    {
+      "id": "article-product-named",
+      "label": {
+        "en": "Names a real product from an article, such as onions, tomatoes, fuel or phones, and who produces it"
+      },
+      "level1": {
+        "en": "Which product was the article about, and who grows, makes or sells it?"
+      },
+      "clue": {
+        "en": "Pick something from the market news: onion prices, tomatoes arriving at the mandi, fuel stocks, or a new phone."
+      },
+      "level2Template": {
+        "en": "The article was about ___, and its producers were deciding how much to produce or supply."
+      },
+      "accepted": [
+        "onions",
+        "tomatoes",
+        "vegetables",
+        "fruits",
+        "fuel",
+        "petrol",
+        "electronics",
+        "smartphones"
+      ]
+    },
+    {
+      "id": "decision-stated",
+      "label": {
+        "en": "States the decision: supply more, supply less, or hold stock back"
+      },
+      "level1": {
+        "en": "Did the producers plant more, send less, sell stored stock, or hold supply back?"
+      },
+      "clue": {
+        "en": "The decision often shows as numbers: more land planted, fewer trucks arriving, stores opened or closed."
+      },
+      "level2Template": {
+        "en": "The producers decided to supply ___ than before."
+      },
+      "accepted": [
+        "more",
+        "less",
+        "far more",
+        "far less"
+      ]
+    },
+    {
+      "id": "reason-explained",
+      "label": {
+        "en": "Explains why: prices, demand, weather, costs or a government rule"
+      },
+      "level1": {
+        "en": "What pushed them: a change in prices, in demand, in the weather, in costs, or a new rule?"
+      },
+      "clue": {
+        "en": "In a market economy, expected prices and profits decide how much reaches the market. Weather and government rules matter too."
+      },
+      "level2Template": {
+        "en": "They made this decision because ___ had changed, so producing it earned more or less than before."
+      },
+      "accepted": [
+        "prices",
+        "demand",
+        "the weather",
+        "input costs",
+        "government policy"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Introduction"
+      },
+      "text": {
+        "en": "News reports often show producers deciding how much to produce."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "The reported commodity"
+      },
+      "text": {
+        "en": "The article was about ___, and its producers were deciding how much to produce or supply."
+      },
+      "rubricId": "article-product-named"
+    },
+    {
+      "eyebrow": {
+        "en": "Production decision"
+      },
+      "text": {
+        "en": "The producers decided to supply ___ than before."
+      },
+      "rubricId": "decision-stated"
+    },
+    {
+      "eyebrow": {
+        "en": "Reason for the decision"
+      },
+      "text": {
+        "en": "They made this decision because ___ had changed, so producing it earned more or less than before."
+      },
+      "rubricId": "reason-explained"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "what-to-produce",
+    "market-economy",
+    "current-affairs",
+    "review",
+    "3-marks",
+    "coach"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.382Z"
+  }
+}

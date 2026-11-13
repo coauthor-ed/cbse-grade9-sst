@@ -1,0 +1,18 @@
+{
+  "id": "blk-l04-s02",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Who Takes Part\n\n<!-- STEP id=\"nodes\" -->\nFour kinds of players take part in an economy: **consumers** who buy, **producers** who make and sell, the **government**, and **financial institutions** such as banks. The book calls them **economic entities**.\n\n<!-- STEP id=\"flows\" -->\nThey pass money to each other all the time. Producers pay wages to workers. Consumers pay prices for goods. People and firms pay taxes to the government. Banks give loans.\n\n<!-- STEP id=\"economy\" -->\nAll of this together is the **economy**: how a country or region produces, trades and uses goods and services, and how money moves. Economics studies it: how people earn wages, how prices are set, how wealth is shared, and how trade and government policy change prices and jobs."
+  },
+  "simulation": {
+    "src": "simulations/L04/EntitiesWebScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.373Z"
+  }
+}

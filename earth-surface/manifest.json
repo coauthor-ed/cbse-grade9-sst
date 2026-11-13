@@ -24,6 +24,62 @@
   "banks": [],
   "generatedAt": "2026-10-05T20:34:49.078Z",
   "glossary": "glossary.json",
+  "blurb": {
+    "en": "How the ground moves, and how rivers, waves, ice and wind shape the land."
+  },
+  "highlights": [
+    {
+      "en": "Look inside the Earth and see why the plates move"
+    },
+    {
+      "en": "Find where earthquakes and volcanoes happen, and how much India is at risk"
+    },
+    {
+      "en": "Follow a river from the hills to the sea"
+    },
+    {
+      "en": "Learn what to do in an earthquake and other disasters"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "Heat from inside the Earth moves the plates"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "In an earthquake: drop, cover, hold on"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "A river slows at the sea and builds land"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "Crescent dunes from a little sand"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "A lake held back by loose rock from a glacier"
+      }
+    }
+  ],
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "cover": "showcase/cover.jpg",
+  "estHours": 4,
+  "sizeMB": 1.1,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -39,10 +95,66 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "earth-surface",
+        "title": "Shaping of the Earth's Surface",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "What is inside the Earth, and why does the ground move?"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "What are plates, and how do they meet?"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "Where do earthquakes and volcanoes happen, and is India at risk?"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "How do rocks break down and get carried away?"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "What does a river make on its way to the sea?"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "How do waves shape a coast?"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "What do glaciers carve and leave behind?"
+          },
+          {
+            "ref": "lessons/les-08.json",
+            "title": "What does wind do in a desert?"
+          },
+          {
+            "ref": "lessons/les-09.json",
+            "title": "What does underground water do to limestone?"
+          },
+          {
+            "ref": "lessons/les-10.json",
+            "title": "Which disasters come with which landforms, and how do we prepare?"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 10,
+    "narrated": false,
+    "chapterIds": [
+      "iest1-ch2"
+    ]
   }
 }

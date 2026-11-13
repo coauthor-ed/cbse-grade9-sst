@@ -1,0 +1,84 @@
+{
+  "id": "q-l01-s03",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "For each item, decide whether it is a need or a want in the situation described."
+  },
+  "categories": [
+    {
+      "id": "needs",
+      "label": {
+        "en": "Needs"
+      }
+    },
+    {
+      "id": "wants",
+      "label": {
+        "en": "Wants"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-water",
+      "text": {
+        "en": "Drinking water during school hours"
+      },
+      "correctCategoryId": "needs"
+    },
+    {
+      "id": "chip-ration",
+      "text": {
+        "en": "Rice and dal for the family's dinner"
+      },
+      "correctCategoryId": "needs"
+    },
+    {
+      "id": "chip-roof",
+      "text": {
+        "en": "Patching a leaking roof before the monsoon arrives"
+      },
+      "correctCategoryId": "needs"
+    },
+    {
+      "id": "chip-console",
+      "text": {
+        "en": "The newly released gaming console"
+      },
+      "correctCategoryId": "wants"
+    },
+    {
+      "id": "chip-park",
+      "text": {
+        "en": "A weekend trip to a water park"
+      },
+      "correctCategoryId": "wants"
+    },
+    {
+      "id": "chip-sneakers",
+      "text": {
+        "en": "A fourth pair of branded sneakers when three are still fine"
+      },
+      "correctCategoryId": "wants"
+    }
+  ],
+  "explanation": {
+    "en": "Needs keep life possible — water, staple food, shelter that survives the weather. Wants make life more enjoyable and can wait or be skipped. The test is not how much the item costs but whether basic well-being depends on it; the same object could fill either role depending on the job it is doing."
+  },
+  "hints": [
+    {
+      "en": "Ask: would health or survival be at risk without this, or only enjoyment?"
+    }
+  ],
+  "tags": [
+    "needs-and-wants",
+    "scarcity"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.355Z"
+  }
+}

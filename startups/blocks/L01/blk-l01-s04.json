@@ -1,0 +1,15 @@
+{
+  "id": "blk-l01-s04",
+  "type": "mini-game@1",
+  "src": "simulations/L01/StallPriceGame.js",
+  "objective": {
+    "en": "In all three rounds, pick the price that leaves the most profit."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

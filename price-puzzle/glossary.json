@@ -1,0 +1,937 @@
+{
+  "terms": [
+    {
+      "id": "demand",
+      "term": "demand",
+      "match": [
+        "demands"
+      ],
+      "plain": {
+        "en": "how much buyers are willing and able to buy at each price"
+      },
+      "roots": [
+        {
+          "part": "de",
+          "means": {
+            "en": "fully"
+          }
+        },
+        {
+          "part": "mand",
+          "means": {
+            "en": "to order, to ask for"
+          }
+        }
+      ],
+      "means": {
+        "en": "The amount of a good that buyers are willing to buy and able to pay for at each price. Wanting alone is not demand; the buyer must also have the money."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "purchasing-power",
+      "term": "purchasing power",
+      "match": [
+        "purchasing powers"
+      ],
+      "plain": {
+        "en": "what you can buy with the money you have"
+      },
+      "roots": [
+        {
+          "part": "purchas",
+          "means": {
+            "en": "to buy"
+          }
+        },
+        {
+          "part": "power",
+          "means": {
+            "en": "ability, strength"
+          }
+        }
+      ],
+      "means": {
+        "en": "How much a buyer can actually buy with the money they have. Wanting something is not enough: a wish becomes demand only when the buyer can also pay the price."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "law-of-demand",
+      "term": "Law of Demand",
+      "match": [
+        "law of demand"
+      ],
+      "plain": {
+        "en": "when a price rises, buyers take less of that good"
+      },
+      "roots": [
+        {
+          "part": "law",
+          "means": {
+            "en": "a rule that holds again and again"
+          }
+        },
+        {
+          "part": "demand",
+          "means": {
+            "en": "how much buyers want and can pay for"
+          }
+        }
+      ],
+      "means": {
+        "en": "The rule that price and quantity demanded move in opposite directions, other things staying the same: at a higher price buyers take less, at a lower price they take more. This is why a demand curve slopes down from left to right."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "individual-demand",
+      "term": "individual demand",
+      "match": [],
+      "plain": {
+        "en": "how much one buyer takes at each price"
+      },
+      "roots": [
+        {
+          "part": "individual",
+          "means": {
+            "en": "one single person"
+          }
+        }
+      ],
+      "means": {
+        "en": "The demand of one buyer: how much that one person is willing and able to buy at each price. Srivalli's 1 kg at ₹150, 2 kg at ₹100 and 3 kg at ₹50 is her individual demand."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "demand-schedule",
+      "term": "demand schedule",
+      "match": [
+        "demand schedules"
+      ],
+      "plain": {
+        "en": "a table of how much is bought at each price"
+      },
+      "roots": [
+        {
+          "part": "demand",
+          "means": {
+            "en": "how much buyers want and can pay for"
+          }
+        },
+        {
+          "part": "schedule",
+          "means": {
+            "en": "a table of rows"
+          }
+        }
+      ],
+      "means": {
+        "en": "A table that pairs each price with the quantity demanded at that price - the numbers before they are drawn. Srivalli's three rows are 1 kg at ₹150, 2 kg at ₹100 and 3 kg at ₹50; plotting those three rows is what draws the curve."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "demand-curve",
+      "term": "demand curve",
+      "match": [
+        "demand curves"
+      ],
+      "plain": {
+        "en": "a line on a graph showing how much a buyer takes at each price"
+      },
+      "roots": [
+        {
+          "part": "demand",
+          "means": {
+            "en": "how much buyers want and can pay for"
+          }
+        },
+        {
+          "part": "curve",
+          "means": {
+            "en": "a line drawn through plotted points"
+          }
+        }
+      ],
+      "means": {
+        "en": "The line drawn by joining the points of a demand schedule, with price up the side and quantity along the bottom. It slopes down from left to right. When only the price changes, the buyer moves along the curve."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "quantity-demanded",
+      "term": "quantity demanded",
+      "match": [
+        "quantities demanded"
+      ],
+      "plain": {
+        "en": "how many of a good buyers take at one price"
+      },
+      "roots": [
+        {
+          "part": "quantity",
+          "means": {
+            "en": "how much, how many"
+          }
+        },
+        {
+          "part": "demand",
+          "means": {
+            "en": "how much buyers want and can pay for"
+          }
+        }
+      ],
+      "means": {
+        "en": "The amount buyers take at one given price, measured in kg here. It is one row of a demand schedule. It falls when the price rises and rises when the price falls."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "market-demand",
+      "term": "market demand",
+      "match": [
+        "market demands"
+      ],
+      "plain": {
+        "en": "the total that all buyers want at each price"
+      },
+      "roots": [
+        {
+          "part": "market",
+          "means": {
+            "en": "all the buyers and sellers together"
+          }
+        },
+        {
+          "part": "demand",
+          "means": {
+            "en": "how much buyers want and can pay for"
+          }
+        }
+      ],
+      "means": {
+        "en": "The sum of the individual demand of every buyer at each price. At ₹100 per kg, Srivalli wants 2 kg, Alex 4 kg and Israt 6 kg, so the market demand is 2 + 4 + 6 = 12 kg. Like one buyer's curve, the market demand curve slopes down, but it is flatter."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "substitutes",
+      "term": "substitutes",
+      "match": [
+        "substitute",
+        "substitute goods",
+        "substitution"
+      ],
+      "plain": {
+        "en": "goods that can replace each other"
+      },
+      "roots": [
+        {
+          "part": "sub",
+          "means": {
+            "en": "under, in place of"
+          }
+        },
+        {
+          "part": "stitute",
+          "means": {
+            "en": "stand"
+          }
+        }
+      ],
+      "means": {
+        "en": "Two goods that do the same job for the buyer, so one can replace the other, like tea and coffee. If coffee becomes costlier while the price of tea stays the same, some people switch to tea, so the demand for tea rises."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "complements",
+      "term": "complements",
+      "match": [
+        "complement",
+        "complementary goods"
+      ],
+      "plain": {
+        "en": "goods that are used together"
+      },
+      "roots": [
+        {
+          "part": "com",
+          "means": {
+            "en": "together"
+          }
+        },
+        {
+          "part": "plement",
+          "means": {
+            "en": "fill"
+          }
+        }
+      ],
+      "means": {
+        "en": "Two goods that are used together, like cars and petrol, or movie tickets and cinema popcorn. If movie tickets become costlier, fewer people go to the cinema, so the demand for popcorn falls, even though its own price has not changed."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "diminishing-marginal-utility",
+      "term": "diminishing marginal utility",
+      "match": [
+        "diminishing marginal utility principle"
+      ],
+      "plain": {
+        "en": "each extra one gives less extra satisfaction"
+      },
+      "roots": [
+        {
+          "part": "diminish",
+          "means": {
+            "en": "grow less"
+          }
+        },
+        {
+          "part": "marginal",
+          "means": {
+            "en": "of one extra unit"
+          }
+        },
+        {
+          "part": "utility",
+          "means": {
+            "en": "usefulness, how much it is wanted"
+          }
+        }
+      ],
+      "means": {
+        "en": "Each extra unit of a good gives less extra satisfaction than the one before. The first mango tastes delicious, the second is good, and by the third you hardly want it. So a buyer is willing to pay less for each extra mango. This is one reason people buy more only at a lower price."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "supply",
+      "term": "supply",
+      "match": [
+        "supplies"
+      ],
+      "plain": {
+        "en": "how much sellers are willing and able to offer at each price"
+      },
+      "roots": [
+        {
+          "part": "sup",
+          "means": {
+            "en": "from below, up"
+          }
+        },
+        {
+          "part": "ply",
+          "means": {
+            "en": "to fill"
+          }
+        }
+      ],
+      "means": {
+        "en": "The amount of a good that sellers are willing and able to offer for sale at each price. Willing means the price is worth it to them; able means they really have the goods."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "law-of-supply",
+      "term": "Law of Supply",
+      "match": [
+        "law of supply"
+      ],
+      "plain": {
+        "en": "when a price rises, sellers offer more"
+      },
+      "roots": [
+        {
+          "part": "law",
+          "means": {
+            "en": "a rule that holds again and again"
+          }
+        },
+        {
+          "part": "supply",
+          "means": {
+            "en": "how much sellers offer for sale"
+          }
+        }
+      ],
+      "means": {
+        "en": "The rule that price and quantity supplied move in the same direction, other things staying the same: at a higher price sellers offer more, at a lower price they offer less. This is why a supply curve slopes up from left to right."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "individual-supply",
+      "term": "individual supply",
+      "match": [],
+      "plain": {
+        "en": "how much one seller offers at each price"
+      },
+      "roots": [
+        {
+          "part": "individual",
+          "means": {
+            "en": "one single person"
+          }
+        },
+        {
+          "part": "supply",
+          "means": {
+            "en": "how much sellers offer for sale"
+          }
+        }
+      ],
+      "means": {
+        "en": "The supply of one seller: how much that one seller is willing and able to offer at each price. Seller A's 1 kg at ₹50, 2 kg at ₹100 and 3 kg at ₹150 is his individual supply."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "quantity-supplied",
+      "term": "quantity supplied",
+      "match": [
+        "quantities supplied"
+      ],
+      "plain": {
+        "en": "how many of a good sellers offer at one price"
+      },
+      "roots": [
+        {
+          "part": "quantity",
+          "means": {
+            "en": "how much, how many"
+          }
+        },
+        {
+          "part": "suppli",
+          "means": {
+            "en": "how much sellers offer for sale"
+          }
+        }
+      ],
+      "means": {
+        "en": "The amount sellers offer at one given price, measured in kg here. It is one row of a supply schedule. It rises when the price rises and falls when the price falls."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "market-supply",
+      "term": "market supply",
+      "match": [
+        "market supplies"
+      ],
+      "plain": {
+        "en": "the total that all sellers offer at each price"
+      },
+      "roots": [
+        {
+          "part": "market",
+          "means": {
+            "en": "all the buyers and sellers together"
+          }
+        },
+        {
+          "part": "supply",
+          "means": {
+            "en": "how much sellers offer for sale"
+          }
+        }
+      ],
+      "means": {
+        "en": "The sum of the supply of every seller at each price. At ₹100 per kg, Seller A offers 2 kg, Seller B 4 kg and Seller C 6 kg, so the market supply is 2 + 4 + 6 = 12 kg. Like one seller's curve, the market supply curve slopes up, but it is flatter."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "supply-curve",
+      "term": "supply curve",
+      "match": [
+        "supply curves"
+      ],
+      "plain": {
+        "en": "a line on a graph showing how much a seller offers at each price"
+      },
+      "roots": [
+        {
+          "part": "supply",
+          "means": {
+            "en": "how much sellers offer for sale"
+          }
+        },
+        {
+          "part": "curve",
+          "means": {
+            "en": "a line drawn through plotted points"
+          }
+        }
+      ],
+      "means": {
+        "en": "The line drawn by joining the points of a supply schedule, with price up the side and quantity along the bottom. It slopes up from left to right. When only the price changes, the seller moves along the curve."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "market-equilibrium",
+      "term": "market equilibrium",
+      "match": [
+        "equilibrium"
+      ],
+      "plain": {
+        "en": "the price at which buyers want exactly what sellers offer"
+      },
+      "roots": [
+        {
+          "part": "market",
+          "means": {
+            "en": "all the buyers and sellers together"
+          }
+        },
+        {
+          "part": "equi",
+          "means": {
+            "en": "equal"
+          }
+        },
+        {
+          "part": "librium",
+          "means": {
+            "en": "balance"
+          }
+        }
+      ],
+      "means": {
+        "en": "The point where the quantity demanded equals the quantity supplied, so there is neither a surplus nor a shortage. In the mango market it is at ₹100 per kg and 12 kg. In real markets demand and supply keep changing, so the equilibrium keeps moving."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "surplus",
+      "term": "surplus",
+      "match": [
+        "surpluses"
+      ],
+      "plain": {
+        "en": "more offered than buyers want, at that price"
+      },
+      "roots": [
+        {
+          "part": "sur",
+          "means": {
+            "en": "over, beyond"
+          }
+        },
+        {
+          "part": "plus",
+          "means": {
+            "en": "more"
+          }
+        }
+      ],
+      "means": {
+        "en": "Excess supply: at a price, sellers offer more than buyers want, so some goods are left unsold. At ₹150 the mango market has 18 kg offered and 6 kg wanted, a surplus of 12 kg. A surplus pushes the price down."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "shortage",
+      "term": "shortage",
+      "match": [
+        "shortages"
+      ],
+      "plain": {
+        "en": "more wanted than sellers offer, at that price"
+      },
+      "roots": [
+        {
+          "part": "short",
+          "means": {
+            "en": "not enough"
+          }
+        }
+      ],
+      "means": {
+        "en": "Excess demand: at a price, buyers want more than sellers offer, so some buyers go without. At ₹50 the mango market has 18 kg wanted and 6 kg offered, a shortage of 12 kg. A shortage pushes the price up."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "tariff",
+      "term": "tariff",
+      "match": [
+        "tariffs"
+      ],
+      "plain": {
+        "en": "the price a hotel charges for a room"
+      },
+      "roots": [],
+      "means": {
+        "en": "The price charged for a service, such as a hotel room for one night. A hotel in Goa may charge ₹1,500 on a Monday in July and ₹25,000 on New Year's Eve. The same word is also used for a tax on goods brought in from another country."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "revenue",
+      "term": "revenue",
+      "match": [],
+      "plain": {
+        "en": "all the money a business earns from its sales"
+      },
+      "roots": [
+        {
+          "part": "re",
+          "means": {
+            "en": "back"
+          }
+        },
+        {
+          "part": "venue",
+          "means": {
+            "en": "to come"
+          }
+        }
+      ],
+      "means": {
+        "en": "The total amount of money a business earns from selling goods or services, before any costs are taken out. A hotel changes its tariff to earn the most revenue from its rooms."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "monopoly",
+      "term": "monopoly",
+      "match": [
+        "monopolies",
+        "monopolist"
+      ],
+      "plain": {
+        "en": "a market with only one seller"
+      },
+      "roots": [
+        {
+          "part": "mon",
+          "means": {
+            "en": "one, single"
+          }
+        },
+        {
+          "part": "opoly",
+          "means": {
+            "en": "seller"
+          }
+        }
+      ],
+      "means": {
+        "en": "A market where one seller controls the whole supply of a product that has no close substitute. With no other seller to compete with, it can charge a higher price and supply less. The government keeps such sellers in check."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "price-ceiling",
+      "term": "price ceiling",
+      "match": [
+        "legal ceiling",
+        "legal maximum",
+        "price ceilings"
+      ],
+      "plain": {
+        "en": "the highest price a seller is allowed to charge"
+      },
+      "roots": [
+        {
+          "part": "price",
+          "means": {
+            "en": "what a thing costs"
+          }
+        },
+        {
+          "part": "ceil",
+          "means": {
+            "en": "a cap, the top allowed"
+          }
+        }
+      ],
+      "means": {
+        "en": "A highest price set by the government, for example on medicines. It changes things only when it is below the market price. Then buyers want more than sellers offer, so there is a shortage. In the mango market, a ceiling of ₹50 per kg would leave a shortage of 12 kg."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "price-floor",
+      "term": "price floor",
+      "match": [
+        "legal minimum",
+        "price floors"
+      ],
+      "plain": {
+        "en": "the lowest price that may be charged"
+      },
+      "roots": [
+        {
+          "part": "price",
+          "means": {
+            "en": "what a thing costs"
+          }
+        },
+        {
+          "part": "floor",
+          "means": {
+            "en": "a base, the lowest allowed"
+          }
+        }
+      ],
+      "means": {
+        "en": "A lowest price set by the government. It changes things only when it is above the market price. A minimum wage is a price floor: an employer must pay at least that wage, so that workers earn enough for their work."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "hoarding",
+      "term": "hoarding",
+      "match": [
+        "hoard",
+        "hoarded"
+      ],
+      "plain": {
+        "en": "keeping far more goods than you need, often hidden"
+      },
+      "roots": [
+        {
+          "part": "hoard",
+          "means": {
+            "en": "a hidden store"
+          }
+        }
+      ],
+      "means": {
+        "en": "Keeping far more goods, or money, than is needed now, usually out of fear of a shortage or in the hope of selling later at a higher price. In 2020 some shopkeepers hoarded sanitisers."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "black-marketing",
+      "term": "black marketing",
+      "match": [
+        "black market",
+        "black-marketing"
+      ],
+      "plain": {
+        "en": "selling goods secretly against the rules"
+      },
+      "roots": [
+        {
+          "part": "black",
+          "means": {
+            "en": "secret, against the law"
+          }
+        },
+        {
+          "part": "market",
+          "means": {
+            "en": "buying and selling"
+          }
+        }
+      ],
+      "means": {
+        "en": "Buying and selling goods or services that are banned or controlled, in secret, for example selling sanitisers above the allowed price in 2020."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "public-goods",
+      "term": "public goods",
+      "match": [
+        "public good"
+      ],
+      "plain": {
+        "en": "goods and services that everyone can use, such as roads and parks"
+      },
+      "roots": [
+        {
+          "part": "public",
+          "means": {
+            "en": "of all the people"
+          }
+        },
+        {
+          "part": "goods",
+          "means": {
+            "en": "things people use"
+          }
+        }
+      ],
+      "means": {
+        "en": "Goods and services provided by the government for everyone, such as roads, bridges, parks, streetlights, defence and drainage. Private companies usually do not provide them, because they earn no direct profit from them."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "ease-of-doing-business",
+      "term": "ease of doing business",
+      "match": [],
+      "plain": {
+        "en": "how simple it is to start, run and close a business"
+      },
+      "roots": [
+        {
+          "part": "ease",
+          "means": {
+            "en": "with little trouble"
+          }
+        }
+      ],
+      "means": {
+        "en": "How simple it is to start, run and close a business in a country. Many permissions, long waits and costly paperwork make it harder, most of all for small businesses."
+      },
+      "face": {
+        "art": "critter",
+        "tone": 3
+      },
+      "lesson": 6,
+      "group": "concept"
+    }
+  ]
+}

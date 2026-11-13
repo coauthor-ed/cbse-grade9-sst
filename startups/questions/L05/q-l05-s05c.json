@@ -1,0 +1,60 @@
+{
+  "id": "q-l05-s05c",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Which of these is an investment for ABC Bakery?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Buying a second oven to bake more cakes in future"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Paying this month's bill for electricity and gas"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Paying the tax on this month's profit to the government"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Buying flour and sugar for tomorrow morning's bread"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-1",
+  "explanation": {
+    "en": "An investment puts money into something in the hope that it brings income or profit in future. A second oven lets the bakery bake and sell more later. The other three are this month's expenses or tax."
+  },
+  "hints": [
+    {
+      "en": "Which one will help the bakery earn more in the months ahead?"
+    }
+  ],
+  "tags": [
+    "cash-flow",
+    "liquidity",
+    "bills",
+    "timing"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

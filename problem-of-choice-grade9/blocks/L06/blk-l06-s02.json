@@ -1,0 +1,26 @@
+{
+  "id": "blk-l06-s02",
+  "type": "poe-predict@1",
+  "prompt": "# Wages Rise\n\nMasterji pays each of his 4 tailors ₹250 a day. The power sewing line, with its operator, costs ₹1,200 a day. Then tailors' wages in the city rise to ₹400 a day. The rent for the sewing line stays the same.\n\n**Predict:** What will Masterji do now?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Keep the 4 tailors, because people always cost less than machines."
+    },
+    {
+      "id": "b",
+      "text": "Work out both costs again, and switch if the machine is now cheaper."
+    },
+    {
+      "id": "c",
+      "text": "Close the workshop, because higher wages leave no other choice."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.379Z"
+  }
+}

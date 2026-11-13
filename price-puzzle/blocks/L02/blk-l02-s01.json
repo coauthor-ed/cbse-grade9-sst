@@ -1,0 +1,32 @@
+{
+  "id": "blk-l02-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L02/blk-l02-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "6 kg, because Israt buys the most, and the biggest buyer sets the total."
+    },
+    {
+      "id": "b",
+      "text": "4 kg, because that is what a typical buyer in the middle buys."
+    },
+    {
+      "id": "c",
+      "text": "12 kg, because we add what each of the three buys at that price."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L02/MarketSumScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:52.209Z",
+    "reviewedBy": "review-bar"
+  }
+}

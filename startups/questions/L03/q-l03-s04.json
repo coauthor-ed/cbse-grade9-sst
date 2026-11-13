@@ -1,0 +1,35 @@
+{
+  "id": "q-l03-s04",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "ABC Bakery bakes 40 cakes a day. Each cake costs ₹150 to make, and all 40 are sold at ₹220 each. What profit do the cakes make for the day, before rent and other running costs, in rupees?"
+  },
+  "expectedValue": 2800,
+  "tolerance": 0,
+  "unit": "₹",
+  "explanation": {
+    "en": "Each cake leaves ₹220 - ₹150 = ₹70. For 40 cakes, the profit on the cakes, before rent and other running costs, is 40 × ₹70 = ₹2,800."
+  },
+  "hints": [
+    {
+      "en": "First find what one cake leaves: ₹220 minus ₹150."
+    },
+    {
+      "en": "Then multiply by the 40 cakes sold."
+    }
+  ],
+  "tags": [
+    "business-plan",
+    "pricing",
+    "profit",
+    "costs"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -5,6 +5,11 @@
   "title": {
     "en": "What is a wave, and how do waves shape the coast?"
   },
+  "chapterId": "kegy2-ch13",
+  "topicIds": [
+    "wave-formation",
+    "wave-speed"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L02/blk-l02-s01.json"

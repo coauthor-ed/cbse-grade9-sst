@@ -5,6 +5,10 @@
   "title": {
     "en": "What can weaken a democracy, and what protects it?"
   },
+  "chapterId": "iest1-ch6",
+  "topicIds": [
+    "challenges-in-indian-democracy"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L07/blk-l07-s01.json"

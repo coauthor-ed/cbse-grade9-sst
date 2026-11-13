@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s08",
+  "type": "mini-game@1",
+  "src": "simulations/L02/MarketSumGameScene.js",
+  "objective": {
+    "en": "Fill in the market demand at each of the three prices. Win when all three totals are right and the market demand curve is drawn."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:52.209Z",
+    "reviewedBy": "review-bar"
+  }
+}

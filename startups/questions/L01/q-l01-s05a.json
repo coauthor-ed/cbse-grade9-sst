@@ -1,0 +1,85 @@
+{
+  "id": "q-l01-s05a",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Match each stall activity to the element of entrepreneurship it shows. This is one example."
+  },
+  "categories": [
+    {
+      "id": "cat-team",
+      "label": {
+        "en": "Team"
+      }
+    },
+    {
+      "id": "cat-market",
+      "label": {
+        "en": "Market"
+      }
+    },
+    {
+      "id": "cat-innovation",
+      "label": {
+        "en": "Innovation"
+      }
+    },
+    {
+      "id": "cat-goal",
+      "label": {
+        "en": "Goal"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Splitting the work: some squeeze lemons, others take the money"
+      },
+      "correctCategoryId": "cat-team"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Watching which drinks parents and children ask for on a hot day"
+      },
+      "correctCategoryId": "cat-market"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Adding mint leaves to make a new kind of nimbu pani"
+      },
+      "correctCategoryId": "cat-innovation"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Aiming to make a profit in the Young Entrepreneurs Challenge"
+      },
+      "correctCategoryId": "cat-goal"
+    }
+  ],
+  "explanation": {
+    "en": "Classmates sharing the work are the team. The visitors and what they want are the market. A new recipe is innovation. Making a profit in the challenge is the goal."
+  },
+  "hints": [
+    {
+      "en": "Which part is about the people who work at the stall, and which is about the people who buy?"
+    }
+  ],
+  "tags": [
+    "entrepreneurship",
+    "elements",
+    "team",
+    "market"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

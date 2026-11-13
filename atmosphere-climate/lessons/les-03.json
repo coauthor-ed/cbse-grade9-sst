@@ -5,6 +5,7 @@
   "title": {
     "en": "Why are some places hot and others cold?"
   },
+  "chapterId": "iest1-ch3",
   "blocks": [
     {
       "blockRef": "blocks/L03/blk-l03-s00.json"

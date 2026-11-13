@@ -1,0 +1,35 @@
+{
+  "id": "q-l05-s02b",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A sweet shop earns ₹1,80,000 from sales in one month. Its expenses for the month are ₹1,15,000, and it pays ₹10,000 in tax. What is its profit after tax, in rupees? (These are made-up numbers.)"
+  },
+  "expectedValue": 55000,
+  "tolerance": 0,
+  "unit": "rupees",
+  "explanation": {
+    "en": "Profit before tax = ₹1,80,000 - ₹1,15,000 = ₹65,000. Profit after tax = ₹65,000 - ₹10,000 = ₹55,000."
+  },
+  "hints": [
+    {
+      "en": "First take the expenses away from the sales to find the profit before tax."
+    },
+    {
+      "en": "Then take away the tax."
+    }
+  ],
+  "tags": [
+    "profit-calculation",
+    "revenue",
+    "expenses",
+    "tax"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

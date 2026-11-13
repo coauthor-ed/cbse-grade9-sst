@@ -1,0 +1,31 @@
+{
+  "id": "q-l02-s05",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A family receives ₹90,000 in a year and decides to save first: it sets aside 20% of the year's income before any spending. How many rupees are left for the family to spend on everything else in that year?"
+  },
+  "expectedValue": 72000,
+  "tolerance": 1,
+  "unit": "₹",
+  "explanation": {
+    "en": "Saving 20% of ₹90,000 means setting aside ₹18,000 on the day the income arrives. The spending then has to fit in ₹90,000 - ₹18,000 = ₹72,000. The savings share is taken from the income, not from whatever happens to be left at the end of the month."
+  },
+  "hints": [
+    {
+      "en": "Work out 20% of ₹90,000 first. That amount never reaches the spending."
+    }
+  ],
+  "tags": [
+    "saving",
+    "budget",
+    "numeric-value"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

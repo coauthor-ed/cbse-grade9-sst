@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L02/TradeChainGame.js",
+  "objective": {
+    "en": "In all six rounds, give your goods to the person who needs them."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

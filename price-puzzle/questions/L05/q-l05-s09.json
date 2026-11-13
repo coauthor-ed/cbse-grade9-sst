@@ -1,0 +1,58 @@
+{
+  "id": "q-l05-s09",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "This question is about a different market. At ₹10 per kg, buyers want 25 kg and sellers offer 5 kg. At ₹20: 20 kg and 10 kg. At ₹30: 15 kg and 15 kg. At ₹40: 10 kg and 20 kg. At ₹50: 5 kg and 25 kg. What are the equilibrium price and the equilibrium quantity?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "₹30 and 15 kg"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "₹30 and 30 kg, adding what buyers want and what sellers offer"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "₹50 and 25 kg, where sellers offer the most"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "₹10 and 25 kg, where buyers want the most"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Equilibrium is where the quantity demanded equals the quantity supplied: 15 kg and 15 kg at ₹30. The equilibrium quantity is 15 kg, the amount bought and sold, not the two added. At ₹20 there is a shortage of 10 kg, and at ₹40 a surplus of 10 kg."
+  },
+  "hints": [
+    {
+      "en": "Find the row where the two amounts are the same."
+    }
+  ],
+  "tags": [
+    "equilibrium",
+    "schedule"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "reviewedAt": "2026-11-11T00:00:00.000Z",
+    "flags": []
+  }
+}

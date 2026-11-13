@@ -1,0 +1,96 @@
+{
+  "id": "q-l05-s07",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A shoe company is planning its next shoes. Match each plan to the group of buyers it is made for."
+  },
+  "categories": [
+    {
+      "id": "school",
+      "label": {
+        "en": "School students"
+      }
+    },
+    {
+      "id": "office",
+      "label": {
+        "en": "Office workers"
+      }
+    },
+    {
+      "id": "sports",
+      "label": {
+        "en": "Players and people who exercise"
+      }
+    },
+    {
+      "id": "casual",
+      "label": {
+        "en": "Everyone, for daily use at low cost"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-rubber",
+      "text": {
+        "en": "Rubber soles, a light build, extra grip and ankle support"
+      },
+      "correctCategoryId": "sports"
+    },
+    {
+      "id": "chip-leather",
+      "text": {
+        "en": "Polished leather, a formal look, comfortable all day, a higher price"
+      },
+      "correctCategoryId": "office"
+    },
+    {
+      "id": "chip-simple",
+      "text": {
+        "en": "A simple design that lasts a full school year and does not cost much"
+      },
+      "correctCategoryId": "school"
+    },
+    {
+      "id": "chip-slipper",
+      "text": {
+        "en": "Soft slippers for comfort on daily errands, kept cheap"
+      },
+      "correctCategoryId": "casual"
+    },
+    {
+      "id": "chip-durable",
+      "text": {
+        "en": "Strong stitching that children cannot scuff easily on the way to class"
+      },
+      "correctCategoryId": "school"
+    },
+    {
+      "id": "chip-flex",
+      "text": {
+        "en": "A sole that bends and cloth that breathes, for long training sessions"
+      },
+      "correctCategoryId": "sports"
+    }
+  ],
+  "explanation": {
+    "en": "'For whom to produce' shapes every feature. Students need strong shoes at a low price. Office workers want a formal leather look. Players need grip and a light build. Slippers for daily use must be comfortable and cheap. One factory answers 'for whom' in four different ways."
+  },
+  "hints": [
+    {
+      "en": "Ask what each group of buyers can pay, and what their day asks of the shoe."
+    }
+  ],
+  "tags": [
+    "for-whom-to-produce",
+    "segments"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.378Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "blk-l04-s06",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# The Economic Survey\n\n<!-- STEP id=\"survey\" -->\nEvery year the Ministry of Finance prepares the **Economic Survey of India**. It reviews how the economy did in the past year: farming, industry, services, jobs, prices, education, health and more.\n\n<!-- STEP id=\"parliament\" -->\nThe Survey is presented in Parliament before the Union Budget. It helps the people who make the Budget decide, and it explains the economy's data clearly to citizens.\n\n<!-- STEP id=\"loop\" -->\nThen the year runs on the Budget's choices. What happens in that year becomes data for the next Survey. You can read the latest Survey at indiabudget.gov.in/economicsurvey.\n\n**Every year: measure, plan, spend, then measure again.**"
+  },
+  "simulation": {
+    "src": "simulations/L04/SurveyLoopScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.375Z"
+  }
+}

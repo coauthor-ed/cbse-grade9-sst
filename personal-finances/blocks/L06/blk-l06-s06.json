@@ -1,0 +1,15 @@
+{
+  "id": "blk-l06-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L06/CattleFundGame.js",
+  "objective": {
+    "en": "Set the yearly amount each farmer pays so the fund pays every claim for five years, and the amount stays below ₹1,000."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

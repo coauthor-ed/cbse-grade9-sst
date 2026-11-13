@@ -1,0 +1,68 @@
+{
+  "id": "q-l02-s06",
+  "type": "sequence-order@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Put the young man's first five trades in the order the story lists them."
+  },
+  "items": [
+    {
+      "id": "step-mouse",
+      "text": {
+        "en": "Sold a dead mouse to a shopkeeper for two coins"
+      }
+    },
+    {
+      "id": "step-water",
+      "text": {
+        "en": "Gave fruits and water to a tired flower picker for flowers"
+      }
+    },
+    {
+      "id": "step-flowers",
+      "text": {
+        "en": "Sold the flowers in the city"
+      }
+    },
+    {
+      "id": "step-firewood",
+      "text": {
+        "en": "Sold fallen branches as firewood after a storm"
+      }
+    },
+    {
+      "id": "step-grass",
+      "text": {
+        "en": "Traded grass with horse dealers"
+      }
+    }
+  ],
+  "correctOrder": [
+    "step-mouse",
+    "step-water",
+    "step-flowers",
+    "step-firewood",
+    "step-grass"
+  ],
+  "explanation": {
+    "en": "The mouse brought two coins, the coins bought fruits and water, and these were exchanged for flowers, which he sold in the city. After that came firewood after a storm, then grass for the horse dealers."
+  },
+  "hints": [
+    {
+      "en": "Each trade uses what the one before it gave him. Start with the dead mouse."
+    }
+  ],
+  "tags": [
+    "jataka",
+    "trade",
+    "reinvestment",
+    "sequence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

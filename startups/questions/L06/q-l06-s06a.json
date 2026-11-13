@@ -1,0 +1,80 @@
+{
+  "id": "q-l06-s06a",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each startup idea into its field."
+  },
+  "categories": [
+    {
+      "id": "cat-fintech",
+      "label": {
+        "en": "Fin-tech (digital payments)"
+      }
+    },
+    {
+      "id": "cat-agritech",
+      "label": {
+        "en": "Agri-tech (farming technology)"
+      }
+    },
+    {
+      "id": "cat-healthtech",
+      "label": {
+        "en": "Health-tech (online healthcare)"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Paying a vegetable seller by scanning a code with a phone"
+      },
+      "correctCategoryId": "cat-fintech"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "A sensor that tells a farmer when the field needs water"
+      },
+      "correctCategoryId": "cat-agritech"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "A video call with a doctor for a patient in a village"
+      },
+      "correctCategoryId": "cat-healthtech"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Sending money to a friend from a phone"
+      },
+      "correctCategoryId": "cat-fintech"
+    }
+  ],
+  "explanation": {
+    "en": "Paying a seller and sending money from a phone are digital payments, so they are fin-tech. A sensor that helps a farmer is farming technology, agri-tech. A video call with a doctor is online healthcare, health-tech."
+  },
+  "hints": [
+    {
+      "en": "Ask what each idea helps with: money, farming or health."
+    }
+  ],
+  "tags": [
+    "startups",
+    "sectors",
+    "fintech",
+    "agritech",
+    "healthtech"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -5,6 +5,11 @@
   "title": {
     "en": "Was ancient India already democratic?"
   },
+  "chapterId": "iest1-ch6",
+  "topicIds": [
+    "vedic-democratic-traditions",
+    "evolution-of-democracy"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L02/blk-l02-s01.json"

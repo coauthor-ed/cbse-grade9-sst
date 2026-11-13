@@ -1,0 +1,59 @@
+{
+  "id": "q-l01-s06a",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A student sees that her school canteen sells no fresh fruit, and she plans a fruit-cup stall to change this. Which task of an entrepreneur does this show?"
+  },
+  "explanation": {
+    "en": "She has noticed something missing, fresh fruit at the canteen, and decided to fix it. That is identifying a problem. She has not yet spent money, brought together the factors of production (things a business needs, such as materials, machines and workers) or sold anything."
+  },
+  "hints": [
+    {
+      "en": "What has she done so far: noticed, spent, hired or sold?"
+    }
+  ],
+  "tags": [
+    "entrepreneur",
+    "tasks",
+    "sequence"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Identifying a problem and deciding to solve it in a new way."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Bringing together the factors of production to make a product."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Taking a risk by putting her own money and time into it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Adding to the welfare of society through a finished product."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-1"
+}

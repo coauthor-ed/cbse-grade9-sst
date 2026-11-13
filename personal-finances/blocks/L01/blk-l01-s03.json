@@ -1,0 +1,31 @@
+{
+  "id": "blk-l01-s03",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L01/blk-l01-s03.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes, easily: six months of ₹1,500 is ₹9,000, three times the price of the bicycle."
+    },
+    {
+      "id": "b",
+      "text": "Yes, just: about half of each month's money is usually left over at the end."
+    },
+    {
+      "id": "c",
+      "text": "No: what is left at the end of a month is small, and different every month."
+    },
+    {
+      "id": "d",
+      "text": "Only if the price of the bicycle falls during the six months she saves."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

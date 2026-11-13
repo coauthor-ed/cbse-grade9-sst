@@ -1,0 +1,59 @@
+{
+  "id": "q-l05-s03b",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "ABC Bakery bakes twice as many loaves in April as in March. What happens to its rent of ₹40,000?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "It doubles to ₹80,000, as the ovens work twice as long."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "It stays ₹40,000, because rent is a fixed cost."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "It falls to ₹20,000, as more loaves share the rent."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "It changes every day with the number of loaves."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-2",
+  "explanation": {
+    "en": "Rent is a fixed cost: in the short term, it stays the same however much the bakery bakes or sells. The flour and packaging bills grow, but the rent does not."
+  },
+  "hints": [
+    {
+      "en": "Is rent a fixed cost or a variable cost?"
+    }
+  ],
+  "tags": [
+    "fixed-cost",
+    "rent",
+    "production-volume"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

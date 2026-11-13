@@ -1,0 +1,59 @@
+{
+  "id": "q-l01-s04",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Why can the lowest price on the board be a bad choice for a stall?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Visitors think a cheap drink is unsafe, so nobody buys it."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "If the price is below the cost, each extra glass adds to the loss."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "At the lowest price the drink tastes worse."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "A low price always brings fewer people to the counter."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-2",
+  "explanation": {
+    "en": "When the price is below the cost of making the drink, every glass sold loses money. Selling more glasses only makes the loss bigger, as at Stall A."
+  },
+  "hints": [
+    {
+      "en": "Think about Stall A: a glass sold for ₹5 cost ₹6 to make."
+    }
+  ],
+  "tags": [
+    "pricing",
+    "loss",
+    "profit"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

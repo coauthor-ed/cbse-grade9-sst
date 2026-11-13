@@ -1,0 +1,60 @@
+{
+  "id": "q-l06-s05a",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Riya starts a startup that sells snacks made from millets. After a year of honest effort, it closes down. What is the right way to see this failure?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "It proves that she should never try to start any business again."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "It shows that every startup closes down in its very first year."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "It is nothing to be ashamed of, and its lessons help her next idea."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "It means only the customers were wrong, so there is nothing to learn."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-3",
+  "explanation": {
+    "en": "There is nothing wrong with failure if an honest effort has been made. Every failed attempt teaches lessons that help entrepreneurs build stronger ideas and better businesses later."
+  },
+  "hints": [
+    {
+      "en": "Some startups grow fast and some close down. What can a founder take from one that closed?"
+    }
+  ],
+  "tags": [
+    "startups",
+    "learning-from-failure",
+    "perseverance",
+    "risk"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

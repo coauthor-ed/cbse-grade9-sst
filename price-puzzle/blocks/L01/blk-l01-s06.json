@@ -1,0 +1,15 @@
+{
+  "id": "blk-l01-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L01/DemandCurveGameScene.js",
+  "objective": {
+    "en": "Put each quantity chip on the price at which Srivalli buys that much. Win when all three points sit on her demand curve."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:47.993Z",
+    "reviewedBy": "review-bar"
+  }
+}

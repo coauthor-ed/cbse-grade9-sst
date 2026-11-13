@@ -1,0 +1,85 @@
+{
+  "id": "q-l01-s06b",
+  "type": "match-categorize@1",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Sort each expense into Needs or Wants for a student's month."
+  },
+  "categories": [
+    {
+      "id": "needs",
+      "label": {
+        "en": "Needs"
+      }
+    },
+    {
+      "id": "wants",
+      "label": {
+        "en": "Wants"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-bus",
+      "text": {
+        "en": "Bus fare to school"
+      },
+      "correctCategoryId": "needs"
+    },
+    {
+      "id": "chip-notebook",
+      "text": {
+        "en": "A notebook for class"
+      },
+      "correctCategoryId": "needs"
+    },
+    {
+      "id": "chip-medicine",
+      "text": {
+        "en": "Medicines for a fever"
+      },
+      "correctCategoryId": "needs"
+    },
+    {
+      "id": "chip-snack",
+      "text": {
+        "en": "An extra snack from the canteen"
+      },
+      "correctCategoryId": "wants"
+    },
+    {
+      "id": "chip-gift",
+      "text": {
+        "en": "A birthday gift for a cousin"
+      },
+      "correctCategoryId": "wants"
+    },
+    {
+      "id": "chip-phone",
+      "text": {
+        "en": "A new phone while the old one still works"
+      },
+      "correctCategoryId": "wants"
+    }
+  ],
+  "explanation": {
+    "en": "A need is what the month does not work without: the journey to school, the notebook the class uses, and medicine for an illness. A want adds comfort or pleasure and can wait a month without breaking anything, which is where a snack, a gift and an unnecessary phone belong. A budget that keeps its needs and its savings and cuts its wants is one that can be kept."
+  },
+  "hints": [
+    {
+      "en": "Ask of each item: if this waits one month, does anything break?"
+    }
+  ],
+  "tags": [
+    "needs-and-wants",
+    "budget"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

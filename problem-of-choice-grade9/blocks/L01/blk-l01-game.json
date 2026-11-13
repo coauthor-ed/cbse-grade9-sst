@@ -1,0 +1,20 @@
+{
+  "id": "blk-l01-game",
+  "type": "mini-game@1",
+  "subject": "social-science",
+  "grade": 9,
+  "chapterId": "problem-of-choice",
+  "topicId": "needs-and-wants",
+  "board": "CBSE",
+  "src": "simulations/L01/NeedOrWantGame.js",
+  "objective": {
+    "en": "Sort each card: is it doing the job of a need or of a want? Careful: the same thing appears twice, in two different situations."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

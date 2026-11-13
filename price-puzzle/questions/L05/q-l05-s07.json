@@ -1,0 +1,58 @@
+{
+  "id": "q-l05-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "This question is about a different market: the one in Fig. 9.8 of your textbook. Its demand curve DD' and supply curve SS' cross at point E. At a price below E, point C on the supply curve is far to the left of point F on the demand curve. If the price stays there, what could happen next in a free market?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The price falls further, because there is a surplus at this price."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Nothing happens, because C and F are at the same price."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Buyers who cannot get the good are ready to pay more, so the price rises towards E."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Sellers offer the amount at F straight away, at the same price."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Below E, buyers want more (F) than sellers offer (C): there is a shortage. In a free market the price rises. Buyers then want less and sellers offer more, until the market reaches E."
+  },
+  "hints": [
+    {
+      "en": "Which point shows what buyers want, and which shows what sellers offer? Which is larger?"
+    }
+  ],
+  "tags": [
+    "shortage",
+    "equilibrium-graph"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:04.705Z",
+    "reviewedBy": "review-bar"
+  }
+}

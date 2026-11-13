@@ -1,0 +1,58 @@
+{
+  "id": "q-l06-s08b",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "tags": [
+    "dandekar",
+    "opportunity"
+  ],
+  "stem": {
+    "en": "What opportunity did the Dandekar brothers see in the market?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "People in Glasgow wanted to buy Indian ink powder."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Artists in India could not get good art materials."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Schools in Mumbai had no money to buy any stationery."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Glass bottles were cheaper in India than anywhere else."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-2",
+  "explanation": {
+    "en": "As their business grew, the brothers noticed that artists in India did not have good art materials. They saw this as an opportunity, studied colour chemistry and made art supplies suited to Indian needs."
+  },
+  "hints": [
+    {
+      "en": "Who could not get what they needed, before the brothers made colours?"
+    }
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

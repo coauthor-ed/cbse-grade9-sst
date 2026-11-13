@@ -1,0 +1,15 @@
+{
+  "id": "blk-l06-s04",
+  "type": "mini-game@1",
+  "src": "simulations/L06/ReinvestGame.js",
+  "objective": {
+    "en": "In three years, end with at least ₹1,30,000 of trade money and give at least ₹35,000 to temples, education and welfare."
+  },
+  "xp": 40,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

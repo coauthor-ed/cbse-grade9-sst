@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s06",
+  "type": "mini-game@1",
+  "src": "simulations/L02/BeatThePriceGame.js",
+  "objective": {
+    "en": "In all three rounds, pick a place where the money grows faster than prices and can be taken out in time, so it still buys the item after one year."
+  },
+  "xp": 60,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

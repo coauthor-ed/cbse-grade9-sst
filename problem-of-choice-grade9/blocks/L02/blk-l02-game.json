@@ -1,0 +1,20 @@
+{
+  "id": "blk-l02-game",
+  "type": "mini-game@1",
+  "subject": "social-science",
+  "grade": 9,
+  "chapterId": "problem-of-choice",
+  "topicId": "opportunity-cost",
+  "board": "CBSE",
+  "src": "simulations/L02/StripsGame.js",
+  "objective": {
+    "en": "A made-up example. If the farmer moves 3 strips to barley, starting with the dry strip, how much wheat is given up? Predict first, then switch the strips and check."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blk-l05-s04",
+  "type": "mini-game@1",
+  "src": "simulations/L05/NoLossCakesGame.js",
+  "objective": {
+    "en": "In each of three months, find the smallest number of cakes that leaves the bakery with no loss."
+  },
+  "xp": 40,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

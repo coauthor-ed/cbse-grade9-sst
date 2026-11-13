@@ -1,0 +1,57 @@
+{
+  "id": "q-l03-s04",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "At ₹150 per kg, Seller A offers 3 kg, Seller B offers 7 kg and Seller C offers 8 kg. What is the market supply at ₹150 per kg?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "8 kg, because the seller who offers the most sets the market supply."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "6 kg, because that is how much a typical seller offers at that price."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "18 kg, because we add what all three sellers offer at that price."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "12 kg, because that is the market supply in the middle row of the table."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Market supply adds what every seller offers at the same price: 3 + 7 + 8 = 18 kg. One seller, or an average seller, tells us about one stall, not the whole market. 12 kg is the market supply at a different price, ₹100."
+  },
+  "hints": [
+    {
+      "en": "Stay at one price, and add what every seller offers there."
+    }
+  ],
+  "tags": [
+    "market-supply"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:56.369Z",
+    "reviewedBy": "review-bar"
+  }
+}

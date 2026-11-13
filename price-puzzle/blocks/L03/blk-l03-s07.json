@@ -1,0 +1,15 @@
+{
+  "id": "blk-l03-s07",
+  "type": "mini-game@1",
+  "src": "simulations/L03/SupplyGameScene.js",
+  "objective": {
+    "en": "Plot the market supply of guavas at each of the three prices. Win when all three points are right and the market supply curve is drawn."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:56.369Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "les-05",
+  "lessonId": "les-05",
+  "type": "lesson",
+  "title": {
+    "en": "Choosing where money waits"
+  },
+  "chapterId": "personal-finances/ch1",
+  "blocks": [
+    {
+      "blockRef": "blocks/L05/blk-l05-s01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s02.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s03.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s02.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s04.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s03.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s05b.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s05.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s05c.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s06.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s04.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

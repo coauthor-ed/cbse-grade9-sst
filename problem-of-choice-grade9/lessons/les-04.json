@@ -1,0 +1,41 @@
+{
+  "id": "les-04",
+  "lessonId": "les-04",
+  "type": "lesson",
+  "title": {
+    "en": "What does economics deal with?"
+  },
+  "chapterId": "iest1-ch8",
+  "blocks": [
+    {
+      "blockRef": "blocks/L04/blk-l04-s01.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s02.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s03.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s04.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s05.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-s06.json"
+    },
+    {
+      "blockRef": "questions/L04/q-l04-s07.json"
+    },
+    {
+      "blockRef": "blocks/L04/blk-l04-game.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.373Z"
+  }
+}

@@ -19,6 +19,62 @@
   ],
   "tests": [],
   "generatedAt": "2026-08-25T18:33:26.137Z",
+  "blurb": {
+    "en": "What makes a government a democracy, and what keeps it one."
+  },
+  "highlights": [
+    {
+      "en": "Find out why India sets up a voting booth for just one voter"
+    },
+    {
+      "en": "Compare democracy with other kinds of government"
+    },
+    {
+      "en": "See what goes wrong when one office makes, runs and judges the laws"
+    },
+    {
+      "en": "Learn what can weaken a democracy and what protects it"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "The Constitution: adopted, then in force"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "Free speech, and its limits in law"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "One party or many?"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "Head of State and Head of Government"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "What you can do as a citizen now"
+      }
+    }
+  ],
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "cover": "showcase/cover.jpg",
+  "estHours": 3,
+  "sizeMB": 0.5,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -34,10 +90,55 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "democracy",
+        "title": "Democracy",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "Why build a voting booth for one voter?"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "Was ancient India already democratic?"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "Who is the boss of the government?"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "What if one office made, ran, and judged the laws?"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "One word, many governments"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "How big is an Indian election?"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "What can weaken a democracy, and what protects it?"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 7,
+    "narrated": false,
+    "chapterIds": [
+      "iest1-ch6",
+      "iest1-ch7"
+    ]
   }
 }

@@ -1,0 +1,129 @@
+{
+  "id": "q-l07-s07",
+  "type": "semantic-descriptive@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "estimatedTimeSec": 150,
+  "prompt": {
+    "en": "Income tax in India is described as a progressive tax. Explain what progressive taxation means, and state any two public services that income tax pays for."
+  },
+  "rubric": [
+    {
+      "id": "rate-rises",
+      "label": {
+        "en": "A higher income pays tax at a higher rate"
+      },
+      "level1": {
+        "en": "What happens to the rate as a person's income rises?"
+      },
+      "clue": {
+        "en": "The slab table moves from nil to 5%, then 10%, then 15% and beyond, so the rate climbs with the income."
+      },
+      "level2Template": {
+        "en": "Under progressive taxation, a person with a higher income pays tax at a ___ rate."
+      },
+      "accepted": [
+        "higher",
+        "larger",
+        "greater"
+      ]
+    },
+    {
+      "id": "portion-only",
+      "label": {
+        "en": "Only the part of the income inside a slab is charged at that rate"
+      },
+      "level1": {
+        "en": "Is the highest rate charged on the whole income, or only on a part of it?"
+      },
+      "clue": {
+        "en": "Each slab charges its own rate on the portion of income that falls inside it, so the slabs are added one by one."
+      },
+      "level2Template": {
+        "en": "Only the part of the income lying inside a slab is charged at ___ rate."
+      },
+      "accepted": [
+        "that slab's",
+        "its own",
+        "the slab's"
+      ]
+    },
+    {
+      "id": "public-services",
+      "label": {
+        "en": "Two public services funded by income tax"
+      },
+      "level1": {
+        "en": "Name two things that the tax money is spent on."
+      },
+      "clue": {
+        "en": "The chapter names schools, hospitals, transport and defence, all of which are used without a fee at the gate."
+      },
+      "level2Template": {
+        "en": "The tax funds public services such as ___ and ___."
+      },
+      "accepted": [
+        "schools and hospitals",
+        "schools and roads",
+        "hospitals and roads",
+        "roads and defence",
+        "schools and defence",
+        "hospitals and transport"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "What progressive means"
+      },
+      "text": {
+        "en": "Income tax in India is progressive, which means that the rate of tax rises as the income rises."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "The rate rises"
+      },
+      "text": {
+        "en": "Under progressive taxation, a person with a higher income pays tax at a ___ rate."
+      },
+      "rubricId": "rate-rises"
+    },
+    {
+      "eyebrow": {
+        "en": "Charged by portion"
+      },
+      "text": {
+        "en": "Only the part of the income lying inside a slab is charged at ___ rate."
+      },
+      "rubricId": "portion-only"
+    },
+    {
+      "eyebrow": {
+        "en": "Where the money goes"
+      },
+      "text": {
+        "en": "The tax funds public services such as ___ and ___."
+      },
+      "rubricId": "public-services"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "progressive-taxation",
+    "income-tax",
+    "public-services"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

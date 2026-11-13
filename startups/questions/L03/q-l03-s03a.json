@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-s03a",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "ABC Bakery can rent a shop near the busy market or one in a quiet lane. What does it give up and what does it get if it picks the market?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "It pays more rent, and more people walk past the shop."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "It pays less rent, and fewer people walk past the shop."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "It pays more rent, and it no longer needs to sell online."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "It pays the same rent, and it gets cheaper flour."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-1",
+  "explanation": {
+    "en": "A busy area brings more people past the shop, which can mean more customers. In real life, a shop there usually costs more rent than one in a quiet lane."
+  },
+  "hints": [
+    {
+      "en": "Think about the crowd near a market, and what rent a shop owner there will charge."
+    }
+  ],
+  "tags": [
+    "business-plan",
+    "location",
+    "trade-off",
+    "rent",
+    "footfall"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

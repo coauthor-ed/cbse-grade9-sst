@@ -1,0 +1,19 @@
+{
+  "id": "blk-l06-s03",
+  "type": "content-block@1",
+  "poeRole": "explain",
+  "markdown": {
+    "en": "# Prices Decide the Method\n\n<!-- STEP id=\"flip\" -->\nNow 4 tailors cost 4 × ₹400 = ₹1,600 a day. The sewing line still costs ₹1,200 a day. The machine is cheaper by ₹400 a day, so Masterji moves to capital-intensive production. Nothing about the tailors changed except their wage.\n\n<!-- STEP id=\"wage\" -->\nMove the wage and watch the two bills. At ₹300 a day, 4 tailors cost ₹1,200, the same as the sewing line. Below ₹300 the tailors are cheaper. Above ₹300 the machine is cheaper.\n\n**When the price of workers or machines changes, the best way to produce can change too.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/WorkshopScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.379Z"
+  }
+}

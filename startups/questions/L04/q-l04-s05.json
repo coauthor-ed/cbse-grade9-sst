@@ -1,0 +1,69 @@
+{
+  "id": "q-l04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "Oberoi's hotels were renovated and run efficiently to keep high standards, and his staff were skilled and well trained. Which two areas worked together here to improve quality?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Finance and accounting, with marketing and sales"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Marketing and sales, with human resources"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Management and operations, with human resources"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Finance and accounting, with management and operations"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-3",
+  "explanation": {
+    "en": "Renovating hotels and running them well is management and operations. Hiring and training skilled staff is human resources. Together they kept the quality high."
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L04/exp-q-l04-s05.json"
+      }
+    ]
+  },
+  "hints": [
+    {
+      "en": "Who keeps the hotel in good condition, and who trains the people who serve the guests?"
+    }
+  ],
+  "tags": [
+    "case-study",
+    "oberoi",
+    "operations",
+    "human-resources",
+    "quality"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "blk-l06-s05",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# What Decides How\n\n<!-- STEP id=\"costs\" -->\nFirst, what things cost. If machines are expensive, a firm uses more workers. If machines become affordable, it may shift to machines. If workers are easy to find and wages are low, firms use more workers. If workers are scarce or costly, machines make more sense.\n\n<!-- STEP id=\"product\" -->\nSecond, technology and the product. Advanced technology encourages machines; limited technology means more work by hand. Designer clothes made for one person need skilled hands. Thousands of identical uniforms suit machines.\n\n<!-- STEP id=\"laws\" -->\nThird, laws. Government laws and rules, such as labour laws or help to buy machines, also shape the choice.\n\n**Costs, technology, the product and laws together decide how to produce.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/HowDialsScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.379Z"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "q-l06-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Suppose the government sets a highest sale price for an essential vaccine, below the price the market would set. What is likely to happen?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A surplus"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A shortage"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "No effect"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A fall in demand"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Below the market price, more people want the vaccine at the lower price, but sellers offer less. More is wanted than is offered, so there is a shortage. The price is not allowed to rise, so the shortage stays."
+  },
+  "hints": [
+    {
+      "en": "Look back at the mango market at the ceiling of 50 rupees. Which was bigger there: what buyers wanted or what sellers offered?"
+    }
+  ],
+  "tags": [
+    "price-ceiling",
+    "book-q5"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:53:08.672Z",
+    "reviewedBy": "review-bar"
+  }
+}

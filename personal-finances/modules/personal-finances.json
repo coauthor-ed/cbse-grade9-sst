@@ -1,0 +1,68 @@
+{
+  "id": "personal-finances",
+  "moduleId": "personal-finances",
+  "type": "module",
+  "authorId": "personal-finances",
+  "title": {
+    "en": "Managing Your Personal Finances"
+  },
+  "curriculumAlignment": "core",
+  "chapterId": "personal-finances/ch1",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "budgeting",
+      "saving-and-inflation",
+      "power-of-compounding",
+      "investment-options",
+      "risk-return-trade-off",
+      "insurance-and-risk-pooling",
+      "borrowing-and-emi",
+      "income-tax-and-slabs",
+      "pillars-of-personal-finance"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "Where did the money go?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "Is the gullak safe?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "Ten years late"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "Where can savings grow?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "Choosing where money waits"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "Insurance and borrowing"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-07.json",
+      "title": {
+        "en": "Income tax"
+      }
+    }
+  ]
+}

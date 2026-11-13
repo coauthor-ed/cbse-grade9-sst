@@ -1,0 +1,20 @@
+{
+  "id": "blk-l09-game",
+  "type": "mini-game@1",
+  "subject": "social-science",
+  "grade": 9,
+  "chapterId": "problem-of-choice",
+  "topicId": "synthesis",
+  "board": "CBSE",
+  "src": "simulations/L09/OrderChainGame.js",
+  "objective": {
+    "en": "Seven ideas from this chapter are mixed up. Put them in order, so that each idea leads to the next: from wants meeting limits to mixed economies."
+  },
+  "xp": 15,
+  "authoring": {
+    "status": "human-approved",
+    "importBatchId": "sprint-duolingo-kurzgesagt",
+    "flags": [],
+    "reviewedAt": "2026-08-31T00:00:00.000Z"
+  }
+}

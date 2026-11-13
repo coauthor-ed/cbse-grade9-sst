@@ -1,0 +1,26 @@
+{
+  "id": "blk-l08-s01",
+  "type": "poe-predict@1",
+  "prompt": "# Pure or Mixed?\n\nYou have met two economic systems. In a planned economy, the government's planning office decides. In a market economy, buyers and sellers decide through demand and supply.\n\n**Predict:** Do most countries today use only one of these two systems?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Yes. Most countries use only one system, planned or market."
+    },
+    {
+      "id": "b",
+      "text": "No. Almost every economy mixes both."
+    },
+    {
+      "id": "c",
+      "text": "Yes. Most countries use a pure market economy."
+    }
+  ],
+  "correctOptionId": "b",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.383Z"
+  }
+}

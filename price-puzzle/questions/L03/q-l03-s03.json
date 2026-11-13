@@ -1,0 +1,57 @@
+{
+  "id": "q-l03-s03",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "The price of mangoes rises from ₹100 to ₹150 per kg. Nothing else changes. What does the Law of Supply say Seller A will do?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Offer more kilograms, because each kilogram now brings him more profit."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Offer fewer kilograms, because buyers buy less at a higher price."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Offer the same amount, because the price does not change how many mangoes he has."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Stop selling, and wait until the price goes back to ₹100."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Under the Law of Supply, price and quantity supplied move in the same direction. A higher price brings more profit on each kilogram, so Seller A offers more. Buying less at a higher price is the Law of Demand, which is about buyers, not sellers."
+  },
+  "hints": [
+    {
+      "en": "This question is about the seller, not the buyers. What does a higher price mean for him?"
+    }
+  ],
+  "tags": [
+    "law-of-supply"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:56.369Z",
+    "reviewedBy": "review-bar"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "q-l07-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "In a planned economy, the yearly plan fixes umbrella production at 10,000 and the price at ₹120. This monsoon, buyers want twice as many umbrellas as planned. What is most likely to happen in the shops?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Unsold umbrellas pile up, because the plan always makes too many."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The price rises to ₹240 by itself, so fewer people buy."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Quality improves quickly, as factories race to win new buyers."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Umbrellas run out, since the number and price are both fixed."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The plan fixes both how many umbrellas are made and their price, so the extra buyers cannot be served: the shops run out until the next plan (d). Twice the buyers cannot leave a pile of unsold umbrellas (a). The price cannot change without the plan (b). With fixed targets and few rivals, factories have little reason to improve (c)."
+  },
+  "hints": [
+    {
+      "en": "The plan fixes two things: the number of umbrellas and the price."
+    }
+  ],
+  "tags": [
+    "planned-economy",
+    "shortage",
+    "key-questions"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.381Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "blk-l06-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06/blk-l06-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Lending only to their own relatives in the same village"
+    },
+    {
+      "id": "b",
+      "text": "Keeping no written records, so that every deal stayed secret"
+    },
+    {
+      "id": "c",
+      "text": "Strong business ethics, trust and careful accounts"
+    },
+    {
+      "id": "d",
+      "text": "Asking the government of each country to collect the money"
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  },
+  "simulation": {
+    "src": "simulations/L06/ChettiarLoanSetupScene.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

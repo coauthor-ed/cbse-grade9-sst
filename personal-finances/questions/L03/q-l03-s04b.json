@@ -1,0 +1,62 @@
+{
+  "id": "q-l03-s04b",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A family has ₹30,000 to keep for five years at 8% a year, and two banks offer it differently. Bank A adds 8% of the original ₹30,000 at the end of every year. Bank B adds 8% of whatever the balance is at the end of that year. Both add the money to the account. Which statement about the family's total after five years is correct?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Bank A pays slightly more, because it adds a fixed ₹2,400 in every year, including the fifth year."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Both banks pay ₹42,000, because the same ₹30,000 is kept for the same five years at the same rate."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Bank B pays more than twice as much, because each year's interest is added to the rate as well as to the balance."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Bank B pays about ₹2,080 more, because its interest is charged on the growing balance and not on ₹30,000 every time."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Bank A pays ₹42,000 in all, after five additions of ₹2,400. Bank B pays ₹44,079.84, which is about ₹2,080 more. The difference appears from the second year onward: Bank A's ₹2,400 never changes, while Bank B's addition grows to ₹2,592, then ₹2,799.36 and so on, because it is charged on a larger balance each time. The rate stays at 8% in both banks, so nothing is doubled, and the fixed addition cannot pay more than the growing one."
+  },
+  "hints": [
+    {
+      "en": "Work out both totals for two years first, and see where the two banks stop agreeing."
+    },
+    {
+      "en": "Bank B's first-year addition is ₹2,400, but its second-year addition is 8% of ₹32,400."
+    }
+  ],
+  "tags": [
+    "compounding",
+    "simple-versus-compound",
+    "compound-formula"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "blk-l03-s05",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Why the Sacrifices Grow\n\n<!-- STEP id=\"pattern\" -->\nLook at the table again. The first 25 kg of barley costs 10 kg of wheat. The next 25 kg costs 20, then 30, then 40.\n\nWhy does each step cost more wheat?\n\n<!-- STEP id=\"why\" -->\nA made-up reason: the 4 strips are not all the same. Wheat grows poorly on the dry strip, so the farmer switches it first and loses only 10 kg. The best wheat strip goes last and costs 40 kg.\n\n**Each extra 25 kg of barley costs more wheat. That is why the curve bows outward.**"
+  },
+  "simulation": {
+    "src": "simulations/L03/StripOrderScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.371Z"
+  }
+}

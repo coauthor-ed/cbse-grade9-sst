@@ -1,0 +1,30 @@
+{
+  "id": "q-l01-s07",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "For the school reopening, the needs on the list are: school bag ₹550, books ₹700, uniform and shoes ₹600, notebooks ₹250, pens and pencils ₹120, and art supplies ₹180. If ₹3,000 is available, how much is left to record as savings, in rupees?"
+  },
+  "expectedValue": 600,
+  "tolerance": 0,
+  "unit": "rupees",
+  "explanation": {
+    "en": "The six needs add to ₹2,400, and ₹3,000 - ₹2,400 = ₹600. That ₹600 can pay for an extra item, but only if the budget still balances. Whatever is not spent goes on the savings row."
+  },
+  "hints": [
+    {
+      "en": "Add the six need amounts first, then subtract the total from ₹3,000."
+    }
+  ],
+  "tags": [
+    "budget",
+    "arithmetic"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

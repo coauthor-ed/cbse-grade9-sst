@@ -1,0 +1,57 @@
+{
+  "id": "q-l01-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Meera went from a basic phone to a smartphone, and then wanted a bigger screen. Which statement about wants does this best support?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Wants stop growing once basic comforts are covered."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Only rich families have wants that change."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Each met want makes room for a new one, so the list never ends."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A smartphone must be a need because it came last."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Each phone Meera got led to a new want. That is what 'unlimited wants' means: meeting one want makes room for the next. Comfort does not end wanting (a), wants are not only for the rich (b), and coming last does not make something a need (d)."
+  },
+  "hints": [
+    {
+      "en": "Follow Meera's story: what did each new phone do to her wanting?"
+    }
+  ],
+  "tags": [
+    "unlimited-wants",
+    "upgrade-trail"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.359Z"
+  }
+}

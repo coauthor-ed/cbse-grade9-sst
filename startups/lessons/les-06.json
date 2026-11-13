@@ -1,0 +1,81 @@
+{
+  "id": "les-06",
+  "lessonId": "les-06",
+  "type": "lesson",
+  "title": {
+    "en": "Old roots, new startups"
+  },
+  "chapterId": "kebs1-ch9",
+  "blocks": [
+    {
+      "blockRef": "blocks/L06/blk-l06-s01.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s02.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s03.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s03a.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s03b.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s04b.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s04.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s04.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s05.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s05a.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s06.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s06a.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s06c.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s06b.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s07.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s07.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s08.json"
+    },
+    {
+      "blockRef": "questions/L06/q-l06-s08b.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-a01.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s09.json"
+    },
+    {
+      "blockRef": "blocks/L06/blk-l06-s10.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

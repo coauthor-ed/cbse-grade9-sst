@@ -1,0 +1,43 @@
+{
+  "id": "q-l05-s04",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "assertion": {
+    "en": "In the game, fixed costs were ₹10,000 and each cake used ₹300 of ingredients and a box. When the price fell from ₹500 to ₹400, more cakes had to be sold to avoid a loss."
+  },
+  "reason": {
+    "en": "At a lower price, each cake leaves less money over its variable cost to pay the fixed costs."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both are true, and the Reason explains the Assertion: when each cake leaves less, more cakes are needed to pay the same fixed costs."
+    },
+    "c": {
+      "en": "The Reason is true: at ₹400 a cake leaves ₹100 over its ₹300 variable cost, and at ₹500 it leaves ₹200."
+    },
+    "d": {
+      "en": "The Assertion is true: at ₹500 the bakery needed 50 cakes, and at ₹400 it needed 100."
+    }
+  },
+  "explanation": {
+    "en": "Both are true, and the Reason explains the Assertion. At ₹500 each cake left ₹200, so 50 cakes paid the ₹10,000 of fixed costs. At ₹400 each cake left only ₹100, so 100 cakes were needed."
+  },
+  "hints": [
+    {
+      "en": "Compare how much one cake leaves at each price."
+    }
+  ],
+  "tags": [
+    "fixed-cost",
+    "variable-cost",
+    "profit"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

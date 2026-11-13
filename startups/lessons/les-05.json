@@ -1,0 +1,63 @@
+{
+  "id": "les-05",
+  "lessonId": "les-05",
+  "type": "lesson",
+  "title": {
+    "en": "Is the bakery making money?"
+  },
+  "chapterId": "kebs1-ch9",
+  "blocks": [
+    {
+      "blockRef": "blocks/L05/blk-l05-s01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s02.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s02a.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s02b.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s05a.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s03.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s03a.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s03b.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-a01.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s04b.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s04.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s04.json"
+    },
+    {
+      "blockRef": "blocks/L05/blk-l05-s05.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s05b.json"
+    },
+    {
+      "blockRef": "questions/L05/q-l05-s05c.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

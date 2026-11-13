@@ -1,0 +1,60 @@
+{
+  "id": "q-l02-s04",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Priya and Sameer each set aside ₹500 for one year. Priya keeps hers in a gullak. Sameer puts his in a bank deposit that pays 8% a year if he leaves it in for the full year. Which statement best describes the difference?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Sameer's choice is safer, because a deposit that pays interest can never lose its value."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "There is no real difference, because both of them can still spend ₹500 after a year."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Priya's choice grows faster, because coins in a gullak keep their full buying power."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Sameer's money earns a return if he waits the year, while Priya's is ready any day."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Sameer invested: his ₹500 became ₹540, but only because he left it in for the year. Priya saved: her ₹500 stayed liquid and could be spent any day, but it earned nothing, and with prices rising it buys a little less each year."
+  },
+  "hints": [
+    {
+      "en": "Compare two things: what happens to the amount, and how quickly each of them can use the money."
+    }
+  ],
+  "tags": [
+    "investing",
+    "liquidity",
+    "saving",
+    "mcq-single"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

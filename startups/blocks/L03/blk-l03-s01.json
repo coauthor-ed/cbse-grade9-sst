@@ -1,0 +1,36 @@
+{
+  "id": "blk-l03-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03/blk-l03-s01.md",
+  "options": [
+    {
+      "id": "opt-1",
+      "text": "Only the posters, because the children need to hear about the shop."
+    },
+    {
+      "id": "opt-2",
+      "text": "What you bake, what you charge and where you sell it."
+    },
+    {
+      "id": "opt-3",
+      "text": "Nothing, because a good bakery suits every kind of customer."
+    },
+    {
+      "id": "opt-4",
+      "text": "Only the number of bakers, because children buy more often."
+    }
+  ],
+  "correctOptionId": "opt-2",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  },
+  "simulation": {
+    "src": "simulations/L03/BakeryCustomersSetupScene.js",
+    "position": "right",
+    "role": "setup"
+  }
+}

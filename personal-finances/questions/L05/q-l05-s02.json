@@ -1,0 +1,62 @@
+{
+  "id": "q-l05-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "The risk and return graph places fixed deposits low, mutual funds further along, and shares furthest, where both risk and possible return are highest. Which statement follows from that placement?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "An investment with a higher possible return is guaranteed to earn more than a fixed deposit over any period."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "An investment with a higher possible return also carries a higher chance of loss, because the two move together."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "An investment with a higher possible return has more liquidity, since higher returns always come with easier access."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "An investment with a higher possible return carries less risk, because the higher return pays for the extra risk."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The rising line shows a trade-off: a higher return is possible only when results can vary a lot, and that includes losing money. It is not a guarantee of more in every period, and it says nothing about liquidity."
+  },
+  "hints": [
+    {
+      "en": "Read the line as a set of choices, not as a set of promises. What has to be accepted at the right-hand end of it?"
+    },
+    {
+      "en": "Liquidity is a separate factor. Does the line say anything about how quickly an option turns into cash when you sell it?"
+    }
+  ],
+  "tags": [
+    "risk",
+    "return",
+    "trade-off"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

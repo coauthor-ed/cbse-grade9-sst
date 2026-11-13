@@ -1,0 +1,58 @@
+{
+  "id": "q-l01-s08",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "Meera set aside ₹500 on the day her ₹1,500 arrived, then spent ₹1,000, and reached her ₹3,000 goal in six months. Her friend Ayesha spent first and saved what was left, and ended with ₹1,000. Why did Meera reach the goal and Ayesha not?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Meera kept a fixed ₹500 back before spending, so her savings did not depend on what the month left over."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Meera's income was larger than Ayesha's, so she simply had more money to put aside each month."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Meera bought nothing at all for six months, while Ayesha kept buying things she needed."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Ayesha's month had more expenses than Meera's, so no plan could have saved anything for her."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "Both students received ₹1,500, and Ayesha did save, just far less, because a leftover is whatever the month happens to spare. A fixed amount kept back first makes savings a planned expense, which is what expenses = income - savings describes."
+  },
+  "hints": [
+    {
+      "en": "Compare when each of them decided the savings amount: before the month or after it."
+    }
+  ],
+  "tags": [
+    "budget",
+    "save-first"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

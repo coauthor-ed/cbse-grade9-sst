@@ -1,0 +1,34 @@
+{
+  "id": "q-l03-s04",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A family keeps ₹30,000 in a bank deposit that pays 8% a year, and leaves both the money and the interest in the account for five years. How much interest has the deposit earned at the end of the five years, in rupees? Use whole rupees, and allow for the paise."
+  },
+  "expectedValue": 14079.84,
+  "tolerance": 2,
+  "unit": "₹",
+  "explanation": {
+    "en": "₹14,079.84, so the account ends at ₹44,079.84. The balance grows year by year: ₹32,400, ₹34,992, ₹37,791.36, ₹40,814.67, ₹44,079.84. The shortcut is A = P(1 + r)^n with P = ₹30,000, r = 0.08 and n = 5, and then the interest is A − P. Adding 8% of ₹30,000 every year gives only ₹12,000, which is ₹2,079.84 short, because from the second year onward the 8% is charged on interest as well as on the principal."
+  },
+  "hints": [
+    {
+      "en": "After the first year the account holds ₹32,400. Take the second year's 8% on that number, not on ₹30,000."
+    },
+    {
+      "en": "A = P(1 + r)^n with P = ₹30,000, r = 0.08 and n = 5. The question asks for the interest, so subtract the ₹30,000 principal from A."
+    }
+  ],
+  "tags": [
+    "compounding",
+    "compound-formula",
+    "interest-earned"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

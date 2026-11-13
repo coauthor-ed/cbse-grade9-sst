@@ -1,0 +1,128 @@
+{
+  "id": "q-l01-s08",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "Why do people's wants keep changing over time? How does this affect production in an economy? Why can all our wants never be satisfied? (3 marks)"
+  },
+  "rubric": [
+    {
+      "id": "wants-change-reason",
+      "label": {
+        "en": "Explains that satisfying one want creates the next one, while new products, changing tastes and rising incomes keep the list moving"
+      },
+      "level1": {
+        "en": "Think about the week after a new game or gadget arrives — how soon do you start wanting the next one?"
+      },
+      "clue": {
+        "en": "Meera's basic phone led to a smartphone, then to wanting a bigger screen. Shops also keep selling things that did not exist last year."
+      },
+      "level2Template": {
+        "en": "Wants change because the satisfaction of one want gives rise to ___, while new products and changing fashions create fresh desires."
+      },
+      "accepted": [
+        "a new want",
+        "another want",
+        "the next want",
+        "new wants"
+      ]
+    },
+    {
+      "id": "production-adapts",
+      "label": {
+        "en": "Shows that producers respond to shifting wants by changing what they make — new goods get produced, fading ones are cut back"
+      },
+      "level1": {
+        "en": "When everyone suddenly wants the newest thing, what happens to the factories still making last year's model?"
+      },
+      "clue": {
+        "en": "Producers chase demand: a product nobody wants any more stops being made, while the new favourite gets fresh production lines."
+      },
+      "level2Template": {
+        "en": "Producers respond to changing wants by adjusting ___, directing resources towards goods and services for which demand is rising."
+      },
+      "accepted": [
+        "what they produce",
+        "their pattern of production",
+        "production plans"
+      ]
+    },
+    {
+      "id": "scarcity-unsatisfiable",
+      "label": {
+        "en": "Concludes that all wants can never be satisfied because resources stay limited while wants multiply without end"
+      },
+      "level1": {
+        "en": "If money, land and workers were endless, would anything be missing? So where does the real limit lie?"
+      },
+      "clue": {
+        "en": "The wish-list grows without end, but money, land, workers, machines and time stay limited — Meera's ₹500 never stretches to her ₹750 list."
+      },
+      "level2Template": {
+        "en": "All wants cannot be satisfied because resources are ___ while wants are unlimited."
+      },
+      "accepted": [
+        "limited",
+        "scarce",
+        "finite"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Introduction"
+      },
+      "text": {
+        "en": "Human wants are unlimited and keep changing over time, and this shapes production in every economy."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Reason for changing wants"
+      },
+      "text": {
+        "en": "Wants change because the satisfaction of one want gives rise to ___, while new products and changing fashions create fresh desires."
+      },
+      "rubricId": "wants-change-reason"
+    },
+    {
+      "eyebrow": {
+        "en": "Effect on production"
+      },
+      "text": {
+        "en": "Producers respond to changing wants by adjusting ___, directing resources towards goods and services for which demand is rising."
+      },
+      "rubricId": "production-adapts"
+    },
+    {
+      "eyebrow": {
+        "en": "Why all wants cannot be satisfied"
+      },
+      "text": {
+        "en": "All wants cannot be satisfied because resources are ___ while wants are unlimited."
+      },
+      "rubricId": "scarcity-unsatisfiable"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "unlimited-wants",
+    "changing-wants",
+    "review",
+    "3-marks",
+    "coach"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.360Z"
+  }
+}

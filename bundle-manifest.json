@@ -1,8 +1,28 @@
 {
   "bundleManifestId": "cbse-grade9-sst",
   "title": {
-    "en": "CBSE Grade 9 Social Science"
+    "en": "Class 9 Social Science"
   },
+  "description": {
+    "en": "Class 9 social science: democracy and elections, early humans, the state and society, climate, landforms and oceans, and economics: choices, prices, personal finance and startups. Maps, timelines and short questions. Works offline."
+  },
+  "blurb": {
+    "en": "Eleven Class 9 modules on history, democracy, elections, geography and economics."
+  },
+  "highlights": [
+    {
+      "en": "Maps, timelines and diagrams you can move and explore"
+    },
+    {
+      "en": "Real places and events from India"
+    },
+    {
+      "en": "Short questions after each idea, with a hint when you need one"
+    },
+    {
+      "en": "Works offline once a lesson is opened"
+    }
+  ],
   "sources": [
     {
       "manifestUrl": "democracy/manifest.json"
@@ -24,6 +44,18 @@
     },
     {
       "manifestUrl": "state-society/manifest.json"
+    },
+    {
+      "manifestUrl": "problem-of-choice-grade9/manifest.json"
+    },
+    {
+      "manifestUrl": "price-puzzle/manifest.json"
+    },
+    {
+      "manifestUrl": "personal-finances/manifest.json"
+    },
+    {
+      "manifestUrl": "startups/manifest.json"
     }
   ]
 }

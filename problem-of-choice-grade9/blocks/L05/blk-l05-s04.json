@@ -1,0 +1,19 @@
+{
+  "id": "blk-l05-s04",
+  "type": "content-block@1",
+  "poeRole": "explain",
+  "markdown": {
+    "en": "# What to Produce\n\n<!-- STEP id=\"tradeoff\" -->\nSugarcane earns high profits and supports the sugar industry, but it needs a lot of water. Millets and pulses need little water, and they keep the soil healthy.\n\n<!-- STEP id=\"oc\" -->\nIf the district grows sugarcane, it gives up the water it could have saved and the healthier soil. That is the opportunity cost of sugarcane. If it grows millets instead, it gives up the sugarcane and its profit. Choosing what to produce means weighing money now against water and soil for the years ahead.\n\n**Choosing what to produce always gives up something else.**"
+  },
+  "simulation": {
+    "src": "simulations/L05/DryDistrictScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.377Z"
+  }
+}

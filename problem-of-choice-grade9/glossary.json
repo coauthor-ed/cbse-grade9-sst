@@ -1,0 +1,643 @@
+{
+  "terms": [
+    {
+      "id": "scarcity",
+      "term": "scarcity",
+      "match": [
+        "scarce"
+      ],
+      "plain": {
+        "en": "not enough of something for everyone who wants it"
+      },
+      "means": {
+        "en": "Wants are more than the resources that can meet them. Scarcity forces people, firms and governments to choose."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "need",
+      "term": "need",
+      "match": [
+        "needs"
+      ],
+      "plain": {
+        "en": "something we must have to live"
+      },
+      "means": {
+        "en": "Food, clean water, shelter and clothing are needs. Needs keep life possible."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "want",
+      "term": "want",
+      "match": [
+        "wants"
+      ],
+      "plain": {
+        "en": "something we would like to have but can live without"
+      },
+      "means": {
+        "en": "A new phone or a video game is a want. Human wants are unlimited: when one is met, a new one comes."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "economic-choice",
+      "term": "economic choice",
+      "match": [
+        "economic choices"
+      ],
+      "plain": {
+        "en": "a choice about how to use limited money, time or other resources"
+      },
+      "means": {
+        "en": "People, enterprises and governments all make economic choices, for example a farmer choosing which crop to grow."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "market",
+      "term": "market",
+      "match": [
+        "markets"
+      ],
+      "plain": {
+        "en": "any place where buyers and sellers meet"
+      },
+      "means": {
+        "en": "A market can be a shop, a weekly bazaar or an app on a phone."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "resources",
+      "term": "resources",
+      "match": [
+        "resource"
+      ],
+      "plain": {
+        "en": "things we use to make goods and services"
+      },
+      "means": {
+        "en": "Natural resources include water and coal. Human-made resources include machines, capital and technology. Resources are limited and have many uses."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "land",
+      "term": "land",
+      "plain": {
+        "en": "the ground and everything nature gives, such as water, soil and minerals"
+      },
+      "means": {
+        "en": "Land is one of the factors of production."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "technology",
+      "term": "technology",
+      "plain": {
+        "en": "knowledge and methods for making things better or faster"
+      },
+      "means": {
+        "en": "Technology is one of the factors of production. Better technology can make more from the same resources."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "economics",
+      "term": "economics",
+      "plain": {
+        "en": "the study of how people make choices with limited resources"
+      },
+      "means": {
+        "en": "Economics studies how choices are made by making the best use of limited resources to meet needs and wants."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "economy",
+      "term": "economy",
+      "match": [
+        "economies"
+      ],
+      "plain": {
+        "en": "all the producing, buying, selling and money flows of a country or region"
+      },
+      "means": {
+        "en": "The economy is the state of a country or region in terms of production, consumption and the flow of money."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "producer",
+      "term": "producer",
+      "match": [
+        "producers"
+      ],
+      "plain": {
+        "en": "a person or firm that makes and sells goods or services"
+      },
+      "means": {
+        "en": "Producers pay wages to workers and sell goods to consumers."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "economic-system",
+      "term": "economic system",
+      "match": [
+        "economic systems"
+      ],
+      "plain": {
+        "en": "the way a country answers what to produce, how and for whom"
+      },
+      "means": {
+        "en": "The three economic systems are planned, market and mixed."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "demand",
+      "term": "demand",
+      "plain": {
+        "en": "how much buyers want to buy at a price"
+      },
+      "means": {
+        "en": "When demand rises and supply stays the same, the price usually rises."
+      },
+      "lesson": 1,
+      "group": "concept"
+    },
+    {
+      "id": "labour",
+      "term": "labour",
+      "plain": {
+        "en": "the work people do, with their hands and minds"
+      },
+      "means": {
+        "en": "Labour is one of the factors of production. Workers are paid wages for their labour."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "capital",
+      "term": "capital",
+      "plain": {
+        "en": "machines, tools, buildings and money used to produce goods"
+      },
+      "means": {
+        "en": "Capital is one of the factors of production. A sewing machine in a workshop is capital."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "opportunity-cost",
+      "term": "opportunity cost",
+      "match": [
+        "opportunity costs"
+      ],
+      "plain": {
+        "en": "the value of the next-best choice you give up"
+      },
+      "means": {
+        "en": "When you choose one thing, the best thing you could have had instead is its opportunity cost. It is not always money."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "ppc",
+      "term": "production possibility curve",
+      "match": [
+        "production possibility curves",
+        "PPC"
+      ],
+      "plain": {
+        "en": "a graph of all the best mixes of two goods that can be made with the resources we have"
+      },
+      "means": {
+        "en": "Each point on the curve is a full use of the land or workers. Points inside the curve leave some resources idle. Points outside cannot be reached."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "combination",
+      "term": "combination",
+      "match": [
+        "combinations"
+      ],
+      "plain": {
+        "en": "one possible mix of two things"
+      },
+      "means": {
+        "en": "On a farm, one combination might be 25 kg of barley and 90 kg of wheat."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "enterprise",
+      "term": "enterprise",
+      "match": [
+        "enterprises"
+      ],
+      "plain": {
+        "en": "a business, such as a farm, a shop or a firm"
+      },
+      "means": {
+        "en": "Enterprises decide what to make, how much to make and how to make it."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "factors-of-production",
+      "term": "factors of production",
+      "match": [
+        "factor of production"
+      ],
+      "plain": {
+        "en": "the four things used to produce goods: land, labour, capital and technology"
+      },
+      "means": {
+        "en": "Every good or service is made with some mix of the factors of production."
+      },
+      "lesson": 2,
+      "group": "concept"
+    },
+    {
+      "id": "idle",
+      "term": "idle",
+      "plain": {
+        "en": "not being used"
+      },
+      "means": {
+        "en": "Land or workers that are idle are not producing anything."
+      },
+      "lesson": 3,
+      "group": "concept"
+    },
+    {
+      "id": "economic-entities",
+      "term": "economic entities",
+      "match": [
+        "economic entity"
+      ],
+      "plain": {
+        "en": "the players in an economy"
+      },
+      "means": {
+        "en": "Consumers, producers, the government and financial institutions such as banks are the economic entities."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "consumer",
+      "term": "consumer",
+      "match": [
+        "consumers"
+      ],
+      "plain": {
+        "en": "a person who buys and uses goods and services"
+      },
+      "means": {
+        "en": "Consumers pay prices to producers."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "financial-institution",
+      "term": "financial institutions",
+      "match": [
+        "financial institution"
+      ],
+      "plain": {
+        "en": "banks and similar bodies that keep money and give loans"
+      },
+      "means": {
+        "en": "Banks are financial institutions. They take deposits and give loans."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "wage",
+      "term": "wage",
+      "match": [
+        "wages"
+      ],
+      "plain": {
+        "en": "money paid to a worker for work"
+      },
+      "means": {
+        "en": "A tailor earns a wage for each day of work."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "tax",
+      "term": "taxes",
+      "match": [
+        "tax"
+      ],
+      "plain": {
+        "en": "money people and firms pay to the government"
+      },
+      "means": {
+        "en": "The government uses taxes to pay for roads, schools, street lights and other public goods."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "data",
+      "term": "data",
+      "plain": {
+        "en": "facts and numbers collected for study"
+      },
+      "means": {
+        "en": "Good plans use data instead of guesswork."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "survey",
+      "term": "survey",
+      "match": [
+        "surveys"
+      ],
+      "plain": {
+        "en": "a planned way of collecting and studying facts"
+      },
+      "means": {
+        "en": "Economists use surveys to collect data, for example on how families spend money."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "policy",
+      "term": "policy",
+      "match": [
+        "policies",
+        "policy-making"
+      ],
+      "plain": {
+        "en": "a plan of action chosen by a government or a firm"
+      },
+      "means": {
+        "en": "Economists study data to help governments make good policies, such as on taxes or prices."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "economic-survey",
+      "term": "Economic Survey of India",
+      "match": [
+        "Economic Survey"
+      ],
+      "plain": {
+        "en": "a yearly report on the state of India's economy"
+      },
+      "means": {
+        "en": "The Ministry of Finance presents it in Parliament before the Union Budget."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "budget",
+      "term": "Union Budget",
+      "plain": {
+        "en": "the government's yearly plan of how it will earn and spend money"
+      },
+      "means": {
+        "en": "The Union Budget is presented in Parliament every year."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "welfare",
+      "term": "welfare",
+      "plain": {
+        "en": "help for people who need it, such as food, pensions or health care"
+      },
+      "means": {
+        "en": "Governments run welfare programmes for people who are poor, old or ill."
+      },
+      "lesson": 4,
+      "group": "concept"
+    },
+    {
+      "id": "supply",
+      "term": "supply",
+      "plain": {
+        "en": "how much sellers have to sell at a price"
+      },
+      "means": {
+        "en": "Demand and supply together set prices in a market economy."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "profit",
+      "term": "profit",
+      "match": [
+        "profits"
+      ],
+      "plain": {
+        "en": "the money a seller earns after paying all costs"
+      },
+      "means": {
+        "en": "The chance of profit leads firms to make what buyers want."
+      },
+      "lesson": 5,
+      "group": "concept"
+    },
+    {
+      "id": "labour-intensive",
+      "term": "labour-intensive",
+      "plain": {
+        "en": "using more workers and fewer machines"
+      },
+      "means": {
+        "en": "Farming and handicrafts are often labour-intensive."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "capital-intensive",
+      "term": "capital-intensive",
+      "plain": {
+        "en": "using more machines and fewer workers"
+      },
+      "means": {
+        "en": "Making steel and cars is capital-intensive."
+      },
+      "lesson": 6,
+      "group": "concept"
+    },
+    {
+      "id": "planned-economy",
+      "term": "planned economy",
+      "match": [
+        "planned economies"
+      ],
+      "plain": {
+        "en": "an economy where the government decides what to produce, how and for whom"
+      },
+      "means": {
+        "en": "In a planned economy, the government owns most factories and land and a planning office makes the decisions."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "market-economy",
+      "term": "market economy",
+      "match": [
+        "market economies"
+      ],
+      "plain": {
+        "en": "an economy where private owners decide, guided by demand and supply"
+      },
+      "means": {
+        "en": "In a market economy, individuals and private companies own most factories, shops and land."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "mixed-economy",
+      "term": "mixed economy",
+      "match": [
+        "mixed economies"
+      ],
+      "plain": {
+        "en": "an economy where the government and private firms both make economic choices"
+      },
+      "means": {
+        "en": "Almost all economies today are mixed. India is a mixed economy."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "competition",
+      "term": "competition",
+      "match": [
+        "compete",
+        "competes"
+      ],
+      "plain": {
+        "en": "sellers trying to win the same buyers"
+      },
+      "means": {
+        "en": "Competition pushes sellers towards better quality, lower prices and new ideas."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "public-goods",
+      "term": "public goods",
+      "match": [
+        "public good"
+      ],
+      "plain": {
+        "en": "goods everyone can use, which no seller can charge each user for"
+      },
+      "means": {
+        "en": "Roads, parks, street lights, police and basic education are public goods. The government provides them from taxes."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "licence",
+      "term": "licence",
+      "match": [
+        "licences",
+        "permits"
+      ],
+      "plain": {
+        "en": "official permission from the government to do something"
+      },
+      "means": {
+        "en": "Before 1991, many Indian firms needed licences from the government to make or expand goods."
+      },
+      "lesson": 7,
+      "group": "concept"
+    },
+    {
+      "id": "public-sector",
+      "term": "public sector",
+      "plain": {
+        "en": "firms owned and run by the government"
+      },
+      "means": {
+        "en": "Railways and many banks in India are in the public sector."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "private-sector",
+      "term": "private firm",
+      "match": [
+        "private firms",
+        "private sector",
+        "private enterprise"
+      ],
+      "plain": {
+        "en": "a business owned by private people, not the government"
+      },
+      "means": {
+        "en": "Private firms work for profit and compete with each other."
+      },
+      "lesson": 8,
+      "group": "concept"
+    },
+    {
+      "id": "reforms",
+      "term": "reforms",
+      "match": [
+        "reform"
+      ],
+      "plain": {
+        "en": "big changes to rules to make things work better"
+      },
+      "means": {
+        "en": "In 1991, India made major economic reforms: fewer rules, more private enterprise and more trade with other countries."
+      },
+      "lesson": 8,
+      "group": "concept"
+    }
+  ]
+}

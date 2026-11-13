@@ -1,0 +1,45 @@
+{
+  "id": "q-l04-s06",
+  "type": "assertion-reason@1",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "assertion": {
+    "en": "A bakery that spends all its time on baking and none on marketing and sales may still find it hard to sell its goods."
+  },
+  "reason": {
+    "en": "The marketing and sales team brings in customers and persuades them to buy the products."
+  },
+  "correctOptionId": "a",
+  "optionFeedback": {
+    "b": {
+      "en": "Both are true, and the Reason explains the Assertion: without marketing and sales, fewer people hear about the bakery and buy."
+    },
+    "c": {
+      "en": "The Reason is true: bringing in customers and persuading them to buy is the work of marketing and sales."
+    },
+    "d": {
+      "en": "The Assertion is true: good bread does not sell if few people know the bakery is there."
+    }
+  },
+  "explanation": {
+    "en": "Both are true, and the Reason explains the Assertion. Marketing and sales brings customers in, so a bakery that skips it may bake well and still sell little."
+  },
+  "hints": [
+    {
+      "en": "Think of who tells people about the new mango cake."
+    }
+  ],
+  "tags": [
+    "functional-areas",
+    "interdependence",
+    "operations",
+    "marketing",
+    "assertion-reason"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

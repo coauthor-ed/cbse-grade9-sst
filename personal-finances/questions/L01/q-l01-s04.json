@@ -1,0 +1,30 @@
+{
+  "id": "q-l01-s04",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Meera saved whatever was left at the end of each month. Her leftovers for six months were ₹200, ₹0, ₹150, ₹300, ₹100 and ₹250. How much had she saved in all by the end of the sixth month, in rupees?"
+  },
+  "expectedValue": 1000,
+  "tolerance": 0,
+  "unit": "rupees",
+  "explanation": {
+    "en": "The six leftovers add to ₹1,000. The bicycle costs ₹3,000, so Meera is ₹2,000 short even though she saved something in five of the six months. A plan that saves a fixed ₹500 first would have reached ₹3,000 on time."
+  },
+  "hints": [
+    {
+      "en": "Add the six amounts, and remember that the ₹0 month adds nothing."
+    }
+  ],
+  "tags": [
+    "saving",
+    "budget"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

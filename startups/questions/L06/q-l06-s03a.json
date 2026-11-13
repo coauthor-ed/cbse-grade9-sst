@@ -1,0 +1,61 @@
+{
+  "id": "q-l06-s03a",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "What did the Chettiars do with their profits?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "Kept all of them locked at home, away from the risks of trade"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "Put them back into trade, temples, education and welfare"
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "Spent them all on buying land in Burma and in Malaysia"
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "Gave all of them to formal banks to look after for them"
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-2",
+  "explanation": {
+    "en": "The Chettiars reinvested their profits into trade, temples, education and community welfare. Money put back into trade could earn more, and the rest helped their community."
+  },
+  "hints": [
+    {
+      "en": "The word to remember is reinvested."
+    }
+  ],
+  "tags": [
+    "traditional-communities",
+    "chettiar",
+    "ethics",
+    "banking",
+    "trade"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

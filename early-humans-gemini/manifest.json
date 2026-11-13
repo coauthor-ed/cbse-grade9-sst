@@ -26,6 +26,62 @@
   ],
   "tests": [],
   "generatedAt": "2026-09-02T03:14:23.725Z",
+  "blurb": {
+    "en": "From stone tools to the first villages, cities and writing, with the evidence for each."
+  },
+  "highlights": [
+    {
+      "en": "Read what the ground and old bones can and cannot tell us"
+    },
+    {
+      "en": "Visit a village from 9,000 years ago"
+    },
+    {
+      "en": "Find out why the oldest writing on Earth is a receipt"
+    },
+    {
+      "en": "Compare early civilisations and ask who did the work"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "showcase/shot-1.jpg",
+      "caption": {
+        "en": "What the ground can tell us, and what it cannot"
+      }
+    },
+    {
+      "src": "showcase/shot-2.jpg",
+      "caption": {
+        "en": "About 12,000 years ago the climate warmed"
+      }
+    },
+    {
+      "src": "showcase/shot-3.jpg",
+      "caption": {
+        "en": "Two crops in one field at Kalibangan"
+      }
+    },
+    {
+      "src": "showcase/shot-4.jpg",
+      "caption": {
+        "en": "Who did the work in ancient Egypt?"
+      }
+    },
+    {
+      "src": "showcase/shot-5.jpg",
+      "caption": {
+        "en": "Two written laws, 1,500 years apart"
+      }
+    }
+  ],
+  "screencast": {
+    "src": "showcase/clip.webm",
+    "poster": "showcase/clip-poster.jpg"
+  },
+  "cover": "showcase/cover.jpg",
+  "estHours": 5,
+  "sizeMB": 76,
   "schemaVersion": 1,
   "audience": "school",
   "board": "CBSE",
@@ -41,10 +97,82 @@
   },
   "license": "CC-BY-4.0",
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-13",
   "features": {
     "story": false,
     "games": true,
     "practice": true
+  },
+  "digest": {
+    "v": 1,
+    "modules": [
+      {
+        "id": "early-humans",
+        "title": "Early Humans and Beginning of Civilisation",
+        "lessons": [
+          {
+            "ref": "lessons/les-01.json",
+            "title": "What the Ground Can Tell Us"
+          },
+          {
+            "ref": "lessons/les-02.json",
+            "title": "Four Skulls in One Drawer"
+          },
+          {
+            "ref": "lessons/les-03.json",
+            "title": "Backwards Progress"
+          },
+          {
+            "ref": "lessons/les-04.json",
+            "title": "The Tool That Was Only a Part"
+          },
+          {
+            "ref": "lessons/les-05.json",
+            "title": "Six Bowls, Several Beginnings"
+          },
+          {
+            "ref": "lessons/les-06.json",
+            "title": "A Village From 9,000 Years Ago"
+          },
+          {
+            "ref": "lessons/les-07.json",
+            "title": "The Missing Run-Up"
+          },
+          {
+            "ref": "lessons/les-08.json",
+            "title": "The Worst Possible Place"
+          },
+          {
+            "ref": "lessons/les-09.json",
+            "title": "The Oldest Writing on Earth Is a Receipt"
+          },
+          {
+            "ref": "lessons/les-10.json",
+            "title": "Egypt's Lost Script"
+          },
+          {
+            "ref": "lessons/les-11.json",
+            "title": "Everything But the Heart"
+          },
+          {
+            "ref": "lessons/les-12.json",
+            "title": "The Bones That Only Asked Questions"
+          },
+          {
+            "ref": "lessons/les-13.json",
+            "title": "Who Built the Great Wall?"
+          },
+          {
+            "ref": "lessons/les-14.json",
+            "title": "Copied, or Separate?"
+          }
+        ]
+      }
+    ],
+    "lessonCount": 14,
+    "narrated": false,
+    "chapterIds": [
+      "iest1-ch4"
+    ]
   }
 }

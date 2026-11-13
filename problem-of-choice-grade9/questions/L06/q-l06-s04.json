@@ -1,0 +1,29 @@
+{
+  "id": "q-l06-s04",
+  "type": "numeric-value@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Next year the tailors' wage is ₹350 a day. Masterji can fill his order with 4 tailors, or with the power sewing line at ₹1,200 a day, operator included. By how many rupees a day is the cheaper way cheaper?"
+  },
+  "expectedValue": 200,
+  "tolerance": 0.1,
+  "unit": "₹",
+  "explanation": {
+    "en": "Tailors: 4 × ₹350 = ₹1,400 a day. Sewing line: ₹1,200 a day. The sewing line is cheaper by ₹1,400 − ₹1,200 = ₹200 a day. The wage is above ₹300, so the machine wins."
+  },
+  "hints": [
+    {
+      "en": "Work out both daily costs first. Then subtract the smaller one from the larger one."
+    }
+  ],
+  "tags": [
+    "labour-vs-capital",
+    "cost-comparison"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.379Z"
+  }
+}

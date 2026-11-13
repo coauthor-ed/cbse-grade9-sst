@@ -1,0 +1,59 @@
+{
+  "id": "q-l01-s02",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "A retired teacher lets out a spare room to a student, and she keeps ₹40,000 in a bank. What does she receive from the room, and what does she receive from the bank?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "A salary from the room, and a dividend from the deposit."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A business profit from the room, and rent from the deposit."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Rent from the room, and a dividend from the deposit."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Rent from the room, and interest from the deposit."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "Rent is paid for the use of property, and interest is paid for the use of money. A salary is paid for work, and a dividend is a share of a company's profit, so neither of those fits a room or a bank deposit."
+  },
+  "hints": [
+    {
+      "en": "Ask what the payer is buying: the use of a room, or the use of money."
+    }
+  ],
+  "tags": [
+    "income",
+    "rent",
+    "interest"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "q-l01-s01",
+  "type": "mcq-single@2",
+  "difficulty": "easy",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Srivalli buys 1 kg of mangoes when the price is ₹150 per kg. The price falls to ₹50 per kg and she buys 3 kg. Which sentence describes this best?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "Her demand rose, so her whole demand curve moved to the right."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The price fell, so she moved along her demand curve and bought more."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Her purchasing power fell, so she had to buy a larger amount."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "She decided to buy more first, and that made the price fall."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "Only the price changed, so Srivalli moved along her own demand curve, from A to C. The whole curve moves only when something other than the price changes; the next lesson shows how. Her purchasing power did not fall: at a lower price, her money buys more."
+  },
+  "hints": [
+    {
+      "en": "What changed first: the price, or something about Srivalli?"
+    }
+  ],
+  "tags": [
+    "law-of-demand"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:47.993Z",
+    "reviewedBy": "review-bar"
+  }
+}

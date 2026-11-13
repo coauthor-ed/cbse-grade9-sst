@@ -1,0 +1,34 @@
+{
+  "id": "q-l03-s03",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Bhavisha paid ₹1,000 at the end of every year for 40 years, so she put in ₹40,000 of her own money, and at 65 the account held ₹1,99,635. How much of that ₹1,99,635 was added by the scheme rather than paid in by her?"
+  },
+  "expectedValue": 159635,
+  "tolerance": 1,
+  "unit": "₹",
+  "explanation": {
+    "en": "₹1,59,635. Take what she paid in away from what the account holds: ₹1,99,635 − ₹40,000 = ₹1,59,635. Four times her own deposits came from the scheme, and most of that arrived in the last years, because each year's 7% acts on a balance that has been growing since she was 25."
+  },
+  "hints": [
+    {
+      "en": "The account holds her deposits plus what the scheme added. You know both the total and the deposits."
+    },
+    {
+      "en": "Subtract ₹40,000 from ₹1,99,635."
+    }
+  ],
+  "tags": [
+    "compounding",
+    "principal",
+    "interest-earned"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

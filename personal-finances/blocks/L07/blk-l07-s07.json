@@ -1,0 +1,15 @@
+{
+  "id": "blk-l07-s07",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L07/blk-l07-s07.md",
+  "simulation": {
+    "src": "simulations/L07/FivePillarsScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

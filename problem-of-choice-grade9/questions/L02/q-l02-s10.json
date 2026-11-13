@@ -1,0 +1,129 @@
+{
+  "id": "q-l02-s10",
+  "type": "semantic-descriptive@1",
+  "mode": "coach",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "prompt": {
+    "en": "How does understanding opportunity cost improve the quality of economic decision-making? Illustrate with an example of a decision by a person, a company or a government. (3 marks)"
+  },
+  "rubric": [
+    {
+      "id": "compares-alternatives",
+      "label": {
+        "en": "Explains that it forces decision-makers to weigh alternatives deliberately instead of choosing blindly"
+      },
+      "level1": {
+        "en": "Before picking one option, what should a careful chooser line up next to it?"
+      },
+      "clue": {
+        "en": "When you name the option you give up, you compare at least two options before you choose."
+      },
+      "level2Template": {
+        "en": "It makes the decision-maker compare the chosen option explicitly with ___ before committing resources."
+      },
+      "accepted": [
+        "the alternatives available",
+        "other options",
+        "the next-best alternative"
+      ]
+    },
+    {
+      "id": "reveals-hidden-cost",
+      "label": {
+        "en": "Notes that it surfaces the invisible cost — what is forgone — rather than only the money paid"
+      },
+      "level1": {
+        "en": "Meera paid ₹500 either way, yet she still gave something up. What did the money not show?"
+      },
+      "clue": {
+        "en": "The price is easy to see; the option given up is not. Seeing both helps you choose well."
+      },
+      "level2Template": {
+        "en": "It also exposes the ___ cost of every choice, namely the benefit forgone from the best alternative."
+      },
+      "accepted": [
+        "hidden",
+        "invisible",
+        "real"
+      ]
+    },
+    {
+      "id": "better-allocation-example",
+      "label": {
+        "en": "Gives a concrete example of wiser allocation — by a person (spending vs saving time/money), an enterprise (which product to fund) or a government (which project to build)"
+      },
+      "level1": {
+        "en": "Name one decision you know — pocket money, a factory budget, a government project — and show what comparing the forgone option would change."
+      },
+      "clue": {
+        "en": "A farmer weighing barley against wheat, a family weighing a gadget against savings, a state weighing highways against hospitals — all decide better once they think about the option given up."
+      },
+      "level2Template": {
+        "en": "For example, the ___ that thinks about the value of the option given up allocates money, time and land more wisely."
+      },
+      "accepted": [
+        "farmer",
+        "family",
+        "government",
+        "company",
+        "enterprise"
+      ]
+    }
+  ],
+  "level3": [
+    {
+      "eyebrow": {
+        "en": "Introduction"
+      },
+      "text": {
+        "en": "An understanding of opportunity cost improves the quality of economic decisions in several ways."
+      },
+      "rubricId": null
+    },
+    {
+      "eyebrow": {
+        "en": "Comparison of alternatives"
+      },
+      "text": {
+        "en": "It makes the decision-maker compare the chosen option explicitly with ___ before committing resources."
+      },
+      "rubricId": "compares-alternatives"
+    },
+    {
+      "eyebrow": {
+        "en": "Revelation of hidden cost"
+      },
+      "text": {
+        "en": "It also exposes the ___ cost of every choice, namely the benefit forgone from the best alternative."
+      },
+      "rubricId": "reveals-hidden-cost"
+    },
+    {
+      "eyebrow": {
+        "en": "Example of better allocation"
+      },
+      "text": {
+        "en": "For example, the ___ that thinks about the value of the option given up allocates money, time and land more wisely."
+      },
+      "rubricId": "better-allocation-example"
+    }
+  ],
+  "thresholds": {
+    "high": 0.6,
+    "low": 0.4,
+    "blank": 0.78
+  },
+  "tags": [
+    "opportunity-cost",
+    "decision-making",
+    "review",
+    "3-marks",
+    "coach"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.368Z"
+  }
+}

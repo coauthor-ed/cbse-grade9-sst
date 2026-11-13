@@ -1,0 +1,19 @@
+{
+  "id": "blk-l07-s02",
+  "type": "content-block@1",
+  "poeRole": "explain",
+  "markdown": {
+    "en": "# Market Economy\n\n<!-- STEP id=\"market\" -->\nNo official set the new price. Buyers and sellers did, through **demand and supply**. Demand is how much buyers want to buy. Supply is how much sellers have to sell. Firms make what buyers want because they can earn a profit. In a **market economy**, individuals and private companies own most factories, shops and land. Demand and supply mostly decide what to produce, how to produce it, and how much.\n\n<!-- STEP id=\"referee\" -->\nThe government acts like a referee in a football match. A referee does not score goals, but makes sure everyone follows the rules. The government ensures safety and law and order. It does not control prices or production.\n\n**In a market economy, demand and supply set prices, not the government.**"
+  },
+  "simulation": {
+    "src": "simulations/L07/MarketStreetScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.380Z"
+  }
+}

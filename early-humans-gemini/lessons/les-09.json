@@ -4,6 +4,10 @@
   "title": {
     "en": "The Oldest Writing on Earth Is a Receipt"
   },
+  "chapterId": "iest1-ch4",
+  "topicIds": [
+    "ancient-writing-systems"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L09/blk-l09-s01.json"

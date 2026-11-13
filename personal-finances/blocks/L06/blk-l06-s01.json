@@ -1,0 +1,31 @@
+{
+  "id": "blk-l06-s01",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L06/blk-l06-s01.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "Only the families who fell ill. The others paid ₹6,000 each and got nothing."
+    },
+    {
+      "id": "b",
+      "text": "Nobody. The company keeps all the money and pays bills from its own profit."
+    },
+    {
+      "id": "c",
+      "text": "Every family, because each one was protected, even if it never needed to claim."
+    },
+    {
+      "id": "d",
+      "text": "Nobody, because this kind of fund always runs out in the end."
+    }
+  ],
+  "correctOptionId": "c",
+  "deferVerdict": true,
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

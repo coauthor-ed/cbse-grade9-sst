@@ -5,6 +5,10 @@
   "title": {
     "en": "The Tool That Was Only a Part"
   },
+  "chapterId": "iest1-ch4",
+  "topicIds": [
+    "tool-development"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L04/blk-l04-s01.json"

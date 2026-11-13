@@ -1,0 +1,67 @@
+{
+  "id": "q-l05-s05a",
+  "type": "sequence-order@1",
+  "difficulty": "medium",
+  "bloomLevel": "understand",
+  "stem": {
+    "en": "Put these lines of ABC Bakery's profit and loss account for March in the order the account shows them."
+  },
+  "items": [
+    {
+      "id": "step-rev",
+      "text": {
+        "en": "Total income: ₹2,95,000"
+      }
+    },
+    {
+      "id": "step-exp",
+      "text": {
+        "en": "Total expenses taken away: ₹2,22,000"
+      }
+    },
+    {
+      "id": "step-pbt",
+      "text": {
+        "en": "Profit before tax: ₹73,000"
+      }
+    },
+    {
+      "id": "step-tax",
+      "text": {
+        "en": "Tax to be paid taken away: ₹13,000"
+      }
+    },
+    {
+      "id": "step-pat",
+      "text": {
+        "en": "Profit after tax: ₹60,000"
+      }
+    }
+  ],
+  "correctOrder": [
+    "step-rev",
+    "step-exp",
+    "step-pbt",
+    "step-tax",
+    "step-pat"
+  ],
+  "explanation": {
+    "en": "The account starts with the income, ₹2,95,000, and takes away the expenses, ₹2,22,000, to give the profit before tax, ₹73,000. Then it takes away the tax, ₹13,000, to give the profit after tax, ₹60,000."
+  },
+  "hints": [
+    {
+      "en": "Profit before tax comes from income and expenses. Tax comes after it."
+    }
+  ],
+  "tags": [
+    "profit-and-loss",
+    "profit-before-tax",
+    "profit-after-tax"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

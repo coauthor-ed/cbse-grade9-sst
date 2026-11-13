@@ -5,6 +5,10 @@
   "title": {
     "en": "Why do elections have to happen again?"
   },
+  "chapterId": "iest1-ch7",
+  "topicIds": [
+    "elections-importance"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L01/blk-l01-s01.json"

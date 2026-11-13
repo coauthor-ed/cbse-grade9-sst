@@ -1,0 +1,61 @@
+{
+  "id": "q-l03-s07",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "ABC Bakery bakes 100 cream buns one morning. Each costs ₹30 to make and sells for ₹60. It rains all day, only 40 buns are sold, and the other 60 spoil and are thrown away. What is the result for the day?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "A profit of ₹1,200, from the 40 buns that were sold."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "No profit and no loss, as the sales cover the costs."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "A loss of ₹600, as ₹2,400 came in and ₹3,000 went out."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "A loss of ₹3,000, as the spoiled buns cancel every sale."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-3",
+  "explanation": {
+    "en": "The bakery spent 100 × ₹30 = ₹3,000 in the morning. It collected 40 × ₹60 = ₹2,400. So it made a loss of ₹600, because of the spoiled buns."
+  },
+  "hints": [
+    {
+      "en": "First find what all 100 buns cost to make, then what the 40 sold buns brought in."
+    }
+  ],
+  "tags": [
+    "business-plan",
+    "inventory",
+    "perishable",
+    "risk",
+    "profit-and-loss"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

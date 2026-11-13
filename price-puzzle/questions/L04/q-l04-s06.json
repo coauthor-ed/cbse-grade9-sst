@@ -1,0 +1,58 @@
+{
+  "id": "q-l04-s06",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Potato wholesalers have potatoes in their cold stores. They expect the price of potatoes to rise in the peak season. What is likely to happen to the supply of potatoes today?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "It rises, because they sell everything now before the price goes up."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "It falls, because they hold some potatoes back to sell later at a higher price."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "It stays the same, because the price of potatoes today has not changed."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "It falls, because farmers stop growing potatoes."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "If wholesalers expect a higher price later, it pays them to wait. They hold some stock back, so fewer potatoes are offered today, even though today's price has not changed. Nothing in the story says farmers stop growing potatoes."
+  },
+  "hints": [
+    {
+      "en": "If you expected to get more money for something next month, would you sell all of it today?"
+    }
+  ],
+  "tags": [
+    "expectations",
+    "determinants-of-supply"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "reviewedAt": "2026-11-11T00:00:00.000Z",
+    "flags": []
+  }
+}

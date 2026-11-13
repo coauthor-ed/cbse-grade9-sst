@@ -1,0 +1,62 @@
+{
+  "id": "startups",
+  "moduleId": "startups",
+  "type": "module",
+  "authorId": "startups",
+  "title": {
+    "en": "From Ideas to Startups"
+  },
+  "curriculumAlignment": "core",
+  "chapterId": "kebs1-ch9",
+  "pedagogicalProfile": {
+    "themeTags": [
+      "entrepreneurship-and-profit",
+      "opportunity-and-risk",
+      "business-planning",
+      "functional-areas-of-business",
+      "profit-and-loss-accounting",
+      "fixed-and-variable-costs",
+      "business-ethics-and-trust",
+      "indian-trading-heritage",
+      "startup-ecosystem-and-viksit-bharat"
+    ]
+  },
+  "lessons": [
+    {
+      "lessonRef": "lessons/les-01.json",
+      "title": {
+        "en": "Is a good recipe enough?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-02.json",
+      "title": {
+        "en": "Something from almost nothing"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-03.json",
+      "title": {
+        "en": "A road map before opening day"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-04.json",
+      "title": {
+        "en": "Four pillars"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-05.json",
+      "title": {
+        "en": "Is the bakery making money?"
+      }
+    },
+    {
+      "lessonRef": "lessons/les-06.json",
+      "title": {
+        "en": "Old roots, new startups"
+      }
+    }
+  ]
+}

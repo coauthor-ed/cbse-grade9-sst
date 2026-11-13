@@ -1,0 +1,34 @@
+{
+  "id": "q-l01-s03",
+  "type": "numeric-value@1",
+  "difficulty": "easy",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "A school club spends ₹450 on bread, butter and chutney to make 50 sandwiches. At lunch it sells all 50 sandwiches at ₹12 each. How much profit, in rupees, did the club make?"
+  },
+  "expectedValue": 150,
+  "tolerance": 0,
+  "unit": "₹",
+  "explanation": {
+    "en": "Money collected = 50 × ₹12 = ₹600. Costs = ₹450. Profit = ₹600 - ₹450 = ₹150."
+  },
+  "hints": [
+    {
+      "en": "First find the money collected: 50 sandwiches at ₹12 each."
+    },
+    {
+      "en": "Then take away the ₹450 spent on the sandwiches."
+    }
+  ],
+  "tags": [
+    "profit",
+    "costs",
+    "revenue"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

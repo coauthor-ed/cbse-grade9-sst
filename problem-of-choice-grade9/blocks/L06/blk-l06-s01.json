@@ -1,0 +1,18 @@
+{
+  "id": "blk-l06-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Masterji's Order\n\n<!-- STEP id=\"routes\" -->\nA made-up example. Masterji's workshop gets an order for 40 school uniforms. He can stitch them in two ways, and both take the same number of days. He can employ 4 tailors at ₹250 a day each, which costs ₹1,000 a day. Or he can rent a power sewing line, with its operator, for ₹1,200 a day.\n\n**Today the tailors cost less, so Masterji chooses more workers.**"
+  },
+  "simulation": {
+    "src": "simulations/L06/WorkshopScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.379Z"
+  }
+}

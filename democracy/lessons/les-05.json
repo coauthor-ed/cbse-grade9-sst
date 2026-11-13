@@ -5,6 +5,10 @@
   "title": {
     "en": "One word, many governments"
   },
+  "chapterId": "iest1-ch6",
+  "topicIds": [
+    "forms-of-democracy-in-india"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L05/blk-l05-s01.json"

@@ -1,0 +1,16 @@
+{
+  "id": "blk-l03-s02",
+  "type": "content-block@1",
+  "poeRole": "observe",
+  "markdownRef": "blocks/L03/blk-l03-s02.md",
+  "simulation": {
+    "src": "simulations/L03/CousinsRaceScene.js",
+    "position": "right"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

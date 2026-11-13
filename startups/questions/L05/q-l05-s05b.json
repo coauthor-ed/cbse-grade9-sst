@@ -1,0 +1,69 @@
+{
+  "id": "q-l05-s05b",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "analyze",
+  "stem": {
+    "en": "ABC Bakery takes a loan to buy a second oven. Its sales and its other expenses stay the same. What happens to its profit before tax?"
+  },
+  "options": [
+    {
+      "id": "opt-1",
+      "text": {
+        "en": "It falls, because interest on the loan is an expense."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "opt-2",
+      "text": {
+        "en": "It rises, because the money from the loan counts as revenue."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-3",
+      "text": {
+        "en": "It stays the same, because a loan is not part of the account."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "opt-4",
+      "text": {
+        "en": "It rises, because the new oven is a cost that changes with sales."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "opt-1",
+  "explanation": {
+    "en": "Interest on a loan is one of the expenses. When expenses go up and revenue stays the same, the profit before tax falls. Borrowed money is not earned from sales, so it is not revenue."
+  },
+  "explanationSlide": {
+    "presentation": "inline",
+    "blocks": [
+      {
+        "blockRef": "explanations/L05/exp-q-l05-s05b.json"
+      }
+    ]
+  },
+  "hints": [
+    {
+      "en": "Which new cost does a loan bring every month?"
+    }
+  ],
+  "tags": [
+    "investment",
+    "financing",
+    "loans",
+    "interest",
+    "trade-offs"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

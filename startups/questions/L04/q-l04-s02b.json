@@ -1,0 +1,82 @@
+{
+  "id": "q-l04-s02b",
+  "type": "match-categorize@1",
+  "difficulty": "medium",
+  "bloomLevel": "apply",
+  "stem": {
+    "en": "Match each job at ABC Bakery to the functional area it belongs to."
+  },
+  "categories": [
+    {
+      "id": "cat-ops",
+      "label": {
+        "en": "Management and operations"
+      }
+    },
+    {
+      "id": "cat-fin",
+      "label": {
+        "en": "Finance and accounting"
+      }
+    },
+    {
+      "id": "cat-hr",
+      "label": {
+        "en": "Human resources"
+      }
+    },
+    {
+      "id": "cat-mkt",
+      "label": {
+        "en": "Marketing and sales"
+      }
+    }
+  ],
+  "chips": [
+    {
+      "id": "chip-1",
+      "text": {
+        "en": "Plan how much bread to bake each day"
+      },
+      "correctCategoryId": "cat-ops"
+    },
+    {
+      "id": "chip-2",
+      "text": {
+        "en": "Make a budget for the coming month"
+      },
+      "correctCategoryId": "cat-fin"
+    },
+    {
+      "id": "chip-3",
+      "text": {
+        "en": "Settle a quarrel between two helpers"
+      },
+      "correctCategoryId": "cat-hr"
+    },
+    {
+      "id": "chip-4",
+      "text": {
+        "en": "Offer a discount during the festival"
+      },
+      "correctCategoryId": "cat-mkt"
+    }
+  ],
+  "explanation": {
+    "en": "Planning daily production is operations, a budget is finance, settling quarrels at work is human resources, and discounts are marketing and sales."
+  },
+  "hints": [
+    {
+      "en": "Ask what each job is about: the baking, the money, the people or the customers."
+    }
+  ],
+  "tags": [
+    "functional-areas"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

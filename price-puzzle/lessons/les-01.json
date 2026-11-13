@@ -1,0 +1,52 @@
+{
+  "id": "les-01",
+  "lessonId": "les-01",
+  "type": "lesson",
+  "title": {
+    "en": "Demand: one buyer, one curve"
+  },
+  "chapterId": "iest1-ch9",
+  "topicIds": [
+    "demand-curve",
+    "individual-demand"
+  ],
+  "blocks": [
+    {
+      "blockRef": "blocks/L01/blk-l01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s02.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s03.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s01.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s04.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s02.json"
+    },
+    {
+      "blockRef": "questions/L01/q-l01-s03.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s05.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s06.json"
+    },
+    {
+      "blockRef": "blocks/L01/blk-l01-s07.json"
+    }
+  ],
+  "flow": {},
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:47.993Z",
+    "reviewedBy": "review-bar"
+  }
+}

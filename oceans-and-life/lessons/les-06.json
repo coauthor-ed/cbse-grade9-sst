@@ -5,6 +5,11 @@
   "title": {
     "en": "How does a tsunami warning reach people in time?"
   },
+  "chapterId": "kegy1-ch6",
+  "topicIds": [
+    "earthquakes-and-tsunamis",
+    "natural-disaster-mitigation"
+  ],
   "blocks": [
     {
       "blockRef": "blocks/L06/blk-l06-s01.json"

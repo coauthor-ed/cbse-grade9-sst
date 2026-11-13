@@ -1,0 +1,32 @@
+{
+  "id": "blk-l03-s02",
+  "type": "poe-predict@1",
+  "promptRef": "blocks/L03/blk-l03-s02.md",
+  "options": [
+    {
+      "id": "a",
+      "text": "He offers more, because each kilogram now earns him more money."
+    },
+    {
+      "id": "b",
+      "text": "He offers less, because buyers buy less when the price is higher."
+    },
+    {
+      "id": "c",
+      "text": "He offers the same amount, because his trees give the same crop whatever the price."
+    }
+  ],
+  "correctOptionId": "a",
+  "deferVerdict": true,
+  "simulation": {
+    "src": "simulations/L03/SupplyCurveScene.js",
+    "position": "right",
+    "role": "setup"
+  },
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-10-21T17:52:56.369Z",
+    "reviewedBy": "review-bar"
+  }
+}

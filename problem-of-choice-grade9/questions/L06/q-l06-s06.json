@@ -1,0 +1,58 @@
+{
+  "id": "q-l06-s06",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A tailor's shop stitches bridal lehengas by hand. Each lehenga is made to the customer's own design. Sewing machines are affordable, and tailors' wages in the city are high. Which reason best explains why the shop still uses skilled hands?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The owner has never heard of sewing machines."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "Each lehenga is a new design that needs skilled hands."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Laws stop small workshops from using any machines."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Hand stitching costs less than machines for every product."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "b",
+  "explanation": {
+    "en": "The product decides here. Custom or designer clothes need skilled workers, while thousands of identical clothes suit machines (b). Nothing says the owner does not know about machines (a), and no law stops small workshops from using them (c). Hand stitching is not cheaper for every product (d): here wages are high, yet customers pay for skilled work."
+  },
+  "hints": [
+    {
+      "en": "Look at what is special about the product itself."
+    }
+  ],
+  "tags": [
+    "how-to-produce",
+    "labour-intensive",
+    "product-nature"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.380Z"
+  }
+}

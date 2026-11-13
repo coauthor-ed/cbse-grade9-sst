@@ -1,0 +1,18 @@
+{
+  "id": "blk-l01-s01",
+  "type": "content-block@1",
+  "markdown": {
+    "en": "# Five Books, Twenty Readers\n\n<!-- STEP id=\"setup\" -->\nThe school library gets 5 copies of a new storybook. 20 students, Meera among them, want to read it.\n\n<!-- STEP id=\"rules\" -->\nWho reads first? The library could go by first come, hold a lottery, let students share by turns, or buy more copies. Each rule changes who reads first.\n\n<!-- STEP id=\"scarcity\" -->\nWith 5 copies, only 5 students can read at one time, whatever the rule. Buying more copies lets more students read, but that money could buy something else.\n\n**When wants are more than the things that can meet them, we call it scarcity. Scarcity forces us to choose.**"
+  },
+  "simulation": {
+    "src": "simulations/L01/LibraryScene.js",
+    "position": "right",
+    "fullWidth": true
+  },
+  "mediaStep": 0,
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.354Z"
+  }
+}

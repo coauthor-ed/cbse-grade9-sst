@@ -1,0 +1,63 @@
+{
+  "id": "q-l04-s05",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "Over twenty years the SENSEX ended far above where it began, yet a careful family keeps the money for next year's school fees in a fixed deposit. Which reason fits?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The fee is due on a known date, and the fixed deposit returns the money with interest on that date whatever the market does."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "A fixed deposit pays a higher rate than shares over twenty years, so it earns more in the end."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "A fixed deposit can be sold to another person at any time for a profit, which shares do not allow."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Shares cannot be sold within a year, so the family would have no way to reach the money in time."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "a",
+  "explanation": {
+    "en": "The twenty-year rise matters only to a saver who can wait. A fee due next year has a fixed date, and a share price on that date may be lower than today's. A fixed deposit fixes the rate and the date, so the money is there when it is needed. Shares can be sold on any trading day, and over twenty years they have earned more than a fixed deposit, not less."
+  },
+  "hints": [
+    {
+      "en": "Compare the two things the family knows: the date it needs the money, and the date the investment pays out."
+    },
+    {
+      "en": "Which of the two options lets the family know the amount in advance?"
+    }
+  ],
+  "tags": [
+    "fixed-deposit",
+    "shares",
+    "time-horizon",
+    "risk"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

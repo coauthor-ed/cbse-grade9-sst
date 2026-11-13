@@ -1,0 +1,58 @@
+{
+  "id": "q-l05-s05",
+  "type": "mcq-single@2",
+  "difficulty": "hard",
+  "bloomLevel": "evaluate",
+  "stem": {
+    "en": "A dry district switches half its sugarcane fields to millets. What is the opportunity cost of this switch?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The water it saves, which stays under the ground for later."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The money it spends on millet seeds."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "The sugarcane it no longer grows, and the sugar mill's supply."
+      },
+      "isCorrect": true
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "Nothing at all, because millets need very little water to grow."
+      },
+      "isCorrect": false
+    }
+  ],
+  "correctOptionId": "c",
+  "explanation": {
+    "en": "Opportunity cost is the next-best thing given up. By growing millets on that land, the district gives up the sugarcane it would have grown there and the supply to the sugar mill (c). Saved water is a gain, not a cost (a). Seeds must be bought for any crop, so they are not what this switch gives up (b). Needing little water is a reason to switch, not a sign that nothing is given up (d)."
+  },
+  "hints": [
+    {
+      "en": "Sort what the switch gains from what it gives up. Only what it gives up can be the opportunity cost."
+    }
+  ],
+  "tags": [
+    "opportunity-cost",
+    "what-to-produce",
+    "sustainability"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "flags": [],
+    "reviewedAt": "2026-08-25T21:18:38.377Z"
+  }
+}

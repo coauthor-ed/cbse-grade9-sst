@@ -1,0 +1,62 @@
+{
+  "id": "q-l04-s01",
+  "type": "mcq-single@2",
+  "difficulty": "medium",
+  "bloomLevel": "analyse",
+  "stem": {
+    "en": "The SENSEX line for 1998-2026 ends many times higher than it began. Yet a saver who bought shares in 2007 and sold them a year later, in 2008 got back less money than he put in. What does this show about shares?"
+  },
+  "options": [
+    {
+      "id": "a",
+      "text": {
+        "en": "The index follows only thirty large companies, so money in smaller companies would not have fallen in that year."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "b",
+      "text": {
+        "en": "The saver chose badly, because any other company would certainly have risen over that single year."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "c",
+      "text": {
+        "en": "Shares are a poor home for money over twenty years too, because one bad year erases the whole rise."
+      },
+      "isCorrect": false
+    },
+    {
+      "id": "d",
+      "text": {
+        "en": "A rise over the long run does not protect money that has to be taken out on a particular date."
+      },
+      "isCorrect": true
+    }
+  ],
+  "correctOptionId": "d",
+  "explanation": {
+    "en": "The long-run rise describes what happened to someone who could wait out the dips. A saver who sells inside a dip gets the price of that day, so a rise over twenty-eight years says nothing about the price next year. The thirty-company point is also wrong: when the market falls, shares across the market usually fall together."
+  },
+  "hints": [
+    {
+      "en": "Separate the two claims: what the line does over twenty-eight years, and what it does in the particular year the money is needed."
+    },
+    {
+      "en": "The saver did not sell at a good time. Does the chart promise any date on which a sale will be profitable?"
+    }
+  ],
+  "tags": [
+    "shares",
+    "time-horizon",
+    "sensex"
+  ],
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  }
+}

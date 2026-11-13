@@ -1,0 +1,15 @@
+{
+  "id": "blk-l02-s04",
+  "type": "content-block@1",
+  "markdownRef": "blocks/L02/blk-l02-s04.md",
+  "authoring": {
+    "status": "human-approved",
+    "reviewedBy": "owner (auto-approve)",
+    "flags": [],
+    "reviewedAt": "2026-11-11"
+  },
+  "simulation": {
+    "src": "simulations/L02/LijjatMembersScene.js",
+    "position": "right"
+  }
+}
